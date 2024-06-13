@@ -1,0 +1,74 @@
+---
+title: Speech by SMS Tan Kiat How at SGTech Global Future Series Digital Trust Forum
+permalink: /media-centre/speeches/sms-kiat-how-at-sgtech-global-future-digital-trust-forum/
+date: 2022-10-28
+layout: post
+description: ""
+image: ""
+---
+<p style="text-align: justify;">Mr Wong Wai Meng, Chairman of SGTech,&nbsp;<br>
+<br>
+Ms Janet De Silva, Chair of the APEC Business Advisory Council (ABAC) Digital Workgroup,&nbsp;<br>
+<br>
+Mr David Wong, Chair of the Asian-Oceanian Computing Industry Organisation (ASOCIO),<br>
+<br>
+Distinguished guests,&nbsp;<br>
+<br>
+Ladies and gentlemen,<br>
+<br>
+1.<span style="white-space: pre;">		</span>It is my pleasure to be here at the “SGTech Global Future Series: Digital Trust Forum”. We are also here to launch the Digital Trust Centre of Excellence.&nbsp;<br>
+<br>
+2.<span style="white-space: pre;">		</span>More than 2,000 years ago, when asked by his students on the importance of governance, Confucius said that when the government does not have the trust of the people, it cannot stand. Trust is fundamental for systems to function.&nbsp;<br>
+<br>
+3.<span style="white-space: pre;">		</span>We have seen examples of “trust” in the Singapore system, through the many examples cited during the panel session, and through our own experiences over the last two and the half years due to the Covid-19 pandemic. Should we wear a mask when we go out? What do safe management measures mean? Can I trust the vaccinations that are available?&nbsp;<br>
+<br>
+4.<span style="white-space: pre;">		</span>Without trust, nothing functions and the system breaks down. Trust is existential, not just fundamental but existential for the functioning of systems and societies. If you extend it into the digital realm, it is going to be fundamental in order to seize opportunities in a global digital economy, and there are so many opportunities for us to transform lives, uplift societies, create new opportunities, create new business models, create new market products and services that benefits people. That is why digital trust is so important and critical.<br>
+<br>
+5.<span style="white-space: pre;">		</span>What does it mean? How do we go about building that trust? At the end of the day, it is about people. It is about our culture and beliefs. How do we build that trust, and especially in a digital world where we don’t see each other?&nbsp;<br>
+<br>
+6.<span style="white-space: pre;">		</span>Trust is also intangible. It is also very costly because once trust is broken, it is so difficult to restore it. Trust is priceless. How are we thinking about it in Singapore?</p>
+<p style="text-align: justify;">7.<span style="white-space: pre;">		</span>From a citizen’s viewpoint, a trusted digital ecosystem brings about tremendous confidence in they relate to one another and entities. I’d like to share some of my personal anecdotes. I used to run the Pioneer Generation Office, where we had volunteers called Pioneer Generation ambassadors to reach out to our seniors in Singapore. Many of our seniors in Singapore have gone through a lot of hardship. They may not be able to speak English, Mandarin, or vernacular languages fluently. When we reached out to them to talk about the Pioneer Generation Package that the government rolled out to thank them and to see how they can benefit from the package, oftentimes my volunteers will tell me stories of how seniors stuff money in biscuit cans and place them under their bed. For them to trust a bank, put their money there and withdraw their money through an ATM machine without a teller, that took a lot of convincing and for them to fundamentally trust that the system works.&nbsp;<br>
+<br>
+8.<span style="white-space: pre;">		</span>Now, the volunteers under the various digital inclusion programmes in Singapore have to persuade our seniors to move from using ATM machines to doing it over their mobile phones. Using the SGQR payment system takes a huge leap of faith for them. That is fundamental human behaviour about trust. Consumers need to be able to trust but once that trust is broken, it is very difficult to put it back together.<br>
+<br>
+9.<span style="white-space: pre;">		</span>It is important for businesses and all of you from various sectors to be able to trust that the other party goes through with a contract and services. That trust is important for a system to work. And between the government to the people, how do we trust that the institutions work in Singapore?&nbsp;<br>
+<br>
+10.<span style="white-space: pre;">		</span>It is a multi-faceted and multi-dimensional issue - especially so in a digital world with issues pertaining to cross border data flows, cybersecurity, and even challenges like climate change.&nbsp;<br>
+<br>
+11.<span style="white-space: pre;">		</span>Trust is a complex issue that we need to tackle and all the more in a digital world where we don’t see each other face to face.&nbsp;<br>
+<br>
+12.<span style="white-space: pre;">		</span>You hear the trends and technology. AI, quantum cloud computing, blockchain, digital ledger technologies and a much more decentralised ecosystem. What does it mean? In Singapore, we believe that these are trends that will happen and will actually pick up pace. The rate of change will only increase. The things that we see today, with how technology is disrupting many industries, upending many business models.&nbsp;<br>
+<br>
+13.<span style="white-space: pre;">		</span>But as the rate of change increases, my belief, and our belief is that the demand for trusted nodes that are accountable, responsible, with corporate governance, and trust, will increase. And when the dust settles, in the global digital ecosystem, there'll be a few nodes of trust - globally global trusted nodes in the global digital ecosystem.<br>
+<br>
+14.<span style="white-space: pre;">		</span>And that is where people want to be, and companies want to be, and where business models can be created because it is trusted. And Singapore wants to be one of these trusted nodes in a global digital ecosystem. We don't have all the answers. We don't know how fast the pace of change will take, but we know that we have to start, and we have started.<br>
+<br>
+15.<span style="white-space: pre;">		</span>Let me give you some examples of what we have started to do, as we look forward to having more collaborations with like-minded partners. There are three broad areas. First, establishing accountability and oversight. Second, ensuring security and reliability of additional infrastructure. And third, enabling inclusive and responsible use of technology.<br>
+<br>
+16.<span style="white-space: pre;">		</span>In the first area of engendering accountability and oversight in the digital space. We have started to put in place stronger safeguards to protect our citizens’ personal data as stipulated in the Personal Data Protection Act (PDPA). We amended the PDPA in 2020 to enhance organisational accountability in personal data protection whilst supporting the organisation’s use of data for innovation. This is a shift in how we think about personal data from not just about responsibility and prescription but a sense of accountability and for organisations to take the necessary steps to safeguard their customers’ data. So we’ve taken steps in updating our Personal Data Protection Act to focus more on organisations’ accountability.<br>
+<br>
+17.<span style="white-space: pre;">		</span>To support our companies in enhancing their data protection measures, the Personal Data Protection Commission (PDPC) launched the new Data Protection Essentials programme in April this year, so as to help our small and medium enterprises better protect consumer data and recover quickly from data breaches.<br>
+<br>
+18.<span style="white-space: pre;">		</span>Secondly, we have also made headway in improving the security and reliability of our digital infrastructure. Having launched the Cybersecurity Act in 2018 to regulate Critical Information Infrastructure (CII), we are now in the midst of reviewing the Act to cover more infrastructure and digital services beyond CIIs that play important roles in connectivity, computing and data storage. So we are updating the Cybersecurity Act, looking at how we can better protect and have a more trusted, reliable, digital infrastructure in Singapore not just for domestic use, but as an important hub for companies to serve their customers and clients in the region and beyond. The Infocomm Media Development Authority (IMDA) has also been working closely with our telecommunications providers to enhance the security and resilience of our networks, including to combat phishing scams.<br>
+<br>
+19.<span style="white-space: pre;">		</span>Thirdly, we are also developing frameworks to ensure the inclusive and responsible use of digital technologies. For example, the government intends to introduce new code(s) of practice which may include designated online communication services needing to establish appropriate systems, or processes to create a safer online environment. And the Online Safety (Miscellaneous Amendments) Bill will be debated in Parliament in November. And for emerging technologies, we have been partnering with industry to develop practical governance approaches. Some of you might have read MAS’ consultation papers a couple days ago, proposing regulatory means to reduce the risk of consumer harm for cryptocurrency trading and to support the development of stable coins as a credible medium of exchange in a digital asset ecosystem, part of the Payment Services Act. So these are examples how we are taking steps to have a more inclusive or responsible use of digital technologies, even as we support companies using those digital technologies to service their clients, create business models, and create better opportunities for people.<br>
+<br>
+20.<span style="white-space: pre;">		</span>Take AI for example. We launched the A.I. Verify at the World Economic Forum this year. A.I. Verify enables organisations to be transparent about the AI systems and build trust with their stakeholders. It allows organisations to conduct self-assessment voluntarily. We partnered 10 international and homegrown companies for feedback on A.I. Verify. These include multinationals like Google and Meta; local stalwarts like DBS Group and Singapore Airlines; and even a couple of start-ups, UCARE.AI and X0PA.AI.<br>
+<br>
+21.<span style="white-space: pre;">		</span>More recently, we launched the Digital Trust Centre, which represents a significant investment in Singapore’s R&amp;D efforts for trust technologies and talent development in this area. IMDA and the PDPC launched a Privacy Enhancing Technologies (PET) Sandbox in July to support businesses who wish to pilot such projects that address common business challenges.<br>
+<br>
+22.<span style="white-space: pre;">		</span>But we need to keep watch over how trust can be maintained in the digital sphere as new technologies emerge. One example is blockchain technology. As more and more transactions are shifted onto blockchains, the more reliant we are on the programmers writing the algorithms for these platforms. These are new technologies that forces us to rethink and review our approaches and strategies. We are always on the lookout to see how trust can be maintained in the digital sphere, even as we see how we support new technologies that emerge. How would digital trust look like for a technology that is supposed to be “decentralised” and “trustless”, and where “code is law”? How are we thinking about digital trust in a Web3 environment?<br>
+<br>
+23.<span style="white-space: pre;">		</span>Another example is the growing adoption of cloud computing. When applications are deployed in the cloud, they require a different security footprint since the network and physical servers that these applications are utilising are no longer under the direct control of the enterprise that has deployed the applications. How then does digital trust look like for cloud services?&nbsp; &nbsp;&nbsp;<br>
+<br>
+24.<span style="white-space: pre;">		</span>Given the scope and ever-increasing issues involving digital trust, we would need greater private-public partnerships to put digital guardrails to ensure the safety of our people, as government cannot do this alone. That is why I am glad to be here to help launch the Digital Trust Centre of Excellence. The Centre of Excellence will build awareness of the importance of digital trust and co-develop good practices that will guide businesses in the APEC region. It will do so by being a knowledge centre, which will undertake research activities including surveys, publications, and reports; and also as a regional policy hub which would stimulate and improve the policy landscape relating to this topic. The aim is to be a thought leader in this area and facilitate the sharing of best practices across the APEC economies.&nbsp; &nbsp;<br>
+<br>
+25.<span style="white-space: pre;">		</span>With this Centre of Excellence, SGTech and its member companies can continue to deliver Digital Trust thought leadership on a global level, with the added benefit of it being by the industry, for the industry.&nbsp; &nbsp;I would like to congratulate SGTech, with the support of ABAC, and ASOCIO, for bringing the Centre of Excellence for Digital Trust into fruition, and look forward to reading the many insights and analysis generated from this centre.<br>
+<br>
+26.<span style="white-space: pre;">		</span>I’ll just conclude by leaving all of you with three messages. First, trust is fundamental and existential for the future global digital ecosystem. And in this ever-evolving space, and nascent area, the government, firms or industry, and our people need to be active participants and invested stakeholders in this conversation. We want to have a virtuous cycle where government policy or regulatory agencies have open conversations with the industry or firms as well as individuals, stakeholders, consumers, and groups in a virtuous cycle by building on this conversation, to figure out how we can continue to build digital trust in this space.<br>
+<br>
+27.<span style="white-space: pre;">		</span>Trust is fundamental. We need the government, industry, and people. Singapore wants to be a stage for like-minded partners from around the world, thought leaders and companies to share learnings to the rest of the world. With that, I wish you a fruitful Forum. Thank you very much.</p>
+<p>
+--------------------------------------------------------------------------------------------------------------------------</p>
+
+[PDF version of the speech](/files/Speeches%202022/speech%20by%20sms%20tan%20kiat%20how%20at%20sgtech%20global%20future%20series%20digital%20trust%20forum.pdf)

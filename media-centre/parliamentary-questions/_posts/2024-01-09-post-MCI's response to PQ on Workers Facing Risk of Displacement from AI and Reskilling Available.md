@@ -1,0 +1,11 @@
+---
+title: MCI's response to PQ on Workers Facing Risk of Displacement from AI and
+  Reskilling Available
+permalink: /media-centre/parliamentary-questions/displacement-from-ai-and-reskilling/
+date: 2024-01-09
+layout: post
+description: ""
+image: ""
+variant: tiptap
+---
+<h3>Parliament Sitting on 9 January 2024</h3><h3>QUESTION FOR WRITTEN ANSWER</h3><p><strong>48. Mr Gerald Giam Yean Song:</strong> To ask the Minister for Communications and Information (a) which categories of workers has the Ministry assessed to face the highest risk of displacement as a result of artificial intelligence (AI); (b) what are the projected numbers for each such category; and (c) what expanded programmes are being instituted to scale up reskilling and encourage workers to switch careers before they face job displacement due to AI.</p><p><strong>Answer:</strong></p><ol data-tight="true" class="tight"><li><p>AI development is changing every day and its impact on the workforce is not fully predictable. As with other technologies, the Government’s consistent approach has been to maximise the potential of our businesses and workers to harness AI as an opportunity, through supporting their efforts to adapt.&nbsp; This has helped our economy to expand and our workers to enjoy improved employment outcomes.</p></li></ol><p>a.&nbsp;&nbsp;&nbsp; In particular, Jobs Transformation Maps (JTMs), specific to sectors, will help employers and workers understand and prepare themselves for the future of work that is influenced by AI.</p><p>b.&nbsp;&nbsp;&nbsp; Through SkillsFuture courses as well as Workforce Singapore’s job redesign and career conversion programmes, workers can upskill and reskill to work in roles that may be transformed by AI.</p><p>c.&nbsp;&nbsp;&nbsp; For those who wish to transit to AI tech roles, IMDA’s TechSkills Accelerator (TeSA) supports fresh and mid-career workers to be equipped with relevant skills.</p><ol start="2" data-tight="true" class="tight"><li><p>Singapore’s educated and skilled population is well placed to take advantage of AI, as we have done so in previous waves of technological change. The Government will continue to work with our tripartite partners to support our workforce.</p></li></ol><p></p>

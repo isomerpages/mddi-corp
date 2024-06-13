@@ -1,0 +1,21 @@
+---
+title: MCI receives more than 1000 sign ups from potential Citizen Translators
+permalink: /media-centre/press-releases/mci-receives-more-than-1000-sign-ups-from-potential-citizen-translators/
+date: 2021-01-22
+layout: post
+description: ""
+image: ""
+---
+1. As part of the Government’s efforts to raise the overall translation and language standards in Singapore, the Ministry of Communications and Information (MCI) is calling for more volunteers with passion in language and translation to join as “Citizen Translators1” under the SG Translate Together Movement. This project is a first in Singapore involving members of the public, and aims to harness the expertise of the community to crowdsource the best translations for Government communications materials, localised to Singapore’s context.   
+
+2 Senior Minister of State for Communications and Information Ms Sim Ann, who is also the Chairperson of National Translation Committee (NTC), announced the soft launch of the project during a virtual dialogue with Citizen Translators and members of the Chinese-speaking community this evening. She expressed gratitude for the enthusiastic response for the virtual dialogue which saw more than 1,000 sign-ups. Ms Sim will be co-hosting a second virtual dialogue with the Malay and Tamil-speaking communities on 26 January 2021, together with NTC members Parliamentary Secretary Ms Rahayu Mahzam and Mr Vikram Nair. More information on the NTC is at [Annex A]()
+  
+3 For a start, Citizen Translators will be invited to help identify translation errors in Government communication materials and provide suggestions to refine its translations. Subsequently, they will also support in the vetting and proof-reading of Government communication materials using the SG Translate Together2 web portal when it is ready later. The project is also a platform for Citizen Translators to share experiences and knowledge to improve competencies in translation. As part of the SG Translate Together Movement, this project aims to create more opportunities for collaboration and engagement between the government, community partners and stakeholders within the translation community. Members of public who have a passion for language and translation can sign up for the Citizen Translators project at [go.gov.sg/ctapplication.](https://www.go.gov.sg/ctapplication)  
+  
+4 In conjunction with the soft launch of the Citizen Translators project and to promote collective ownership of the project, a naming contest will be held for Citizen Translators to propose a formal name for the project, as well as its Chinese, Malay and Tamil translations. Citizen Translators may submit their entries and find out more details about the contest at go.gov.sg/ctcontest. Citizen Translators will then have a chance to vote for their favourite project name and its corresponding translation at a later stage.  
+  
+5 The Citizen Translators project was first piloted in July 2020 when MCI partnered 88 Citizen Translators (53 Chinese, 22 Malay, 13 Tamil) from various fields – including from the translation, media, arts and education sectors; as well as students, public officers, retirees and professionals. These Citizen Translators who came on board during the pilot phase were referred by community partners who are regularly involved in translation work for community engagement, such as the Singapore Federation of Chinese Clan Associations, Malay Language Council of Singapore and Mastera (Southeast Asia Literary Council), as well as People's Association Narpani Pearavai.   
+
+\--------------------------------------------------------------------------------------------------------------------------  
+1  This is a working title.  
+2  SG Translate Together is the scaled-up version of SG Translate - the Government’s machine translation engine with the capability to translate English texts to vernacular languages (Malay, Chinese and Tamil) and vice versa. SG Translate is trained with local data from the Government’s communications materials and is able to produce decent first-cut translations with localised terms suitable for the use of public officers. SG Translate Together aims to collaborate with the public to further improve the translation engine.
