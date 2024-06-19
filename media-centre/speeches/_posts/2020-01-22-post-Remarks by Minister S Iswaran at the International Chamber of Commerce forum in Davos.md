@@ -1,0 +1,36 @@
+---
+title: Remarks by Minister S Iswaran at the International Chamber of Commerce
+  forum in Davos
+permalink: /media-centre/speeches/remarks-by-minister-s-iswaran-at-the-international-chamber-of-commerce/
+date: 2020-01-22
+layout: post
+description: ""
+image: ""
+---
+Secretary-General of International Chamber of Commerce John Denton,
+
+Industry partners,  
+
+1. I want to thank all of you for being here. Let me just start by saying I know many of you have made a very special effort to be here, and we want to thank you for that.  
+  
+2. It is not just about presenting an idea. We wanted to demonstrate and validate the proposition of what we are trying to do. There is no better way to do that than to have the industry and the key players of the industry - financial services, logistics, trading and so on, to be a part of this effort. We are very grateful that you are here and it also gives us the confidence that this is something that has got legs and it can go forward significantly.  
+  
+3. You all know the Singapore DNA. It is a DNA that is firmly committed to the multilateral trading system, one that is rules-based, open and able to allow cross-border flows. We need to make that transition from traditional areas and move into a digital era when it comes to cross-border trades. Many of the trade agreements that you see today really are emblematic of how trade was conducted in the last century. I think today, when you are in the digital environment, the focus is not just about goods and services and dollars, but perhaps most importantly, for the movement of bits and bytes. I think this is where we have tried to see how we can push forward on initiatives to facilitate more in the digital era.  
+  
+4. One of the things we are doing is in the WTO – we are the co-conveners with Australia and Japan for this Joint Statement Initiative on E-Commerce. Those of you who have been in the trade track, I think we fully understand the challenges of doing it. We think it is important to put that squarely on the agenda for the WTO.  
+  
+5. The other area that we have been working on is what we call Digital Economy Agreements. These are sort of the digital analogue free trade agreements that we are quite familiar with. 25 years back, Singapore was pushing hard on free trade agreements. One of the things we did was to work on bilateral trade agreements - whether it was country-to- country, unilateral or regional. And the reason we did that was because we felt that it was important that whilst we have a multilateral system, we also have complementary efforts at the bilateral level, and they also have a very powerful demonstration effect.  
+  
+6. We are continuing that tradition with digital agreements. We initiated something with New Zealand and Chile, and we are very happy to share with you - if you are not already aware - that the substantial conclusion of the Digital Economy Agreement was announced yesterday in Singapore. The kernel of the idea of TPP started in fact with four quite unlikely countries coming together. It was Brunei, New Zealand, Chile and Singapore. We are delighted that we have got this moving, because this is an alignment of thinking in terms of vision and aspiration and this is the way for us to move together. We are also working on something similar with Australia, and are in early stages of discussion with other countries as well.  
+  
+7. So, clearly there are new pathways that we need to develop and solidify, as part of this digital era, and that is what this effort is about. The partnership that we are signing today with the ICC and 17 industry partners is a very significant boost to this collective effort to digitalise trade. It establishes the fundamentals, firstly, that are needed to anchor trust in the digitalisation of trade. That is probably the biggest lacuna today. Any effort to digitalise trade must support the multilateral rules-based system and enable interoperability.  
+  
+8. The TradeTrust framework, which Singapore has pioneered, is designed to do just that - to provide that trust element so that digital transactions can be conducted with confidence. It has four key components, and I think it is worth repeating: the first is legal harmonisation to provide legal validity of digital documents; standards development to facilitate the interoperability of digital documents exchanged across systems; an accreditation structure to certify technical solutions that meet the requirements of the law, and a set of open source codes that can easily integrate backend solutions to the TradeTrust network. In other words, this is being conceived not as an exclusive platform, but an open platform, and really, that makes a lot of sense. I think all of you will recognise that the value of it is that network effect. And if we want to have that network effect, then we really need to create an open platform that can be trusted for others to come on board.  
+  
+9. We are also very glad that this partnership benefits significantly from ICC’s extensive network. ICC is a natural partner for us. When we met in Singapore, this was one of the points of discussion, because we share the same values. Second, this partnership leverages ICC’s influence and extensive network.  ICC is a natural partner for Singapore through our shared commitment to a rules-based multilateral trading system and in enabling open systems rather than digital silos. ICC Tradeflow is also the first platform that was built on the TradeTrust framework. This means that ICC’s 45 million-odd members worldwide can be among the first to conduct trade more efficiently while still managing the risks and having legal certainty and confidence in the trading process.  
+  
+10. Thirdly, I am very pleased that industry players like you, from the trading, finance, port and cargo insurance operations sectors are coming onboard. The pilot TradeTrust saw documentation time reduced by more than half, from 45 to 20 days. Parties can now digitally map out trade instructions, track their execution, and more efficiently manage finance transactions. Partnerships with the private sector - and this is perhaps the most important thing I want to underscore here – we think that this partnership is vital if this effort is to succeed. Ultimately, the value proposition can only be validated by companies. The more extensively companies use it, the stronger the value proposition is, because of the network effect. We hope you are not just our early adopters, but you would also become our evangelists by helping to bring more onboard, because you each have your own ecosystems and the players who work with you, and bringing them into the ecosystem for TradeTrust will be a very valuable way to enhance the larger value of the network.  
+  
+11. Finally, I just want to say that we look forward to a long and fruitful partnership with all of you. We have a shared objective in terms of making sure that the multilateral trading system remains strong, open and rules-based, and also to make that transition into the digital era smoothly, sensibly and in a manner that is going to generate value for all the parties involved.  
+  
+12. Thank you very much for joining us, and thank you to ICC as well.

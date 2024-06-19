@@ -1,0 +1,10 @@
+collections:
+  reporting-in-singapore:
+    output: true
+    order:
+      - Reporting in Singapore/.keep
+      - Reporting in Singapore/Setting Up Shop.md
+      - Reporting in Singapore/Working in Singapore.md
+      - Reporting in Singapore/Accreditation.md
+      - Reporting in Singapore/MCI Duty Desk.md
+      - Reporting in Singapore/Useful Information.md

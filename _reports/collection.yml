@@ -1,0 +1,8 @@
+collections:
+  reports:
+    output: true
+    order:
+      - Digital Enterprise Blueprint/.keep
+      - Digital Enterprise Blueprint/Digital Enterprise Blueprint.md
+      - Digital Enterprise Blueprint/Pledge Partner Commitments.md
+      - Digital Enterprise Blueprint/Resources.md

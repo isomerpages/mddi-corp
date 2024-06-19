@@ -1,0 +1,29 @@
+collections:
+  what-we-do:
+    output: true
+    order:
+      - Digital Singapore/.keep
+      - Digital Singapore/Digital Economy.md
+      - Digital Singapore/Digital Society.md
+      - Digital Singapore/Digital Security.md
+      - Digital Singapore/Digital Infrastructure.md
+      - Public Comms and Engagement/Overview.md
+      - Public Comms and Engagement/.keep
+      - Public Comms and Engagement/Media Engagement.md
+      - Public Comms and Engagement/Crisis Management.md
+      - Public Comms and Engagement/Translation.md
+      - Public Comms and Engagement/Public Engagement.md
+      - Public Comms and Engagement/Useful Information.md
+      - Research and Data/.keep
+      - Research and Data/Who We Are.md
+      - Research and Data/What We Do.md
+      - Research and Data/What We Have Done.md
+      - Research and Data/Sentiments Research Capabilities in Whole of
+        Government.md
+      - Committee of Supply/COS 2024.md
+      - Committee of Supply/.keep
+      - Committee of Supply/COS 2023.md
+      - Committee of Supply/COS 2022.md
+      - Committee of Supply/COS 2021.md
+      - Committee of Supply/MCI Insights Conference 2020.md
+      - Parliament Livestream.md

@@ -1,0 +1,50 @@
+---
+title: Speech by Minister S Iswaran at the opening of the Smart Nation Summit
+permalink: /media-centre/speeches/speech-by-mr-s-iswaran-at-the-opening-of-the-smart-nation-summit/
+date: 2019-06-26
+layout: post
+description: ""
+image: ""
+---
+**UNLOCKING THE FULL POTENTIAL OF A DIGITAL-AS-USUAL AGE**
+
+Your Excellencies,  
+Distinguished Guests,  
+Ladies and Gentlemen,  
+  
+**Introduction**  
+  
+1. Very good afternoon to all of you. First let me say I am glad to join all of you today and to welcome you to the Smart Nation Summit.  This Summit is a flagship event of Smart Nation Innovations Week 2019 which brings together government, investors leaders, entrepreneurs, innovators and other stakeholders, in order to consider and participate in some of the prominent and topical issues of the day in the digital domain.   
+  
+2. We meet at a time when digitalisation is transforming industries, cities and economies.  Digital technology, we all know, is a force multiplier that allows us to transcend the limitation of scale and the barrier of distance.  New business models are on the ascendant, including e-commerce and cloud computing, with a proliferation of B2B, B2C, and even C2C platforms.  Governments are seeking out promising digital solutions to deliver public services efficiently and seamlessly.  And how individuals and communities live and interact is being reshaped in fundamental ways.  However, this promise of all things digital is tempered by a sense of uncertainty, given the risks of digital disruption, shorter cycles of obsolescence, and the implications for established regulations and policies.   
+  
+    **Focus on fundamentals amidst uncertainty and a digital-as-usual age**  
+  
+3. The reality is that we must all be prepared for a digital-as-usual age where digitalisation is the norm and not just a transitory phase.  The digital economy is deeply intertwined with the conventional economy, and digital technology is integral to the fabric of our businesses, our jobs, and indeed our everyday lives.  Hence, in Singapore, our vision is for a digital economy where every business is digitally-empowered, every worker is digitally-skilled, and every citizen is digitally-connected.  
+  
+   **The full potential of the digital-as-usual age lies at the intersections**  
+  
+4. This digital economy is a key component of our Smart Nation mission and vision that also encompasses digital government and digital society. Central to the realisation of this vision is the unlocking of value that lies at the interphase, between the public and private sectors, and between countries and markets.  The advent of the digital economy offers new avenues for government and industry, as well as individual jurisdictions and regional trading blocs to work together to create exciting new opportunities.   
+  
+5. We need new modalities of engagement in this digital age. For example, given the dynamic nature of tech trends, it is essential that governments and the private sector work together as trusted partners and as co-creators of solutions rather than just adhere to  the traditional roles of regulator and regulated entity .  Hence, one of our key new initiatives is the establishment of the **Digital Industry Singapore (DISG)** office.  DISG aims to forge an innovative and multi-faceted public-private partnership model by sense-making global trends in technology, industry and policy, and tapping the combined resources and levers of government agencies overseeing industry development and regulations.  DISG is a first stop for digital industry-related matters, and will work with companies across the spectrum of enterprise needs, such as to secure talent and market access, build capabilities, and internationalise.    
+  
+6. For example, DISG supported the establishment of tech company Grab’s new headquarters in Singapore that will house up to three thousand new employees and its largest R&D centre.  DISG also facilitated a collaboration between Grab, youth media company VICE and Singapore’s Infocomm Media Development Authority, to discover and nurture local digital content creators.  This provides content creators with avenues to reach a regional audience via Grab and VICE’s platforms, and opportunities to enhance their skills via an industry immersion programme with VICE.  There are several other projects in the DISG pipeline, which will also bring broader benefits for Singapore’s digital ecosystem, including the creation of an estimated ten thousand new jobs over the next three years.  
+  
+7. The government also aims to unlock value by developing platforms which the private sector can leverage to create new and innovative services.  One example I wish to cite is **MyInfo**, which provides a single source of Government-verified personal data for private sector consumer transactions.  Companies who have integrated MyInfo into their business journeys can offer customers a fully digitalised application process, which eliminates repetitive form-filling and document verification, and cuts down processing time.  Today, automated form-filling through MyInfo is available for more than 190 private sector digital services.  For instance, you can apply for and receive instant approval for more than 100 types of online bank account and credit card applications, with an 80% reduction in processing time; or open an individual Central Depository Account with the Singapore Exchange online.  Through MyInfo, everyday transactions have become easier and more efficient.  
+  
+8. Let me turn now to the interphase between markets.  Companies have shared with us that current rules and policies do not adequately address new issues raised by the digital economy.  Existing trade agreements are designed for trade in goods and services but less suited to the needs of digital transactions.  Hence, Singapore has mooted the idea of a **Digital Economy Agreement (DEA)**, a new form of agreement which anchors cooperation among like-minded countries in the digital economy.  DEAs will put in place clear and harmonised rules for greater interoperability between digital frameworks, and to guard against digital and data barriers.  DEAs will also establish international rules and benchmarks, to address newer areas such as Artificial Intelligence (AI) and digital identities.  Singapore, Chile and New Zealand have initiated trilateral talks on a **Digital Economy Partnership Agreement (DEPA)**.  Singapore and Australia have also commenced discussions to deepen cooperation for the digital economy.  We look forward to building more of such partnerships, to pave the way for this new model of economic engagement and trade.  
+   
+    **Government, industry and community need to foster trust in new ways**   
+  
+9. In tandem with such initiatives to build an interconnected digital economy, it is essential that government, industry and the community of stakeholders work together to forge trust in digital ecosystems.  Indeed, this is a key underpinning if the digital economy is to succeed. For example, personal data protection and cybersecurity are key to fostering greater confidence and trust in the digital realm, thereby permitting data to be harnessed with fewer restrictions, and enabling technological innovation to flourish.   
+  
+10. Trust is also a critical prerequisite for emerging technologies such as Artificial Intelligence.  AI has widespread applications and the potential to create immense value across the world economy, but industry and government are grappling with its ethical implications.  For instance, how much should AI be involved in making decisions about consumers?  How do we identify and mitigate risks of algorithmic biases?  To start addressing such issues, we have developed the **Model AI Governance Framework**, which I launched at the World Economic Forum in January this year at Davos.  The Framework provides private sector organisations guidance on how to address key ethical and governance issues so that they can deploy AI solutions responsibly and safely, which in turn helps build up organisations’ and consumers’ trust in the use of AI.    
+
+11. The Model AI Governance Framework, and Singapore’s other key AI initiatives – the **Advisory Council on the Ethical Use of AI** and the **Research Programme on Governance in AI and Data Use** – have garnered international recognition, most recently being chosen to be presented at the Paris Peace Forum this November.  We are heartened by this recognition, but more importantly, we see this as an opportunity to not just share our experience, but also to learn from international best practice in addressing these challenges that we all face.    
+   
+    **Conclusion**  
+  
+12. Let me conclude by reiterating my main points, which I think serves as a useful backdrop for the discussions we have in the course of this Smart Nation Innovation Week.  First, we are already in a digital-as-usual age and must ensure that our businesses, institutions and people are well-equipped to adapt and thrive in the digital economy.  Second, to harness the full potential of this digital age, it is essential that we build novel partnership models between the private and public sectors, and between national and regional markets.  Finally, government, industry and community stakeholders must work together to foster trust in digital and other emerging technologies so that information can flow untrammelled, and innovation can flourish.  These tenets guide Singapore’s vision for, and our efforts to build, a Smart Nation comprising a digital government, digital economy and digital society.      
+13. This Summit and the events held over the course of this week will provide all participants, including public and private sector leaders, with rich opportunities to exchange views, learn from best practice, and build networks in this important domain.  I wish you all a fruitful time at the Smart Nation Innovation Week.   
+  
+14. Thank you.
