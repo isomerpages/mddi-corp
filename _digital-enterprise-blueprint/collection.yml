@@ -1,5 +1,5 @@
 collections:
-  reports:
+  digital-enterprise-blueprint:
     output: true
     order:
       - Digital Enterprise Blueprint.md
