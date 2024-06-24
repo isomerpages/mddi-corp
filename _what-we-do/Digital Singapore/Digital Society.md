@@ -152,13 +152,11 @@ by the National Library Board promotes the importance of information searching
 and discernment to the general public. S.U.R.E. distils key information
 literacy concepts into four simple steps to help us verify the information
 we receive.</p>
-<p><strong>ExperienceIT</strong>
-</p>
-<p><a href="https://www.nlb.gov.sg/main/whats-on/Data/Events-Card/ExperienceIT-Punggol-Regional-Library" rel="noopener noreferrer nofollow" target="_blank">ExperienceIT</a> by
-NLB is an immersive showcase of emerging technologies and innovations,
-which are transforming the way we work, live, and play. Through interaction
-with these technologies, visitors can experience and explore first-hand
-how they change our world, through related resources and programmes.&nbsp;</p>
+<p><strong>MakeIT at Libraries</strong>&nbsp;</p>
+<p><a href="https://www.nlb.gov.sg/main/services/MakeIT-at-Libraries" rel="noopener noreferrer nofollow" target="_blank">MakeIT at Libraries</a> offers
+library users a dedicated innovation space with tools, equipment, and hardware
+kits that enable individuals to Learn, Tinker, and Create in both digital
+and traditional fabrication.</p>
 <p><strong>LearnX Digital: Digital Learning in the Libraries</strong>
 </p>
 <p><a href="https://learning.nlb.gov.sg/digital/overview/" rel="noopener noreferrer nofollow" target="_blank">LearnX Digital</a> is
@@ -166,11 +164,7 @@ NLB’s suite of digital readiness programmes and curated resources for citizens
 of all ages. Hear from experts through curated talks, practise hands-on
 skills in guided environments, and build motivation and confidence in navigating
 emerging technology through showcases such as ExperienceIT.</p>
-<p><strong>MakeIT at Libraries</strong>&nbsp;</p>
-<p><a href="https://www.nlb.gov.sg/main/services/MakeIT-at-Libraries" rel="noopener noreferrer nofollow" target="_blank">MakeIT at Libraries</a> offers
-library users a dedicated innovation space with tools, equipment, and hardware
-kits that enable individuals to Learn, Tinker, and Create in both digital
-and traditional fabrication.</p>
+<p></p>
 <h2>Feedback</h2>
 <p>If you have any suggestions on how we can work together towards a safe
 and digitally inclusive Singapore, or if you would like to contribute to
