@@ -8,8 +8,8 @@ variant: tiptap
 <h2>Reporting in Singapore</h2>
 <h3>Establishing a news bureau</h3>
 <p>Media organisations that wish to set up a news bureau in Singapore have
-to apply to the Ministry of Communications and Information (MCI) for approval.
-To do so, please email MCI’s Media Division <a href="mailto:mci_duty_officer@mci.gov.sg" rel="noopener noreferrer nofollow" target="_blank">mci_duty_officer@mci.gov.sg</a> with
+to apply to the Ministry of Digital Development and Information (MDDI)
+for approval. To do so, please email MDDI’s Media Division <a href="mailto:mddi_duty_officer@mddi.gov.sg" rel="noopener noreferrer nofollow" target="_blank">mci_duty_officer@mci.gov.sg</a> with
 the following information:</p>
 <ul data-tight="true" class="tight">
 <li>
@@ -53,41 +53,40 @@ at&nbsp;<a href="mailto:mom_wpd@mom.gov.sg" rel="noopener noreferrer nofollow" t
 <p>Tel: (65) 6438 5122 (Mon to Fri: 8.30am to 5.30pm; Sat: 8.30am to 1.00pm)</p>
 <h3>Press Accreditation</h3>
 <p>Media personnel working in Singapore may apply for a press accreditation
-card (PAC) from MCI. The PAC identifies you as a bona fide media and provides
-access to government information and events.</p>
+card (PAC) from MDDI. The PAC identifies you as a bona fide media and provides
+access to government information and events. Applications are considered
+on a case-by-case basis.</p>
 <p><strong>Eligibility</strong>
 </p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Media personnel who regularly cover government events, such as editors,
-journalists, photographers, camera crew</p>
+<p>Applicants must be full-time employees of a media organisation accredited
+with MDDI</p>
 </li>
 <li>
-<p>Applicants must be full-time employees of an accredited news organisation</p>
+<p>Media personnel who regularly covers government events, such as editors,
+journalists, producers, photographers, camera crew</p>
 </li>
 <li>
-<p>MCI does not accredit media personnel from specialised publications</p>
-</li>
-<li>
-<p>Contract staff, temporary staff, interns and freelancers are not eligible
-to apply for a PAC</p>
+<p>MDDI does not accredit media personnel from specialised publications,
+contract staff, temporary staff, interns and freelancers</p>
 </li>
 </ul>
 <p>To apply for Media Organisation Accreditation or a PAC, please visit the
 <a href="http://paconline.gov.sg" rel="noopener noreferrer nofollow" target="_blank">PAC Online&nbsp;website</a>. For enquiries on press accreditation, email:&nbsp;
-<a href="mailto:MCI_PAC_Online@mci.gov.sg" rel="noopener noreferrer nofollow" target="_blank">MCI_PAC_Online@mci.gov.sg</a>.</p>
-<h3>MCI Duty Desk</h3>
-<p>MCI’s Media Division facilitates the dissemination of government information
-to local and foreign media organisations based in Singapore via the MCI
+<a href="mailto:MCI_PAC_Online@mci.gov.sg" rel="noopener noreferrer nofollow" target="_blank">mddi_pac_online@mddi.gov.sg</a>.</p>
+<h3>MDDI Duty Desk</h3>
+<p>MDDI’s Media Division facilitates the dissemination of government information
+to local and foreign media organisations based in Singapore via the MDDI
 Duty Desk.</p>
 <p>The Duty Desk also provides support and assistance to the media by facilitating
 media queries.</p>
 <p>Official press releases, speeches and statements from government agencies
 are available at the&nbsp;SG Press Centre.</p>
-<p>Operating hours of the Duty Desk are as follows: &nbsp; Mondays – Fridays:
+<p>Operating hours of the Duty Desk are as follows: &nbsp;Mondays – Fridays:
 9am to 6pm &nbsp; Eve of Christmas (24 Dec), New Year (31 Dec) and Chinese
 New Year: 9am to 1pm &nbsp; Weekends and Public Holidays: Closed</p>
-<p>Email:&nbsp;<a href="mailto:mci_duty_officer@mci.gov.sg" rel="noopener noreferrer nofollow" target="_blank">mci_duty_officer@mci.gov.sg</a>.</p>
+<p>Email:&nbsp;<a href="mailto:mci_duty_officer@mci.gov.sg" rel="noopener noreferrer nofollow" target="_blank">mddi_duty_officer@mddi.gov.sg</a>.</p>
 <h3>Entry Requirements</h3>
 <p>The Immigration &amp; Checkpoints Authority (ICA) is responsible for securing
 Singapore’s borders against the entry of undesirable people and cargo through
