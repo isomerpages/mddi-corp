@@ -3,11 +3,9 @@ title: Our Purpose
 permalink: /who-we-are/about-us/our-purpose/
 description: ""
 third_nav_title: About Us
+variant: markdown
 ---
-VISION
-------
-An engaged and connected Singapore  
- 
+
 MISSION
 -------
 Engaging hearts and minds, a thriving digital future for all.  
