@@ -124,10 +124,10 @@ digital literacy and wellness and its emerging areas. With community partners,
 it also co-develops digital literacy and wellness resources and supports
 initiatives under the national Digital for Life movement.</p>
 <p><strong>SG Cyber Safe Seniors / Students Programme</strong>&nbsp;</p>
-<p><a href="https://www.csa.gov.sg/our-programmes/cybersecurity-outreach/sg-cyber-safe-seniors" rel="noopener noreferrer nofollow" target="_blank">SG Cyber Safe Seniors Programme</a>,
-led by CSA in collaboration with IMDA and SPF, aims to raise seniors’ awareness
-of cybersecurity and cybercrime and encourage adoption of good cyber hygiene
-practices.</p>
+<p>The <a href="https://www.csa.gov.sg/our-programmes/cybersecurity-outreach/sg-cyber-safe-seniors" rel="noopener noreferrer nofollow" target="_blank">SG Cyber Safe Seniors Programme</a> and
+SG Cyber Safe Students Programme are led by CSA in collaboration with IMDA
+and SPF. These programmes aim to raise seniors’ and students' awareness
+of cybersecurity and encourage adoption of good cyber hygiene practices.</p>
 <p><strong>Cyber Wellness Education</strong>
 </p>
 <p><a href="https://www.moe.gov.sg/education-in-sg/our-programmes/cyber-wellness" rel="noopener noreferrer nofollow" target="_blank">Cyber Wellness</a> in
