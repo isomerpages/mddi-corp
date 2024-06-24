@@ -118,12 +118,12 @@ digital services and e-payment. The curriculum comprises 1-to-1 and small
 group lessons at the SG Digital Community Hubs and Learning Journeys to
 guide seniors in real world applications of digital skills.</p>
 <p><strong>Media Literacy Council</strong>&nbsp;</p>
-<p>The <a href="https://www.betterinternet.sg/" rel="noopener noreferrer nofollow" target="_blank">Media Literacy Council (MLC)</a> seeks
-to encourage the public to become discerning media consumers with the ability
-to effectively evaluate, use, create, and share content safely and responsibly.
-MLC’s Better Internet Campaign has been re-positioned under the <a href="https://www.imda.gov.sg/digitalforlife/digitalwellness" rel="noopener noreferrer nofollow" target="_blank">Digital Wellness (DW) campaign</a> in
-2021 led by the national Digital for Life movement.</p>
-<p><strong>SG Cyber Safe Seniors Programme</strong>&nbsp;</p>
+<p>The <a href="https://www.mlc.sg/who-we-are/overview/" rel="noopener noreferrer nofollow" target="_blank">Media Literacy Council (MLC)</a> seeks
+to provide expert advice and thought leadership on issues pertaining to
+digital literacy and wellness and its emerging areas. With community partners,
+it also co-develops digital literacy and wellness resources and supports
+initiatives under the national Digital for Life movement.</p>
+<p><strong>SG Cyber Safe Seniors / Students Programme</strong>&nbsp;</p>
 <p><a href="https://www.csa.gov.sg/our-programmes/cybersecurity-outreach/sg-cyber-safe-seniors" rel="noopener noreferrer nofollow" target="_blank">SG Cyber Safe Seniors Programme</a>,
 led by CSA in collaboration with IMDA and SPF, aims to raise seniors’ awareness
 of cybersecurity and cybercrime and encourage adoption of good cyber hygiene
