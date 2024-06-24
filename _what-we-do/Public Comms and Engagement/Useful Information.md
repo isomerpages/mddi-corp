@@ -9,7 +9,7 @@ variant: tiptap
 <h3>Establishing a news bureau</h3>
 <p>Media organisations that wish to set up a news bureau in Singapore have
 to apply to the Ministry of Digital Development and Information (MDDI)
-for approval. To do so, please email MDDI’s Media Division <a href="mailto:mddi_duty_officer@mddi.gov.sg" rel="noopener noreferrer nofollow" target="_blank">mci_duty_officer@mci.gov.sg</a> with
+for approval. To do so, please email MDDI’s Media Division <a href="mailto:mddi_duty_officer@mddi.gov.sg" rel="noopener noreferrer nofollow" target="_blank">mddi_duty_officer@mddi.gov.sg </a>with
 the following information:</p>
 <ul data-tight="true" class="tight">
 <li>
