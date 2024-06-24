@@ -19,6 +19,9 @@ a robust cyber talent pipeline.</p>
 <p><a href="http://www.csa.gov.sg/" rel="noopener noreferrer nofollow" target="_blank">GO TO WEBSITE</a>
 </p>
 <h3>GovTech</h3>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Logo of GovTech" src="/images/Logos/GovTechSg_True_Inline_Logo_2_Cyan.jpg">
+</div>
 <p>GovTech was officially launched in 2016 as the agency tasked with realising
 our Smart Nation possibilities.</p>
 <p>GovTech’s mission is to harness the best info-communications technologies
