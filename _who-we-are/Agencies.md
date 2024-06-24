@@ -55,9 +55,6 @@ come alive, spark imagination and create possibilities.</p>
 <p><a href="http://www.nlb.gov.sg/" rel="noopener noreferrer nofollow" target="_blank">GO TO WEBSITE</a>
 </p>
 <h3>Personal Data Protection Commission</h3>
-<div class="isomer-image-wrapper">
-<img style="height:294px; width:400px;" height="auto" width="100%" src="/images/Logos/pdpc%20logo.jpeg">
-</div>
 <p>The Personal Data Protection Commission (PDPC) was established in 2013
 to administer and enforce the Personal Data Protection Act 2012 (PDPA).</p>
 <p>The mission of PDPC is to promote and enforce personal data protection
