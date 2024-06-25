@@ -14,8 +14,8 @@ variant: markdown
 <img alt="National Translation Committee Image" src="https://www.mci.gov.sg/images/TD/updated%20ifg%202_ntc%20and%20rp%20ifg_mci%20website%20revamp%202023.png">
 
 <ul>
-<li>The committee is chaired by Mr Tan Kiat How, Senior Minister of State for Ministry of National Development, and Ministry of Communications and Information.</li>
-<li>Members of the public are invited to email <a href="mailto:MCI_NTC_Secretariat@mci.gov.sg">MCI_NTC_Secretariat@mci.gov.sg</a> if they have any queries or feedback.</li>
+<li>The committee is chaired by Mr Tan Kiat How, Senior Minister of State for Ministry of National Development, and Ministry of Digital Development and Information.</li>
+<li>Members of the public are invited to email <a href="mailto:MCI_NTC_Secretariat@mci.gov.sg">MDDI_NTC_Secretariat@mddi.gov.sg</a> if they have any queries or feedback.</li>
 </ul>
 
 <p><a href="https://www.mci.gov.sg/files/Translation/full_list_of_6th_term_ntc_members__29_feb_2024.pdf">Full list of current NTC members</a></p>
@@ -29,7 +29,7 @@ variant: markdown
 &nbsp;
 
 <ul>
-<li>The <a href="https://www.sgtranslatetogether.gov.sg/">SG Translate Together (SGTT)</a> Web Portal allows members of the public to generate localised first-cut translations and contribute post-edited translation data to improve the accuracy of the SG Translate Machine Translation (MT) engine. This engine was jointly developed by the Ministry of Communications and Information (MCI) and A*STAR’s Institute for Infocomm Research (I<sup>2</sup>R), with the support of the TRANS Grant. </li>
+<li>The <a href="https://www.sgtranslatetogether.gov.sg/">SG Translate Together (SGTT)</a> Web Portal allows members of the public to generate localised first-cut translations and contribute post-edited translation data to improve the accuracy of the SG Translate Machine Translation (MT) engine. This engine was jointly developed by the Ministry of Digital Development and Information (MDDI) and A*STAR’s Institute for Infocomm Research (I<sup>2</sup>R), with the support of the TRANS Grant. </li>
 <li>The registered users, known as Citizen Translators, can edit the MT generated translations and submit them for review. These reviewed translations will be used to further train the MT engine.</li>
 <li>The portal serves as a one-stop platform for the translation community, where they can develop their translation skills, utilise translation resources, share their insights with one another and stay updated on translation-related programmes and events.</li>
 &nbsp;
@@ -43,7 +43,7 @@ variant: markdown
 	<h3>Citizen Translators Project</h3>
 
 <ul>
-<li>The Citizen Translators (CT) Project was introduced in 2021, as part of the Government’s efforts to raise the overall translation and language standards in Singapore. An initiative under the National Translation Committee and part of the SG Together Movement, the project is a first in Singapore involving members of the public, and aims to harness the expertise of the community to crowdsource the best translations for government communications materials. </li>
+<li>The Citizen Translators (CT) Project was launched in 2021, as part of the Government’s efforts to raise the overall translation and language standards in Singapore. An initiative under the National Translation Committee and part of the SG Together Movement, the project is a first in Singapore involving members of the public, which aims to harness the expertise of the community to crowdsource the best translations for government communications materials. </li>
 <li>Interested parties may sign up as a CT by registering on the SGTT portal <a href="https://www.sgtranslatetogether.gov.sg/">here</a>.</li>
 
 </ul></section>
