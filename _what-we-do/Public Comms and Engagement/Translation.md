@@ -57,7 +57,7 @@ variant: markdown
 	
 <p><strong>Government Terms Translated</strong></p>
 
-<p>MCI’s Translation Department maintains the Government Terms Translated repository, which agencies, translation companies and the public can refer to for translations of Government policy-related terms in the four official languages. Click <a href="https://www.translatedterms.gov.sg/">here</a> to visit the repository.</p>
+<p>MDDI’s Translation Department maintains the Government Terms Translated repository, which agencies, translation companies and the public can refer to for translations of Government policy-related terms in the four official languages. Click <a href="https://www.translatedterms.gov.sg/">here</a> to visit the repository.</p>
 
 <img alt="Government Terms Translated Image" src="https://www.mci.gov.sg/images/TD/updated%20ifg%203_gtt%20ifg_mci%20website%20revamp%202023.png">
 &nbsp;
@@ -69,7 +69,7 @@ variant: markdown
 
 <p><strong>Information Service (Translation) Scholarship</strong></p>
 
-<p>In 2015, MCI introduced the Information Service (Translation) Scholarship, aimed at identifying and grooming young Singaporeans who have a strong interest in translation as well as a deep familiarity with Singapore’s translation landscape and context. Click <a href="https://www.mci.gov.sg/join-us/scholarship/overview/">here</a> for more information on the Information Service (Translation) Scholarship. </p>
+<p>In 2015, MDDI introduced the Information Service (Translation) Scholarship, aimed at identifying and grooming young Singaporeans who have a strong interest in translation as well as a deep familiarity with Singapore’s translation landscape and context. Click <a href="https://www.mci.gov.sg/join-us/scholarship/overview/">here</a> for more information on the Information Service (Translation) Scholarship. </p>
 </section>
 <br>
 <section id="translation-talent-development-scheme">
