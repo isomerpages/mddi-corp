@@ -95,8 +95,7 @@ social media, so that I can actively choose content that interests me.</p>
 services in our four official languages (English, Chinese, Malay and Tamil)
 for important national initiatives to better inform, connect and engage
 with our citizens.</p>
-<p>We spoke with Amirah to find out more about her personal #LifeatMDDCI
-experience.</p>
+<p>We spoke with Amirah to find out more about her personal #LifeatMDDI experience.</p>
 <p><strong>Hi Amirah! Tell us more about your work in the Translation Department.</strong>
 </p>
 <p>TD translates a range of Government communications from Gov.sg WhatsApp
@@ -121,9 +120,9 @@ skills, and keep in touch with linguistic trends.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/CDD/siti%20amirah%2002%20(1).jpg">
 </div>
-<p><strong>Why did you join MCI?</strong>
+<p><strong>Why did you join MDDI?</strong>
 </p>
-<p>I joined MCI as part of the Mid-Term MCI Information Service (Translation)
+<p>I joined then-MCI as part of the Mid-Term MCI Information Service (Translation)
 Scholarship as I’m deeply interested in languages, and was keen to join
 the Public Service. The scholarship opportunity felt like a convergence
 of both my interests.</p>
@@ -132,7 +131,7 @@ of both my interests.</p>
 <p>Get ready to be challenged and stay curious! Working in TD goes beyond
 just translation work as we take on projects too. So, officers need to
 be ready to be challenged and learn new skills!</p>
-<p><strong>Are there any misconceptions that people might have about the work that you/your team does? Or any interesting fact about your work at MCI that people might not know about?</strong>
+<p><strong>Are there any misconceptions that people might have about the work that you/your team does? Or any interesting fact about your work at MDDI that people might not know about?</strong>
 </p>
 <p>Translation work takes longer than most people expect. However, rendering
 the most appropriate translation involves some research and understanding
