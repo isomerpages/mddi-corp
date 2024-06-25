@@ -3,35 +3,35 @@ title: Discover Your Career Options
 permalink: /join-us/careers/discover-options/
 description: ""
 third_nav_title: Careers
+variant: tiptap
 ---
-At MCI, we communicate and explain government policies so that Singaporeans are informed and engaged on national and social issues. We develop policies to shape the future of Singapore’s digital economy to ensure that our people and businesses seize opportunities in the infocomm and media sector. We work with stakeholders to build a trusted cyberspace to safeguard our interests online. Our work enables Singaporeans to work, live and thrive in a better future.
-
-## Schemes of Service
-
-Officers may be appointed on one of the following schemes of service:
-
-#### 1.     Information Officer
-
-As the government’s communications specialists, Information Officers play an important role in the entire value chain of governance from the formulation of policy, to its communication and delivery to the public, and the management of consequences arising from its implementation.
-
-#### 2.     Language Executive
-
-Language Executives provide translation services to support the Government’s public communications efforts.
-
-#### 3.     Management Executive
-
-Management Executives are involved in a myriad of key functions, including policy formulation for info-communications and media development as well as driving organisational excellence initiatives.
-
-## Our Hiring Process
-
-#### Apply
-
-View our available job vacancies at [Careers@Gov](https://www.careers.gov.sg/). Submit your application directly if there are any roles that interest you. We will get in touch with you within two weeks if you are shortlisted for the role.
-
-#### Interview
-
-You would be invited for an in-person or virtual interview, where you will get to meet the hiring division and find out more about the work at MCI. Depending on the role, you may also be required to complete some pre-interview assessment tests.
-
-#### Post-Interview
-
-If you are selected after the interview, our recruitment team will contact you with the offer details.
+<p>MDDI provides you with diverse opportunities to develop your capabilities
+and contribute to our mission of Engaging Hearts and Minds, A Thriving
+Digital Future for All.</p>
+<h2>Schemes of Service</h2>
+<p>Officers may be appointed on one of the following schemes of service:</p>
+<h4>1.&nbsp;&nbsp;&nbsp;&nbsp; Management Executive</h4>
+<p>Management Executives are involved in key areas of work such as strategy
+and policy formulation in the digital and information domains as well as
+corporate functions.</p>
+<h4>2.&nbsp;&nbsp;&nbsp;&nbsp; Information Officer</h4>
+<p>As the government’s communications specialists, Information Officers play
+an important role in the entire value chain of governance from the formulation
+of policy, to its communication and delivery to the public, and the management
+of consequences arising from its implementation.</p>
+<h4>3.&nbsp;&nbsp;&nbsp;&nbsp; Language Executive</h4>
+<p>Language Executives provide translation services to support the Government’s
+public communications efforts.</p>
+<h2>Our Hiring Process</h2>
+<h4>Apply</h4>
+<p>View our available job vacancies at <a href="https://www.careers.gov.sg/" rel="noopener noreferrer nofollow" target="_blank">Careers@Gov</a>. Submit your application
+directly if there are any roles that interest you. We will get in touch
+with you within two weeks if you are shortlisted for the role.</p>
+<h4>Interview</h4>
+<p>You would be invited for an in-person or virtual interview, where you
+will get to meet the hiring division and find out more about the work at
+MDDI. Depending on the role, you may also be required to complete some
+pre-interview assessment tests.</p>
+<h4>Post-Interview</h4>
+<p>If you are selected after the interview, our recruitment team will contact
+you with the offer details.</p>
