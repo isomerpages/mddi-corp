@@ -3,7 +3,7 @@ collections:
     output: true
     order:
       - Careers/.keep
-      - Careers/Life at MCI.md
+      - Careers/Life at MDDI.md
       - Careers/Discover Your Career Options.md
       - Careers/Internships at MCI.md
       - Careers/Our People.md
