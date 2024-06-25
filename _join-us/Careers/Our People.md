@@ -89,7 +89,7 @@ social media, so that I can actively choose content that interests me.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/CDD/siti%20amirah%20banner%20(1).png">
 </div>
-<p><strong>Meet Siti Amirah, Manager, Translation Department, MCI</strong>
+<p><strong>Meet Siti Amirah, Manager, Translation Department, MDDI</strong>
 </p>
 <p>At the Translation Department (TD), Amirah and her team provides translation
 services in our four official languages (English, Chinese, Malay and Tamil)
@@ -208,5 +208,5 @@ gave us the much-needed support and motivation to keep going.</p>
 <p>Secondly, I hope to be working in the Civil Service after I complete my
 studies. But first, I’ll be pursuing my Master’s in the super tech-driven
 state of California!</p>
-<p><strong>Interested in an internship at MCI? Apply as an #MCIIntern today!</strong>
+<p><strong>Interested in an internship at MCI? Apply as an #MCIIntern today!DD</strong>
 </p>
