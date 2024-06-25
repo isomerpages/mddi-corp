@@ -95,7 +95,8 @@ social media, so that I can actively choose content that interests me.</p>
 services in our four official languages (English, Chinese, Malay and Tamil)
 for important national initiatives to better inform, connect and engage
 with our citizens.</p>
-<p>We spoke with Amirah to find out more about her personal #LifeatMCI experience.</p>
+<p>We spoke with Amirah to find out more about her personal #LifeatMDDCI
+experience.</p>
 <p><strong>Hi Amirah! Tell us more about your work in the Translation Department.</strong>
 </p>
 <p>TD translates a range of Government communications from Gov.sg WhatsApp
