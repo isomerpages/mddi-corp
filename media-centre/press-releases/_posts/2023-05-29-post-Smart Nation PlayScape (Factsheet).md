@@ -142,10 +142,8 @@ Smart Nation PlayScape is accessible with a general admission ticket to Science 
 
 Ticketing is complimentary during off-peak periods (weekdays during the school term). Guests may book their tickets online. Please refer to the pricing guide below for more details.
 
-![Smart Nation PlayScape, Science Centre Ticket Pricing](/images/media-hub/press-release/2023/playscape_scs%20ticketing.png)
+![Playscape ticketing](/images/sndgo-media-centre/press-release/2023/playscape_scs%20ticketing.png)
 
 *1 - Refers to weekdays during school term (excluding public holidays and school holidays)*
 
 *2 - Includes weekends, public holidays and school holidays.*
-
-	
