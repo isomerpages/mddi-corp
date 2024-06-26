@@ -56,20 +56,17 @@ universities offering the courses of study allowed under our scholarship.</p>
 <p>&nbsp; &nbsp;</p>
 <p><strong>Scholarship</strong>
 </p>
-<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;</p>
 <p><strong>Disciplines of studies</strong>
 </p>
-<p></p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p>MDDI Information Service Scholarship</p>
-<p>
-<br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;</p>
+<p>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Scholarship is tenable for most disciplines of studies, except Medicine
