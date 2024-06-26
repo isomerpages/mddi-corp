@@ -79,7 +79,8 @@ possibilities that these technologies have to offer.</p>
 </div>&nbsp; &nbsp; &nbsp; 
 	
 <div class="col" style="background-color: #f3f3f3; padding: 20px 20px 20px 20px;">  
-<img src="/images/community/playscape/playscape_07.jpeg" alt="Smart Nation Builder Explore Zone"><br>
+	
+![Photo of exhibit at Playscape](/images/sndgo-media-centre/press-release/2023/exhibit_5a.jpg)<br>
 	<div style="font-size:18px"><b>Exhibit 5A: AI, Data Analytics I</b><br><br>This exhibit showcases how Artificial Intelligence (AI) can be trained to serve us better - by inputting clean data for it to analyse, visualise and create predictive models. <br><br>In this multi-player game, players challenge each other to drawing simple objects that the AI machine is trained to identify.<br>
 </div>
 
@@ -87,14 +88,16 @@ possibilities that these technologies have to offer.</p>
 
 <div class="row" style="padding: 20px 0px 10px 0px;">
 <div class="col" style="background-color: #f3f3f3; padding: 20px 20px 20px 20px;"> 
-<img src="/images/community/playscape/playscape_15.jpeg" alt="Smart Nation Builder Explore Zone"><br>
+	
+![Photo of exhibit at Playscape](/images/sndgo-media-centre/press-release/2023/exhibit_5b.jpg)<br>
 	<div style="font-size:18px"><b>Exhibit 5B: AI, Data Analytics II</b><br><br>This exhibit shows how machine learning works by teaching a computer to identify patterns and to make decisions based on data. <br><br>Players can ‘train’ a computer to identify and differentiate various animal shapes (e.g. dog, cat, rabbit), by placing it in front of a camera, without writing any code.<br>
 </div>
 
 </div>&nbsp; &nbsp; &nbsp; 
 	
 <div class="col" style="background-color: #f3f3f3; padding: 20px 20px 20px 20px;">  
-<img src="/images/community/playscape/playscape_24.jpeg" alt="Smart Nation Builder Explore Zone"><br>
+
+![Photo of exhibit at Playscape](/images/sndgo-media-centre/press-release/2023/exhibit_6a.jpg)<br>
 	<div style="font-size:18px"><b>Exhibit 6A: Robotics I</b><br><br>This exhibit highlights how robots can learn or do things as well as (or better than) humans. <br><br>Guests can scramble a Rubik’s Cube and place it in a machine to watch how quickly the robot solves it. <br>
 </div>
 
@@ -102,14 +105,16 @@ possibilities that these technologies have to offer.</p>
 
 <div class="row" style="padding: 20px 0px 10px 0px;">
 <div class="col" style="background-color: #f3f3f3; padding: 20px 20px 20px 20px;"> 
-<img src="/images/community/playscape/playscape_25.jpeg" alt="Smart Nation Builder Explore Zone"><br>
+	
+![Photo of exhibit at Playscape](/images/sndgo-media-centre/press-release/2023/exhibit_6b.jpg)<br>
 	<div style="font-size:18px"><b>Exhibit 6B: Robotics II</b><br><br>This exhibit showcases how robots can be programmed to do specific tasks repetitively and accurately.<br><br> Guests can programme a robot to dance by choosing a series of dance moves.<br>
 </div>
 
 </div>&nbsp; &nbsp; &nbsp; 
 	
 <div class="col" style="background-color: #f3f3f3; padding: 20px 20px 20px 20px;">  
-<img src="/images/community/playscape/playscape_21.jpeg" alt="Smart Nation Builder Explore Zone"><br>
+	
+![Photo of exhibit at Playscape](/images/sndgo-media-centre/press-release/2023/exhibit_7.jpg)<br>
 	<div style="font-size:18px"><b>Exhibit 7: UX and Services</b><br><br>This exhibit helps guests to understand the basic principles of good User Experience (UX) design, and how to apply them to meet the needs of different users. <br><br>Guests can play a series of games to design an app using UX principles. They also get to experience issues encountered by some end-users, such as colour blindness and short-sightedness.<br>
 </div>
 
@@ -117,14 +122,16 @@ possibilities that these technologies have to offer.</p>
 
 <div class="row" style="padding: 20px 0px 10px 0px;">
 <div class="col" style="background-color: #f3f3f3; padding: 20px 20px 20px 20px;"> 
-<img src="/images/community/playscape/playscape_13.jpeg" alt="Smart Nation Builder Explore Zone"><br>
+	
+![Photo of exhibit at Playscape](/images/sndgo-media-centre/press-release/2023/exhibit_8a.jpg)<br>
 	<div style="font-size:18px"><b>Exhibit 8A: AR &amp; VR</b><br><br>This exhibit shows guests the possibilities of Virtual Reality (VR), allowing guests to explore places that they might not have access to or perhaps have yet to visit. <br><br>In this interactive exhibit, users get to ‘travel the world’ by experiencing the unique sights of different places like Aurora Storms in Greenland, Mount Rigi in Switzerland, Coral Reefs in Philippines, and Pyramids in Egypt.<br>
 </div>
 
 </div>&nbsp; &nbsp; &nbsp; 
 	
 <div class="col" style="background-color: #f3f3f3; padding: 20px 20px 20px 20px;">  
-<img src="/images/community/playscape/playscape_14.jpeg" alt="Smart Nation Builder Explore Zone"><br>
+	
+![Photo of exhibit at Playscape](/images/sndgo-media-centre/press-release/2023/exhibit_8b.jpg)<br>
 	<div style="font-size:18px"><b>Exhibit 8B: AR &amp; VR</b><br><br>This exhibit demonstrates how Augmented Reality (AR) can help make learning more immersive, by overlaying digital content onto the real world.<br><br> In this interactive experience, guests can grow virtual plants on a tabletop garden scape and pick up basic gardening skills by selecting the best growing conditions for their plant.<br>
 </div>
 
@@ -132,7 +139,8 @@ possibilities that these technologies have to offer.</p>
 
 <div class="row" style="padding: 20px 0px 10px 0px;">
 <div class="col" style="background-color: #f3f3f3; padding: 20px 20px 20px 20px;"> 
-<img src="/images/community/playscape/playscape_31.jpeg" alt="Smart Nation Builder Explore Zone"><br>
+	
+![Photo of exhibit at Playscape](/images/sndgo-media-centre/press-release/2023/central.jpg)<br>
 	<div style="font-size:18px"><b>Central Display: Everyday Tech</b><br><br>The central display called ‘Cabinet of Curiosities’, features a collection of objects that showcase how technology is already shaping our lives – from how we stay healthy, to how we shop, travel and play. <br><br>Guests can explore an assortment of objects, categorised into four themes, with each object telling a story about a specific technology.<br>
 </div>
 
