@@ -67,6 +67,10 @@ the machine will rate using facial recognition technology. The player rated
 with the ‘best’ matching expression wins.
 <br>
 </p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Photo of exhibit at Playscape" src="/images/sndgo-media-centre/press-release/2023/exhibit_3b.jpg">
+</div>
 <p><strong>Exhibit 3B: Biometrics II</strong>
 <br>
 <br>This exhibit explains how one of the most common biometric authentication
