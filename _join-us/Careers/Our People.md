@@ -139,13 +139,13 @@ of context.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/CDD/darren%20wong_banner.jpg">
 </div>
-<p><strong>Meet Darren Wong, Intern at the Futures Unit, MCI</strong>
+<p><strong>Meet Darren Wong, Intern at the Futures Unit, MDDI</strong>
 </p>
 <p>The cross-divisional Futures Unit anticipates and analyses emerging trends,
 opportunities, and threats so that MCI is informed and better prepared
 for the future.</p>
 <p>Darren is a Geography graduate from Cambridge University, who completed
-a 5-month internship with the Futures Unit in MCI.</p>
+a 5-month internship with the Futures Unit in MDDI.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/CDD/darren%20wong_photo%201.JPG">
 </div>
