@@ -18,6 +18,7 @@ possibilities that these technologies have to offer.</p>
 <p>Smart Nation PlayScape consists of eight zones of exhibits:
 <br>
 </p>
+<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Image of exhibit at Playscape" src="/images/sndgo-media-centre/press-release/2023/exhibit_1a.jpg">
 </div>
