@@ -23,7 +23,7 @@ sections:
           description: Speeches & Press Releases
           url: /media-centre
         - title: Careers
-          description: Join the MCI Family
+          description: Join the MDDI Family
           url: /join-us/careers/life-at-mddi/
         - title: Committee of Supply
           description: MCI Budget Debate
