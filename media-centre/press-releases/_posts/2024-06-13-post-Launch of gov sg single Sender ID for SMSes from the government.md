@@ -48,7 +48,7 @@ ID in government SMSes.</p>
 found at <a href="http://sms.gov.sg" rel="noopener noreferrer nofollow" target="_blank">sms.gov.sg</a>
 </p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Infographic on gov.sg single sender ID" src="/images/Press Releases 2024/BTN_Infographic.png">
+<img style="width: 100%" height="auto" width="100%" alt="Infographic on how to identify gov.sg SMSes" src="/images/Press Releases 2024/single_sender_id.png">
 </div>
 <hr>
 <p><sup>1</sup> Open Government Products, Building Trusted Networks Campaign
