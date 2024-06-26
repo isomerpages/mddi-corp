@@ -21,7 +21,11 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Permanent Secretary </strong>
+<p><strong>Permanent Secretary (Digital Development and Information)</strong>
+</p>
+<p><strong>Permanent Secretary (Smart Nation), PMO</strong>
+</p>
+<p><strong>Permanent Secretary (Cybersecurity), PMO</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -30,11 +34,22 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Permanent Secretary (Information and Development)</strong>
+<p><strong>Permanent Secretary (Information and Development), MDDI</strong>
+</p>
+<p><strong>Permanent Secretary (Development)(Cybersecurity), PMO</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Chng Kai Fong</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Second Permanent Secretary (Smart Nation), PMO</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Augustin Lee</p>
 </td>
 </tr>
 <tr>
@@ -58,7 +73,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Deputy Secretary, Digital Economy &amp; International</strong>
+<p><strong>Deputy Secretary (Digital Economy &amp; International), MDDI</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -67,7 +82,16 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Deputy Secretary, Digital Society &amp; Development</strong>
+<p><strong>Deputy Secretary (Digital Government), MDDI</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Sim Feng-Ji</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Deputy Secretary (Digital Society &amp; Development), MDDI</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
