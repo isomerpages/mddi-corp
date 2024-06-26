@@ -44,11 +44,8 @@ important information such as weather, taxi, air and sea traffic in real-time.
 <br>
 </p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Smart Nation Builder Explore Zone" src="/images/community/playscape/playscape_11.jpeg">
+<img style="width: 100%" height="auto" width="100%" alt="Image of exhibit at Playscape" src="/images/sndgo-media-centre/press-release/2023/exhibit_2.jpg">
 </div>
-<p>
-<br>
-</p>
 <p><strong>Exhibit 2: Geospatial</strong>
 <br>
 <br>This exhibit showcases how locational technology helps us to do better
@@ -59,13 +56,7 @@ different elements of a city (e.g. hospitals, parks, schools) to improve
 the quality of life in the city they are building.
 <br>
 </p>
-<p>&nbsp; &nbsp; &nbsp;</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Smart Nation Builder Explore Zone" src="/images/community/playscape/playscape_18.jpeg">
-</div>
-<p>
-<br>
-</p>
+<p></p>
 <p><strong>Exhibit 3A: Biometrics I</strong>
 <br>
 <br>This exhibit shows how biometric data – such as our facial features and
