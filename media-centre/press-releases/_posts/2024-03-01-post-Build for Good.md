@@ -35,14 +35,12 @@ to government leaders and industry experts, and winning teams will receive
 sponsorship for further product development.</p>
 <p></p>
 <p>The event provides an end-to-end citizen empowerment process by:</p>
-</li>
-</ol>
 <p>1. Giving citizens a voice to identify problems faced in Singapore.</p>
 <p>2. Facilitating citizens’ access to the Government.</p>
 <p>3. Helping citizens to improve on existing skills and gain new insights.</p>
 <p>4. Mentoring citizens to have the confidence and focus to build impactful
 solutions.</p>
-<ol start="4" data-tight="true" class="tight">
+</li>
 <li>
 <p>Following its inaugural run in 2023, Build for Good has created 13 working
 prototypes. These projects address citizens’ concerns ranging from environment
