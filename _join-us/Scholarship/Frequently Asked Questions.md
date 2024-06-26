@@ -83,8 +83,8 @@ and Dentistry.</p>
 <br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Translation scholars should ideally pursue a degree in the following disciplines:</p>
-<p>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp;</p>
+<p>Translation scholars should ideally pursue a degree in the following disciplines:&nbsp;
+&nbsp;</p>
 <ul data-tight="true" class="tight">
 <li>
 <p>Languages (Chinese/ Malay/Tamil)</p>
@@ -97,7 +97,6 @@ and Dentistry.</p>
 </li>
 <li>
 <p>Translation</p>
-<p></p>
 </li>
 </ul>
 <p>Scholars who take up other academic disciplines should take a minor in
@@ -109,15 +108,15 @@ Translation or related language/translation module.</p>
 <p></p>
 </li>
 <li>
-<p>Do I apply for universities on my own, or will MCI apply on my behalf?</p>
+<p>Do I apply for universities on my own, or will MDDI apply on my behalf?</p>
 <p></p>
 <p>You should apply for universities, both local and overseas, on your own.
-This should be done concurrently with your application for all MCI Scholarships.</p>
+This should be done concurrently with your application for all MDDI Scholarships.</p>
 <p></p>
 </li>
 <li>
-<p>What career development opportunities can I look forward to as a MCI Information
-Service scholar / Translation scholar?</p>
+<p>What career development opportunities can I look forward to as a MDDI
+Information Service scholar / Translation scholar?</p>
 <p></p>
 <p>Upon graduation, all scholars will join MDDI as an Information Officer.</p>
 <p></p>
