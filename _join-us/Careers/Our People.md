@@ -208,5 +208,5 @@ gave us the much-needed support and motivation to keep going.</p>
 <p>Secondly, I hope to be working in the Civil Service after I complete my
 studies. But first, I’ll be pursuing my Master’s in the super tech-driven
 state of California!</p>
-<p><strong>Interested in an internship at MCI? Apply as an #MCIIntern today!DD</strong>
+<p><strong>Interested in an internship at MCI? Apply as an #MCIIntern today!</strong>
 </p>
