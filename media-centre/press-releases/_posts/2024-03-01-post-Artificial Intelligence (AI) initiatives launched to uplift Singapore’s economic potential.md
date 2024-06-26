@@ -12,8 +12,7 @@ variant: tiptap
 <li>
 <p>At the Committee of Supply (COS) Debates 2024, MCI announced several AI
 initiatives to power Singapore’s next bound of economic growth, including:</p>
-</li>
-</ol>
+<p></p>
 <p>a. New initiatives to nurture AI research talent;</p>
 <p>b. An investment of over $20 million in the next three years to increase
 the number of SG Digital Scholarships and overseas internships in AI roles;</p>
@@ -23,7 +22,8 @@ compute resources for AI innovation and capability building;</p>
 with access to GenAI expertise and resources; and</p>
 <p>e. The publication of Advisory Guidelines on the use of Personal Data
 in AI Recommendation and Decision Systems.</p>
-<ol start="2" data-tight="true" class="tight">
+<p></p>
+</li>
 <li>
 <p>These initiatives align with the refreshed National AI Strategy (NAIS
 2.0) launched by Deputy Prime Minister (DPM) Lawrence Wong in December
@@ -45,8 +45,7 @@ and environment - by working through 10 enablers. The above mentioned initiative
 relate to the following enablers that are the key focus for 2024.</p>
 </li>
 </ol>
-<p><strong>Enabler 1: Talent</strong>
-</p>
+<h4><strong>Enabler 1: Talent</strong></h4>
 <ol start="5" data-tight="true" class="tight">
 <li>
 <p>A key focus is the building of skilled AI talent in Singapore. Such talent
@@ -59,8 +58,6 @@ products and services.</p>
 </li>
 <li>
 <p>As an initial step to nurture a pool of top-tier AI Creators:</p>
-</li>
-</ol>
 <p>a. The government will launch a new <strong>AI Visiting Professorship</strong> to
 attract world-class AI researchers to establish collaborations with Singapore.
 Refer to <a href="/files/Press Releases 2024/AI___Annex_A.pdf" rel="noopener noreferrer nofollow" target="_blank">Annex A</a> for
@@ -69,7 +66,8 @@ more details.</p>
 collaboration with local universities to build up our own pipeline of Singaporean
 AI researchers. Refer to <a href="/files/Press Releases 2024/AI___Annex_B.pdf" rel="noopener noreferrer nofollow" target="_blank">Annex B</a> for more
 details.</p>
-<ol start="7" data-tight="true" class="tight">
+<p></p>
+</li>
 <li>
 <p>As for AI practitioners, we will level up and triple the pool of practitioners
 to 15,000 over 5 years to support growing AI demand. As an initial step
@@ -86,16 +84,17 @@ mid-careerists to transit to AI jobs. Refer to <a href="/files/Press Releases 20
 details.</p>
 </li>
 </ol>
-<p><strong>Enabler 2: Industry</strong>
-</p>
+<h4><strong>Enabler 2: Industry</strong></h4>
 <ol start="8" data-tight="true" class="tight">
 <li>
 <p>On the industry front, MCI announced at COS 2023 that it would be developing
 a Digital Enterprise Blueprint (DEB) to chart the next bound of enterprise
 digitalisation in Singapore, including catalysing enterprise experimentation
 and innovation with emerging technologies like AI.</p>
-<p></p>
 </li>
+</ol>
+<p></p>
+<ol start="9" data-tight="true" class="tight">
 <li>
 <p>Currently, for enterprises that are ready to experiment with and deploy
 more advanced digital solutions, the government has put in place enablers
@@ -114,8 +113,7 @@ to <a href="/files/Press Releases 2024/AI__Annex_D.pdf" rel="noopener noreferrer
 more details of this initiative.</p>
 </li>
 </ol>
-<p><strong>Enabler 3: Compute</strong>
-</p>
+<h4><strong>Enabler 3: Compute</strong></h4>
 <ol start="11" data-tight="true" class="tight">
 <li>
 <p>Alongside programmes to prepare our people to reap benefits from AI, infrastructure
@@ -130,8 +128,7 @@ further investments by industry. Refer to <a href="/files/Press Releases 2024/AI
 details.</p>
 </li>
 </ol>
-<p><strong>Enabler 4: Trusted Environment</strong>
-</p>
+<h4><strong>Enabler 4: Trusted Environment</strong></h4>
 <ol start="13" data-tight="true" class="tight">
 <li>
 <p>To enable AI adoption, we must develop a trusted environment in which
