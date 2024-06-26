@@ -22,7 +22,6 @@ possibilities that these technologies have to offer.</p>
 <img style="width: 100%" height="auto" width="100%" alt="Image of exhibit at Playscape" src="/images/sndgo-media-centre/press-release/2023/exhibit_1a.jpg">
 </div>
 <p><strong>Exhibit 1A: Sensors I</strong>
-<br>
 <br>This exhibit shows how different sensors can tell us important details
 about our bodies.
 <br>
@@ -35,7 +34,6 @@ thermal camera selfie that shows their body heat.
 <img style="width: 100%" height="auto" width="100%" alt="Image of exhibit at Playscape" src="/images/sndgo-media-centre/press-release/2023/playscape_1b_sensors ii.jpg">
 </div>
 <p><strong>Exhibit 1B: Sensors II</strong>
-<br>
 <br>This exhibit showcases how sensor networks help collect and visualise
 different types of data, which guides operators to make better decisions.
 <br>
@@ -47,7 +45,6 @@ important information such as weather, taxi, air and sea traffic in real-time.
 <img style="width: 100%" height="auto" width="100%" alt="Image of exhibit at Playscape" src="/images/sndgo-media-centre/press-release/2023/exhibit_2.jpg">
 </div>
 <p><strong>Exhibit 2: Geospatial</strong>
-<br>
 <br>This exhibit showcases how locational technology helps us to do better
 land planning and build well-designed and community-centric neighbourhoods.
 <br>
@@ -56,9 +53,10 @@ different elements of a city (e.g. hospitals, parks, schools) to improve
 the quality of life in the city they are building.
 <br>
 </p>
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Image of exhibit at Playscape" src="/images/sndgo-media-centre/press-release/2023/exhibit_3a.jpg">
+</div>
 <p><strong>Exhibit 3A: Biometrics I</strong>
-<br>
 <br>This exhibit shows how biometric data – such as our facial features and
 fingerprints – is processed with a high degree of accuracy and speed, to
 recognise us as individuals.
@@ -66,12 +64,6 @@ recognise us as individuals.
 <br>This multi-player game will challenge players to express an emotion, which
 the machine will rate using facial recognition technology. The player rated
 with the ‘best’ matching expression wins.
-<br>
-</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Smart Nation Builder Explore Zone" src="/images/community/playscape/playscape_22.jpeg">
-</div>
-<p>
 <br>
 </p>
 <p><strong>Exhibit 3B: Biometrics II</strong>
@@ -278,3 +270,4 @@ pricing guide below for more details.</p>
 <br>Tel: 6425 2541
 <br>Email:&nbsp;<a href="mailto:Jyotika_THUKRAL@science.edu.sg" rel="noopener noreferrer nofollow" target="_blank">jyotika_thukral@science.edu.sg</a>
 </p>
+<p></p>
