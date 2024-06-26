@@ -8,8 +8,6 @@ description: ""
 image: ""
 variant: markdown
 ---
-Opening Remarks by Mrs Josephine Teo, Minister for Communications and Information, at the Singapore Conference on Artificial Intelligence, 4 December 2023
-
 Friends and colleagues 
 
 1\. Good morning and thank you for making time to be here in Singapore.
