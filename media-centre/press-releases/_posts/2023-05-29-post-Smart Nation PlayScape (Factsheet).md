@@ -15,13 +15,12 @@ Singaporeans to be curious about future technologies through a series of
 fun and immersive exhibits. Guests can learn about the variety of digital
 technologies powering Smart Nation initiatives and discover the different
 possibilities that these technologies have to offer.</p>
-<p>Smart Nation PlayScape consists of eight zones of exhibits:</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Smart Nation Builder Explore Zone" src="/images/community/playscape/playscape_26.jpeg">
-</div>
-<p>
+<p>Smart Nation PlayScape consists of eight zones of exhibits:
 <br>
 </p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Image of exhibit at Playscape" src="/images/sndgo-media-centre/press-release/2023/exhibit_1a.jpg">
+</div>
 <p><strong>Exhibit 1A: Sensors I</strong>
 <br>
 <br>This exhibit shows how different sensors can tell us important details
@@ -30,13 +29,6 @@ about our bodies.
 <br>Guests can step into the booth and have their vitals (e.g. height, weight,
 breath rate) read using different sensors. They can even take a special
 thermal camera selfie that shows their body heat.
-<br>
-</p>
-<p>&nbsp; &nbsp; &nbsp;</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Smart Nation Builder Explore Zone" src="/images/community/playscape/playscape_30.jpeg">
-</div>
-<p>
 <br>
 </p>
 <div class="isomer-image-wrapper">
