@@ -37,14 +37,16 @@ possibilities that these technologies have to offer.</p>
 	
 <div class="row" style="padding: 20px 0px 10px 0px;">
 <div class="col" style="background-color: #f3f3f3; padding: 20px 20px 20px 20px;"> 
-<img src="/images/community/playscape/playscape_11.jpeg" alt="Smart Nation Builder Explore Zone"><br>
+
+![Photo of exhibit at Playscape](/images/sndgo-media-centre/press-release/2023/exhibit_2.jpg)<br>
 	<div style="font-size:18px"><b>Exhibit 2: Geospatial</b><br><br>This exhibit showcases how locational technology helps us to do better land planning and build well-designed and community-centric neighbourhoods. <br><br>Guests can play a game with the use of building blocks reflecting the different elements of a city (e.g. hospitals, parks, schools) to improve the quality of life in the city they are building.<br>
 </div>
 
 </div>&nbsp; &nbsp; &nbsp; 
 	
 <div class="col" style="background-color: #f3f3f3; padding: 20px 20px 20px 20px;">  
-<img src="/images/community/playscape/playscape_18.jpeg" alt="Smart Nation Builder Explore Zone"><br>
+	
+![Photo of exhibit at Playscape](/images/sndgo-media-centre/press-release/2023/exhibit_3a.jpg)<br>
 	<div style="font-size:18px"><b>Exhibit 3A: Biometrics I</b><br><br>This exhibit shows how biometric data – such as our facial features and fingerprints – is processed with a high degree of accuracy and speed, to recognise us as individuals.<br><br> This multi-player game will challenge players to express an emotion, which the machine will rate using facial recognition technology. The player rated with the ‘best’ matching expression wins.<br>
 </div>
 
@@ -52,14 +54,16 @@ possibilities that these technologies have to offer.</p>
 
 <div class="row" style="padding: 20px 0px 10px 0px;">
 <div class="col" style="background-color: #f3f3f3; padding: 20px 20px 20px 20px;"> 
-<img src="/images/community/playscape/playscape_22.jpeg" alt="Smart Nation Builder Explore Zone"><br>
+	
+![Photo of exhibit at Playscape](/images/sndgo-media-centre/press-release/2023/exhibit_3b.jpg)<br>
 	<div style="font-size:18px"><b>Exhibit 3B: Biometrics II</b><br><br>This exhibit explains how one of the most common biometric authentication methods – fingerprint scanning, works! <br><br>Guests can analyse their fingerprint, identify their fingerprint pattern and find out how common or rare their patterns are in relation to others.<br>
 </div>
 
 </div>&nbsp; &nbsp; &nbsp; 
 	
 <div class="col" style="background-color: #f3f3f3; padding: 20px 20px 20px 20px;">  
-<img src="/images/community/playscape/playscape_27.jpeg" alt="Smart Nation Builder Explore Zone"><br>
+	
+![Photo of exhibit at Playscape](/images/sndgo-media-centre/press-release/2023/exhibit_3c.jpg)<br>
 	<div style="font-size:18px"><b>Exhibit 3C: Cybersecurity</b><br><br>This exhibit educates guests on the importance of staying cybersafe in a world full of growing cyber threats. <br><br>Guests will learn how to spot tell-tale signs of common scam tactics through an interactive quiz. <br>
 </div>
 
@@ -67,7 +71,8 @@ possibilities that these technologies have to offer.</p>
 
 <div class="row" style="padding: 20px 0px 10px 0px;">
 <div class="col" style="background-color: #f3f3f3; padding: 20px 20px 20px 20px;"> 
-<img src="/images/community/playscape/playscape_28.jpeg" alt="Smart Nation Builder Explore Zone"><br>
+	
+![Photo of exhibit at Playscape](/images/sndgo-media-centre/press-release/2023/exhibit_4.jpg)<br>
 	<div style="font-size:18px"><b>Exhibit 4: Blockchain</b><br><br>This exhibit demonstrates how blockchain works by creating a system based on mutually verified questions and answers. <br><br> In this interactive exhibit, guests answer a riddle individually. Only when all players enter the same answer (i.e. mutual agreement), there is consensus, and a ‘block’ is added to the chain.<br>
 </div>
 
