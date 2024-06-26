@@ -24,9 +24,8 @@ sections:
           url: /media-centre
         - title: Careers
           description: Join the MCI Family
-          url: /join-us/careers/why-join-mci/
+          url: /join-us/careers/life-at-mddi/
         - title: Committee of Supply
           description: MCI Budget Debate
           url: /what-we-do/committee-of-supply/2024/
-      
 ---
