@@ -69,7 +69,7 @@ variant: markdown
 
 <p>MDDI’s Translation Department maintains the Government Terms Translated repository, which agencies, translation companies and the public can refer to for translations of Government policy-related terms in the four official languages. Click <a href="https://www.translatedterms.gov.sg/">here</a> to visit the repository.</p>
 
-<img alt="Government Terms Translated Image" src="https://staging.d3gycxy3tjxrco.amplifyapp.com/images/TD/updated%20ifg%203_gtt%20ifg_mci%20website%20revamp%202023.png">
+<img alt="Government Terms Translated Image" src="/images/TD/updated%20ifg%203_gtt%20ifg_mci%20website%20revamp%202023.png">
 &nbsp;
 
 </section>
