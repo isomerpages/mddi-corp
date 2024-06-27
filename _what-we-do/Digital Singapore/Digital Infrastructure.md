@@ -58,8 +58,8 @@ next five years;
 <br>3. Ensure world-class resilience and security of increasingly critical
 compute infrastructure;
 <br>4. Pioneer a roadmap for the growth of new green DCs and push the sustainability
-envelope (Note: IMDA has since launched the Green DC Roadmap in June 2024);
-and
+envelope (Note: IMDA has since launched the <a href="https://www.imda.gov.sg/how-we-can-help/green-dc-roadmap" rel="noopener noreferrer nofollow" target="_blank">Green DC Roadmap</a> in
+June 2024); and
 <br>5. Drive greater adoption of the Singapore Digital Utility Stack, to expand
 the benefits of seamless digital transactions.</p>
 <p>We will also make moves in more nascent, frontier areas to reap future
