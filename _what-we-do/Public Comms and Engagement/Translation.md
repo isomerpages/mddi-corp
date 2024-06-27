@@ -38,10 +38,9 @@ variant: markdown
 <li>The portal serves as a one-stop platform for the translation community, where they can develop their translation skills, utilise translation resources, share their insights with one another and stay updated on translation-related programmes and events.</li>
 &nbsp;
 <img style="height:580px; width:411px;" alt="Information on SG Translate Together Web Portal" src="/images/TD/updated%20sgtt%20edm.jpg">
-<br>
 
 </ul></section>
-
+<br>
 <section id="citizen-translators-project">
 	<h3>Citizen Translators Project</h3>
 
