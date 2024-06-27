@@ -5,7 +5,8 @@ description: ""
 third_nav_title: Public Comms and Engagement
 variant: markdown
 ---
-<img alt="National Translation Committee Image" src="https://staging.d3gycxy3tjxrco.amplifyapp.com/images/TD/updated%20ifg%201_ntc%20banner_mci%20website%20revamp%202023.png">
+
+![National Translation Committee Image](/images/TD/updated%20ifg%201_ntc%20banner_mci%20website%20revamp%202023.png)
 &nbsp;
 <section id="raising-translation-standards">
 	<h3>Raising translation standards</h3>
@@ -13,6 +14,7 @@ variant: markdown
 <p><strong>About the National Translation Committee</strong></p>
 <img alt="National Translation Committee Image" src="https://staging.d3gycxy3tjxrco.amplifyapp.com/images/TD/updated%20ifg%202_ntc%20and%20rp%20ifg_mci%20website%20revamp%202023.png">
 
+![About the National Translation Committee](/images/TD/updated%20ifg%202_ntc%20and%20rp%20ifg_mci%20website%20revamp%202023.png)	
 <ul>
 <li>The committee is chaired by Mr Tan Kiat How, Senior Minister of State for Ministry of National Development, and Ministry of Digital Development and Information.</li>
 <li>Members of the public are invited to email <a href="mailto:MCI_NTC_Secretariat@mci.gov.sg">MDDI_NTC_Secretariat@mddi.gov.sg</a> if they have any queries or feedback.</li>
