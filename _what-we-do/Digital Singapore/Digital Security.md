@@ -16,7 +16,7 @@ come from anywhere.</p>
 government agencies, industry, and international partners to build a safe,
 secure and resilient digital space for our citizens and businesses. This
 ensures that the public can have trust and confidence in our digital future.</p>
-<h3>Digital Security and Resilience </h3>
+<h3>Digital Security and Resilience</h3>
 <p>MDDI leads the whole-of-government approach to enhance the security and
 resilience of the digital domain, to minimise the risk that our digital
 space will be disrupted. We work with government agencies and private-sector
