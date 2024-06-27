@@ -58,7 +58,6 @@ possibilities that these technologies have to offer.</p>
 </div>&nbsp; &nbsp; &nbsp; 
 	
 <div class="col" style="background-color: #f3f3f3; padding: 20px 20px 20px 20px;">  
-       
 <img alt="Photo of exhibit at Playscape" src="/images/sndgo-media-centre/press-release/2023/exhibit_3c.jpg"><br>
 	<div style="font-size:18px"><b>Exhibit 3C: Cybersecurity</b><br><br>This exhibit educates guests on the importance of staying cybersafe in a world full of growing cyber threats. <br><br>Guests will learn how to spot tell-tale signs of common scam tactics through an interactive quiz. <br>
 </div>
@@ -67,16 +66,14 @@ possibilities that these technologies have to offer.</p>
 
 <div class="row" style="padding: 20px 0px 10px 0px;">
 <div class="col" style="background-color: #f3f3f3; padding: 20px 20px 20px 20px;"> 
-	
-![Photo of exhibit at Playscape](/images/sndgo-media-centre/press-release/2023/exhibit_4.jpg)<br>
+<img alt="Photo of exhibit at Playscape" src="/images/sndgo-media-centre/press-release/2023/exhibit_4.jpg"><br>
 	<div style="font-size:18px"><b>Exhibit 4: Blockchain</b><br><br>This exhibit demonstrates how blockchain works by creating a system based on mutually verified questions and answers. <br><br> In this interactive exhibit, guests answer a riddle individually. Only when all players enter the same answer (i.e. mutual agreement), there is consensus, and a ‘block’ is added to the chain.<br>
 </div>
 
 </div>&nbsp; &nbsp; &nbsp; 
 	
 <div class="col" style="background-color: #f3f3f3; padding: 20px 20px 20px 20px;">  
-	
-![Photo of exhibit at Playscape](/images/sndgo-media-centre/press-release/2023/exhibit_5a.jpg)<br>
+<img alt="Photo of exhibit at Playscape" src="/images/sndgo-media-centre/press-release/2023/exhibit_5a.jpg"><br>
 	<div style="font-size:18px"><b>Exhibit 5A: AI, Data Analytics I</b><br><br>This exhibit showcases how Artificial Intelligence (AI) can be trained to serve us better - by inputting clean data for it to analyse, visualise and create predictive models. <br><br>In this multi-player game, players challenge each other to drawing simple objects that the AI machine is trained to identify.<br>
 </div>
 
@@ -84,16 +81,14 @@ possibilities that these technologies have to offer.</p>
 
 <div class="row" style="padding: 20px 0px 10px 0px;">
 <div class="col" style="background-color: #f3f3f3; padding: 20px 20px 20px 20px;"> 
-	
-![Photo of exhibit at Playscape](/images/sndgo-media-centre/press-release/2023/exhibit_5b.jpg)<br>
+<img alt="Photo of exhibit at Playscape" src="/images/sndgo-media-centre/press-release/2023/exhibit_5b.jpg"><br>
 	<div style="font-size:18px"><b>Exhibit 5B: AI, Data Analytics II</b><br><br>This exhibit shows how machine learning works by teaching a computer to identify patterns and to make decisions based on data. <br><br>Players can ‘train’ a computer to identify and differentiate various animal shapes (e.g. dog, cat, rabbit), by placing it in front of a camera, without writing any code.<br>
 </div>
 
 </div>&nbsp; &nbsp; &nbsp; 
 	
 <div class="col" style="background-color: #f3f3f3; padding: 20px 20px 20px 20px;">  
-
-![Photo of exhibit at Playscape](/images/sndgo-media-centre/press-release/2023/exhibit_6a.jpg)<br>
+<img alt="Photo of exhibit at Playscape" src="/images/sndgo-media-centre/press-release/2023/exhibit_6a.jpg"><br>
 	<div style="font-size:18px"><b>Exhibit 6A: Robotics I</b><br><br>This exhibit highlights how robots can learn or do things as well as (or better than) humans. <br><br>Guests can scramble a Rubik’s Cube and place it in a machine to watch how quickly the robot solves it. <br>
 </div>
 
@@ -101,16 +96,14 @@ possibilities that these technologies have to offer.</p>
 
 <div class="row" style="padding: 20px 0px 10px 0px;">
 <div class="col" style="background-color: #f3f3f3; padding: 20px 20px 20px 20px;"> 
-	
-![Photo of exhibit at Playscape](/images/sndgo-media-centre/press-release/2023/exhibit_6b.jpg)<br>
+<img alt="Photo of exhibit at Playscape" src="/images/sndgo-media-centre/press-release/2023/exhibit_6b.jpg"><br>
 	<div style="font-size:18px"><b>Exhibit 6B: Robotics II</b><br><br>This exhibit showcases how robots can be programmed to do specific tasks repetitively and accurately.<br><br> Guests can programme a robot to dance by choosing a series of dance moves.<br>
 </div>
 
 </div>&nbsp; &nbsp; &nbsp; 
 	
 <div class="col" style="background-color: #f3f3f3; padding: 20px 20px 20px 20px;">  
-	
-![Photo of exhibit at Playscape](/images/sndgo-media-centre/press-release/2023/exhibit_7.jpg)<br>
+<img alt="Photo of exhibit at Playscape" src="/images/sndgo-media-centre/press-release/2023/exhibit_7.jpg"><br>
 	<div style="font-size:18px"><b>Exhibit 7: UX and Services</b><br><br>This exhibit helps guests to understand the basic principles of good User Experience (UX) design, and how to apply them to meet the needs of different users. <br><br>Guests can play a series of games to design an app using UX principles. They also get to experience issues encountered by some end-users, such as colour blindness and short-sightedness.<br>
 </div>
 
