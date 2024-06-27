@@ -47,6 +47,23 @@ to drive innovation to overcome these constraints and serve as a useful
 model for other urban cities. It also allows us to achieve widespread domestic
 connectivity more easily and bring together different ecosystem players
 to enhance our digital connectivity and develop digital solutions.</p>
+<h3>Our Strategic Priorities and Moves into New Frontiers</h3>
+<p>As part of Singapore’s Digital Connectivity Blueprint launched in June
+2023, MDDI has set out five strategic priorities to enhance our digital
+infrastructure and stay ahead of future trends and demand:</p>
+<p>1. Provide capacity to enable submarine cable landings to double within
+the next 10 years;</p>
+<p>2. Build seamless end-to-end 10 Gbps domestic connectivity within the
+next five years;</p>
+<p>3. Ensure world-class resilience and security of increasingly critical
+compute infrastructure;</p>
+<p>4. Pioneer a roadmap for the growth of new green DCs and push the sustainability
+envelope (Note: IMDA has since launched the Green DC Roadmap in June 2024);
+and</p>
+<p>5. Drive greater adoption of the Singapore Digital Utility Stack, to expand
+the benefits of seamless digital transactions.</p>
+<p>We will also make moves in more nascent, frontier areas to reap future
+opportunities.</p>
 <p></p>
 <p></p>
 <p></p>
@@ -68,21 +85,22 @@ enables enterprises to transform their operations and service offerings;
 and strengthens Singapore’s position as a global hub.</p>
 <h2>MCI’s Approach to Building Digital Infrastructure</h2>
 <p>MCI’s approach toward building Singapore’s digital infrastructure centres
-on three core tenets.
-<br><strong>Making forward-looking investments</strong> – investing ahead of
+on three core tenets.</p>
+<ol data-tight="true" class="tight">
+<li>
+<p><strong>Making forward-looking investments</strong> – investing ahead of
 demand so that Singapore is ready to embrace opportunities when technological
 trends (e.g., Artificial Intelligence, autonomous systems, immersive experiences,
 distributed cloud, quantum technologies) mature, and has the capacity to
 deal with unexpected challenges (e.g., the surge in digital interactions
-during a pandemic).
-<br>
-<br>
-</p>
-<ol>
+during a pandemic).</p>
+</li>
 <li>
 <p><strong>Taking a holistic view of the digital infrastructure stack</strong> –looking
 beyond traditional connectivity to plan for the entire ‘digital infrastructure
 stack’ in an integrated manner:</p>
+</li>
+</ol>
 <p>a. hard infrastructure – traditional submarine cable, satellite, broadband,
 mobile and Wi-Fi networks, as well as Data Centres and cloud computing;
 <br>b. physical-digital infrastructure – devices, middleware, and networks
@@ -95,7 +113,7 @@ applications.
 <br>
 <br>
 </p>
-</li>
+<ol>
 <li>
 <p><strong>Playing to Singapore’s unique circumstances</strong> – accounting
 for Singapore’s limitations in land, carbon, and spectrum, while leveraging
