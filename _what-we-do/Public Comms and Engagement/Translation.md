@@ -11,7 +11,6 @@ variant: markdown
 	<h3>Raising translation standards</h3>
 
 <p><strong>About the National Translation Committee</strong></p>
-
 ![About the National Translation Committee](/images/TD/updated%20ifg%202_ntc%20and%20rp%20ifg_mci%20website%20revamp%202023.png)	
 &nbsp;
 <ul>
