@@ -5,8 +5,8 @@ description: ""
 third_nav_title: Public Comms and Engagement
 variant: tiptap
 ---
-<h2>Reporting in Singapore</h2>
-<h3>Establishing a news bureau</h3>
+<h3>Reporting in Singapore</h3>
+<h4>Establishing a news bureau</h4>
 <p>Media organisations that wish to set up a news bureau in Singapore have
 to apply to the Ministry of Digital Development and Information (MDDI)
 for approval. To do so, please email MDDI’s Media Division <a href="mailto:mddi_duty_officer@mddi.gov.sg" rel="noopener noreferrer nofollow" target="_blank">mddi_duty_officer@mddi.gov.sg </a>with
@@ -38,9 +38,10 @@ office has to be set up. For this, please contact:</p>
 <br>Level 1, Revenue House
 <br>55 Newton Road, Singapore 307987</p>
 <p><strong>ACRA Helpdesk</strong> 
-<br>(65) 6248 6028 (Mon to Fri, 8.30am to 6.00pm) &nbsp; Email:&nbsp;<a href="https://www.acra.gov.sg/enquiry/" rel="noopener noreferrer nofollow" target="_blank">https://www.acra.gov.sg/enquiry/</a>
+<br>(65) 6248 6028 (Mon to Fri, 8.30am to 6.00pm)
+<br>Email:&nbsp;<a href="https://www.acra.gov.sg/enquiry/" rel="noopener noreferrer nofollow" target="_blank">https://www.acra.gov.sg/enquiry/</a>
 </p>
-<h3>Work Passes</h3>
+<h4>Work Passes</h4>
 <p>Foreigners who intend to work in Singapore must have a valid work pass
 (commonly known as a work visa) before they start work. Please visit the&nbsp;
 <a href="https://www.mom.gov.sg/passes-and-permits" rel="noopener noreferrer nofollow" target="_blank">Ministry of Manpower (MOM)’s website</a>&nbsp;for more information on
@@ -51,7 +52,7 @@ to apply for a Miscellaneous Work Pass (MWP) via MOM’s&nbsp;<a href="http://ww
 <p>For enquiries on work pass matters, please contact MOM’s Work Pass Division
 at&nbsp;<a href="mailto:mom_wpd@mom.gov.sg" rel="noopener noreferrer nofollow" target="_blank">mom_wpd@mom.gov.sg</a>.</p>
 <p>Tel: (65) 6438 5122 (Mon to Fri: 8.30am to 5.30pm; Sat: 8.30am to 1.00pm)</p>
-<h3>Press Accreditation</h3>
+<h4>Press Accreditation</h4>
 <p>Media personnel working in Singapore may apply for a press accreditation
 card (PAC) from MDDI. The PAC identifies you as a bona fide media and provides
 access to government information and events. Applications are considered
@@ -75,7 +76,7 @@ contract staff, temporary staff, interns and freelancers</p>
 <p>To apply for Media Organisation Accreditation or a PAC, please visit the
 <a href="http://paconline.gov.sg" rel="noopener noreferrer nofollow" target="_blank">PAC Online&nbsp;website</a>. For enquiries on press accreditation, email:&nbsp;
 <a href="mailto:MCI_PAC_Online@mci.gov.sg" rel="noopener noreferrer nofollow" target="_blank">mddi_pac_online@mddi.gov.sg</a>.</p>
-<h3>MDDI Duty Desk</h3>
+<h4>MDDI Duty Desk</h4>
 <p>MDDI’s Media Division facilitates the dissemination of government information
 to local and foreign media organisations based in Singapore via the MDDI
 Duty Desk.</p>
@@ -87,21 +88,21 @@ are available at the&nbsp;SG Press Centre.</p>
 9am to 6pm &nbsp; Eve of Christmas (24 Dec), New Year (31 Dec) and Chinese
 New Year: 9am to 1pm &nbsp; Weekends and Public Holidays: Closed</p>
 <p>Email:&nbsp;<a href="mailto:mci_duty_officer@mci.gov.sg" rel="noopener noreferrer nofollow" target="_blank">mddi_duty_officer@mddi.gov.sg</a>.</p>
-<h3>Entry Requirements</h3>
+<h4>Entry Requirements</h4>
 <p>The Immigration &amp; Checkpoints Authority (ICA) is responsible for securing
 Singapore’s borders against the entry of undesirable people and cargo through
 land, air and sea checkpoints. It also administers immigration and registration
 services, such as issuing immigration passes and permits to foreigners.</p>
-<p>For more information on requirements for entry to Singapore, visit the 
+<p>For more information on requirements for entry to Singapore, visit the
 <a href="https://www.ica.gov.sg/" rel="noopener noreferrer nofollow" target="_blank">ICA</a> website.</p>
-<h3>Customs formalities</h3>
+<h4>Customs formalities</h4>
 <p>Certain goods must be declared and will be allowed entry into Singapore
 only when you produce the import permit or authorisation from the relevant
 authorities.</p>
 <p>For more information, visit the <a href="https://www.customs.gov.sg/individuals/going-through-customs/arrivals" rel="noopener noreferrer nofollow" target="_blank">Singapore Customs</a> website.</p>
-<h3>Government Directory</h3>
+<h4>Government Directory</h4>
 <p>The Singapore Government Directory Interactive (<a href="http://www.sgdi.gov.sg/" rel="noopener noreferrer nofollow" target="_blank">SGDi</a>) is an online directory listing
 the contact details of the Singapore’s government agencies and officers.</p>
-<h3>General information on taxes</h3>
+<h4>General information on taxes</h4>
 <p>Your tax liability will depend on your tax residency status. For more
 information, visit the <a href="https://www.iras.gov.sg/" rel="noopener noreferrer nofollow" target="_blank">Inland Revenue Authority of Singapore</a> website.</p>
