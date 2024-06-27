@@ -32,5 +32,5 @@ sections:
       title: Latest News
       subtitle: Media Centre
       id: resources
-      button: More
+      button: More news
 ---
