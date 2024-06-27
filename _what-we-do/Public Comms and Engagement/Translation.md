@@ -13,10 +13,9 @@ variant: markdown
 <p><strong>About the National Translation Committee</strong></p>
 
 ![About the National Translation Committee](/images/TD/updated%20ifg%202_ntc%20and%20rp%20ifg_mci%20website%20revamp%202023.png)	
-	
 <ul>
 <li>The committee is chaired by Mr Tan Kiat How, Senior Minister of State for Ministry of National Development, and Ministry of Digital Development and Information.</li>
-<li>Members of the public are invited to email <a href="mailto:MCI_NTC_Secretariat@mci.gov.sg">MDDI_NTC_Secretariat@mddi.gov.sg</a> if they have any queries or feedback.</li>
+<li>Members of the public are invited to email <a href="mailto:MDDI_NTC_Secretariat@mddi.gov.sg">MDDI_NTC_Secretariat@mddi.gov.sg</a> if they have any queries or feedback.</li>
 </ul>
 
 [Full list of current NTC members](/files/Translation/full_list_of_6th_term_ntc_members__29_feb_2024.pdf)<p></p>
@@ -46,6 +45,7 @@ variant: markdown
 <ul>
 <li>The Citizen Translators (CT) Project was launched in 2021, as part of the Government’s efforts to raise the overall translation and language standards in Singapore. An initiative under the National Translation Committee and part of the SG Together Movement, the project is a first in Singapore involving members of the public, which aims to harness the expertise of the community to crowdsource the best translations for government communications materials. </li>
 
+![Graphic of person vetting and proofreading](/images/TD/ct_project_1_vetting_and_proofreading.png)
 	<img alt="Vetting and Proofreading" src="https://staging.d3gycxy3tjxrco.amplifyapp.com/images/TD/ct_project_1_vetting_and_proofreading.png">
 <li>CTs support the vetting and proofreading of translated communication materials from various government agencies. </li>
 <img alt="Identifying Translation Errors" src="https://staging.d3gycxy3tjxrco.amplifyapp.com/images/TD/ct_project_2_translation_errors.png">
