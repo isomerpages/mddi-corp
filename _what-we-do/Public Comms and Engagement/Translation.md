@@ -7,14 +7,13 @@ variant: markdown
 ---
 ![National Translation Committee Image](/images/TD/updated%20ifg%201_ntc%20banner_mci%20website%20revamp%202023.png)
 &nbsp;
+![Information about the National Translation Committee](/images/TD/updated%20ifg%202_ntc%20and%20rp%20ifg_mci%20website%20revamp%202023.png)
 <section id="raising-translation-standards">
 	<h3>Raising translation standards</h3>
 
 <p><strong>About the National Translation Committee</strong></p>
 	
-![Information about the National Translation Committee]
-	
-![About the National Translation Committee](/images/TD/updated%20ifg%202_ntc%20and%20rp%20ifg_mci%20website%20revamp%202023.png)	
+
 &nbsp;
 <ul>
 <li>The committee is chaired by Mr Tan Kiat How, Senior Minister of State for Ministry of National Development, and Ministry of Digital Development and Information.</li>
