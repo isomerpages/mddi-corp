@@ -8,8 +8,6 @@ variant: markdown
 ![National Translation Committee Image](/images/TD/updated%20ifg%201_ntc%20banner_mci%20website%20revamp%202023.png)
 &nbsp;
 
-
-![Information about the National Translation Committee](/images/TD/updated%20ifg%202_ntc%20and%20rp%20ifg_mci%20website%20revamp%202023.png)
 <section id="raising-translation-standards">
 	<h3>Raising translation standards</h3>
 
