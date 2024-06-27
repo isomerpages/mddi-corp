@@ -36,10 +36,10 @@ that form any part of the Materials.</p>
 </p>
 </li>
 <li>
-<p>The Materials are provided by the Ministry of Communications and Information
-(“<strong>MCI</strong>”) on behalf of the Government of Singapore (the
-“<strong>Government</strong>”). Subject to clause 3, the Materials are
-protected by copyright owned by the Government.</p>
+<p>The Materials are provided by the Ministry of Digital Development and
+Information (“<strong>MDDI</strong>”) on behalf of the Government of Singapore
+(the “<strong>Government</strong>”). Subject to clause 3, the Materials
+are protected by copyright owned by the Government.</p>
 </li>
 <li>
 <p>In some cases, the Materials may also include content that is protected
@@ -63,14 +63,15 @@ by law, before using the Materials.</p>
 </li>
 <li>
 <p>If this licence does not apply, you must seek permission in writing from
-MCI if you wish to use the Materials. When seeking permission, you must
+MDDI if you wish to use the Materials. When seeking permission, you must
 state clearly your identity, the Materials that you intend to use, how
-and what you intend to use it for, and for how long. MCI reserves the right
-to refuse permission, and is not obliged to provide reasons for doing so.</p>
+and what you intend to use it for, and for how long. MDDI reserves the
+right to refuse permission, and is not obliged to provide reasons for doing
+so.</p>
 </li>
 <li>
 <p>You shall not transfer or sublicence your rights or obligations under
-this licence to any third party without MCI’s prior written consent.</p>
+this licence to any third party without MDDI’s prior written consent.</p>
 <p><strong>Conditions of Responsible Use</strong>
 </p>
 </li>
@@ -102,21 +103,21 @@ colour corrections; and</p>
 of the “Government of Singapore” as the copyright owner of the Materials.</p>
 </li>
 <li>
-<p>MCI may, in its sole and absolute discretion, determine if your use of
+<p>MDDI may, in its sole and absolute discretion, determine if your use of
 the Materials is in breach of any part of these Terms. You acknowledge
 and agree that in the event of breach:</p>
 <p>9.1 Permission to your use of the Materials will automatically cease.
 You will immediately stop any non-compliant use of the Materials, and will
-comply with all relevant directions from MCI. Failure to comply with any
+comply with all relevant directions from MDDI. Failure to comply with any
 part of this paragraph 9.1 will constitute a further breach of this agreement.</p>
-<p>9.2 MCI has the right to require the provider of a third-party service
+<p>9.2 MDDI has the right to require the provider of a third-party service
 (e.g., social media platforms) that you are using in relation to the Materials
 to stop any non-compliant use of the Materials.</p>
 <p><strong>General</strong>
 </p>
 </li>
 <li>
-<p>MCI and the Government will not be liable for any damage or loss of any
+<p>MDDI and the Government will not be liable for any damage or loss of any
 kind caused (whether directly or indirectly) as a result of your use of
 the Materials, including any damage or loss arising from you failing to
 comply with these Terms.</p>
@@ -145,7 +146,7 @@ will mean that you have agreed to the modified Terms and all of the changes.</p>
 <p>These Terms shall be governed by and interpreted in accordance with laws
 of the Republic of Singapore, and you agree to submit to the exclusive
 jurisdiction of Singapore Courts.</p>
-<p><strong>Published on 4 January 2021</strong>
+<p><strong>Published on 8 July 2024</strong>
 </p>
 </li>
 </ol>
