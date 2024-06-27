@@ -21,7 +21,6 @@ variant: markdown
 [Full list of current NTC members](/files/Translation/full_list_of_6th_term_ntc_members__29_feb_2024.pdf)<p></p>
 [Full list of current RP members](/files/Translation/Full_list_of_6th_Term_RP_members_11Mar2024.pdf)
 
-<p><a href="https://www.mci.gov.sg/files/Translation/Full_list_of_6th_Term_RP_members_11Mar2024.pdf">Full list of current RP members</a></p>
 </section>
 <br>
 <section id="sgtt-web-portal">
@@ -36,7 +35,8 @@ variant: markdown
 <li>The portal serves as a one-stop platform for the translation community, where they can develop their translation skills, utilise translation resources, share their insights with one another and stay updated on translation-related programmes and events.</li>
 &nbsp;
 
-<img src="https://www.mci.gov.sg/images/TD/sgtt%20edm.jpg" style="height:580px; width:411px;">
+![Info on SG Translate Together Web Portal](/images/TD/updated%20sgtt%20edm.jpg)	
+
 &nbsp;
 
 </ul></section>
