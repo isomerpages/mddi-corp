@@ -48,9 +48,9 @@ model for other urban cities. It also allows us to achieve widespread domestic
 connectivity more easily and bring together different ecosystem players
 to enhance our digital connectivity and develop digital solutions.</p>
 <h3>Our Strategic Priorities and Moves into New Frontiers</h3>
-<p>As part of Singapore’s Digital Connectivity Blueprint launched in June
-2023, MDDI has set out five strategic priorities to enhance our digital
-infrastructure and stay ahead of future trends and demand:</p>
+<p>As part of Singapore’s <a href="https://www.imda.gov.sg/how-we-can-help/digital-connectivity-blueprint" rel="noopener noreferrer nofollow" target="_blank">Digital Connectivity Blueprint</a> launched
+in June 2023, MDDI has set out five strategic priorities to enhance our
+digital infrastructure and stay ahead of future trends and demand:</p>
 <p>1. Provide capacity to enable submarine cable landings to double within
 the next 10 years;
 <br>2. Build seamless end-to-end 10 Gbps domestic connectivity within the
