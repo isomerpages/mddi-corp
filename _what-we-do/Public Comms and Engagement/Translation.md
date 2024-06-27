@@ -19,6 +19,8 @@ variant: markdown
 <li>Members of the public are invited to email <a href="mailto:MDDI_NTC_Secretariat@mddi.gov.sg">MDDI_NTC_Secretariat@mddi.gov.sg</a> if they have any queries or feedback.</li>
 </ul>
 
+<p><a href="https://www.mci.gov.sg/files/Translation/full_list_of_6th_term_ntc_members__29_feb_2024.pdf">Full list of current NTC members</a></p>
+<p><a href="https://www.mci.gov.sg/files/Translation/Full_list_of_6th_Term_RP_members_11Mar2024.pdf">Full list of current RP members</a></p>
 [Full list of current NTC members](/files/Translation/full_list_of_6th_term_ntc_members__29_feb_2024.pdf)<p></p>
 [Full list of current RP members](/files/Translation/Full_list_of_6th_Term_RP_members_11Mar2024.pdf)
 
@@ -35,7 +37,7 @@ variant: markdown
 <li>The registered users, known as Citizen Translators, can edit the MT generated translations and submit them for review. These reviewed translations will be used to further train the MT engine.</li>
 <li>The portal serves as a one-stop platform for the translation community, where they can develop their translation skills, utilise translation resources, share their insights with one another and stay updated on translation-related programmes and events.</li>
 &nbsp;
-<img alt="Information on SG Translate Together Web Portal" src="/images/TD/updated%20sgtt%20edm.jpg">
+<img style="height:580px; width:411px;" alt="Information on SG Translate Together Web Portal" src="/images/TD/updated%20sgtt%20edm.jpg">
 
 
 </ul></section>
