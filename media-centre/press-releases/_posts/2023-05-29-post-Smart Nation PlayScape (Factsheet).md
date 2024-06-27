@@ -18,10 +18,10 @@ possibilities that these technologies have to offer.</p>
 <p>Smart Nation PlayScape consists of eight zones of exhibits:
 <br>
 </p>
+
 <div class="row" style="padding: 20px 0px 10px 0px;">
 <div class="col" style="background-color: #f3f3f3; padding: 20px 20px 20px 20px;"> 
-	
-![Photo of exhibit at Playscape](/images/sndgo-media-centre/press-release/2023/exhibit_1a.jpg)<br>
+<img alt="Photo of exhibit at Playscape" src="/images/sndgo-media-centre/press-release/2023/exhibit_1a.jpg"><br>
 	<div style="font-size:18px"><b>Exhibit 1A: Sensors I</b><br><br>This exhibit shows how different sensors can tell us important details about our bodies. <br><br>Guests can step into the booth and have their vitals (e.g. height, weight, breath rate) read using different sensors. They can even take a special thermal camera selfie that shows their body heat. <br>
 </div>
 
