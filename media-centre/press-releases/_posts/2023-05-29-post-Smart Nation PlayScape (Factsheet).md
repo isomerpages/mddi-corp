@@ -111,16 +111,14 @@ possibilities that these technologies have to offer.</p>
 
 <div class="row" style="padding: 20px 0px 10px 0px;">
 <div class="col" style="background-color: #f3f3f3; padding: 20px 20px 20px 20px;"> 
-	
-![Photo of exhibit at Playscape](/images/sndgo-media-centre/press-release/2023/exhibit_8a.jpg)<br>
+<img alt="Photo of exhibit at Playscape" src="/images/sndgo-media-centre/press-release/2023/exhibit_8a.jpg"><br>
 	<div style="font-size:18px"><b>Exhibit 8A: AR &amp; VR</b><br><br>This exhibit shows guests the possibilities of Virtual Reality (VR), allowing guests to explore places that they might not have access to or perhaps have yet to visit. <br><br>In this interactive exhibit, users get to ‘travel the world’ by experiencing the unique sights of different places like Aurora Storms in Greenland, Mount Rigi in Switzerland, Coral Reefs in Philippines, and Pyramids in Egypt.<br>
 </div>
 
 </div>&nbsp; &nbsp; &nbsp; 
 	
 <div class="col" style="background-color: #f3f3f3; padding: 20px 20px 20px 20px;">  
-	
-![Photo of exhibit at Playscape](/images/sndgo-media-centre/press-release/2023/exhibit_8b.jpg)<br>
+<img alt="Photo of exhibit at Playscape" src="/images/sndgo-media-centre/press-release/2023/exhibit_8b.jpg"><br>
 	<div style="font-size:18px"><b>Exhibit 8B: AR &amp; VR</b><br><br>This exhibit demonstrates how Augmented Reality (AR) can help make learning more immersive, by overlaying digital content onto the real world.<br><br> In this interactive experience, guests can grow virtual plants on a tabletop garden scape and pick up basic gardening skills by selecting the best growing conditions for their plant.<br>
 </div>
 
@@ -128,8 +126,7 @@ possibilities that these technologies have to offer.</p>
 
 <div class="row" style="padding: 20px 0px 10px 0px;">
 <div class="col" style="background-color: #f3f3f3; padding: 20px 20px 20px 20px;"> 
-	
-![Photo of exhibit at Playscape](/images/sndgo-media-centre/press-release/2023/central.jpg)<br>
+<img alt="Photo of exhibit at Playscape" src="/images/sndgo-media-centre/press-release/2023/central.jpg"><br>
 	<div style="font-size:18px"><b>Central Display: Everyday Tech</b><br><br>The central display called ‘Cabinet of Curiosities’, features a collection of objects that showcase how technology is already shaping our lives – from how we stay healthy, to how we shop, travel and play. <br><br>Guests can explore an assortment of objects, categorised into four themes, with each object telling a story about a specific technology.<br>
 </div>
 
