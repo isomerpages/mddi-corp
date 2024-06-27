@@ -5,13 +5,13 @@ description: ""
 third_nav_title: Public Comms and Engagement
 variant: markdown
 ---
-<img alt="National Translation Committee Image" src="https://www.mci.gov.sg/images/TD/updated%20ifg%201_ntc%20banner_mci%20website%20revamp%202023.png">
+<img alt="National Translation Committee Image" src="https://staging.d3gycxy3tjxrco.amplifyapp.com/images/TD/updated%20ifg%201_ntc%20banner_mci%20website%20revamp%202023.png">
 &nbsp;
 <section id="raising-translation-standards">
 	<h3>Raising translation standards</h3>
 
 <p><strong>About the National Translation Committee</strong></p>
-<img alt="National Translation Committee Image" src="https://www.mci.gov.sg/images/TD/updated%20ifg%202_ntc%20and%20rp%20ifg_mci%20website%20revamp%202023.png">
+<img alt="National Translation Committee Image" src="https://staging.d3gycxy3tjxrco.amplifyapp.com/images/TD/updated%20ifg%202_ntc%20and%20rp%20ifg_mci%20website%20revamp%202023.png">
 
 <ul>
 <li>The committee is chaired by Mr Tan Kiat How, Senior Minister of State for Ministry of National Development, and Ministry of Digital Development and Information.</li>
@@ -44,13 +44,13 @@ variant: markdown
 
 <ul>
 <li>The Citizen Translators (CT) Project was launched in 2021, as part of the Government’s efforts to raise the overall translation and language standards in Singapore. An initiative under the National Translation Committee and part of the SG Together Movement, the project is a first in Singapore involving members of the public, which aims to harness the expertise of the community to crowdsource the best translations for government communications materials. </li>
-<img alt="Vetting and Proofreading" src="https://www.mddi.gov.sg/images/TD/ct_project_1_vetting_and_proofreading.png">
+<img alt="Vetting and Proofreading" src="https://staging.d3gycxy3tjxrco.amplifyapp.com/images/TD/ct_project_1_vetting_and_proofreading.png">
 <li>CTs support the vetting and proofreading of translated communication materials from various government agencies. </li>
-<img alt="Identifying Translation Errors" src="https://www.mddi.gov.sg/images/TD/ct_project_2_translation_errors.png">
+<img alt="Identifying Translation Errors" src="https://staging.d3gycxy3tjxrco.amplifyapp.com/images/TD/ct_project_2_translation_errors.png">
 <li>CTs identify errant translations in government communication materials, and report them to the NTC Secretariat. </li>
-<img alt="NTC Updates" src="https://www.mddi.gov.sg/images/TD/ct_project_3_ntc_updates.png">
+<img alt="NTC Updates" src="https://staging.d3gycxy3tjxrco.amplifyapp.com/images/TD/ct_project_3_ntc_updates.png">
 <li>CTs receive updates on NTC key announcements and events, and are engaged - digitally and in-person - through the SGTT forum, quizzes, workshops and seminars. </li>
-<img alt="Translation-related Events" src="https://www.mddi.gov.sg/images/TD/ct_project_4_translation_events.png">
+<img alt="Translation-related Events" src="https://staging.d3gycxy3tjxrco.amplifyapp.com/images/TD/ct_project_4_translation_events.png">
 <li>CTs who participate in translation-related events and activities get rewarded under the CT Recognition Framework. </li>
 <li>Interested parties may sign up as a CT by registering on the SGTT portal <a href="https://www.sgtranslatetogether.gov.sg/">here</a>.</li>
 
@@ -67,7 +67,7 @@ variant: markdown
 
 <p>MDDI’s Translation Department maintains the Government Terms Translated repository, which agencies, translation companies and the public can refer to for translations of Government policy-related terms in the four official languages. Click <a href="https://www.translatedterms.gov.sg/">here</a> to visit the repository.</p>
 
-<img alt="Government Terms Translated Image" src="https://www.mci.gov.sg/images/TD/updated%20ifg%203_gtt%20ifg_mci%20website%20revamp%202023.png">
+<img alt="Government Terms Translated Image" src="https://staging.d3gycxy3tjxrco.amplifyapp.com/images/TD/updated%20ifg%203_gtt%20ifg_mci%20website%20revamp%202023.png">
 &nbsp;
 
 </section>
@@ -77,7 +77,7 @@ variant: markdown
 
 <p><strong>Information Service (Translation) Scholarship</strong></p>
 
-<p>In 2015, MDDI introduced the Information Service (Translation) Scholarship, aimed at identifying and grooming young Singaporeans who have a strong interest in translation as well as a deep familiarity with Singapore’s translation landscape and context. Click <a href="https://www.mci.gov.sg/join-us/scholarship/overview/">here</a> for more information on the Information Service (Translation) Scholarship. </p>
+<p>In 2015, MDDI introduced the Information Service (Translation) Scholarship, aimed at identifying and grooming young Singaporeans who have a strong interest in translation as well as a deep familiarity with Singapore’s translation landscape and context. Click <a href="https://www.mddi.gov.sg/join-us/scholarship/overview/">here</a> for more information on the Information Service (Translation) Scholarship. </p>
 </section>
 <br>
 <section id="translation-talent-development-scheme">
@@ -91,7 +91,7 @@ variant: markdown
 <div style="position:relative;padding-top:56.25%;"> <iframe style="position:absolute;top:0;left:0;width:100%;height:100%;" align="center" allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/Lcflsk1blxA?si=I-YO_L03DRH0VaeQ" height="315" width="560"></iframe> </div>
 &nbsp;
 
-<img alt="TTDS Image" src="https://www.mci.gov.sg/images/TD/ttds%20brochure.png">
+<img alt="TTDS Image" src="https://staging.d3gycxy3tjxrco.amplifyapp.com/images/TD/ttds%20brochure.png">
 
 <style>  
   details { 
@@ -117,7 +117,7 @@ Applications are now open from 1 April 2024 to 30 June 2024 (both dates inclusiv
 
 <details> 
 <summary>How to apply?</summary>
-Please read through the <a rel="noopener noreferrer" target="_blank" href="https://www.mci.gov.sg/files/Translation/TTDS_Application_Guide_2024.pdf">TTDS Application Guide</a> to find out more about TTDS. Please take note that the <a rel="noopener noreferrer" target="_blank" href="https://go.gov.sg/ttds-application">TTDS Application Form</a> has to be completed in one sitting, as incomplete applications cannot be saved as drafts. Hence, please set aside sufficient time to prepare the supporting documents (preferably in Microsoft Word or Adobe Acrobat PDF formats) required for the submission:
+Please read through the <a rel="noopener noreferrer" target="_blank" href="https://staging.d3gycxy3tjxrco.amplifyapp.com/files/Translation/TTDS_Application_Guide_2024.pdf">TTDS Application Guide</a> to find out more about TTDS. Please take note that the <a rel="noopener noreferrer" target="_blank" href="https://go.gov.sg/ttds-application">TTDS Application Form</a> has to be completed in one sitting, as incomplete applications cannot be saved as drafts. Hence, please set aside sufficient time to prepare the supporting documents (preferably in Microsoft Word or Adobe Acrobat PDF formats) required for the submission:
 <br><br>
 1. <a rel="noopener noreferrer" target="_blank" href="https://go.gov.sg/ttds-cdp">Capability Development Plan form</a> - download the form and upload it to the TTDS Application Form after completion
 <br><br>
@@ -145,7 +145,7 @@ For more information, please refer to:
 </thead>
 <tbody>
 <tr>
-<td><a rel="noopener noreferrer" target="_blank" href="https://www.mci.gov.sg/files/Translation/TTDS_Application_Guide_2024.pdf">Application Guide</a></td>
+<td><a rel="noopener noreferrer" target="_blank" href="https://staging.d3gycxy3tjxrco.amplifyapp.com/files/Translation/TTDS_Application_Guide_2024.pdf">Application Guide</a></td>
 <td><a rel="noopener noreferrer" target="_blank" href="https://go.gov.sg/ttds-application">Application Form</a></td>
 <td><a rel="noopener noreferrer" target="_blank" href="https://go.gov.sg/ttds-cdp">Capability Development Plan Form</a></td>
 <td> 
@@ -224,8 +224,8 @@ For more information, please refer to:
 <tbody>
 <tr>
 <td><a href="https://go.gov.sg/citeg-enquiry">Enquiry Form</a></td>
-<td><a href="https://www.mci.gov.sg/files/Translation/CiTEG_Application_Guide_caa_21_Sep_2023.pdf">Application Guide</a></td>
-<td><a href="https://www.mci.gov.sg/files/Translation/citeg%20application%20form%20(updated%2030%20apr%202021).pdf">Application Form</a></td>
+<td><a href="https://staging.d3gycxy3tjxrco.amplifyapp.com/files/Translation/CiTEG_Application_Guide_caa_21_Sep_2023.pdf">Application Guide</a></td>
+<td><a href="staging.d3gycxy3tjxrco.amplifyapp.com/files/Translation/citeg%20application%20form%20(updated%2030%20apr%202021).pdf">Application Form</a></td>
 </tr>
 </tbody>
 </table><br><br>
