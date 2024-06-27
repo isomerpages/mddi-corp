@@ -11,7 +11,7 @@ from 13% in 2017.</p>
 <h3>Equipping Enterprises to seize opportunities in a digital future</h3>
 <p>MDDI will continue to support our enterprises in their digitalisation
 journey, to transform their business and innovate. Our enterprises have
-made good progress in embracing digital technologies. The <strong>Digital Enterprise Blueprint</strong>,
+made good progress in embracing digital technologies. The <a href="https://www.mci.gov.sg/digital-enterprise-blueprint/" rel="noopener noreferrer nofollow" target="_blank">Digital Enterprise Blueprint</a>,
 was co-created in consultation with various stakeholders, including SMEs,
 industry leaders, solutions providers, and trade associations to power
 our enterprises in their next bound of digitalisation. It outlines the
