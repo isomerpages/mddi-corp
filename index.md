@@ -4,8 +4,8 @@ title: Ministry of Digital Development and Information
 description: Ministry of Digital Development and Information
 image: /images/Logos/mci_english_horizontal_col.jpg
 permalink: /
-notification: Click <a href="https://www.youtube.com/@SingaporeMCI">here</a> for
-  Parliament livestream.
+notification: Click <a href="https://www.youtube.com/@SingaporeMDDI">here</a>
+  for Parliament livestream.
 sections:
   - hero:
       background: /images/hero-banner.png
