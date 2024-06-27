@@ -8,7 +8,7 @@ variant: tiptap
 <p>The Digital Economy has generated strong growth for Singapore. It contributed
 a value-add of $106 billion or 17% of Singapore’s GDP in 2022, an increase
 from 13% in 2017.</p>
-<h4>Equipping Enterprises to seize opportunities in a digital future</h4>
+<h3>Equipping Enterprises to seize opportunities in a digital future</h3>
 <p>MDDI will continue to support our enterprises in their digitalisation
 journey, to transform their business and innovate. Our enterprises have
 made good progress in embracing digital technologies. The <strong>Digital Enterprise Blueprint</strong>,
@@ -27,7 +27,7 @@ collaboration among stakeholders, to empower our enterprises and workers
 with the right expertise, resources, networks, and technologies. We will
 also work towards building a trusted and digitally resilient ecosystem,
 that enables our enterprises to be competitive and expand beyond our borders.</p>
-<h4>Empowering Singaporeans through reskilling and upskilling to access good tech jobs</h4>
+<h3>Empowering Singaporeans through reskilling and upskilling to access good tech jobs</h3>
 <p>MDDI will continue to help Singaporeans raise their digital proficiencies,
 as well as to access good opportunities in tech. Through TechSkills Accelerator
 (TeSA) programmes, we will empower workers, both within the information
