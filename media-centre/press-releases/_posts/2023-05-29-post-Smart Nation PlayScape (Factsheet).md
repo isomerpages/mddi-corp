@@ -58,9 +58,8 @@ possibilities that these technologies have to offer.</p>
 </div>&nbsp; &nbsp; &nbsp; 
 	
 <div class="col" style="background-color: #f3f3f3; padding: 20px 20px 20px 20px;">  
-        
-
-<img alt="Photo of exhibit at Playscape" src="/images/sndgo-media-centre/press-release/2023/exhibit\_3c.jpg"><br>
+       
+<img alt="Photo of exhibit at Playscape" src="/images/sndgo-media-centre/press-release/2023/exhibit_3c.jpg"><br>
 	<div style="font-size:18px"><b>Exhibit 3C: Cybersecurity</b><br><br>This exhibit educates guests on the importance of staying cybersafe in a world full of growing cyber threats. <br><br>Guests will learn how to spot tell-tale signs of common scam tactics through an interactive quiz. <br>
 </div>
 
