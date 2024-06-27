@@ -3,54 +3,45 @@ title: Digital Security
 permalink: /what-we-do/digital-singapore/digital-security/
 description: ""
 third_nav_title: Digital Singapore
+variant: tiptap
 ---
-## Building a safe, secure, resilient and trusted digital environment
-
-The digital future offers unprecedented opportunities for Singapore’s economy and society. In the digital world, we are not constrained by geography or the scale of market size. The borderless nature of the digital domain means that a variety of risks can come from anywhere. These risks can undermine the security and resiliency of our digital ecosystem or the safety of our digital citizens and companies.
-
-The Ministry of Communications and Information (MCI) work with government agencies, industry, and international partners to build a safe, secure, resilient and trusted digital space for our citizens and businesses.
-
-## Digital Defence
-
-Digital Defence is one of the six pillars of Total Defence, to guard against threats from the digital domain.
-
-### Why Digital Defence?  
-  
-Singapore is an open and connected city-state. As individuals, we are constantly connected through online networks.    
-  
-New threats from the digital domain can breach data systems and threaten social cohesion. We must evolve our skills and instincts to defend ourselves.  
-  
-### Be Secure  
-  
-Individuals and businesses can be secure by practising good cybersecurity habits to safeguard data and devices.  
-![](/images/Digital%20Security/cyber%20tips%204%20you%20%20flyer%20eng.jpg)
-  
-For more information, visit [Gosafeonline](https://www.csa.gov.sg/Tips-Resource/Resources/gosafeonline).  
-  
-### Be Alert  
-  
-We can be alert by being vigilant against disinformation or fake news that aim to manipulate.  
-
-![](/images/Digital%20Security/sure%20nlb.JPG)
-  
-For more information, visit [S.U.R.E](https://sure.nlb.gov.sg/).  
-  
-### Be Responsible  
-  
-We can be responsible by being mindful when producing or sharing content which may impact our community.  
-  
-Fake news are becoming increasingly sophisticated and pervasive, and they can be difficult to detect. If we think that a piece of information may be untrue, we can play our part in not propagating fake news by not posting or forwarding it.  
-
-![](/images/Digital%20Security/say%20watd.jpg)
-  
-For more information, visit [Media Literacy Council](https://www.betterinternet.sg/).  
-  
-### Total Defence  
-  
-Digital Defence is one of the six pillars of Total Defence. 
-
-![](/images/Digital%20Security/6%20shields.jpg)
-
-Total Defence is a recognition that every individual has a role to play in defending Singapore and keeping Singapore strong.  
-  
-For more information on other pillars of Total Defence, visit [www.totaldefence.sg](http://www.totaldefence.sg).
+<h3>Ensuring our Digital Domain is Safe, Secure, and Resilient</h3>
+<p>Digital technologies can offer us unprecedented opportunities to develop
+Singapore’s economy and society. In the digital world, we are not constrained
+by geography, or by our market size. However, there are also significant
+risks to our digital security, online safety, and social cohesion. The
+borderless nature of the digital domain also means that these risks can
+come from anywhere.</p>
+<p>The Ministry of Digital Development and Information (MDDI) works with
+government agencies, industry, and international partners to build a safe,
+secure and resilient digital space for our citizens and businesses. This
+ensures that the public can have trust and confidence in our digital future.</p>
+<h3>Digital Security and Resilience </h3>
+<p>MDDI leads the whole-of-government approach to enhance the security and
+resilience of the digital domain, to minimise the risk that our digital
+space will be disrupted. We work with government agencies and private-sector
+partners to mitigate key threats, including cyberattacks, cybercrime, disruption
+to digital infrastructure, and misuse of new and emerging technologies
+(e.g. Artificial Intelligence (AI) and quantum technologies). This is so
+we can trust that digital technologies are safe, secure, and resilient,
+as we rely on them for work and play.</p>
+<h3>Online Safety</h3>
+<p>MDDI also ensures that users are safe as they interact and transact with
+each other online. This means that we need to work with agencies and industry
+players to minimise the risk of online harms, including fake news, cyberbullying,
+and other harmful content. This protects the safety and wellbeing of our
+users as they participate in digital society.</p>
+<p>We also work with agencies like the Infocomm Media Development Authority
+(IMDA) and Government Technology Agency (GovTech) to develop safeguards
+to prevent our digital technologies and services from being misused for
+crimes like scams.</p>
+<h3>Digital Defence</h3>
+<p>Amidst rapid digitalisation, it is critical for Singapore and Singaporeans
+to be aware of defence in the digital domain. As part of Total Defence,
+Digital Defence requires Singaporeans to: (a) practice good cybersecurity
+habits; (b) guard against fake news and disinformation; and (c) consider
+the impact of our actions on the community.</p>
+<p>Click <a href="https://www.mindef.gov.sg/web/portal/mindef/news-and-events/latest-releases/article-detail/2019/February/15feb19_fs" rel="noopener noreferrer nofollow" target="_blank">here</a> for
+more information on Digital Defence, as the sixth pillar of Total Defence.</p>
+<p></p>
+<p></p>
