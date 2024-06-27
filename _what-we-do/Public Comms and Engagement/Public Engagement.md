@@ -12,17 +12,17 @@ can play a part.</p>
 <h3>REACH</h3>
 <p><strong>Who is REACH?</strong>
 </p>
-<p>At REACH (reaching everyone for active citizenry @ home), we seek to engage
+<p>At REACH (Reaching Everyone for Active Citizenry @ Home), we seek to engage
 and gather feedback from fellow Singaporeans on national and social issues
 that are close to our hearts. We analyse and share all the feedback we
-receive, regardless of sentiment, with our colleagues in the relevant Ministries
-and agencies as part of the policymaking process.</p>
+receive with our colleagues in the relevant Ministries and agencies as
+part of the policymaking process.</p>
 <p><strong>How do I share my feedback on REACH?</strong>
 </p>
 <p>Members of the public can share their views through:</p>
 <ul data-tight="true" class="tight">
 <li>
-<p>REACH Online Feedback Form</p>
+<p>REACH Online Feedback Form (available on REACH's website)</p>
 </li>
 <li>
 <p>Post: 140 Hill Street, #01-01A, Old Hill Street Police Station, Singapore
@@ -32,6 +32,9 @@ and agencies as part of the policymaking process.</p>
 <p><strong>REACH Channels:</strong>
 </p>
 <ul data-tight="true" class="tight">
+<li>
+<p>REACH's official website (<a href="https://www.reach.gov.sg" rel="noopener noreferrer nofollow" target="_blank">https://www.reach.gov.sg</a>)</p>
+</li>
 <li>
 <p>REACH Facebook Page (<a href="https://www.facebook.com/REACHSingapore" rel="noopener noreferrer nofollow" target="_blank">https://www.facebook.com/REACHSingapore</a>&nbsp;)</p>
 </li>
@@ -48,5 +51,4 @@ and agencies as part of the policymaking process.</p>
 <p>REACH YouTube (<a href="https://www.youtube.com/channel/UC3mnMiTmWlVvEXWcBDXpCiw/featured" rel="noopener noreferrer nofollow" target="_blank">https://www.youtube.com/channel/UC3mnMiTmWlVvEXWcBDXpCiw/featured</a>)</p>
 </li>
 </ul>
-<p>Visit our <a href="https://www.reach.gov.sg/" rel="noopener noreferrer nofollow" target="_blank">webpage</a> at
-REACH (reaching everyone for active citizenry@ home)</p>
+<p></p>
