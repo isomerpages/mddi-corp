@@ -49,9 +49,9 @@ variant: markdown
 
 <img style="height:372px; width:361px;" alt="Graphic of person Vetting and Proofreading" src="/images/TD/ct_project_1_vetting_and_proofreading.png">
 <li>CTs support the vetting and proofreading of translated communication materials from various government agencies. </li>
-<img style="height:372px; width:361px;" alt="Identifying Translation Errors" src="/images/TD/ct_project_2_translation_errors.png">
+<img style="height:382px; width:401px;" alt="Identifying Translation Errors" src="/images/TD/ct_project_2_translation_errors.png">
 <li>CTs identify errant translations in government communication materials, and report them to the NTC Secretariat. </li>
-<img style="height:380px; width:380px;" alt="NTC Updates" src="/images/TD/ct_project_3_ntc_updates.png">
+<img style="height:380px; width:390px;" alt="NTC Updates" src="/images/TD/ct_project_3_ntc_updates.png">
 <li>CTs receive updates on NTC key announcements and events, and are engaged - digitally and in-person - through the SGTT forum, quizzes, workshops and seminars. </li>
 <img style="height:380px; width:380px;" alt="Translation-related Events" src="/images/TD/ct_project_4_translation_events.png">
 <li>CTs who participate in translation-related events and activities get rewarded under the CT Recognition Framework. </li>
