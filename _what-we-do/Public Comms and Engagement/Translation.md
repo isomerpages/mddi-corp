@@ -225,8 +225,8 @@ For more information, please refer to:
 <tbody>
 <tr>
 <td><a href="https://go.gov.sg/citeg-enquiry">Enquiry Form</a></td>
-<td><a href="https://staging.d3gycxy3tjxrco.amplifyapp.com/files/Translation/CiTEG_Application_Guide_caa_21_Sep_2023.pdf">Application Guide</a></td>
-<td><a href="staging.d3gycxy3tjxrco.amplifyapp.com/files/Translation/citeg%20application%20form%20(updated%2030%20apr%202021).pdf">Application Form</a></td>
+<td><a href="/files/Translation/CiTEG_Application_Guide_caa_21_Sep_2023.pdf">Application Guide</a></td>
+<td><a href="/files/Translation/citeg%20application%20form%20(updated%2030%20apr%202021).pdf">Application Form</a></td>
 </tr>
 </tbody>
 </table><br><br>
