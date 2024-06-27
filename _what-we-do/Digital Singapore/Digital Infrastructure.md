@@ -109,11 +109,8 @@ components and their integration with the physical world; and
 <br>c. soft infrastructure – the Singapore Digital Utility Stack, comprising
 the foundation for key digital transactions to be conducted seamlessly
 and securely, upon which businesses can build innovative platforms and
-applications.
-<br>
-<br>
-</p>
-<ol>
+applications.</p>
+<ol start="3" data-tight="true" class="tight">
 <li>
 <p><strong>Playing to Singapore’s unique circumstances</strong> – accounting
 for Singapore’s limitations in land, carbon, and spectrum, while leveraging
