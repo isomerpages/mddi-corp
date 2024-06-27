@@ -49,11 +49,11 @@ variant: markdown
 
 <img style="height:380px; width:380px;" alt="Graphic of person Vetting and Proofreading" src="/images/TD/ct_project_1_vetting_and_proofreading.png">
 <li>CTs support the vetting and proofreading of translated communication materials from various government agencies. </li>
-<img alt="Identifying Translation Errors" src="/images/TD/ct_project_2_translation_errors.png">
+<img style="height:380px; width:380px;" alt="Identifying Translation Errors" src="/images/TD/ct_project_2_translation_errors.png">
 <li>CTs identify errant translations in government communication materials, and report them to the NTC Secretariat. </li>
-<img alt="NTC Updates" src="/images/TD/ct_project_3_ntc_updates.png">
+<img style="height:380px; width:380px;" alt="NTC Updates" src="/images/TD/ct_project_3_ntc_updates.png">
 <li>CTs receive updates on NTC key announcements and events, and are engaged - digitally and in-person - through the SGTT forum, quizzes, workshops and seminars. </li>
-<img alt="Translation-related Events" src="/images/TD/ct_project_4_translation_events.png">
+<img style="height:380px; width:380px;" alt="Translation-related Events" src="/images/TD/ct_project_4_translation_events.png">
 <li>CTs who participate in translation-related events and activities get rewarded under the CT Recognition Framework. </li>
 <li>Interested parties may sign up as a CT by registering on the SGTT portal <a href="https://www.sgtranslatetogether.gov.sg/">here</a>.</li>
 
@@ -70,7 +70,7 @@ variant: markdown
 
 <p>MDDI’s Translation Department maintains the Government Terms Translated repository, which agencies, translation companies and the public can refer to for translations of Government policy-related terms in the four official languages. Click <a href="https://www.translatedterms.gov.sg/">here</a> to visit the repository.</p>
 
-<img alt="Government Terms Translated Image" src="/images/TD/updated%20ifg%203_gtt%20ifg_mci%20website%20revamp%202023.png">
+<img style="height:680px; width:511px;" alt="Government Terms Translated Image" src="/images/TD/updated%20ifg%203_gtt%20ifg_mci%20website%20revamp%202023.png">
 &nbsp;
 
 </section>
