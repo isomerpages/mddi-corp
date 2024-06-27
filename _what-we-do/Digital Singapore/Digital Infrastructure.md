@@ -13,6 +13,40 @@ upon which our digital economy and digital society are built. It undergirds
 our people’s access to digital services and interactions on digital platforms,
 and enterprises’ ability to transform their operations and offers to drive
 greater productivity and growth.</p>
+<h3>MDDI’s Approach to Building Digital Infrastructure</h3>
+<p>MDDI’s approach toward building Singapore’s digital infrastructure centres
+on three core tenets.
+<br>
+<br>1. <strong>Making forward-looking investments</strong> – investing ahead
+of demand so that Singapore is ready to embrace opportunities when technological
+trends (e.g., Artificial Intelligence, autonomous systems, immersive experiences,
+distributed cloud, quantum technologies) mature, and has the capacity to
+deal with unexpected challenges (e.g., the surge in digital interactions
+during a pandemic).
+<br>
+<br>2. <strong>Taking a holistic view of the digital infrastructure stack</strong> –looking
+beyond traditional connectivity to plan for the entire ‘digital infrastructure
+stack’ in an integrated manner:
+<br>
+<br>(a) <strong>hard infrastructure</strong> – traditional submarine cable,
+satellite, broadband, mobile and Wi-Fi networks, as well as Data Centres
+(DCs) and cloud computing;
+<br>(b) <strong>physical-digital infrastructure</strong> – devices, middleware,
+and networks that enable greater interaction between different digital
+infrastructure components and their integration with the physical world;
+and
+<br>(c) <strong>soft infrastructure</strong> – the Singapore Digital Utility
+Stack, comprising the foundation for key digital transactions to be conducted
+seamlessly and securely, upon which businesses can build innovative platforms
+and applications.
+<br>
+<br><strong>Playing to Singapore’s unique circumstances</strong> – while being
+a small dense, city-state brings with it resource limitations in digital
+infrastructure (e.g. carbon, land, spectrum), it presents opportunities
+to drive innovation to overcome these constraints and serve as a useful
+model for other urban cities. It also allows us to achieve widespread domestic
+connectivity more easily and bring together different ecosystem players
+to enhance our digital connectivity and develop digital solutions.</p>
 <p></p>
 <p></p>
 <p></p>
@@ -34,18 +68,17 @@ enables enterprises to transform their operations and service offerings;
 and strengthens Singapore’s position as a global hub.</p>
 <h2>MCI’s Approach to Building Digital Infrastructure</h2>
 <p>MCI’s approach toward building Singapore’s digital infrastructure centres
-on three core tenets.</p>
-<ol>
-<li>
-<p><strong>Making forward-looking investments</strong> – investing ahead of
+on three core tenets.
+<br><strong>Making forward-looking investments</strong> – investing ahead of
 demand so that Singapore is ready to embrace opportunities when technological
 trends (e.g., Artificial Intelligence, autonomous systems, immersive experiences,
 distributed cloud, quantum technologies) mature, and has the capacity to
 deal with unexpected challenges (e.g., the surge in digital interactions
 during a pandemic).
 <br>
+<br>
 </p>
-</li>
+<ol>
 <li>
 <p><strong>Taking a holistic view of the digital infrastructure stack</strong> –looking
 beyond traditional connectivity to plan for the entire ‘digital infrastructure
