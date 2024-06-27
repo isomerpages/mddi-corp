@@ -9,31 +9,7 @@ variant: tiptap
 <p>Our work involves keeping the public engaged on the challenges Singapore
 faces, what the government is doing to address them, and how the public
 can play a part.</p>
-<p></p>
-<h2>Gov.sg</h2>
-<div class="isomer-image-wrapper">
-<img style="height:292px; width:400px;" height="auto" width="100%" src="/images/Public%20Comms/govsg%20logo.png">
-</div>
-<p>Gov.sg is the official digital communications platform of the Singapore
-Government, providing Singaporeans with the latest policy announcements
-and information on Singapore across a range of channels.</p>
-<p>Website:&nbsp;<a href="http://www.gov.sg/" rel="noopener noreferrer nofollow" target="_blank">www.gov.sg</a>
-</p>
-<p>Facebook:&nbsp;<a href="http://www.facebook.com/gov.sg" rel="noopener noreferrer nofollow" target="_blank">@gov.sg</a>
-</p>
-<p>Instagram:&nbsp;<a href="http://www.instagram.com/gov.sg" rel="noopener noreferrer nofollow" target="_blank">@gov.sg</a>
-</p>
-<p>Twitter:&nbsp;<a href="http://www.twitter.com/govsingapore" rel="noopener noreferrer nofollow" target="_blank">@govsingapore</a>
-</p>
-<p>Linkedin:<a href="http://linkedin.com/company/govsg" rel="noopener noreferrer nofollow" target="_blank">@govsg</a>
-</p>
-<p>TikTok:&nbsp;<a href="http://tiktok.com/@gov.sg" rel="noopener noreferrer nofollow" target="_blank">@Gov.sg</a>
-</p>
-<p>Telegram:&nbsp;<a href="http://t.me/s/govsg" rel="noopener noreferrer nofollow" target="_blank">@Govsg</a>
-</p>
-<p>WhatsApp:&nbsp;<a href="http://go.gov.sg/wa-channels" rel="noopener noreferrer nofollow" target="_blank">go.gov.sg/wa-channels</a>
-</p>
-<h2>REACH</h2>
+<h3>REACH</h3>
 <p><strong>Who is REACH?</strong>
 </p>
 <p>At REACH (reaching everyone for active citizenry @ home), we seek to engage
