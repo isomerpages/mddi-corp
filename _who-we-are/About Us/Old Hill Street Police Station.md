@@ -17,7 +17,7 @@ Before the construction of the Old Hill Street Police Station, the Assembly Room
   
 The steep slopes of Fort Canning had to be cut back and shored up, to provide vehicular access to the back entrance of the building.  
   
-The building has a total of 927 windows and they are painted in the colours of the rainbow. Passersby will notice that the windows on the first four stories have the same vibrant intensity while the colours for the fifth- and sixth-story gradually intensify to accentuate the cantilevered balconies which are interesting architectural features of this historical building.
+The building has a total of 927 windows and they are painted in the colours of the rainbow. Passers-by will notice that the windows on the first four storeys have the same vibrant intensity while the colours for the fifth- and sixth-storey gradually intensify to accentuate the cantilevered balconies which are interesting architectural features of this historical building.
 
 Location:
 
