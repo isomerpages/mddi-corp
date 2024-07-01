@@ -84,9 +84,11 @@ Duty Desk.</p>
 media queries.</p>
 <p>Official press releases, speeches and statements from government agencies
 are available at the&nbsp;SG Press Centre.</p>
-<p>Operating hours of the Duty Desk are as follows: &nbsp;Mondays – Fridays:
-9am to 6pm &nbsp; Eve of Christmas (24 Dec), New Year (31 Dec) and Chinese
-New Year: 9am to 1pm &nbsp; Weekends and Public Holidays: Closed</p>
+<p>Operating hours of the Duty Desk are as follows: Mondays – Fridays: 9am
+to 6pm &nbsp;
+<br>Eve of Christmas (24 Dec), New Year (31 Dec) and Chinese New Year: 9am
+to 1pm &nbsp;
+<br>Weekends and Public Holidays: Closed</p>
 <p>Email:&nbsp;<a href="mailto:mci_duty_officer@mci.gov.sg" rel="noopener noreferrer nofollow" target="_blank">mddi_duty_officer@mddi.gov.sg</a>.</p>
 <h4>Entry Requirements</h4>
 <p>The Immigration &amp; Checkpoints Authority (ICA) is responsible for securing
