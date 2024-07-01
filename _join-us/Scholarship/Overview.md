@@ -74,7 +74,7 @@ career filled with diverse opportunities and developments.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;</p>
-<p>English speaking countries (e.g. USA, UK and Australia</p>
+<p>English speaking countries (e.g. USA, UK and Australia)</p>
 <p>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
