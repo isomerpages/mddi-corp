@@ -80,10 +80,18 @@ areas for improvement. Here are some statistics as of the end of 2023.</p>
 <li>
 <p><strong>Government services that are completed digitally from end-to-end</strong>
 </p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Satisfaction of Government digital services at 99% in 2021" src="/images/Digital Government/end_to_end_digital_services_2021a.jpg">
+</div>
 </li>
 <li>
 <p><strong>Services that provide E-payment options</strong>
 </p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Satisfaction in services offering e-payments at 98% in 2021" src="/images/Digital Government/services_offering_e_payment_2021a.jpg">
+</div>
 </li>
 <li>
 <p><strong>Other Statistics:</strong>
