@@ -24,7 +24,7 @@ Location:
 140 Hill Street #01-01A, Old Hill Street Police Station, Singapore 179369  
 Tel : 1800 837 9655  
 Fax: (65) 6837 9480  
-Email: [MCI\_Connects@mddi.gov.sg](mailto:MCI_Connects@mddi.gov.sg)  
+Email: [MDDI\_Connects@mddi.gov.sg](mailto:MDDI_Connects@mddi.gov.sg)  
   
 Nearest MRT Stations: City Hall and Clarke Quay  
   
@@ -34,4 +34,4 @@ If you are driving: The nearest public parking facilities are at the Parliament
 
 The Old Hill Street Police Station building was gazetted as a National Monument on 18 December 1998. As a national monument, the Old Hill Street Police Station should be respectfully presented in all materials and platforms. In general, images of the building can be presented for educational purposes but not for commercial use.  
   
-Please [write in](mailto:mci_connects@mddi.gov.sg) to request for permission for the use of images of the Old Hill Street Police Station building, or to use the premises for filming or photography, with the subject header “Permission for the use of images of/filming/photography at Old Hill Street Police Station” to allow us to quickly identify and see to your request.
+Please [write in](mailto:mddi_connects@mddi.gov.sg) to request for permission for the use of images of the Old Hill Street Police Station building, or to use the premises for filming or photography, with the subject header “Permission for the use of images of/filming/photography at Old Hill Street Police Station” to allow us to quickly identify and see to your request.
