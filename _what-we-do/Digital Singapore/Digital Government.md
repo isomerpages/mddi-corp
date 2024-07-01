@@ -108,27 +108,6 @@ meeting the target of broadening digitalisation within the Government.</p>
 </ul>
 </li>
 </ul>
-<h4>Other Goals for 2023</h4>
-<p>We’ve also set our targets for 2023 and beyond:</p>
-<ul data-tight="true" class="tight">
-<li>
-<p>70% of eligible Government systems to be hosted on the commercial cloud</p>
-</li>
-<li>
-<p>All public officers to have basic digital literacy skills</p>
-</li>
-<li>
-<p>All ministry families to have at least 1 AI project for service delivery
-or policymaking</p>
-</li>
-<li>
-<p>At least 10 cross-agency high-impact data analytics projects to be completed
-per year</p>
-</li>
-<li>
-<p>No more than 7 working days to share data for cross-agency projects</p>
-</li>
-</ul>
 <p>Read the latest DGB here: <a href="/files/publications/dgb-public-document_30dec20.pdf" rel="noopener noreferrer nofollow" target="_blank">DGB - 30 December 2020 (277kb)</a>
 </p>
 <p>
