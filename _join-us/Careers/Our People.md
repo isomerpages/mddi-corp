@@ -136,7 +136,7 @@ to frame it in a reader-centric way.</p>
 </p>
 <p>MCI was a really enjoyable place to work at. My colleagues were very kind
 to show me around the office and even helped me with preparations prior
-to my presentations. It was a fun experience. As a Ministry, is future-driven,
+to my presentations. It was a fun experience. As a Ministry, it is future-driven,
 so everyone is open to new perspectives. It’s a dynamic and positive place
 to work.</p>
 <p><strong>Any advice for students or fresh graduates interested to intern at MCI (now-MDDI)?</strong>
@@ -156,5 +156,5 @@ gave us the much-needed support and motivation to keep going.</p>
 <p>Secondly, I hope to be working in the Civil Service after I complete my
 studies. But first, I’ll be pursuing my Master’s in the super tech-driven
 state of California!</p>
-<p><strong>Interested in an internship at MCI? Apply as an #MCIIntern today!</strong>
+<p><strong>Interested in an internship at MDDI? Apply as an #MDDIIntern today!</strong>
 </p>
