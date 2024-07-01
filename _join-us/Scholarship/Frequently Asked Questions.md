@@ -112,7 +112,7 @@ This should be done concurrently with your application for all MDDI Scholarships
 <p></p>
 </li>
 <li>
-<p>What career development opportunities can I look forward to as a MDDI
+<p>What career development opportunities can I look forward to as an MDDI
 Information Service scholar / Translation scholar?</p>
 <p></p>
 <p>Upon graduation, all scholars will join MDDI as an Information Officer.</p>
