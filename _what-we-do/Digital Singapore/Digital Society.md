@@ -5,7 +5,7 @@ description: ""
 third_nav_title: Digital Singapore
 variant: tiptap
 ---
-<h3>Building a Safe and Inclusive Digital Society</h3>
+<h2>Building a Safe and Inclusive Digital Society</h2>
 <p>The Ministry of Digital Development and Information (MDDI) aims to build
 a safe and inclusive society where Singaporeans are empowered and equipped
 with skills to harness opportunities and benefit from digital developments.&nbsp;</p>
@@ -159,5 +159,5 @@ emerging technology through showcases such as ExperienceIT.</p>
 <p>If you have any suggestions on how we can work together towards a safe
 and digitally inclusive Singapore, or if you would like to contribute to
 this effort in any way, we would be happy to hear from you. You may email
-us at <a href="mailto:MCI-Digital_Readiness_and_Learning_Div@mddi.gov.sg" rel="noopener noreferrer nofollow" target="_blank">MCI-Digital_Readiness_and_Learning_Div@mddi.gov.sg</a>
+us at <a href="mailto:MDDI-Digital_Readiness_and_Learning_Div@mddi.gov.sg" rel="noopener noreferrer nofollow" target="_blank">MCI-Digital_Readiness_and_Learning_Div@mddi.gov.sg</a>
 </p>
