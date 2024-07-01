@@ -55,7 +55,7 @@ cross-agency projects to be no more than seven working days</p>
 <p>The pandemic has given renewed impetus for government agencies to digitalise,
 including making deeper changes in organisational policy, structure and
 culture.</p>
-<h2>The progress so far</h2>
+<h3>The progress so far</h3>
 <p>Reviewing KPIs regularly allows us to assess our performance and identify
 areas for improvement. Here are some statistics as of the end of 2023.</p>
 <ul>
@@ -63,31 +63,27 @@ areas for improvement. Here are some statistics as of the end of 2023.</p>
 <p><strong>Citizen Satisfaction with Government Digital Services</strong> 
 <br><em>(Percentage that rated 5 &amp; above)</em>
 </p>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Citizen Satisfaction with Government Digital Services" src="/images/abt-smart-nation/citizen_satisfaction_2023.png">
+<img style="width: 100%" height="auto" width="100%" alt="Citizen Satisfaction at 83% in 2023" src="/images/Digital Government/citizen_satisfaction_2023.png">
 </div>
 </li>
 <li>
 <p><strong>Business Satisfaction with Government Digital Services</strong> 
 <br><em>(Percentage that rated 5 &amp; above)</em>
 </p>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Business Satisfaction with Government Digital Services" src="/images/abt-smart-nation/business_satisfaction_2023.png">
+<img style="width: 100%" height="auto" width="100%" alt="Business Satisfaction at 83% in 2023" src="/images/Digital Government/business_satisfaction_2023.png">
 </div>
 </li>
 <li>
 <p><strong>Government services that are completed digitally from end-to-end</strong>
 </p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Government services that can be completed digitally from end-to-end" src="/images/abt-smart-nation/end_to_end_digital_services_2021a.jpeg">
-</div>
 </li>
 <li>
 <p><strong>Services that provide E-payment options</strong>
 </p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Services that provide E-payment options" src="/images/abt-smart-nation/services_offering_e_payment_2021a.jpeg">
-</div>
 </li>
 <li>
 <p><strong>Other Statistics:</strong>
