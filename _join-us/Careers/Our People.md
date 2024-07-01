@@ -87,57 +87,7 @@ and interesting backgrounds. I’ve gained so much knowledge from them.</p>
 <p>In my leisure time, I love listening to podcasts. I prefer podcasts over
 social media, so that I can actively choose content that interests me.</p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CDD/siti%20amirah%20banner%20(1).png">
-</div>
-<p><strong>Meet Siti Amirah, Manager, Translation Department, MDDI</strong>
-</p>
-<p>At the Translation Department (TD), Amirah and her team provides translation
-services in our four official languages (English, Chinese, Malay and Tamil)
-for important national initiatives to better inform, connect and engage
-with our citizens.</p>
-<p>We spoke with Amirah to find out more about her personal #LifeatMDDI experience.</p>
-<p><strong>Hi Amirah! Tell us more about your work in the Translation Department.</strong>
-</p>
-<p>TD translates a range of Government communications from Gov.sg WhatsApp
-messages to ministerial speeches. We also collaborate with community partners
-and stakeholders including local educational institutions, language and
-cultural groups, and the Institute for Infocomm Research. This challenges
-us to go beyond just translation work, but also undertake projects to raise
-translation and language standards in Singapore.</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CDD/siti%20amirah%203.jpeg">
-</div>
-<p><strong>Can you describe how a typical workday is like for you?</strong>
-</p>
-<p>A typical workday for me will include working on assignments that require
-translation and working with colleagues on user testing.</p>
-<p><strong>What is the most enjoyable/rewarding aspect of your work?</strong>
-</p>
-<p>What is rewarding to me is knowing that my work helps to connect and disseminate
-information to communities that might not be as fluent in English. I also
-appreciate how my work constantly challenges me to improve my language
-skills, and keep in touch with linguistic trends.</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CDD/siti%20amirah%2002%20(1).jpg">
-</div>
-<p><strong>Why did you join MDDI?</strong>
-</p>
-<p>I joined then-MCI as part of the Mid-Term MCI Information Service (Translation)
-Scholarship as I’m deeply interested in languages, and was keen to join
-the Public Service. The scholarship opportunity felt like a convergence
-of both my interests.</p>
-<p><strong>What advice would you give to someone applying for a role in your department?</strong>
-</p>
-<p>Get ready to be challenged and stay curious! Working in TD goes beyond
-just translation work as we take on projects too. So, officers need to
-be ready to be challenged and learn new skills!</p>
-<p><strong>Are there any misconceptions that people might have about the work that you/your team does? Or any interesting fact about your work at MDDI that people might not know about?</strong>
-</p>
-<p>Translation work takes longer than most people expect. However, rendering
-the most appropriate translation involves some research and understanding
-of context.</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CDD/darren%20wong_banner.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CDD/darren%20wong_photo%201.JPG">
 </div>
 <p><strong>Meet Darren Wong, Intern at the Futures Unit, MDDI</strong>
 </p>
@@ -146,9 +96,6 @@ opportunities, and threats so that MCI is informed and better prepared
 for the future.</p>
 <p>Darren is a Geography graduate from Cambridge University, who completed
 a 5-month internship with the Futures Unit in MDDI.</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CDD/darren%20wong_photo%201.JPG">
-</div>
 <p>If you are looking for a meaningful internship in the Civil Service, read
 on to find out what it’s like to intern at MCI.</p>
 <p>We spoke with Darren Wong to find out more of his personal #LifeatMCI
