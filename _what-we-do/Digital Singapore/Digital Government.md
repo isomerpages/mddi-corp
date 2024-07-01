@@ -5,7 +5,9 @@ variant: tiptap
 description: ""
 third_nav_title: Digital Singapore
 ---
-<p></p>
+<div class="iframe-wrapper">
+<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/nmupdl8svmI?si=pdQx5KHCVpeaSWdo"></iframe>
+</div>
 <p>Our vision of a Digital Government is “digital to the core, and serves
 with heart”. Digitalisation is an effective means for the Government to
 serve citizens with greater empathy, through designing policies and services
@@ -129,7 +131,7 @@ per year</p>
 <br>
 <br>
 </p>
-<p><strong> Related Content</strong>
+<p><strong>Related Content</strong>
 </p>
 <ul data-tight="true" class="tight">
 <li>
