@@ -89,37 +89,38 @@ social media, so that I can actively choose content that interests me.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/CDD/darren%20wong_photo%201.JPG">
 </div>
-<p><strong>Meet Darren Wong, Intern at the Futures Unit, MDDI</strong>
+<p><strong>Meet Darren Wong, Intern at the Futures Unit, MCI (now-MDDI)</strong>
 </p>
 <p>The cross-divisional Futures Unit anticipates and analyses emerging trends,
-opportunities, and threats so that MCI is informed and better prepared
+opportunities, and threats so that MDDI is informed and better prepared
 for the future.</p>
 <p>Darren is a Geography graduate from Cambridge University, who completed
-a 5-month internship with the Futures Unit in MDDI.</p>
+a 5-month internship with the Futures Unit in MCI (now-MDDI).</p>
 <p>If you are looking for a meaningful internship in the Civil Service, read
-on to find out what it’s like to intern at MCI.</p>
-<p>We spoke with Darren Wong to find out more of his personal #LifeatMCI
+on to find out what it’s like to intern at MDDI.</p>
+<p>We spoke with Darren Wong to find out more of his personal #LifeatMDDI
 experience.</p>
-<p><strong>Hi Darren! What made you apply for an internship at MCI?</strong>
+<p><strong>Hi Darren! What made you apply for an internship at MCI (now-MDDI)?</strong>
 </p>
 <p>Having completed an internship in the Futures Unit at the Prime Minister’s
 Office, I jumped at the opportunity to intern at MCI to gain new experiences
 in this new and exciting field.</p>
-<p><strong>What was your internship experience at the MCI Futures Unit like?</strong>
+<p><strong>What was your internship experience at the Futures Unit like?</strong>
 </p>
-<p>I was involved in two projects during my internship with MCI: one on disinformation,
-which we are all becoming too familiar with; and the other on identity
-politics. The latter involved studying the varied viewpoints of different
-demographics, their info consumption and dissemination habits.</p>
+<p>I was involved in two projects during my internship with the Futures Unit:
+one on disinformation, which we are all becoming too familiar with; and
+the other on identity politics. The latter involved studying the varied
+viewpoints of different demographics, their info consumption and dissemination
+habits.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/CDD/darren%20wong_photo%202.JPG">
 </div>
 <p><strong>That sounds like interesting work! What were the key highlights of your internship?</strong>
 </p>
-<p>I was given the opportunity to intern at MCI, even while studying overseas
-although I flew back to Singapore midway through my internship in January
-2021 due to the COVID-19 pandemic. I really enjoyed the opportunities to
-conduct in-person presentations and appreciated that those I presented
+<p>I was given the opportunity to intern at MCI (now-MDDI), even while studying
+overseas although I flew back to Singapore midway through my internship
+in January 2021 due to the COVID-19 pandemic. I really enjoyed the opportunities
+to conduct in-person presentations and appreciated that those I presented
 to, including Ministers, MCI’s Permanent Secretary and Directors saw value
 in the work that I was doing.</p>
 <div class="isomer-image-wrapper">
@@ -131,14 +132,14 @@ in the work that I was doing.</p>
 a way that is understandable and palatable. As futures work is complex,
 the information we present may be hard to understand. So, there is a need
 to frame it in a reader-centric way.</p>
-<p><strong>How would you describe MCI to your peers?</strong>
+<p><strong>How would you describe MCI (now-MDDI) to your peers?</strong>
 </p>
 <p>MCI was a really enjoyable place to work at. My colleagues were very kind
-to show me around the MCI office and even helped me with preparations prior
-to my presentations. It was a fun experience. As a Ministry, MCI is future-driven,
+to show me around the office and even helped me with preparations prior
+to my presentations. It was a fun experience. As a Ministry, is future-driven,
 so everyone is open to new perspectives. It’s a dynamic and positive place
 to work.</p>
-<p><strong>Any advice for students or fresh graduates interested to intern at MCI?</strong>
+<p><strong>Any advice for students or fresh graduates interested to intern at MCI (now-MDDI)?</strong>
 </p>
 <p>I would say go for it! Don’t expect the work to be easy, but don’t be
 afraid to ask for help when you need it. You won’t be expected to know
