@@ -9,7 +9,7 @@ variant: markdown
 
 The Old Hill Street Police Station (OHSPS), was erected in 1934 to house the Hill Street Police Station and Barracks. It was gazetted as a national monument in 1998 and transformed into comfortable and lively premises for the Ministry of Information, Communications and the Arts (MICA). MICA moved from PSA Building to the OHSPS which was renamed as the MICA Building in 2000.  
   
-The building was later renamed as the Old Hill Street Police Station again in 2012, after MICA became the Ministry of Communication and Information (MCI).      With the merger of MCI and Smart Nation and Digital Government Office (SNDGO) into the Ministry of Digital Development and Information (MDDI), the OHSPS currently houses MDDI and the Ministry of Culture, Community and Youth (MCCY).
+The building was later renamed as the Old Hill Street Police Station again in 2012, after MICA became the Ministry of Communications and Information (MCI).      With the merger of MCI and Smart Nation and Digital Government Office (SNDGO) into the Ministry of Digital Development and Information (MDDI), the OHSPS currently houses MDDI and the Ministry of Culture, Community and Youth (MCCY).
 
 ### Did you know?
 
