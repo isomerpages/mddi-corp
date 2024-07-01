@@ -12,9 +12,6 @@ third_nav_title: Digital Singapore
 with heart”. Digitalisation is an effective means for the Government to
 serve citizens with greater empathy, through designing policies and services
 that are inclusive, seamless and personalised for all.</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Digital to the core and serves with hearth" src="/images/abt-smart-nation/digital-government-who-what-how.jpg">
-</div>
 <p>The <a href="/files/publications/dgb-public-document_30dec20.pdf" rel="noopener noreferrer nofollow" target="_blank">Digital Government Blueprint (277kb)</a> details
 14 key performance indicators (KPIs) to measure our Government’s digitalisation
 progress.</p>
@@ -24,6 +21,9 @@ tech and world events. For example, our ongoing drive to enhance our tech
 capabilities allowed us to pivot quickly and develop digital tools for
 contact tracing and the safe re-opening of Singapore’s economy amid the
 COVID-19 pandemic.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Who, what, how of Digital Government" src="/images/Digital Government/digital_government_who_what_how.jpg">
+</div>
 <p>From 2018 to 2020, our push towards deeper and more extensive digitalisation
 led to four key changes in the DGB:</p>
 <p><strong>1. Going deeper into what “digital to the core” and “serves with a heart” mean</strong>
