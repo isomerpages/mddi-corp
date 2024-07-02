@@ -15,7 +15,7 @@ and initiatives to ensure that Singaporeans, especially vulnerable segments,
 are equipped with:&nbsp;</p>
 <ul>
 <li>
-<p><a href="#section1" rel="noopener noreferrer nofollow" target="_blank">Digital Access</a>:
+<p><a href="#get-connected" rel="noopener noreferrer nofollow" target="_blank">Digital Access</a>:
 internet connectivity and digital devices needed for participation in digital
 society&nbsp;</p>
 </li>
