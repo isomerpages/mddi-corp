@@ -56,6 +56,7 @@ also set up to support digital inclusion initiatives by charities and other
 community groups. The movement calls for organisations and individuals
 to champion projects and activities that promote (1) Digital Technology
 and Inclusion and (2) Digital Literacy and Wellness.</p>
+<section id="get-connected">
 <h3><strong>Get Connected</strong></h3>
 <h4>Digital Access Schemes</h4>
 <p>Digital access support is provided to vulnerable segments through <a href="https://eservice.imda.gov.sg/das/homepage" rel="noopener noreferrer nofollow" target="_blank">Digital Access Schemes</a> by
@@ -95,6 +96,8 @@ services, to assist those who may have difficulty transacting online.&nbsp;</p>
 heartland locations, to serve as first-stop physical service touchpoints
 where officers can guide citizens through digital transactions and offer
 integrated services across different public agencies for citizens.</p>
+</section>
+<section id="learn-and-explore">
 <h3><strong>Learn and Explore</strong></h3>
 <h4>Digital Skills for Life</h4>
 <p>Digital Skills for Life (DSL) is a framework covering five key digital
@@ -134,6 +137,7 @@ Programme (offered jointly by MOE and IMDA) aims to increase primary and
 secondary school students’&nbsp;exposure to coding and computational thinking.
 Students learn computational thinking, coding concepts and emerging technology
 through engaging hands-on experiences, robotic kits and/or microcontrollers.</p>
+</section>
 <h3><strong>Lifelong Learning and Discovering at NLB</strong></h3>
 <p>NLB aims to empower and elevate every segment of society to learn and
 discover continuously to be ready for the future.&nbsp;</p>
