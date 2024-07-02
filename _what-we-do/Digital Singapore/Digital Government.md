@@ -12,7 +12,7 @@ third_nav_title: Digital Singapore
 with heart”. Digitalisation is an effective means for the Government to
 serve citizens with greater empathy, through designing policies and services
 that are inclusive, seamless and personalised for all.</p>
-<p>The <a href="/files/publications/dgb-public-document_30dec20.pdf" rel="noopener noreferrer nofollow" target="_blank">Digital Government Blueprint (277kb)</a> details
+<p>The <a href="/files/Publications/dgb_public_document_30dec20.pdf" rel="noopener noreferrer nofollow" target="_blank">Digital Government Blueprint (277kb)</a> details
 14 key performance indicators (KPIs) to measure our Government’s digitalisation
 progress.</p>
 <p>New policies and initiatives are continually being added to the Digital
@@ -108,7 +108,7 @@ meeting the target of broadening digitalisation within the Government.</p>
 </ul>
 </li>
 </ul>
-<p>Read the latest DGB here: <a href="/files/publications/dgb-public-document_30dec20.pdf" rel="noopener noreferrer nofollow" target="_blank">DGB - 30 December 2020 (277kb)</a>
+<p>Read the latest DGB here: <a href="/files/Publications/dgb_public_document_30dec20.pdf" rel="noopener noreferrer nofollow" target="_blank">DGB - 30 December 2020 (277kb)</a>
 </p>
 <p>
 <br>
