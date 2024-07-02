@@ -104,7 +104,7 @@ smart and kind online. The framework aims to equip all Singaporeans with
 essential digital knowledge and skills to conduct daily online tasks, navigate
 the digital space and safeguard against digital risks.</p>
 <h4>Seniors Go Digital&nbsp;</h4>
-<p>SG Digital Office’s <a href="https://www.imda.gov.sg/en/seniorsgodigital" rel="noopener noreferrer nofollow" target="_blank">Seniors Go Digital</a> programme
+<p>SG Digital Office’s <a href="https://www.imda.gov.sg/how-we-can-help/seniors-go-digital" rel="noopener noreferrer nofollow" target="_blank">Seniors Go Digital</a> programme
 provides basic digital training to seniors, such as e-communications, government
 digital services and e-payment. The curriculum comprises 1-to-1 and small
 group lessons at the SG Digital Community Hubs and Learning Journeys to
