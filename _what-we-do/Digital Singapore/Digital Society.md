@@ -97,6 +97,7 @@ heartland locations, to serve as first-stop physical service touchpoints
 where officers can guide citizens through digital transactions and offer
 integrated services across different public agencies for citizens.</p>
 </section>
+<br>
 <section id="learn-and-explore">
 <h3><strong>Learn and Explore</strong></h3>
 <h4>Digital Skills for Life</h4>
