@@ -16,9 +16,9 @@ standards, and technologies.</p>
 <h3>What we do</h3>
 <p>MDDI, formerly known as MCI until 7 July 2024, creates a wide suite of
 sentiments research capabilities and resources to:</p>
-<p>- Elevate the SBR capabilities and standards across WoG</p>
-<p>- Nurture SBR officers, and</p>
-<p>- Collaborate with Industry Partners</p>
+<p>- elevate the SBR capabilities and standards across WoG</p>
+<p>- nurture SBR officers, and</p>
+<p>- collaborate with Industry Partners</p>
 <h3>What we have done</h3>
 <p>Some examples of what MDDI, formerly known as MCI until 7 July 2024, has
 done for the community of SBR research practitioners:</p>
