@@ -22,13 +22,21 @@ sentiments research capabilities and resources to:</p>
 <h3>What we have done</h3>
 <p>Some examples of what MDDI, formerly known as MCI until 7 July 2024, has
 done for the community of SBR research practitioners:</p>
-<p>- Oversees a demand aggregated framework to streamline the process for
-public sector agencies to procure research services from qualified market
-research companies which were appointed through open tender. This framework
-is officially known as the Whole-of-Government Research Services Period
-Contract cum Framework Agreement.</p>
-<p>- Provides training opportunities to develop research proficiencies in
-SBR officers.</p>
-<p>- Collaborates with private sector and research organisations to build
-a strong core of SBR researchers.</p>
+<ol data-tight="true" class="tight">
+<li>
+<p>Oversees a demand aggregated framework to streamline the process for public
+sector agencies to procure research services from qualified market research
+companies which were appointed through open tender. This framework is officially
+known as the Whole-of-Government Research Services Period Contract cum
+Framework Agreement.</p>
+</li>
+<li>
+<p>Provides training opportunities to develop research proficiencies in SBR
+officers.</p>
+</li>
+<li>
+<p>Collaborates with private sector and research organisations to build a
+strong core of SBR researchers.</p>
+</li>
+</ol>
 <p></p>
