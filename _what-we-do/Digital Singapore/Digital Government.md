@@ -5,7 +5,7 @@ variant: tiptap
 description: ""
 third_nav_title: Digital Singapore
 ---
-<h3>Digital Government</h3>
+<p></p>
 <div class="iframe-wrapper">
 <iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/nmupdl8svmI?si=k3yCLS8IGesiBBZB"></iframe>
 </div>
@@ -111,10 +111,7 @@ meeting the target of broadening digitalisation within the Government.</p>
 </ul>
 <p>Read the latest DGB here: <a href="/files/Publications/dgb_public_document_30dec20.pdf" rel="noopener noreferrer nofollow" target="_blank">DGB - 30 December 2020 (277kb)</a>
 </p>
-<p>
-<br>
-<br>
-</p>
+<p></p>
 <p><strong>Related Content</strong>
 </p>
 <ul data-tight="true" class="tight">
