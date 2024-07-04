@@ -30,7 +30,6 @@ sections:
           url: /what-we-do/committee-of-supply/2024/
   - resources:
       title: Latest News
-      subtitle: Media Centre
       id: resources
       button: More news
 ---
