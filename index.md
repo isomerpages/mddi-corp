@@ -2,7 +2,7 @@
 layout: homepage
 title: Ministry of Digital Development and Information
 description: Ministry of Digital Development and Information
-image: /images/Logos/mci_english_horizontal_col.jpg
+image: /images/MDDI_Colour_Landscape.svg
 permalink: /
 notification: Click <a href="https://www.youtube.com/@SingaporeMDDI">here</a>
   for Parliament livestream.
