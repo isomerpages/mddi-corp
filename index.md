@@ -17,7 +17,7 @@ sections:
       url: who-we-are/about-us/our-purpose/
       key_highlights:
         - title: Digital Singapore
-          description: What we do
+          description: What We Do
           url: /what-we-do/digital-singapore/digital-economy/
         - title: News
           description: Speeches & Press Releases
