@@ -26,7 +26,7 @@ sections:
           description: Join the MDDI Family
           url: /join-us/careers/life-at-mddi/
         - title: Committee of Supply
-          description: MCI Budget Debate
+          description: Budget Debate
           url: /what-we-do/committee-of-supply/2024/
   - resources:
       title: Latest News
