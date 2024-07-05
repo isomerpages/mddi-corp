@@ -11,8 +11,8 @@ satellites in space, optical fibre cables laid underground, mobile base
 stations on rooftops – is often unseen. Yet, it is the ‘invisible foundation’
 upon which our digital economy and digital society are built. It undergirds
 our people’s access to digital services and interactions on digital platforms,
-and enterprises’ ability to transform their operations and offers to drive
-greater productivity and growth.</p>
+and enterprises’ ability to transform their operations to drive greater
+productivity and growth.</p>
 <h3>MDDI’s Approach to Building Digital Infrastructure</h3>
 <p>MDDI’s approach toward building Singapore’s digital infrastructure centres
 on three core tenets.
@@ -28,25 +28,25 @@ during a pandemic).
 beyond traditional connectivity to plan for the entire ‘digital infrastructure
 stack’ in an integrated manner:
 <br>
-<br>(a) <strong>hard infrastructure</strong> – traditional submarine cable,
+<br>(a) <strong>Hard infrastructure</strong> – traditional submarine cable,
 satellite, broadband, mobile and Wi-Fi networks, as well as Data Centres
 (DCs) and cloud computing;
-<br>(b) <strong>physical-digital infrastructure</strong> – devices, middleware,
+<br>(b) <strong>Physical-Digital infrastructure</strong> – devices, middleware,
 and networks that enable greater interaction between different digital
 infrastructure components and their integration with the physical world;
 and
-<br>(c) <strong>soft infrastructure</strong> – the Singapore Digital Utility
+<br>(c) <strong>Soft infrastructure</strong> – the Singapore Digital Utility
 Stack, comprising the foundation for key digital transactions to be conducted
 seamlessly and securely, upon which businesses can build innovative platforms
 and applications.
 <br>
 <br>3. <strong>Playing to Singapore’s unique circumstances</strong> – while
-being a small dense, city-state brings with it resource limitations in
-digital infrastructure (e.g. carbon, land, spectrum), it presents opportunities
-to drive innovation to overcome these constraints and serve as a useful
-model for other urban cities. It also allows us to achieve widespread domestic
-connectivity more easily and bring together different ecosystem players
-to enhance our digital connectivity and develop digital solutions.</p>
+being a small dense, city-state brings with it resource limitations (e.g.
+carbon, land, spectrum) in digital infrastructure development, it presents
+opportunities to drive innovation to overcome these constraints and serve
+as a useful model for other urban cities. It also allows us to achieve
+widespread domestic connectivity more easily and bring together different
+ecosystem players to drive innovation and enhancements to our digital infrastructure.</p>
 <h3>Our Strategic Priorities and Moves into New Frontiers</h3>
 <p>As part of Singapore’s <a href="https://www.imda.gov.sg/how-we-can-help/digital-connectivity-blueprint" rel="noopener noreferrer nofollow" target="_blank">Digital Connectivity Blueprint</a> launched
 in June 2023, MDDI has set out five strategic priorities to enhance our
@@ -66,10 +66,14 @@ the benefits of seamless digital transactions.</p>
 opportunities.</p>
 <p>MDDI will work with stakeholders in the public and private sectors to
 take these plans and ambitions forward. Ultimately, they are aimed at:</p>
-<p>1. enhancing opportunities for our enterprises and people;
-<br>2. strengthening trust to participate in the digital economy and society
+<p>1. Enhancing opportunities for our enterprises and people;
+<br>2. Strengthening trust to participate in the digital economy and society
 confidently; and
-<br>3. empowering communities to connect and improve lives.</p>
+<br>3. Empowering communities to connect and improve lives.</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Digital Connectivity Blueprint infographic" src="/images/Digital Infrastructure/Digital_Connectivity_Blueprint_infographic.jpg">
+</div>
 <h3>Ensuring an Effective and Conducive Regulatory Environment</h3>
 <p>Regulatory measures are one of the levers MDDI employs to strengthen the
 resilience and robustness of our digital infrastructure.</p>
