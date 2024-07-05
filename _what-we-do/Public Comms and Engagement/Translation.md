@@ -42,7 +42,7 @@ variant: markdown
 	<h3>Citizen Translators Project</h3>
 
 <ul>
-<li>The Citizen Translators (CT) Project was launched in 2021, as part of the Government’s efforts to raise the overall translation and language standards in Singapore. An initiative under the National Translation Committee and part of the SG Together Movement, the project is a first in Singapore involving members of the public, which aims to harness the expertise of the community to crowdsource the best translations for government communications materials. </li>
+<li>The Citizen Translators (CT) Project was launched in 2021, as part of the Government’s efforts to raise the overall translation and language standards in Singapore. An initiative under the National Translation Committee and part of the SG Together Movement, the project is a first in Singapore involving members of the public which aims to harness the expertise of the community to crowdsource the best translations for government communications materials. </li>
 
 <img style="height:372px; width:361px;" alt="Graphic of person Vetting and Proofreading" src="/images/TD/ct_project_1_vetting_and_proofreading.png">
 <li>CTs support the vetting and proofreading of translated communication materials from various government agencies. </li>
