@@ -39,6 +39,3 @@ least a Honours (Distinction) degree or equivalent</p>
 <p>All applications are to be submitted via the PSC Gateway (please indicate
 ‘Information Service’ as your first choice of service). For more information
 on application deadlines and process, please visit the <a href="https://www.psc.gov.sg/scholarships/undergraduate-scholarships/psc-scholarships?q=apply" rel="noopener noreferrer nofollow" target="_blank">PSC Gateway</a> website.</p>
-<p>If you are interested in applying for the MDDI Information Service (Translation)
-Scholarship, you can also email&nbsp;<a href="mailto:MDDI_Human_Resource@mddi.gov.sg" rel="noopener noreferrer nofollow" target="_blank">MDDI_Human_Resource@mddi.gov.sg</a> to
-inform us on your interest.</p>
