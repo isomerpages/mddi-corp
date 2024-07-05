@@ -20,7 +20,7 @@ internet connectivity and digital devices needed for participation in digital
 society&nbsp;</p>
 </li>
 <li>
-<p><a href="#learn-and-explore" rel="noopener noreferrer nofollow" target="_blank">Digital Literacy and Skills</a>,
+<p><a href="#learn-and-explore" rel="noopener noreferrer nofollow" target="_self">Digital Literacy and Skills</a>,
 and have the confidence, and motivation to use technology in their daily
 lives.&nbsp;</p>
 </li>
