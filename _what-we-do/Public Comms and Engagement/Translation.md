@@ -19,7 +19,7 @@ variant: markdown
 <li>Members of the public are invited to email <a href="mailto:MDDI_NTC_Secretariat@mddi.gov.sg">MDDI_NTC_Secretariat@mddi.gov.sg</a> if they have any queries or feedback.</li>
 </ul>
 <p><a href="/files/Translation/Final__6th_Term_NTC_members__CVs_5Jul24.pdf">Full list of current NTC members</a></p>
-<p><a href="/files/Translation/Full_list_of_6th_Term_RP_members_11Mar2024.pdf">Full list of current RP members</a></p>
+<p><a href="/files/Translation/Final__6th_Term_RP_members__CVs_5Jul24.pdf">Full list of current RP members</a></p>
 
 </section>
 <br>
