@@ -15,13 +15,11 @@ made good progress in embracing digital technologies. The <a href="https://www.m
 was co-created in consultation with various stakeholders, including SMEs,
 industry leaders, solutions providers, and trade associations to power
 our enterprises in their next bound of digitalisation. It outlines the
-support for SMEs and workers in <strong>four </strong>focus areas, empowering
+support for SMEs and workers in <strong>four focus areas</strong>, empowering
 them to:
 <br>
-<br>(a) Be smarter in the way they work through harnessing AI;
-<br>(b) Scale faster through integrated digital solutions;
-<br>(c) Be safer by enhancing their cyber resilience; and
-<br>(d) Upskill their workers to fully benefit from the digital solutions.</p>
+<br><strong>(a) Be smarter in the way they work through harnessing AI; <br>(b) Scale faster through integrated digital solutions; <br>(c) Be safer by enhancing their cyber resilience; and <br>(d) Upskill their workers to fully benefit from the digital solutions.</strong>
+</p>
 <p>To achieve this, we will continue to work with partners and strengthen
 collaboration among stakeholders, to empower our enterprises and workers
 with the right expertise, resources, networks, and technologies. We will
