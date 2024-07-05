@@ -20,6 +20,10 @@ them to:
 <br>
 <br><strong>(a) Be smarter in the way they work through harnessing AI; <br>(b) Scale faster through integrated digital solutions; <br>(c) Be safer by enhancing their cyber resilience; and <br>(d) Upskill their workers to fully benefit from the digital solutions.</strong>
 </p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Digital Enterprise Blueprint infographic" src="/images/Digital Economy/Digital_Enterprise_Blueprint_infographic.jpg">
+</div>
 <p>To achieve this, we will continue to work with partners and strengthen
 collaboration among stakeholders, to empower our enterprises and workers
 with the right expertise, resources, networks, and technologies. We will
