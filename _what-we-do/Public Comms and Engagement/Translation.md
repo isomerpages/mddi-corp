@@ -13,13 +13,12 @@ variant: markdown
 
 <p><strong>About the National Translation Committee</strong></p>
 &nbsp;
-<img alt="Information about the National Translation Committee" src="/images/TD/updated%20ifg%202_ntc%20and%20rp%20ifg_mci%20website%20revamp%202023.png">
+<img alt="Information about the National Translation Committee" src="/images/TD/updated_ntc_green_bubbles_5Jul24.png">
 <ul>
 <li>The committee is chaired by Mr Tan Kiat How, Senior Minister of State for Ministry of National Development, and Ministry of Digital Development and Information.</li>
 <li>Members of the public are invited to email <a href="mailto:MDDI_NTC_Secretariat@mddi.gov.sg">MDDI_NTC_Secretariat@mddi.gov.sg</a> if they have any queries or feedback.</li>
 </ul>
-
-<p><a href="/files/Translation/full_list_of_6th_term_ntc_members__29_feb_2024.pdf">Full list of current NTC members</a></p>
+<p><a href="/files/Translation/Final__6th_Term_NTC_members__CVs_5Jul24.pdf">Full list of current NTC members</a></p>
 <p><a href="/files/Translation/Full_list_of_6th_Term_RP_members_11Mar2024.pdf">Full list of current RP members</a></p>
 
 </section>
