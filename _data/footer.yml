@@ -1,10 +1,10 @@
 contact_us: /contact-us/
 show_reach: true
-feedback: 
 faq: /faq/
 social_media:
-    facebook: https://www.facebook.com/YourFBPage
-    twitter: https://www.twitter.com/YourTwitter
-    youtube: https://www.youtube.com/YourYoutube
-    instagram: https://www.instagram.com/your.insta/
-    linkedin: https://www.linkedin.com/company/YourAgency
+  facebook: https://www.facebook.com/SingaporeMCI
+  twitter: https://www.x.com/SingaporeMDDI
+  youtube: https://www.youtube.com/@SingaporeMDDI
+  instagram: https://www.instagram.com/singaporemci/
+  linkedin: https://www.linkedin.com/company/ministry-of-digital-development-and-information/
+feedback: https://form.gov.sg/66695a32cf3daf735178a6f1

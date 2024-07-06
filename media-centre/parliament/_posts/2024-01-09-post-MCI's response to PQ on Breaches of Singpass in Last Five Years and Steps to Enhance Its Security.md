@@ -1,0 +1,11 @@
+---
+title: MCI's response to PQ on Breaches of Singpass in Last Five Years and Steps
+  to Enhance Its Security
+permalink: /media-centre/parliamentary-questions/breaches-and-security-of-singpass/
+date: 2024-01-09
+layout: post
+description: ""
+image: ""
+variant: tiptap
+---
+<h3>Parliament Sitting on 9 January 2024</h3><h3>QUESTION FOR WRITTEN ANSWER</h3><p><strong>49. Mr Liang Eng Hwa: </strong>To ask the Minister for Communications and Information (a) whether there have been any security breaches of Singpass in the last five years; and (b) how can the security of Singpass be continually strengthened to remain trusted yet easily accessible.</p><p><strong>Answer:</strong></p><p></p><ol data-tight="true" class="tight"><li><p>There were no cybersecurity breaches of the Singpass system detected in the last five years. GovTech continually strengthens the Singpass system against potential breaches. In addition to cybersecurity testing conducted by the Government, crowdsourced vulnerability discovery programmes are applied to Singpass. These include the Vulnerability Reward Programme (VRP), Vulnerability Disclosure Programme (VDP), and Government Bug Bounty Programme (GBBP), which run at different time periods and draw on different pools of cybersecurity experts.</p><p></p></li><li><p>Beyond technical cybersecurity breaches, the human user is often the weakest link. That is why we are taking measures to make it harder for scammers to use phishing and other social engineering methods to gain control of a user’s Singpass account. For example, for transactions identified to be of higher risk, we require more than the standard two-factor authentication, of a password and OTP. The account is protected by additional factors such as facial verification.</p><p></p></li><li><p>Secure online transactions and a safe cyberspace needs everyone to play their part. We are constantly improving and testing Singpass’ defences to guard against cybersecurity and scam threats. We call upon banks and telcos to enhance their defences and strengthen the cybersecurity ecosystem. Users need to arm themselves with knowledge of scam tactics, social engineering and phishing to avoid being scammed. A vigilant and discerning public is our best defence against scams.</p></li></ol><p></p>

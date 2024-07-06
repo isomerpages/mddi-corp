@@ -1,0 +1,7 @@
+collections:
+  digital-enterprise-blueprint:
+    output: true
+    order:
+      - Digital Enterprise Blueprint.md
+      - Pledge Partner Commitments.md
+      - Resources.md
