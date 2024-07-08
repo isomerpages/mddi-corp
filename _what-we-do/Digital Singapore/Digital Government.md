@@ -116,11 +116,11 @@ meeting the target of broadening digitalisation within the Government.</p>
 </p>
 <ul data-tight="true" class="tight">
 <li>
-<p><a href="/about-smart-nation/pillars-of-smart-nation" rel="noopener noreferrer nofollow" target="_blank">Three Pillars of a Smart Nation: Digital Society, Digital Economy &amp; Digital Government</a>
+<p><a href="https://www.smartnation.gov.sg/about-smart-nation/pillars-of-smart-nation" rel="noopener noreferrer nofollow" target="_blank">Three Pillars of a Smart Nation: Digital Society, Digital Economy &amp; Digital Government</a>
 </p>
 </li>
 <li>
-<p><a href="/about-smart-nation/our-journey/milestones" rel="noopener noreferrer nofollow" target="_blank">Milestones of Singapore’s Smart Nation story</a>
+<p><a href="https://www.smartnation.gov.sg/about-smart-nation/our-journey/milestones" rel="noopener noreferrer nofollow" target="_blank">Milestones of Singapore’s Smart Nation story</a>
 </p>
 </li>
 </ul>
