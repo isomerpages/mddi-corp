@@ -20,7 +20,7 @@ Thank you for visiting the MDDI Website. By accessing and using this Website, yo
   
 **Privacy Policy**   
   
-5\. Click here to review this [Website Privacy Policy Statement](https://staging.d1kqig029hwcxx.amplifyapp.com/privacy/).   
+5\. Click here to review this [Website Privacy Policy Statement](/privacy/).   
   
 **Restrictions on use of Materials**   
   
