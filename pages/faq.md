@@ -1,6 +1,7 @@
 ---
 title: FAQ
 permalink: /faq/
+variant: markdown
 ---
 ### **FAQ**
 
@@ -40,4 +41,4 @@ You may request the President's portrait via request form [here](https://www.is
 The guidelines on display of the portrait can be found on the Istana website [here](https://www.istana.gov.sg/The-President/Presidents-Portrait-and-Insignia/Portrait). If you require further assistance, please email to [ISTANA\_Feedback@istana.gov.sg](mailto:ISTANA_Feedback@istana.gov.sg).
     
 
-If you are unable to find an answer to your query, please submit your [Feedback](https://form.gov.sg/#!/5d6cbb7d2efdae001258109a) to let us know how we can help you.
+If you are unable to find an answer to your query, please submit your [Feedback](https://form.gov.sg/66695a32cf3daf735178a6f1) to let us know how we can help you.
