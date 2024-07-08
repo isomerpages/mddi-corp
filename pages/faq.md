@@ -8,8 +8,8 @@ variant: tiptap
 <p><strong>1. I would like to find out more about the Personal Data Protection Act/Do-Not-Call Registry</strong>
 </p>
 <p>Please visit&nbsp;<a href="https://www.pdpc.gov.sg/" rel="noopener noreferrer nofollow" target="_blank">www.pdpc.gov.sg</a>&nbsp;for information
-and updates. You may also email your queries via feedback form&nbsp;
-<a href="https://form.gov.sg/#!/5dfae076c00ae200190b39c5" rel="noopener noreferrer nofollow" target="_blank">here</a>&nbsp;or call (+65) 6377 3131.</p>
+and updates. You may also email your queries via feedback form <a href="https://form.gov.sg/#!/5dfae076c00ae200190b39c5" rel="noopener noreferrer nofollow" target="_blank">here</a>&nbsp;or
+call (+65) 6377 3131.</p>
 <h3>Media</h3>
 <p><strong>1. My production company would like to film a video/movie in Singapore. Is a permit required?</strong>
 </p>
@@ -38,7 +38,7 @@ assistance, please call the Infocomm Media Development Authority at 1800
 <p><strong>1. How do I book the state lectern?</strong>
 </p>
 <p>You may book the state lectern&nbsp;<a href="https://go.gov.sg/mcistatelectern" rel="noopener noreferrer nofollow" target="_blank">here</a>. You may also submit
-your queries to MDDI_state_lectern@mddi.gov.sg.</p>
+your queries to <a href="MDDI_state_lectern@mddi.gov.sg" rel="noopener noreferrer nofollow" target="_blank">MDDI_state_lectern@mddi.gov.sg</a>.</p>
 <p><strong>2. How can I get a copy of the Singapore Government Directory?</strong>
 </p>
 <p>Please note that the printing of the Singapore Government Directory was
