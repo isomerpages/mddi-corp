@@ -70,23 +70,6 @@ value chain, and the role of industry players government in shaping content
 creation for the future. The sessions also focused on the role and responsibility
 of media in shaping social discourse through content creation and stakeholder
 engagement.</p>
-<h3>Post-event FAQs</h3>
-<ol data-tight="true" class="tight">
-<li>
-<p>I attended the Insights Conference and have recently tested positive for
-COVID-19. Whom should I contact?
-<br>Please reach out to&nbsp;<a href="mailto:MCI_Insights_Conference@mci.gov.sg" rel="noopener noreferrer nofollow" target="_blank">MCI_Insights_Conference@mci.gov.sg</a>&nbsp;immediately.</p>
-</li>
-<li>
-<p>Will there be photos or videos of the MCI Insights Conference? Can we
-use them?
-<br>Photos and highlights video can be found on MCI’s social media pages after
-16 November. Please credit “Ministry of Communications and Information”
-should you use any of the content.</p>
-</li>
-</ol>
-<p><strong>For any other queries, please feel free to drop an email</strong> 
-<a href="mailto:MCI_Connects@mci.gov.sg" rel="noopener noreferrer nofollow" target="_blank">MCI_Connects@mci.gov.sg</a>.</p>
 <h2>SPEECHES AND ANNOUNCEMENTS</h2>
 <ul>
 <li>
