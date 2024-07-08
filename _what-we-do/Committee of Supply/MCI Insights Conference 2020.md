@@ -114,12 +114,6 @@ have adapted to digitalisation in the new normal.&nbsp;</p>
 <div class="iframe-wrapper">
 <iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/7_j8UoAo0FI"></iframe>
 </div>
-<h3>Photos</h3>
-<p>Please feel free to use or share any of these photos. Please credit “Ministry
-of Communications and Information” should you use any of these photos.</p>
-<p>Check out the photos&nbsp;<a href="https://drive.google.com/drive/folders/1Lrj2HvluJLtG0QaVJ2tYO_ozx3kNuEqQ?usp=sharing" rel="noopener noreferrer nofollow" target="_blank">here</a>
-</p>
-<p></p>
 <p></p>
 <p><em>Note: The MCI Insights Conference 2020 was hosted by the then-MCI.</em>
 </p>
