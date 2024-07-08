@@ -75,7 +75,7 @@ contract staff, temporary staff, interns and freelancers</p>
 </ul>
 <p>To apply for Media Organisation Accreditation or a PAC, please visit the
 <a href="http://paconline.gov.sg" rel="noopener noreferrer nofollow" target="_blank">PAC Online&nbsp;website</a>. For enquiries on press accreditation, email:&nbsp;
-<a href="mailto:MCI_PAC_Online@mci.gov.sg" rel="noopener noreferrer nofollow" target="_blank">mddi_pac_online@mddi.gov.sg</a>.</p>
+<a href="mailto:MDDI_PAC_Online@mddi.gov.sg" rel="noopener noreferrer nofollow" target="_blank">mddi_pac_online@mddi.gov.sg</a>.</p>
 <h4>MDDI Duty Desk</h4>
 <p>MDDI’s Media Division facilitates the dissemination of government information
 to local and foreign media organisations based in Singapore via the MDDI
