@@ -14,8 +14,8 @@ research to support policy thinking and data-driven communications in government
 SBR officers in the public service, as well as sentiments research partnerships,
 standards, and technologies.</p>
 <h3>What we do</h3>
-<p>MDDI, formerly known as MCI until 7 July 2024, creates a wide suite of
-sentiments research capabilities and resources to:</p>
+<p>MDDI, formerly known as MCI, creates a wide suite of sentiments research
+capabilities and resources to:</p>
 <p>- elevate the SBR capabilities and standards across WoG</p>
 <p>- nurture SBR officers, and</p>
 <p>- collaborate with Industry Partners</p>
