@@ -6,7 +6,7 @@ variant: tiptap
 ---
 <h3>Cyber Security Agency of Singapore</h3>
 <div class="isomer-image-wrapper">
-<img style="width: 70%;" height="auto" width="100%" src="/images/Logos/csa%20logo%20-%20color%20(june2015).jpg">
+<img style="width: 60%;" height="auto" width="100%" src="/images/Logos/csa%20logo%20-%20color%20(june2015).jpg">
 </div>
 <p>The Cyber Security Agency of Singapore (CSA) was formed in 2015 and is
 the national body that protects Singapore's cyberspace.</p>
@@ -20,7 +20,7 @@ a robust cyber talent pipeline.</p>
 </p>
 <h3>GovTech</h3>
 <div class="isomer-image-wrapper">
-<img style="width: 80%;" height="auto" width="100%" alt="Logo of GovTech" src="/images/Logos/GovTechSg_True_Inline_Logo_5_Orange_CMYK.png">
+<img style="width: 70%;" height="auto" width="100%" alt="Logo of GovTech" src="/images/Logos/GovTechSg_True_Inline_Logo_5_Orange_CMYK.png">
 </div>
 <p>GovTech was officially launched in 2016 as the agency tasked with realising
 our Smart Nation possibilities.</p>
@@ -56,7 +56,7 @@ come alive, spark imagination and create possibilities.</p>
 </p>
 <h3>Personal Data Protection Commission</h3>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Logo of Personal Data Protection Commission" src="/images/Logos/pdpc_logo_2x.png">
+<img style="width: 80%;" height="auto" width="100%" alt="Logo of Personal Data Protection Commission" src="/images/Logos/pdpc_logo_2x.png">
 </div>
 <p>The Personal Data Protection Commission (PDPC) was established in 2013
 to administer and enforce the Personal Data Protection Act 2012 (PDPA).</p>
