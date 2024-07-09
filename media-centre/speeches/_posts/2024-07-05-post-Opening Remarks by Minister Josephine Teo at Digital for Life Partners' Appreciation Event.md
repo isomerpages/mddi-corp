@@ -87,9 +87,10 @@ what doesn’t.</p>
 <p>We had our last gathering of DfL partners, which was also the first DfL
 appreciation for partners, about two years ago. Since then, the DfL movement
 has expanded and it has gathered pace. The number of DfL partners has more
-than doubled, from 130 partners in 2022 to over 300 today. Many more organisations
-have come onboard to support our shared mission – to empower all our citizens
-to thrive in a digital world and ensure that no one is left behind.</p>
+than doubled, <strong>from 130 partners in 2022 to over 300 today</strong>.
+Many more organisations have come onboard to support our shared mission
+– to empower all our citizens to thrive in a digital world and ensure that
+no one is left behind.</p>
 <p></p>
 </li>
 <li>
@@ -105,10 +106,9 @@ and only brings bad things.</p>
 <p></p>
 </li>
 <li>
-<p>The impact of this work is significant. The DfL movement has benefitted
-more than 400,000 Singaporeans ranging from seniors, to parents, to persons
-with disabilities, and some are now “playing it forward” to support those
-around them.</p>
+<p>The impact of this work is significant. <strong>The DfL movement has benefitted more than 400,000 Singaporeans </strong>ranging
+from seniors, to parents, to persons with disabilities, and some are now
+“playing it forward” to support those around them.</p>
 <p></p>
 </li>
 <li>
