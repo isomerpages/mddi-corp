@@ -6,8 +6,7 @@ third_nav_title: Research and Data
 variant: tiptap
 ---
 <h2>What we have done</h2>
-<p>Some examples of research that MDDI, formerly known as MCI until 7 July
-2024, has done include:</p>
+<p>Some examples of research that MDDI, formerly known as MCI, has done include:</p>
 <p><strong>Understanding Singapore Residents’ Overall Quality of Life Post- Pandemic</strong>
 </p>
 <p>Comparing Quality of Life Now Compared to Pre-COVID</p>

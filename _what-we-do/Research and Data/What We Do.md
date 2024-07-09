@@ -6,8 +6,8 @@ third_nav_title: Research and Data
 variant: tiptap
 ---
 <h2>What we do</h2>
-<p>MDDI, formerly known as MCI until 7 July 2024, uses a wide range of evidence-based
-research methods to better understand public sentiment, attitudes and behaviour
+<p>MDDI, formerly known as MCI, uses a wide range of evidence-based research
+methods to better understand public sentiment, attitudes and behaviour
 through a data-driven approach. These research insights help the Government
 better assess public awareness of, and response to, specific government
 policies and programmes.</p>
