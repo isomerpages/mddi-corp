@@ -6,8 +6,8 @@ third_nav_title: Research and Data
 variant: tiptap
 ---
 <h3>Who we are</h3>
-<p>MDDI, formerly known as MCI until 7 July 2024, also leads the development
-of Sentiments &amp; Behavioural Research (SBR) capabilities across Whole-of-Government
+<p>MDDI, formerly known as MCI, also leads the development of Sentiments
+&amp; Behavioural Research (SBR) capabilities across Whole-of-Government
 (WoG). Our goal is to foster a community of SBR officers who produce high-quality
 research to support policy thinking and data-driven communications in government.</p>
 <p>We do this by developing the careers and professional competencies of
