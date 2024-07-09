@@ -188,57 +188,62 @@ use are multi-faceted issues with no clear-cut answers or singular solutions.</p
 solely or even primarily on legislation. We must ask what other factors
 contribute, such as whether parents are equipped with the right guidance,
 or whether the children have adequate access to activities in the physical
-world that not only engage</p>
+world that not only engage them, but to help them find joy and meaning
+in.</p>
+<p></p>
+</li>
+<li>
+<p>It is precisely because we are dealing with issues where there are few
+clear answers that we need to take a more holistic approach. And we need
+to come together as a community of interested stakeholders to address these
+issues collectively.</p>
+<p></p>
+</li>
+<li>
+<p>This is the very heart of the DfL movement. Whether it is online safety
+or digital inclusion, we believe that the whole can be greater than the
+sum of its parts. We each contribute a diversity of experience, expertise
+and best practices that enable us to design a more appropriate set of responses
+to increasingly complex challenges.</p>
+<p></p>
+</li>
+<li>
+<p>We have seen this happen for online safety. In parallel with our legislative
+efforts, many of our DfL partners have stepped up to support us in running
+programmes and developing public education materials about staying safe
+online.</p>
+<p></p>
+<p>a. For example, Google and TOUCH Community Services have contributed content
+to IMDA’s public education resources which aim to support parents in guiding
+children to use technology in safe, healthy, and responsible ways.</p>
+<p></p>
+<p>b. Focus on the Family Singapore runs “Raising Future Ready Kids in the
+Digital Age”, a programme to support families navigating the digital world.
+This programme has benefitted Singaporeans like Mr Daryl Sung and Ms Melissa
+Goh, who have two primary school-going daughters. Daryl and Melissa attended
+a webinar on “Screenwise Parenting” where they learned useful skills on
+screentime management and how to support their children to have healthy
+and balanced relationships with technology.</p>
+<p></p>
+</li>
+<li>
+<p>These organisations are some of the 12 DfL Champions and 38 DfL Catalysts
+that we will honour today. We will hear more about them over the course
+of the event, but I want to add my appreciation to each and everyone of
+them for their strong support and contributions to our online safety efforts,
+and the broader DfL movement.</p>
+<p></p>
+</li>
+<li>
+<p>I hope to see more partners step forward and join us to develop programmes
+and public education resources to build a safer online space that everyone
+feels comfortable to be part of.</p>
+<p></p>
+</li>
+<li>
+<p>And on that note, I thank the President once again, and I thank all of
+our DfL partners for joining us on this important mission. I hope you will
+enjoy the rest of the event. Thank you.</p>
 </li>
 </ol>
-<p>them, but to help them find joy and meaning in.</p>
-<p>15. It is precisely because we are dealing with issues where there are
-few clear</p>
-<p>answers that we need to take a more holistic approach. And we need to
-come</p>
-<p>together as a community of interested stakeholders to address these issues</p>
-<p>collectively.</p>
-<p>16. This is the very heart of the DfL movement. Whether it is online safety
-or digital</p>
-<p>inclusion, we believe that the whole can be greater than the sum of its
-parts. We</p>
-<p>each contribute a diversity of experience, expertise and best practices
-that</p>
-<p>enable us to design a more appropriate set of responses to increasingly
-complex</p>
-<p>challenges.</p>
-<p>17. We have seen this happen for online safety. In parallel with our legislative
-efforts,</p>
-<p>many of our DfL partners have stepped up to support us in running programmes</p>
-<p>and developing public education materials about staying safe online.</p>
-<p>a. For example, Google and TOUCH Community Services have contributed</p>
-<p>content to IMDA’s public education resources which aim to support parents</p>
-<p>in guiding children to use technology in safe, healthy, and responsible
-ways.</p>
-<p>b. Focus on the Family Singapore runs “Raising Future Ready Kids in the</p>
-<p>Digital Age”, a programme to support families navigating the digital world.</p>
-<p>This programme has benefitted Singaporeans like Mr Daryl Sung and Ms</p>
-<p>Melissa Goh, who have two primary school-going daughters. Daryl and</p>
-<p>Melissa attended a webinar on “Screenwise Parenting” where they learned</p>
-<p>useful skills on screentime management and how to support their children</p>
-<p>to have healthy and balanced relationships with technology.</p>
-<p>18. These organisations are some of the 12 DfL Champions and 38 DfL Catalysts</p>
-<p>that we will honour today. We will hear more about them over the course
-of the</p>
-<p>event, but I want to add my appreciation to each and everyone of them
-for their</p>
-<p>[FOR IMMEDIATE REPORTING]</p>
-<p>5</p>
-<p>strong support and contributions to our online safety efforts, and the
-broader DfL</p>
-<p>movement.</p>
-<p>19. I hope to see more partners step forward and join us to develop programmes
-and</p>
-<p>public education resources to build a safer online space that everyone
-feels</p>
-<p>comfortable to be part of.</p>
-<p>20. And on that note, I thank the President once again, and I thank all
-of our DfL</p>
-<p>partners for joining us on this important mission. I hope you will enjoy
-the rest of</p>
-<p>the event. Thank you.</p>
+<p></p>
