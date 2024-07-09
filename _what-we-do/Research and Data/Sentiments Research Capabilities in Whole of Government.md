@@ -20,8 +20,8 @@ capabilities and resources to:</p>
 <p>- nurture SBR officers, and</p>
 <p>- collaborate with Industry Partners</p>
 <h3>What we have done</h3>
-<p>Some examples of what MDDI, formerly known as MCI until 7 July 2024, has
-done for the community of SBR research practitioners:</p>
+<p>Some examples of what MDDI, formerly known as MCI, has done for the community
+of SBR research practitioners:</p>
 <ol data-tight="true" class="tight">
 <li>
 <p>Oversees a demand aggregated framework to streamline the process for public
