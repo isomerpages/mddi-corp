@@ -5,6 +5,7 @@ date: 2023-07-15
 layout: post
 description: ""
 image: ""
+variant: markdown
 ---
 1.  During the Parliamentary sitting on 3 July 2023, four Ministerial Statements relating to the rentals of State properties at 26 and 31 Ridout Road were delivered. On 7 July 2023, Jom, an online publication, published an article (“Singapore This Week”) which made the statements that:  
 
