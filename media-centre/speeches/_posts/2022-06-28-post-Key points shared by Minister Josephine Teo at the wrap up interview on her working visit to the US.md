@@ -154,6 +154,4 @@ Singapore.</p>
 <a href="https://www.legislation.gov.au/Details/C2021A00076" rel="noopener noreferrer nofollow" target="_blank">Australia’s Online Safety Act</a>; <a href="https://digital-strategy.ec.europa.eu/en/policies/digital-services-act-package" rel="noopener noreferrer nofollow" target="_blank">EU’s proposed Digital Services Act</a>;
 <a href="https://www.bmj.de/DE/Themen/FokusThemen/NetzDG/NetzDG_EN_node.html" rel="noopener noreferrer nofollow" target="_blank">Germany’s Network Enforcement Act or NetzDG</a>
 </p>
-<p><sup>4</sup>&nbsp; (Page has been since removed) For more information:
-<a href="https://www.betterinternet.sg/Resources/Resources-Listing/Parents-Guide-to-Instagram" rel="noopener noreferrer nofollow" target="_blank">https://www.betterinternet.sg/Resources/Resources-Listing/Parents-Guide-to-Instagram</a>
-</p>
+<p><sup>4</sup>&nbsp; (Page has been since removed)</p>
