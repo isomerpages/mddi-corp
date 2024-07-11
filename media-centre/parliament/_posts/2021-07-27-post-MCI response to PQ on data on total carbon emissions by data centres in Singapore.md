@@ -6,6 +6,7 @@ date: 2021-07-27
 layout: post
 description: ""
 image: ""
+variant: markdown
 ---
 ### Parliament Sitting on 27 July 2021
 
@@ -32,4 +33,4 @@ QUESTION FOR WRITTEN ANSWER
 \--------------------------------------------------------------------------------------------------------------------------  
   
 1  Uptime Institute Annual Survey 2020 ([https://journal.uptimeinstitute.com/datacenter-energy-efficiency-by-region/](https://journal.uptimeinstitute.com/datacenter-energy-efficiency-by-region/)); Chitakasem, Parita. _The Future of Data Centres in the Face of Climate Change_. Singapore: Eco-Business Research, 2020.  
-2  From ‘Statistics: Electricity Consumption by Sub-Sector (Total)’, Energy Market Authority. [https://www.ema.gov.sg/statistic.aspx?sta\_sid=20140617RUm4KNzEtgQa/](https://www.ema.gov.sg/statistic.aspx?sta_sid=20140617RUm4KNzEtgQa). Figures for 2020 are for January to July 2020.
+2  From ‘Statistics: Electricity Consumption by Sub-Sector (Total)’, Energy Market Authority. Figures for 2020 are for January to July 2020. (Page has been since removed)
