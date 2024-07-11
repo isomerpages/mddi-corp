@@ -5,6 +5,7 @@ date: 2021-07-05
 layout: post
 description: ""
 image: ""
+variant: markdown
 ---
 **Seizing Growth Opportunities in the Digital Economy**
 
@@ -71,7 +72,5 @@ a. In many ways, this is also the approach taken by the MCI-family. In the last 
 
 \--------------------------------------------------------------------------------------------------------------------------  
 1  Digital roles make up 49% of 32,814 total jobs expected to be created from EDB’s committed investments in 2019, and 24% of 19,352 total jobs in 2020. [https://www.edb.gov.sg/content/dam/edb-en/about-edb/media-releases/news/edb-year-2020-in-review/EDB%20Year%202020%20In%20Review.pdf](https://www.edb.gov.sg/content/dam/edb-en/about-edb/media-releases/news/edb-year-2020-in-review/EDB%20Year%202020%20In%20Review.pdf) (pp 23-26)  
-2  IDC (Mar 2021). Public Cloud Services Spending in Asia/Pacific to Reach US$ 48.4 Billion by 2021.  
-[https://www.idc.com/getdoc.jsp?containerId=prAP47519421](https://www.idc.com/getdoc.jsp?containerId=prAP47519421).  
-3  IDC (Apr 2021). Asia/Pacific 2021 ICT Spending to Grow by 4.9%.  
-[https://www.idc.com/getdoc.jsp?containerId=prAP47602921](https://www.idc.com/getdoc.jsp?containerId=prAP47602921).
+2  IDC (Mar 2021). Public Cloud Services Spending in Asia/Pacific to Reach US$ 48.4 Billion by 2021. (Page has been since removed)  
+3  IDC (Apr 2021). Asia/Pacific 2021 ICT Spending to Grow by 4.9%. (Page has been since removed)  

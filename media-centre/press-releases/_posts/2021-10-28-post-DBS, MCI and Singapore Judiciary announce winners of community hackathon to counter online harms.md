@@ -6,6 +6,7 @@ date: 2021-10-28
 layout: post
 description: ""
 image: ""
+variant: markdown
 ---
 **DBS, MCI AND SINGAPORE JUDICIARY ANNOUNCE WINNERS OF COMMUNITY HACKATHON TO COUNTER ONLINE HARMS**
 
@@ -37,4 +38,4 @@ image: ""
          
 9. To support participants on their journey, DBS also organised a series of design thinking masterclasses on the bank’s in-house innovation framework to equip participants with new skills to test and validate data-driven insights as they worked on their proposals.  
          
-10. The free resource package can be downloaded [here](https://drive.google.com/file/d/1NyFkFFYrOzy2euzbXwkEmnlsk6VhrxgD/view?usp=sharing).
+10. The free resource package can be downloaded here (file has been since removed).

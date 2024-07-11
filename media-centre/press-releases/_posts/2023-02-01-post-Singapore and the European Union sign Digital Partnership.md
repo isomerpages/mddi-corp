@@ -5,6 +5,7 @@ date: 2023-02-01
 layout: post
 description: ""
 image: ""
+variant: markdown
 ---
 _Jointly issued by the Ministry of Trade and Industry, Ministry of Communications and Information, and Infocomm Media Development Authority_ 
 
@@ -19,8 +20,3 @@ _Jointly issued by the Ministry of Trade and Industry, Ministry of Communication
 5. Minister Iswaran said, “The EU-Singapore Digital Partnership strengthens connectivity and interoperability between the digital markets of the EU and Singapore. It will enable our people and businesses to transact digitally more seamlessly and at lower costs. As a first deliverable, we launched a set of Digital Trade Principles which mark the first step towards a bilateral digital trade agreement that provides legal certainty for cross-border digital trade. I look forward to working with the EU to bring our economic and digital partnership to greater heights.”  
   
 6. Singapore and the EU share a strong economic relationship, underpinned by the EU-Singapore Free Trade Agreement (EUSFTA) which entered into force in November 2019. The EU is Singapore’s fourth largest goods trade partner globally. In 2021, bilateral trade in goods came to S$102 billion, representing 8.8% of Singapore’s total goods trade. The EU is also Singapore’s second largest services trade partner globally, with bilateral trade in services exceeding S$67 billion. Investment relations are strong, with the EU being Singapore’s second largest foreign investor and largest overseas investment destination.
-
-[Annex A: Photos of the signing](https://web-admin.intra.gov.sg/sitecore/shell/Controls/Rich%20Text%20Editor/-/media/0A310CF172DD48C38DB8462B8B3E95CC.ashx)   
-[Annex B: Factsheet on the EUSDP](https://web-admin.intra.gov.sg/sitecore/shell/Controls/Rich%20Text%20Editor/-/media/F3E88EEE7CEB4705BDF22A2AF01ECB4C.ashx)  
-[Annex C: Infographic on the EUSDP](https://web-admin.intra.gov.sg/sitecore/shell/Controls/Rich%20Text%20Editor/-/media/92D690C0F2574E0CA23DD01397086044.ashx)  
-[Annex D: Quotes from Companies](https://web-admin.intra.gov.sg/sitecore/shell/Controls/Rich%20Text%20Editor/-/media/B0980EAE1DE84F5F8CC8CDA6A0C7A34A.ashx)
