@@ -102,7 +102,8 @@ are adopted to safeguard Government systems against cybersecurity threats.</p>
 <p>We will also ensure that citizens’ data is handled with care, and protect
 the data in accordance with the high standards imposed on the public sector
 and third-party vendors.</p>
-<p></p>
+<p>Click or tap the links below to learn more about how the Government protects
+your data and secures its systems:</p>
 <p></p>
 <p></p>
 <p></p>
