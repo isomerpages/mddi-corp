@@ -1,4 +1,5 @@
 collections:
   digital-government:
     output: true
-    order: []
+    order:
+      - Cybersecurity in the Public Sector.md
