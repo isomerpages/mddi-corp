@@ -18,11 +18,15 @@ As cybersecurity threats become more sophisticated, we have adopted a three-pron
  
 ## Ensuring Whole-of-Government Cybersecurity Readiness
 
-The Smart Nation and Digital Government Group (SNDGG) takes a concerted effort to build cybersecurity capabilities across the Government to help prevent cybersecurity incidents. By putting in place ICT security policies, building a secure technology architecture, and conducting frequent security testing, the SNDGG supports all government agencies to be adequately equipped to secure their system
+The Ministry of Digital Development and Information (MDDI) takes a concerted effort to build cybersecurity capabilities across the Government to help prevent cybersecurity incidents. By putting in place ICT security policies, building a secure technology architecture, and conducting frequent security testing, the Ministry supports all government agencies to be adequately equipped to secure their system.
+
+[Return to top](#)
  
 ## Enabling Decisive Operational Response
 
 A dedicated team of cybersecurity defenders support and protect all systems within the Government. Security analysts monitor Government systems 24/7. They perform the necessary incident containment, forensics investigations and recovery to swiftly respond to any cybersecurity event within the Government.
+
+[Return to top](#)
 
 ## Collaboration with the Community
 
