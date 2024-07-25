@@ -22,13 +22,13 @@ Find out more about the Government’s key data security policies and key person
 <div class="row" style="padding: 20px 0px 0px 0px;">
 
 <div class="col" style="padding: 10px 20px 10px 20px;">
-<a href="https://www.smartnation.gov.sg/files/publications/smart-nation-strategy-nov2018.pdf"><img style="border:1px solid black;" src="/images/abt-smart-nation/sn_executive_summary.jpg" alt="Smart Nation: Executive Summary"></a><br><b>Government’s Key Personal Data Protection Policies (5.8mb)</b><br></div>
+<a href="https://www.smartnation.gov.sg/files/publications/smart-nation-strategy-nov2018.pdf"><img style="border:1px solid black;" src="/images/abt-smart-nation/government-personal-data-protection-policies.jpg" alt="Government’s Key Personal Data Protection Policies"></a><br><b>Government’s Key Personal Data Protection Policies (5.8mb)</b><br></div>
 	
 <div class="col" style="padding: 10px 20px 10px 20px;">
-<a href="https://www.mci.gov.sg/files/dr%20blueprint.pdf"><img style="border:1px solid black;" src="/images/abt-smart-nation/digital-readiness-blueprint2.png" alt="Digital Readiness Blueprint"></a><br><b>Government’s Key Data Security Policies (606kb)</b><br></div>
+<a href="https://www.mci.gov.sg/files/dr%20blueprint.pdf"><img style="border:1px solid black;" src="/images/Digital%20Government/government-data-security-policies.jpg" alt="Government’s Key Data Security Policies"></a><br><b>Government’s Key Data Security Policies (606kb)</b><br></div>
 	
 <div class="col" style="padding: 10px 20px 10px 20px;">
-<a href="https://sso.agc.gov.sg/Act/PSGA2018"><img style="border:1px solid black;" src="/images/abt-smart-nation/digital-readiness-blueprint2.png" alt="Digital Readiness Blueprint"></a><br><b>Data-related provisions of the Public Sector (Governance) Act</b><br></div>
+<a href="https://sso.agc.gov.sg/Act/PSGA2018"><img style="border:1px solid black;" src="/images/Digital%20Government/public_sector_governance_act.jpg" alt="Data-related provisions of the Public Sector (Governance) Act"></a><br><b>Data-related provisions of the Public Sector (Governance) Act</b><br></div>
 
 </div>
 
