@@ -22,7 +22,7 @@ Find out more about the Government’s key data security policies and key person
 <div class="row" style="padding: 20px 0px 0px 0px;">
 
 <div class="col" style="padding: 10px 20px 10px 20px;">
-<a href="https://go.gov.sg/government-personal-data-protection-policies"><img style="border:1px solid black;" src="/images/abt-smart-nation/government_personal_data_protection_policies.jpg" alt="Government’s Key Personal Data Protection Policies"></a><br><b>Government’s Key Personal Data Protection Policies (2.7MB)</b><br></div>
+<a href="https://go.gov.sg/government-personal-data-protection-policies"><img style="border:1px solid black;" src="/images/Digital%20Government/government_personal_data_protection_policies.jpg" alt="Government’s Key Personal Data Protection Policies"></a><br><b>Government’s Key Personal Data Protection Policies (2.7MB)</b><br></div>
 	
 <div class="col" style="padding: 10px 20px 10px 20px;">
 <a href="https://go.gov.sg/government-data-security-policies"><img style="border:1px solid black;" src="/images/Digital%20Government/government_data_security_policies.jpg" alt="Government’s Key Data Security Policies"></a><br><b>Government’s Key Data Security Policies (606KB)</b><br></div>
@@ -98,7 +98,7 @@ Find out more about the key policies that govern how agencies work with its thir
 
 <div class="row" style="padding: 20px 0px 0px 0px;">
 
-<div class="col" style="padding: 10px 20px 10px 20px;"><a href="https://go.gov.sg/key-policies-third-party-framework" target="_blank"><img style="border:1px solid black;" src="/images/Digital%20Government/key_policies_third_party-framework.jpg" alt="Key Policies of the Government's Third-Party Management Framework">Key Policies of the Government's Third-Party Management Framework (1.2MB)</a></div>
+<div class="col" style="padding: 10px 20px 10px 20px;"><a href="https://go.gov.sg/key-policies-third-party-framework" target="_blank"><img style="border:1px solid black;" src="/images/Digital%20Government/key_policies_third_party_framework.jpg" alt="Key Policies of the Government's Third-Party Management Framework">Key Policies of the Government's Third-Party Management Framework (1.2MB)</a></div>
 
 <div class="col" style="padding: 10px 20px 10px 20px;"></div>
 	
