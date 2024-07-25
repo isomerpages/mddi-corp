@@ -22,13 +22,13 @@ Find out more about the Government’s key data security policies and key person
 <div class="row" style="padding: 20px 0px 0px 0px;">
 
 <div class="col" style="padding: 10px 20px 10px 20px;">
-<a href="https://www.smartnation.gov.sg/files/publications/smart-nation-strategy-nov2018.pdf"><img src="/images/abt-smart-nation/sn_executive_summary.jpg" alt="Smart Nation: Executive Summary"></a><br><b>Government’s Key Personal Data Protection Policies (5.8mb)</b><br></div>
+<a href="https://www.smartnation.gov.sg/files/publications/smart-nation-strategy-nov2018.pdf"><img style="border:1px solid black;" src="/images/abt-smart-nation/sn_executive_summary.jpg" alt="Smart Nation: Executive Summary"></a><br><b>Government’s Key Personal Data Protection Policies (5.8mb)</b><br></div>
 	
 <div class="col" style="padding: 10px 20px 10px 20px;">
-<a href="https://www.mci.gov.sg/files/dr%20blueprint.pdf"><img src="/images/abt-smart-nation/digital-readiness-blueprint2.png" alt="Digital Readiness Blueprint"></a><br><b>Government’s Key Data Security Policies (606kb)</b><br></div>
+<a href="https://www.mci.gov.sg/files/dr%20blueprint.pdf"><img style="border:1px solid black;" src="/images/abt-smart-nation/digital-readiness-blueprint2.png" alt="Digital Readiness Blueprint"></a><br><b>Government’s Key Data Security Policies (606kb)</b><br></div>
 	
 <div class="col" style="padding: 10px 20px 10px 20px;">
-<a href="https://sso.agc.gov.sg/Act/PSGA2018"><img src="/images/abt-smart-nation/digital-readiness-blueprint2.png" alt="Digital Readiness Blueprint"></a><br><b>Data-related provisions of the Public Sector (Governance) Act</b><br></div>
+<a href="https://sso.agc.gov.sg/Act/PSGA2018"><img style="border:1px solid black;" src="/images/abt-smart-nation/digital-readiness-blueprint2.png" alt="Digital Readiness Blueprint"></a><br><b>Data-related provisions of the Public Sector (Governance) Act</b><br></div>
 
 </div>
 
@@ -36,7 +36,7 @@ Find out more about the Government’s key data security policies and key person
 
 In 2019, the Public Sector Data Security Review Committee (PSDSRC) recommended additional technical and process measures to protect data and prevent data compromise. It made five key recommendations to strengthen the Government’s data security regime.
 
-![PSDSRC key recommendations](/images/abt-smart-nation/psdsrc-key-recommendation.png)
+![PSDSRC key recommendations](/images/Digital%20Government/psdsrc_key_recommendation.png)
 
 In the 2020 Budget, the Government announced an investment of $1 billion over three years to enhance cybersecurity and data security in the public sector. It will also continually and proactively enhance its initiatives to ensure the resiliency of its data security regime to respond and address emerging threats and risks
 
