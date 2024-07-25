@@ -30,8 +30,6 @@ Digital defence is the 6th pillar of our national defence, and the Government wo
 
 ![Vulnerability Discovery Programmes](/images/Digital%20Government/vulnerability_discovery_programmes.jpg)
 
-The public sector’s cybersecurity defence is led by the Cyber Security Group (CSG) at GovTech. Click on the link for more information on the <a href="https://www.tech.gov.sg/digital-government-blueprint/">role of cybersecurity in the Digital Government Blueprint</a>.
-
-To learn more about the latest developments in cybersecurity, please visit the <a href="https://medium.com/csg-govtech" target="_blank">CSG Medium homepage</a>.
+The public sector’s cybersecurity defence is led by the [Cyber Security Group (CSG)](https://www.tech.gov.sg/our-capabilities/cybersecurity/) at GovTech. To learn more about the latest developments in cybersecurity, please visit the <a href="https://medium.com/csg-govtech" target="_blank">CSG Medium homepage</a>.
 
 [Return to the Digital Government Page](/what-we-do/digital-singapore/digital-government/)
