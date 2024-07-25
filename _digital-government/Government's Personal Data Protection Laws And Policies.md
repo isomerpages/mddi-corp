@@ -66,7 +66,7 @@ Find out more about the annual updates on the Government’s personal data prote
 
 <div class="row" style="padding: 20px 0px 0px 0px;">
 
-<div class="col" style="padding: 10px 20px 10px 20px;"><a href="https://go.gov.sg/2021-annual-update-on-govt-personal-data-protection-efforts-summary" target="_blank"><img style="border:1px solid black;" src="/images/Digital%20Government/2020_annual_update_on_govt_personal_data_protection_efforts_summary.jpg" alt="2021: Second Update on the Government's Personal Data Protection Efforts – Summary">2021: Second Update on the Government's Personal Data Protection Efforts – Summary (932KB)</a></div>
+<div class="col" style="padding: 10px 20px 10px 20px;"><a href="https://go.gov.sg/2021-annual-update-on-govt-personal-data-protection-efforts-summary" target="_blank"><img style="border:1px solid black;" src="/images/Digital%20Government/2021_annual_update_on_govt_personal_data_protection_efforts_summary.jpg" alt="2021: Second Update on the Government's Personal Data Protection Efforts – Summary">2021: Second Update on the Government's Personal Data Protection Efforts – Summary (932KB)</a></div>
 	
 <div class="col" style="padding: 10px 20px 10px 20px;"><a href="https://go.gov.sg/2020-annual-update-on-govt-personal-data-protection-efforts" target="_blank"><img style="border:1px solid black;" src="/images/Digital%20Government/2020_annual_update_on_govt_personal_data_protection_efforts.jpg" alt="2020: First Update on the Government's Personal Data Protection Efforts">2020: First Update on the Government's Personal Data Protection Efforts (2.1MB)</a></div>
 
