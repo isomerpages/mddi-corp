@@ -2,6 +2,6 @@ collections:
   digital-government:
     output: true
     order:
-      - Government Data Incident Reporting Platform.md
       - Cybersecurity in the Public Sector.md
       - Government's Personal Data Protection Laws And Policies.md
+      - Government Data Incident Reporting Platform.md
