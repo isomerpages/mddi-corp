@@ -107,3 +107,5 @@ Find out more about the key policies that govern how agencies work with its thir
 </div>
 
 [Return to top](#)
+
+[Return to the Digital Government Page](/what-we-do/digital-singapore/digital-government/)
