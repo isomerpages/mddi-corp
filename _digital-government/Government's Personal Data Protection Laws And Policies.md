@@ -22,10 +22,10 @@ Find out more about the Government’s key data security policies and key person
 <div class="row" style="padding: 20px 0px 0px 0px;">
 
 <div class="col" style="padding: 10px 20px 10px 20px;">
-<a href="https://www.smartnation.gov.sg/files/publications/smart-nation-strategy-nov2018.pdf"><img style="border:1px solid black;" src="/images/abt-smart-nation/government-personal-data-protection-policies.jpg" alt="Government’s Key Personal Data Protection Policies"></a><br><b>Government’s Key Personal Data Protection Policies (5.8mb)</b><br></div>
+<a href="https://www.smartnation.gov.sg/files/publications/smart-nation-strategy-nov2018.pdf"><img style="border:1px solid black;" src="/images/abt-smart-nation/government_personal_data_protection_policies.jpg" alt="Government’s Key Personal Data Protection Policies"></a><br><b>Government’s Key Personal Data Protection Policies (5.8mb)</b><br></div>
 	
 <div class="col" style="padding: 10px 20px 10px 20px;">
-<a href="https://www.mci.gov.sg/files/dr%20blueprint.pdf"><img style="border:1px solid black;" src="/images/Digital%20Government/government-data-security-policies.jpg" alt="Government’s Key Data Security Policies"></a><br><b>Government’s Key Data Security Policies (606kb)</b><br></div>
+<a href="https://www.mci.gov.sg/files/dr%20blueprint.pdf"><img style="border:1px solid black;" src="/images/Digital%20Government/government_data_security_policies.jpg" alt="Government’s Key Data Security Policies"></a><br><b>Government’s Key Data Security Policies (606kb)</b><br></div>
 	
 <div class="col" style="padding: 10px 20px 10px 20px;">
 <a href="https://sso.agc.gov.sg/Act/PSGA2018"><img style="border:1px solid black;" src="/images/Digital%20Government/public_sector_governance_act.jpg" alt="Data-related provisions of the Public Sector (Governance) Act"></a><br><b>Data-related provisions of the Public Sector (Governance) Act</b><br></div>
@@ -44,11 +44,11 @@ Find out more about the Public Sector Data Security Review through the links bel
 
 <div class="row" style="padding: 20px 0px 0px 0px;">
 
-<div class="col" style="padding: 10px 20px 10px 20px;"><a href="/files/publications/psdsrc-main-report-nov2019.pdf" target="_blank"><img style="border:1px solid black;" src="/images/abt-smart-nation/psdsrc-main-report-nov2019-1.jpg" alt="Public Sector Data Security Review Committee Report">Public Sector Data Security Review Committee Report (2.3MB)</a></div>
+<div class="col" style="padding: 10px 20px 10px 20px;"><a href="/files/publications/psdsrc-main-report-nov2019.pdf" target="_blank"><img style="border:1px solid black;" src="/images/Digital%20Government/2019_psdsrc_report.jpg" alt="Public Sector Data Security Review Committee Report">Public Sector Data Security Review Committee Report (2.3MB)</a></div>
 
-<div class="col" style="padding: 10px 20px 10px 20px;"><a href="/files/publications/annexes-to-the-psdsrc-final-report.pdf" target="_blank"><img style="border:1px solid black;" src="/images/abt-smart-nation/annexes-to-the-psdsrc-final-report-cover.jpg" alt="Annexes to the Public Sector Data Security Review Committee Report">Annexes to the Public Sector Data Security Review Committee Report (1.4MB)</a></div>	
+<div class="col" style="padding: 10px 20px 10px 20px;"><a href="/files/publications/annexes-to-the-psdsrc-final-report.pdf" target="_blank"><img style="border:1px solid black;" src="/images/Digital%20Government/2019_annexes_to_the_psdsrc_report.jpg" alt="Annexes to the Public Sector Data Security Review Committee Report">Annexes to the Public Sector Data Security Review Committee Report (1.4MB)</a></div>	
 
-<div class="col" style="padding: 10px 20px 10px 20px;"><a href="/files/abt-smart-nation/psdsrc-infographic.pdf" target="_blank"><img style="border:1px solid black;" src="/images/abt-smart-nation/psdsrc-infographic-cover.jpg" alt="Infographics on PSDSRC Recommendations">Infographic on Recommendations (0.5MB)</a></div>
+<div class="col" style="padding: 10px 20px 10px 20px;"><a href="/files/abt-smart-nation/psdsrc-infographic.pdf" target="_blank"><img style="border:1px solid black;" src="/images/Digital%20Government/2019_psdsrc_infographic.jpg" alt="Infographics on PSDSRC Recommendations">Infographic on Recommendations (0.5MB)</a></div>
 
 </div>
 
@@ -56,21 +56,21 @@ Find out more about the annual updates on the Government’s personal data prote
 
 <div class="row" style="padding: 20px 0px 0px 0px;">
 
-<div class="col" style="padding: 10px 20px 10px 20px;"><a href="/files/publications/2023:%20fourth%20update%20on%20the%20government's%20personal%20data%20protection%20efforts.pdf" target="_blank"><img style="border:1px solid black;" src="/images/abt-smart-nation/2023-fourth-update-on-data-protection-efforts-cover.png" alt="2023 Fourth Update on the Government's Personal Data Protection Efforts">2023: Fourth Update on the Government's Personal Data Protection Efforts (891kb)</a></div>
+<div class="col" style="padding: 10px 20px 10px 20px;"><a href="/files/publications/2023:%20fourth%20update%20on%20the%20government's%20personal%20data%20protection%20efforts.pdf" target="_blank"><img style="border:1px solid black;" src="/images/Digital%20Government/2023_annual_update_on_govt_personal_data_protection_efforts.jpg" alt="2023 Fourth Update on the Government's Personal Data Protection Efforts">2023: Fourth Update on the Government's Personal Data Protection Efforts (891kb)</a></div>
 
-<div class="col" style="padding: 10px 20px 10px 20px;"><a href="/files/publications/govt%20personal%20data%20protection%20efforts%202022.pdf" target="_blank"><img style="border:1px solid black;" src="/images/abt-smart-nation/2022-third-update-on-data-protection-efforts-cover.jpg" alt="2022: Third Update on the Government's Personal Data Protection Efforts">2022: Third Update on the Government's Personal Data Protection Efforts (1MB)</a></div>
+<div class="col" style="padding: 10px 20px 10px 20px;"><a href="/files/publications/govt%20personal%20data%20protection%20efforts%202022.pdf" target="_blank"><img style="border:1px solid black;" src="/images/Digital%20Government/2022_annual_update_on_govt_personal_data_protection_efforts.jpg" alt="2022: Third Update on the Government's Personal Data Protection Efforts">2022: Third Update on the Government's Personal Data Protection Efforts (1MB)</a></div>
 
-<div class="col" style="padding: 10px 20px 10px 20px;"><a href="/files/publications/government-personal-data-protection-efforts-2021.pdf" target="_blank"><img style="border:1px solid black;" src="/images/abt-smart-nation/2021-report-update-on-pdprc.png" alt="2021: Second Update on the Government's Personal Data Protection Efforts">2021: Second Update on the Government's Personal Data Protection Efforts (269KB)</a></div>	
+<div class="col" style="padding: 10px 20px 10px 20px;"><a href="/files/publications/government-personal-data-protection-efforts-2021.pdf" target="_blank"><img style="border:1px solid black;" src="/images/Digital%20Government/2021_annual_update_on_govt_personal_data_protection_efforts.jpg" alt="2021: Second Update on the Government's Personal Data Protection Efforts">2021: Second Update on the Government's Personal Data Protection Efforts (269KB)</a></div>	
 
 </div>
 
 <div class="row" style="padding: 20px 0px 0px 0px;">
 
-<div class="col" style="padding: 10px 20px 10px 20px;"><a href="/files/publications/government-personal-data-protection-efforts-2021-summary.pdf" target="_blank"><img style="border:1px solid black;" src="/images/abt-smart-nation/government-personal-data-protection-efforts-2021-summary-cover.jpg" alt="2021: Second Update on the Government's Personal Data Protection Efforts – Summary">2021: Second Update on the Government's Personal Data Protection Efforts – Summary (932KB)</a></div>
+<div class="col" style="padding: 10px 20px 10px 20px;"><a href="/files/publications/government-personal-data-protection-efforts-2021-summary.pdf" target="_blank"><img style="border:1px solid black;" src="/images/Digital%20Government/2020_annual_update_on_govt_personal_data_protection_efforts_summary.jpg" alt="2021: Second Update on the Government's Personal Data Protection Efforts – Summary">2021: Second Update on the Government's Personal Data Protection Efforts – Summary (932KB)</a></div>
 	
-<div class="col" style="padding: 10px 20px 10px 20px;"><a href="/files/publications/annual-update-on-govt-personal-data-protection-efforts-2020.pdf" target="_blank"><img style="border:1px solid black;" src="/images/abt-smart-nation/annual-update-on-govt-personal-data-protection-efforts-2020-cover.jpg" alt="2020: First Update on the Government's Personal Data Protection Efforts">2020: First Update on the Government's Personal Data Protection Efforts (2.2MB)</a></div>
+<div class="col" style="padding: 10px 20px 10px 20px;"><a href="/files/publications/annual-update-on-govt-personal-data-protection-efforts-2020.pdf" target="_blank"><img style="border:1px solid black;" src="/images/Digital%20Government/2020_annual_update_on_govt_personal_data_protection_efforts.jpg" alt="2020: First Update on the Government's Personal Data Protection Efforts">2020: First Update on the Government's Personal Data Protection Efforts (2.2MB)</a></div>
 
-<div class="col" style="padding: 10px 20px 10px 20px;"><a href="/files/publications/annual-update-on-govt-personal-data-protection-efforts-nov2020-summary.pdf" target="_blank"><img style="border:1px solid black;" src="/images/abt-smart-nation/annual-update-on-govt-personal-data-protection-efforts-nov2020-summary_cover.jpg" alt="2020: First Update on the Government's Personal Data Protection Efforts - Summary">2020: First Update on the Government's Personal Data Protection Efforts - Summary (205KB)</a></div>	
+<div class="col" style="padding: 10px 20px 10px 20px;"><a href="/files/publications/annual-update-on-govt-personal-data-protection-efforts-nov2020-summary.pdf" target="_blank"><img style="border:1px solid black;" src="/images/Digital%20Government/2020_annual_update_on_govt_personal_data_protection_efforts_summary.jpg" alt="2020: First Update on the Government's Personal Data Protection Efforts - Summary">2020: First Update on the Government's Personal Data Protection Efforts - Summary (205KB)</a></div>	
 
 </div>
 
@@ -98,7 +98,7 @@ Find out more about the key policies that govern how agencies work with its thir
 
 <div class="row" style="padding: 20px 0px 0px 0px;">
 
-<div class="col" style="padding: 10px 20px 10px 20px;"><a href="/files/publications/government-personal-data-protection-efforts-2021-summary.pdf" target="_blank"><img style="border:1px solid black;" src="/images/abt-smart-nation/government-personal-data-protection-efforts-2021-summary-cover.jpg" alt="2021: Second Update on the Government's Personal Data Protection Efforts – Summary">Key Policies of the Government's Third-Party Management Framework (1.2mb)</a></div>
+<div class="col" style="padding: 10px 20px 10px 20px;"><a href="/files/publications/government-personal-data-protection-efforts-2021-summary.pdf" target="_blank"><img style="border:1px solid black;" src="/images/Digital%20Government/key_policies_third_party-framework.jpg" alt="Key Policies of the Government's Third-Party Management Framework">Key Policies of the Government's Third-Party Management Framework (1.2mb)</a></div>
 
 <div class="col" style="padding: 10px 20px 10px 20px;"></div>
 	
