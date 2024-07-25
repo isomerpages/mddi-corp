@@ -2,9 +2,9 @@ collections:
   what-we-do:
     output: true
     order:
+      - Digital Singapore/Digital Government.md
       - Digital Singapore/.keep
       - Digital Singapore/Digital Economy.md
-      - Digital Singapore/Digital Government.md
       - Digital Singapore/Digital Infrastructure.md
       - Digital Singapore/Digital Security.md
       - Digital Singapore/Digital Society.md
@@ -22,8 +22,8 @@ collections:
       - Research and Data/What We Have Done.md
       - Research and Data/Sentiments Research Capabilities in Whole of
         Government.md
-      - Committee of Supply/COS 2024.md
       - Committee of Supply/.keep
+      - Committee of Supply/COS 2024.md
       - Committee of Supply/COS 2023.md
       - Committee of Supply/COS 2022.md
       - Committee of Supply/COS 2021.md
