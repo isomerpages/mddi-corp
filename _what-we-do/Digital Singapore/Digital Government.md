@@ -105,6 +105,15 @@ and third-party vendors.</p>
 <p>Click or tap the links below to learn more about how the Government protects
 your data and secures its systems:</p>
 <p></p>
-<p></p>
-<p></p>
-<p></p>
+
+<div class="row" style="padding: 20px 0px 0px 0px;">
+	
+<div class="col" style="padding: 10px 20px 0px 20px;"><a href="/cybersecurity-in-the-public-sector/"><img src="/images/Digital%20Government/cybersecurityinpublicsector.jpg" alt="Cybersecurity in the Public Sector"></a><br><b>Cybersecurity in the Public Sector</b></div>
+		
+<div class="col" style="padding: 10px 20px 0px 20px;"><a href="/gov-personal-data-protection-laws-and-policies/"><img src="/images/Digital%20Government/datasecurityinpublicsector.jpg" alt="Government's Personal Data Protection Laws and Policies"></a><br><b>Government's Personal Data Protection Laws and Policies</b></div>
+
+</div>
+
+
+
+
