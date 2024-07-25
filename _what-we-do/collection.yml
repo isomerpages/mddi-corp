@@ -2,7 +2,6 @@ collections:
   what-we-do:
     output: true
     order:
-      - Digital Government/.keep
       - Digital Singapore/.keep
       - Digital Singapore/Digital Economy.md
       - Digital Singapore/Digital Government.md
