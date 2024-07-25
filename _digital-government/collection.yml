@@ -2,6 +2,7 @@ collections:
   digital-government:
     output: true
     order:
+      - FAQs on Reporting Data Incidents.md
       - Cybersecurity in the Public Sector.md
       - Government's Personal Data Protection Laws And Policies.md
       - Government Data Incident Reporting Platform.md
