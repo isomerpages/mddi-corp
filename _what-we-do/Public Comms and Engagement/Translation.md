@@ -156,9 +156,9 @@ For more information, please refer to:
 <table>
 <thead>
 <tr>
-<th>CiTEG Enquiry Form</th>
 <th>CiTEG Application Guide</th>
 <th>CiTEG Application Form</th>
+<th>CiTEG Enquiry Form</th>
 </tr>
 </thead>
 <tbody>
