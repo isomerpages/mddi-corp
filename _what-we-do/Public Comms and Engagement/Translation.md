@@ -148,7 +148,7 @@ We accept applications from 1 April to 30 June (both dates inclusive) each year.
 Current and upcoming application cycles:
 <br>
 <title>Table Example</title> &nbsp;
-<table><thead><tr><th>Application period</th><th>For proposed events which start in</th></tr></thead><tbody><tr><td>1 February 2024 to 31 March 2024</td><td>July 2024 to December 2024</td></tr><tr><td>1 August 2024 to 30 September 2024</td><td>January 2025 to June 2025</td></tr></tbody></table>
+<table><thead><tr><th>Application period</th><th>For proposed events which start in</th></tr></thead><tbody><tr><td>1 February to 31 March </td><td>July to December in the current year</td></tr><tr><td>1 August to 30 September </td><td>January to June of the following year</td></tr></tbody></table>
 <br>
 For more information, please refer to:
 <br><br>
