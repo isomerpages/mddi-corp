@@ -71,6 +71,7 @@ enhancements or new measures when necessary. New initiatives aimed at strengthen
 the Government’s data security will be shared on the Ministry of Digital
 Development and Information (MDDI) website.</p>
 <p>The full FY2023 report can be found at <a href="http://go.gov.sg/public-sector-data-security-review" rel="noopener noreferrer nofollow" target="_blank">go.gov.sg/public-sector-data-security-review</a>.</p>
+<p></p>
 <hr>
 <p><sup>1</sup> The Public Sector Data Security Review Committee (PSDSRC)
 made five key recommendations in 2019 to improve the Government’s data
