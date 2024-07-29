@@ -56,7 +56,7 @@ Find out more about the annual updates on the Government’s personal data prote
 
 <div class="row" style="padding: 20px 0px 0px 0px;">
 	
-<div class="col" style="padding: 10px 20px 10px 20px;"><a href="https://go.gov.sg/2024-annual-update-on-govt-personal-data-protection-efforts" target="_blank"><img style="border:1px solid black;" src="/images/Digital%20Government/2024_PD_update_cover_web.png" alt="2024 Fifth Update on the Government's Personal Data Protection Efforts">2024: Fifth Update on the Government's Personal Data Protection Efforts</a></div>
+<div class="col" style="padding: 10px 20px 10px 20px;"><a href="https://go.gov.sg/2024-annual-update-on-govt-personal-data-protection-efforts" target="_blank"><img style="border:1px solid black;" src="/images/Digital%20Government/2024_PD_update_cover_web.png" alt="2024 Fifth Update on the Government's Personal Data Protection Efforts">2024: Fifth Update on the Government's Personal Data Protection Efforts (586kb)</a></div>
 
 <div class="col" style="padding: 10px 20px 10px 20px;"><a href="https://go.gov.sg/2023-annual-update-on-govt-personal-data-protection-efforts" target="_blank"><img style="border:1px solid black;" src="/images/Digital%20Government/2023_annual_update_on_govt_personal_data_protection_efforts.jpg" alt="2023 Fourth Update on the Government's Personal Data Protection Efforts">2023: Fourth Update on the Government's Personal Data Protection Efforts (891kb)</a></div>
 
