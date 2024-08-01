@@ -2,8 +2,8 @@ collections:
   what-we-do:
     output: true
     order:
-      - Digital Development/Digital Singapore.md
       - Digital Development/.keep
+      - Digital Development/Digital Singapore.md
       - Digital Development/Digital Economy.md
       - Digital Development/Digital Government.md
       - Digital Development/Digital Infrastructure.md
