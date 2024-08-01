@@ -169,24 +169,35 @@ had the privilege of meeting eight of them earlier. I should say that they
 are fine examples of how Singapore, far from becoming fearful that AI will
 take away people's jobs and replace us, is embracing technology and using
 it to enhance our own human capabilities to keep humans in the loop for
-the things that matter most and continue to create ourselves a next bout
-of growth, a next bout of opportunity, a next bout of progression.</p>
+the things that matter most and continue to create for ourselves a next
+bout of growth, a next bout of opportunity, a next bout of progression.</p>
+<p></p>
 </li>
-</ol>
-<p>13. There are so many examples of alumni amongst you, who have challenged
+<li>
+<p>There are so many examples of alumni amongst you, who have challenged
 themselves, surpassed their own expectations and shown the rest of Singapore
-how with some determination and a lot of support, they never let technology
+how with some determination and a lot of support, they have never let technology
 stop their progress or let fear stop them from achieving something new.</p>
-<p>14. To conclude, I want to congratulate ISS for all the good work that
-you do. Our Government agencies like GovTech and IMDA believe in contributing
-in the common good. They partner with many organisations across a whole
+<p></p>
+</li>
+<li>
+<p>To conclude, I want to congratulate ISS for all the good work that you
+do. Our Government agencies like GovTech and IMDA believe in contributing
+to the common good. They partner with many organisations across a whole
 spectrum of activities, and are already working very closely with you.
 I believe that as a community, if we continue to work closely with one
 another, identify the ways in which we can strengthen capabilities in Singapore,
-both for individuals as well as businesses. There is no saying how far
+both for individuals as well as businesses, there is no saying how far
 we might go in growing our own AI ecosystem.</p>
-<p>15. I congratulate all of your award recipients, your partners, as well
-as the thousands of graduates that move through your doors every single
-year.</p>
-<p>16. Thank you very much for inviting me here.</p>
+<p></p>
+</li>
+<li>
+<p>I congratulate all of your award recipients, your partners, as well as
+the thousands of graduates that move through your doors every single year.</p>
+<p></p>
+</li>
+<li>
+<p>Thank you very much for inviting me here.</p>
+</li>
+</ol>
 <p></p>
