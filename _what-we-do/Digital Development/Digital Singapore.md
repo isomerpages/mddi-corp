@@ -5,7 +5,7 @@ variant: markdown
 description: ""
 third_nav_title: Digital Development
 ---
-# Driving Singapore's Digital Transformation
+## Driving Singapore's Digital Transformation
 
 The Ministry of Digital Development and Information (MDDI) plays a pivotal role in driving Singapore's digital mandate in four key domains:
 
