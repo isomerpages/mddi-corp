@@ -102,13 +102,14 @@ to collaborate on a joint challenge, which will include addressing emerging
 areas such as PETs for AI.</p>
 </li>
 <li>
-<p>Concluding a bilateral Digital Economic Cooperation Roadmap that identifies
-shared principles and opportunities for cooperation in priority areas,
-including emerging technologies, data governance and the Global CBPR Forum,
-trusted environment, digital connectivity and infrastructure, trade facilitation
-for micro, small, and medium enterprises, and workforce development. The
-Roadmap is a foundation for further collaboration on the digital economy
-to jointly deliver tangible benefits for our businesses, workers, and societies.</p>
+<p>Concluding a bilateral <a href="https://www.mfa.gov.sg/Newsroom/Press-Statements-Transcripts-and-Photos/2024/07/20240731-Blinken-visit" rel="noopener noreferrer nofollow" target="_blank">Digital Economic Cooperation Roadmap</a> that
+identifies shared principles and opportunities for cooperation in priority
+areas, including emerging technologies, data governance and the Global
+CBPR Forum, trusted environment, digital connectivity and infrastructure,
+trade facilitation for micro, small, and medium enterprises, and workforce
+development. The Roadmap is a foundation for further collaboration on the
+digital economy to jointly deliver tangible benefits for our businesses,
+workers, and societies.</p>
 </li>
 </ul>
 <p><strong>Biotechnology</strong>
