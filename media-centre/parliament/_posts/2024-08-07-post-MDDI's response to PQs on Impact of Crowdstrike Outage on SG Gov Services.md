@@ -109,7 +109,6 @@ plans and support systems are available during such outages, and how are
 these made known to the affected stakeholders; and (c) how can the Ministry
 work with international partners and cybersecurity firms to mitigate the
 risks of such outages.</p>
-<p></p>
 <p><strong>Answer:</strong>
 </p>
 <p>On 19 July 2024, a faulty software update by a cybersecurity service provider
