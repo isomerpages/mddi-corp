@@ -8,7 +8,7 @@ image: ""
 variant: tiptap
 ---
 <h3>Parliament Sitting on 7 August 2024</h3>
-<h3>QUESTION FOR ORAL ANSWER</h3>
+<h3>QUESTION FOR WRITTEN ANSWER</h3>
 <p><strong>*51. Dr Tan Wu Meng</strong> asked the Minister for Digital Development
 and Information whether the Government funding to SPH Media has conditions
 specifying minimum consumer service standards, including the provision
