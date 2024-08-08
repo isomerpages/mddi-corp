@@ -3,12 +3,28 @@ title: Digital Government
 permalink: /what-we-do/digital-singapore/digital-government/
 variant: markdown
 description: ""
-third_nav_title: Digital Singapore
+third_nav_title: Digital Development
 ---
-<p></p>
-<div class="iframe-wrapper">
-<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/nmupdl8svmI?si=k3yCLS8IGesiBBZB"></iframe>
+## Digital to the Core, and Serves with Heart
+
+<br>
+
+<div style="max-width: 1280px">
+    <div style="height: 0;
+            overflow: hidden;
+            position: relative;
+            padding-bottom: 56.25%;">
+        <iframe src="https://www.youtube.com/embed/nmupdl8svmI" height="720" width="1280" frameborder="0" title="YouTube video player" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" style="top: 0;
+                left: 0;
+                right: 0;
+                bottom: 0;
+                height: 100%;
+                border: none;
+                max-width: 100%;
+                position: absolute;"></iframe>
+    </div>
 </div>
+
 <p>Our vision of a Digital Government is “digital to the core, and serves
 with heart”. Digitalisation is an effective means for the Government to
 serve citizens with greater empathy, through designing policies and services
@@ -113,7 +129,3 @@ your data and secures its systems:</p>
 <div class="col" style="padding: 10px 20px 0px 20px;"><a href="/gov-personal-data-protection-laws-and-policies/"><img src="/images/Digital%20Government/datasecurityinpublicsector.jpg" alt="Government's Personal Data Protection Laws and Policies"></a><br><b>Government's Personal Data Protection Laws and Policies</b></div>
 
 </div>
-
-
-
-

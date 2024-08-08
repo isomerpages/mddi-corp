@@ -2,7 +2,7 @@
 title: Digital Security
 permalink: /what-we-do/digital-singapore/digital-security/
 description: ""
-third_nav_title: Digital Singapore
+third_nav_title: Digital Development
 variant: tiptap
 ---
 <h3>Ensuring our Digital Domain is Safe, Secure, and Resilient</h3>

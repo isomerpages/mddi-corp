@@ -2,7 +2,7 @@
 title: Digital Society
 permalink: /what-we-do/digital-singapore/digital-society/
 description: ""
-third_nav_title: Digital Singapore
+third_nav_title: Digital Development
 variant: markdown
 ---
 <h2>Building a Safe and Inclusive Digital Society</h2>

@@ -2,12 +2,13 @@ collections:
   what-we-do:
     output: true
     order:
-      - Digital Singapore/.keep
-      - Digital Singapore/Digital Economy.md
-      - Digital Singapore/Digital Government.md
-      - Digital Singapore/Digital Infrastructure.md
-      - Digital Singapore/Digital Security.md
-      - Digital Singapore/Digital Society.md
+      - Digital Development/.keep
+      - Digital Development/Digital Singapore.md
+      - Digital Development/Digital Economy.md
+      - Digital Development/Digital Government.md
+      - Digital Development/Digital Infrastructure.md
+      - Digital Development/Digital Security.md
+      - Digital Development/Digital Society.md
       - Public Comms and Engagement/.keep
       - Public Comms and Engagement/Overview.md
       - Public Comms and Engagement/Media Engagement.md

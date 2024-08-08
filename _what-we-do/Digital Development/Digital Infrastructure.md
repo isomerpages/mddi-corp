@@ -2,7 +2,7 @@
 title: Digital Infrastructure
 permalink: /what-we-do/digital-singapore/digital-infrastructure/
 description: ""
-third_nav_title: Digital Singapore
+third_nav_title: Digital Development
 variant: tiptap
 ---
 <h3>The Foundational Role of Digital Infrastructure</h3>

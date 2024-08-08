@@ -2,7 +2,7 @@
 title: Digital Economy
 permalink: /what-we-do/digital-singapore/digital-economy/
 description: ""
-third_nav_title: Digital Singapore
+third_nav_title: Digital Development
 variant: tiptap
 ---
 <p>The Digital Economy has generated strong growth for Singapore. It contributed
