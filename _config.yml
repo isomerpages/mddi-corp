@@ -51,7 +51,7 @@ plugins:
   - jekyll-remote-theme
 staging: https://staging-lite.d1smzutswyav9j.amplifyapp.com
 prod: https://master.d3gycxy3tjxrco.amplifyapp.com
-shareicon: /images/MDDI_Colour_Landscape.svg
+shareicon: /images/MDDI_LOGO_only.png
 is_government: true
 facebook-pixel: ""
 google_analytics: ""
