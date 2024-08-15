@@ -7,7 +7,7 @@ description: ""
 image: ""
 variant: tiptap
 ---
-<p><strong>OPENING REMARKS BY MRS JOSEPHINE TEO, MINISTER FOR DIGITAL DEVELOPMENT AND INFORMATION, AT IBM THINK SINGAPORE 2024 (15 AUGUST 2024) </strong>
+<p><strong>OPENING REMARKS BY MRS JOSEPHINE TEO, MINISTER FOR DIGITAL DEVELOPMENT AND INFORMATION, AT IBM THINK SINGAPORE 2024 (15 AUGUST 2024)</strong>
 </p>
 <p>Senior Vice President and Chief Operating Officer, IBM Consulting, <strong>Mr Mohamad Ali</strong>,
 <br>General Manager, IBM Asia Pacific, <strong>Mr Hans Dekkers</strong>,
