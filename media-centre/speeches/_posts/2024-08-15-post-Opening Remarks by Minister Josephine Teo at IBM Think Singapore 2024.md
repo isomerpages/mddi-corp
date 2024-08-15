@@ -7,11 +7,10 @@ description: ""
 image: ""
 variant: tiptap
 ---
-<p>Senior Vice President and Chief Operating Officer, IBM Consulting, Mr
-Mohamad Ali,
-<br>General Manager, IBM Asia Pacific, Mr Hans Dekkers,
-<br>General Manager and Managing Partner APAC, IBM Consulting, Ms Juhi McClelland,
-<br>General Manager and Technology Leader, IBM ASEAN, Ms Catherine Lian,
+<p>Senior Vice President and Chief Operating Officer, IBM Consulting, <strong>Mr Mohamad Ali</strong>,
+<br>General Manager, IBM Asia Pacific, <strong>Mr Hans Dekkers</strong>,
+<br>General Manager and Managing Partner APAC, IBM Consulting, <strong>Ms Juhi McClelland</strong>,
+<br>General Manager and Technology Leader, IBM ASEAN, <strong>Ms Catherine Lian</strong>,
 <br>Colleagues and friends,</p>
 <p>1. Good morning and thank you for your kind invitation.</p>
 <p>2. It is good to be back at IBM Think Conference.</p>
@@ -23,16 +22,15 @@ refreshed National AI Strategy 2.0 last December, which we refer to as
 NAIS 2.0.</p>
 <p><em>Governance</em>
 </p>
-<p>4. Our foundational belief is that AI should be harnessed in a responsible
-and secure way that delivers real value to our people and businesses.</p>
+<p>4. Our foundational belief is that AI should be harnessed in a <strong>responsible and secure</strong> way
+that delivers real value to our people and businesses.</p>
 <p>(a) This is why we made it a priority to extend our practical guidelines
 and tools for AI Governance beyond traditional AI, to also cover Generative
-AI. In May, we launched our Model Governance Framework for Generative AI
-and extended our open-source testing toolkit, AI Verify, through Project
-Moonshot.</p>
-<p>(b) In July, we also started public consultations on a set of guidelines
-and a Companion Guide for Securing AI Systems – so that AI in our ecosystem
-is secure by design. We would certainly welcome feedback on these new initiatives.</p>
+AI. In May, we launched our <strong>Model Governance Framework for Generative AI </strong>and
+extended our open-source testing toolkit, AI Verify, through <strong>Project Moonshot</strong>.</p>
+<p>(b) In July, we also started public consultations on a <strong>set of guidelines and a Companion Guide for Securing AI Systems</strong> –
+so that AI in our ecosystem is secure by design. We would certainly welcome
+feedback on these new initiatives.</p>
 <p>5. Recognising the importance of international partnerships on AI governance,</p>
 <p>(a) Singapore led the development of the <strong>ASEAN Guide on AI Governance and Ethics</strong>,
 which was endorsed at the 4th ASEAN Digital Ministers’ Meeting in February
