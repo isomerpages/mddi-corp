@@ -13,7 +13,6 @@ sections:
       backgroundColor: gray
       size: md
       alignment: left
-      title: Ministry of Digital Development and Information
       url: who-we-are/about-us/our-purpose/
       key_highlights:
         - title: Digital Singapore
