@@ -7,6 +7,8 @@ description: ""
 image: ""
 variant: tiptap
 ---
+<p><strong>Opening remarks by Mrs Josephine Teo, Minister for Digital Development and Information, At IBM Think Singapore 2024 (15 August 2024)</strong>
+</p>
 <p>Senior Vice President and Chief Operating Officer, IBM Consulting, <strong>Mr Mohamad Ali</strong>,
 <br>General Manager, IBM Asia Pacific, <strong>Mr Hans Dekkers</strong>,
 <br>General Manager and Managing Partner APAC, IBM Consulting, <strong>Ms Juhi McClelland</strong>,
