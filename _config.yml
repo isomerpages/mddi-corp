@@ -1,8 +1,8 @@
 title: Ministry of Digital Development and Information
 url: https://www.mddi.gov.sg
-favicon: /images/icon.png
+favicon: /images/MDDI_LOGO_only.png
 colors:
-  primary-color: "#ef413d"
+  primary-color: "#005dac"
   secondary-color: "#00b085"
   media-colors:
     - title: media-color-one
