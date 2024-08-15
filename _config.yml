@@ -3,7 +3,7 @@ url: https://www.mddi.gov.sg
 favicon: /images/DDI.png
 colors:
   primary-color: "#005dac"
-  secondary-color: "#00b085"
+  secondary-color: "#ef413d"
   media-colors:
     - title: media-color-one
       color: "#853494"
