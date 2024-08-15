@@ -208,3 +208,8 @@ can do some things better or has tools that work well, be it in AI, quantum,
 or other areas, we want to partner you.</p>
 <p>23. I look forward to the engaging discussions during the conference and
 wish everyone a productive and enjoyable day ahead.</p>
+<hr>
+<p><sup>1</sup> Source: “DBS’ AI-powered digital transformation”, DBS, 7 Aug
+2023.</p>
+<p>2 Source: “Singtel launches Southeast Asia’s first nationwide quantum-safe
+network, ready for enterprise trials”, Singtel, 8 Aug 2024.</p>
