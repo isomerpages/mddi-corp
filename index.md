@@ -1,19 +1,26 @@
 ---
 layout: homepage
 title: Ministry of Digital Development and Information
-description: Ministry of Digital Development and Information
+description: The Ministry of Digital Development and Information (MDDI) drives
+  Singapore’s digital development in four key domains — the economy, government,
+  security, and society. MDDI oversees the development of the infocomm
+  technology, cybersecurity, and media sectors; the Government’s digitalisation
+  initiatives; and the national library, national archives, and public
+  libraries. The Ministry is also responsible for effective public
+  communications, and the Government’s information and public communication
+  policies. MDDI’s mission is to engage hearts and minds to achieve a thriving
+  digital future for all.
 image: /images/MDDI_LOGO_RGB_resize.png
 permalink: /
 notification: Click <a href="https://www.youtube.com/@SingaporeMDDI">here</a>
   for Parliament livestream.
 sections:
   - hero:
-      background: /images/banner_1.jpg
+      background: /images/hero_banner.png
       variant: center
       backgroundColor: gray
       size: md
       alignment: left
-      title: Ministry of Digital Development and Information
       url: who-we-are/about-us/our-purpose/
       key_highlights:
         - title: Digital Singapore

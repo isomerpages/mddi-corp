@@ -2,5 +2,6 @@
 title: About Us
 permalink: /aboutus/
 description: ""
+variant: markdown
 ---
-The Ministry of Communications and Information (MCI) oversees the development of the infocomm technology, cyber security, and media sectors; the national library, national archives and public libraries; as well as Government’s information and public communication policies. MCI’s mission is to **Engage Hearts and Minds, A Thriving Digital Future for All**.
+The Ministry of Digital Development and Information (MDDI) drives Singapore’s digital development in four key domains — the economy, government, security, and society. MDDI oversees the development of the infocomm technology, cybersecurity, and media sectors; the Government’s digitalisation initiatives; and the national library, national archives, and public libraries. The Ministry is also responsible for effective public communications, and the Government’s information and public communication policies. MDDI’s mission is to engage hearts and minds to achieve a thriving digital future for all.
