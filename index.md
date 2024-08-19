@@ -10,7 +10,7 @@ description: The Ministry of Digital Development and Information (MDDI) drives
   communications, and the Government’s information and public communication
   policies. MDDI’s mission is to engage hearts and minds to achieve a thriving
   digital future for all.
-image: /images/MDDI_LOGO_RGB_resize.png
+image: /images/MDDI Logos/MDDI_LOGO_RGB_resize.png
 permalink: /
 notification: Click <a href="https://www.youtube.com/@SingaporeMDDI">here</a>
   for Parliament livestream.
