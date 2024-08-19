@@ -16,7 +16,7 @@ notification: Click <a href="https://www.youtube.com/@SingaporeMDDI">here</a>
   for Parliament livestream.
 sections:
   - hero:
-      background: /images/hero_banner.png
+      background: /images/MDDI Logos/hero_banner.png
       variant: center
       backgroundColor: gray
       size: md
