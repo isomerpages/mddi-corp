@@ -5,8 +5,9 @@ description: ""
 variant: tiptap
 ---
 <h3>Terms and Conditions for Use of Video Recordings of Parliamentary Sessions</h3>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/parliament%20(for%20website).jpg">
+<img style="width: 100%" height="auto" width="100%" alt="Parliament" src="/images/parliament (for website).jpg">
 </div>
 <p>Parliament proceedings are live-streamed on&nbsp;<a href="https://go.gov.sg/mcisingapore" rel="noopener noreferrer nofollow" target="_blank">MDDI Singapore YouTube channel</a>.</p>
 <p>These Terms and Conditions (the “<strong>Terms</strong>”) apply to any

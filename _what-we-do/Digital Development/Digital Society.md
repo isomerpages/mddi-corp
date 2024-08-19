@@ -45,7 +45,7 @@ over the past few years, Singapore has made good progress as a digital
 society.</p>
 <h4>People-Private-Public (3P) Approach to Build a Digitally Inclusive Society</h4>
 <div class="isomer-image-wrapper">
-<img style="height:173px; width:300px;" height="auto" width="100%" src="/images/Logos/dfl%20logo.png">
+<img style="height:173px; width:300px;" height="auto" width="100%" src="/images/Other Logos/dfl%20logo.png">
 </div>
 <p>To galvanise people, private, and public sectors (3P) partnerships and
 help Singaporeans enrich their lives by embracing digital as a lifelong

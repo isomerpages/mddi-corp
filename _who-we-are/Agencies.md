@@ -19,7 +19,6 @@ a robust cyber talent pipeline.</p>
 <p><a href="http://www.csa.gov.sg/" rel="noopener noreferrer nofollow" target="_blank">GO TO WEBSITE</a>
 </p>
 <h3>GovTech</h3>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 60%;" height="auto" width="100%" alt="GovTech logo" src="/images/Other Logos/GovTechSg_True_Inline_Logo_2_Cyan_CMYK.jpg">
 </div>
@@ -32,7 +31,6 @@ broadly covers three areas: Products, Services, Cybersecurity &amp; Governance.<
 <p><a href="https://www.tech.gov.sg/who-we-are/our-role/" rel="noopener noreferrer nofollow" target="_blank">GO TO WEBSITE</a>
 </p>
 <h3>Infocomm Media Development Authority</h3>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 50%;" height="auto" width="100%" alt="IMDA logo" src="/images/Other Logos/imda_logo_colour.png">
 </div>
@@ -45,7 +43,6 @@ for growth, through an emphasis on talent, research, innovation and enterprise.<
 <p><a href="https://www.imda.gov.sg/" rel="noopener noreferrer nofollow" target="_blank">GO TO WEBSITE</a>
 </p>
 <h3>National Library Board</h3>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 70%;" height="auto" width="100%" alt="NLB logo" src="/images/Other Logos/nlb logo 1.jpg">
 </div>
@@ -59,7 +56,7 @@ come alive, spark imagination and create possibilities.</p>
 </p>
 <h3>Personal Data Protection Commission</h3>
 <div class="isomer-image-wrapper">
-<img style="width: 80%;" height="auto" width="100%" alt="Logo of Personal Data Protection Commission" src="/images/Logos/pdpc_logo_2x.png">
+<img style="width: 80%;" height="auto" width="100%" alt="PDPC logo" src="/images/Other Logos/pdpc_logo_2x.png">
 </div>
 <p>The Personal Data Protection Commission (PDPC) was established in 2013
 to administer and enforce the Personal Data Protection Act 2012 (PDPA).</p>
