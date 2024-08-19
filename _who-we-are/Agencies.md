@@ -5,7 +5,6 @@ description: ""
 variant: tiptap
 ---
 <h3>Cyber Security Agency of Singapore</h3>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 50%;" height="auto" width="100%" alt="CSA Singapore logo" src="/images/Other Logos/csa logo - color (june2015).jpg">
 </div>
