@@ -5,8 +5,9 @@ description: ""
 variant: tiptap
 ---
 <h3>Cyber Security Agency of Singapore</h3>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 60%;" height="auto" width="100%" src="/images/Logos/csa%20logo%20-%20color%20(june2015).jpg">
+<img style="width: 50%;" height="auto" width="100%" alt="CSA Singapore logo" src="/images/Other Logos/csa logo - color (june2015).jpg">
 </div>
 <p>The Cyber Security Agency of Singapore (CSA) was formed in 2015 and is
 the national body that protects Singapore's cyberspace.</p>
@@ -19,8 +20,9 @@ a robust cyber talent pipeline.</p>
 <p><a href="http://www.csa.gov.sg/" rel="noopener noreferrer nofollow" target="_blank">GO TO WEBSITE</a>
 </p>
 <h3>GovTech</h3>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 70%;" height="auto" width="100%" alt="Logo of GovTech" src="/images/Logos/GovTechSg_True_Inline_Logo_5_Orange_CMYK.png">
+<img style="width: 60%;" height="auto" width="100%" alt="GovTech logo" src="/images/Other Logos/GovTechSg_True_Inline_Logo_2_Cyan_CMYK.jpg">
 </div>
 <p>GovTech was officially launched in 2016 as the agency tasked with realising
 our Smart Nation possibilities.</p>
@@ -31,8 +33,9 @@ broadly covers three areas: Products, Services, Cybersecurity &amp; Governance.<
 <p><a href="https://www.tech.gov.sg/who-we-are/our-role/" rel="noopener noreferrer nofollow" target="_blank">GO TO WEBSITE</a>
 </p>
 <h3>Infocomm Media Development Authority</h3>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="height:103px; width:400px;" height="auto" width="100%" src="/images/Logos/imda_logo_colour.png">
+<img style="width: 50%;" height="auto" width="100%" alt="IMDA logo" src="/images/Other Logos/imda_logo_colour.png">
 </div>
 <p>The Infocomm Media Development Authority (IMDA) was officially formed
 on 1 October 2016, with the restructuring of the Infocomm Development Authority
@@ -43,8 +46,9 @@ for growth, through an emphasis on talent, research, innovation and enterprise.<
 <p><a href="https://www.imda.gov.sg/" rel="noopener noreferrer nofollow" target="_blank">GO TO WEBSITE</a>
 </p>
 <h3>National Library Board</h3>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="height:69px; width:400px;" height="auto" width="100%" src="/images/Logos/nlb%20logo%201.jpg">
+<img style="width: 70%;" height="auto" width="100%" alt="NLB logo" src="/images/Other Logos/nlb logo 1.jpg">
 </div>
 <p>The National Library Board (NLB) was established in 1995 to promote reading,
 learning, information literacy, and a greater appreciation of Singapore’s
