@@ -203,6 +203,8 @@ to all of you.</p>
 challenge, but I am confident that we can make progress by pooling our
 efforts and partnering one another.</p>
 </li>
+<li>
+<p>I wish all of you an enriching Forum. Thank you.</p>
+</li>
 </ol>
-<p>26.</p>
 <p>I wish all of you an enriching Forum. Thank you.</p>
