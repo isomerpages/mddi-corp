@@ -8,6 +8,8 @@ description: ""
 image: ""
 variant: tiptap
 ---
+<p><strong>KEYNOTE ADDRESS BY MINISTER JOSEPHINE TEO AT THE OPERATIONAL TECHNOLOGY CYBERSECURITY EXPERT PANEL FORUM ON 20 AUG 2024</strong>
+</p>
 <p>Distinguished panellists</p>
 <p>Colleagues and Friends</p>
 <p><strong><u>Introduction</u></strong>
