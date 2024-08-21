@@ -10,7 +10,8 @@ variant: tiptap
 ---
 <p>Distinguished panellists</p>
 <p>Colleagues and Friends</p>
-<p>Introduction</p>
+<p><strong><u>Introduction</u></strong>
+</p>
 <ol data-tight="true" class="tight">
 <li>
 <p>Thank you for inviting me to join you again at the OTCEP forum.</p>
