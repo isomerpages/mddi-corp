@@ -90,14 +90,12 @@ industry providers.</p>
 <ol start="13" data-tight="true" class="tight">
 <li>
 <p>Today, I am happy to announce the launch of the<strong> OT Cybersecurity Masterplan 2024</strong>,
-and to share three key areas in this updated Masterplan. They are:</p>
-</li>
-</ol>
-<p>a. To uplift the cybersecurity posture of all OT operators,</p>
-<p>b. To deepen our cybersecurity capabilities, and</p>
-<p>c. To reduce risks and vulnerabilities through security by design and
+and to share three key areas in this updated Masterplan. They are:
+<br>a. To uplift the cybersecurity posture of all OT operators,
+<br>b. To deepen our cybersecurity capabilities, and
+<br>c. To reduce risks and vulnerabilities through security by design and
 deployment.</p>
-<ol start="14" data-tight="true" class="tight">
+</li>
 <li>
 <p>Let me say more about each of these areas.</p>
 </li>
@@ -115,14 +113,14 @@ Things (IIoT) devices, to support their OT operations – the Government
 will do its part to provide guidance on addressing OT-related cybersecurity
 risks. CSA has contributed to the development of international technical
 references that set out best practices to secure cyber-physical systems
-for buildings infrastructure.</p>
-</li>
-</ol>
-<p>a. CSA will be updating our existing guidelines and handbooks for organisations
-to include these best practices to address OT-related risks.</p>
-<p>b. I encourage everyone to make use of these resources. We also welcome
+for buildings infrastructure.
+<br>a. CSA will be updating our existing guidelines and handbooks for organisations
+to include these best practices to address OT-related risks.
+<br>b. I encourage everyone to make use of these resources. We also welcome
 feedback from the industry on how we can continue to update and refine
 our best practices.</p>
+</li>
+</ol>
 <p><strong><u>Deepen cybersecurity capabilities</u></strong>
 </p>
 <ol start="17" data-tight="true" class="tight">
@@ -130,15 +128,13 @@ our best practices.</p>
 <p><u>Second</u>, we will strengthen the capabilities of cyber-defenders.
 Malicious actors will continue to evolve their tactics, and our best defense
 is to nurture a critical mass of OT cybersecurity talent with deep skills
-who can mount effective counter measures.</p>
-</li>
-</ol>
-<p>a. CSA has worked with partners such as cybersecurity training providers
+who can mount effective counter measures.
+<br>a. CSA has worked with partners such as cybersecurity training providers
 and Institutes of Higher Learning to expand the suite of available courses
-to cater to the needs of existing and aspiring OT cybersecurity practitioners.</p>
-<p>b. The target audience includes professionals working in government agencies
+to cater to the needs of existing and aspiring OT cybersecurity practitioners.
+<br>b. The target audience includes professionals working in government agencies
 as well as the private sector, those operating CIIs as well as non-CIIs.</p>
-<ol start="18" data-tight="true" class="tight">
+</li>
 <li>
 <p>I am pleased to announce today that CSA will be partnering with<strong> SANS Institute</strong>,
 to provide more training opportunities for Singapore-based cybersecurity
@@ -152,41 +148,39 @@ pathways in OT cybersecurity. More updates will be provided in due course.</p>
 </li>
 <li>
 <p>Partnerships are also key to sharpen our technical capabilities and situational
-awareness of the threat landscape.</p>
-</li>
-</ol>
-<p>a. I am therefore pleased that CSA will be partnering with global cybersecurity
+awareness of the threat landscape.
+<br>a. I am therefore pleased that CSA will be partnering with global cybersecurity
 solutions provider <strong>Fortinet</strong> on cyber threat intelligence
 sharing and capability development.</p>
+</li>
+</ol>
 <p><strong><u>Systematically reduce risks and vulnerabilities through design and deployment parameters</u></strong>
 </p>
 <ol start="21" data-tight="true" class="tight">
 <li>
 <p><u>Third</u>, to improve OT cybersecurity, it is important for security
-to be incorporated upstream in the design and deployment of OT systems.</p>
-</li>
-</ol>
-<p>a. An OT system typically comprises different products, each produced
+to be incorporated upstream in the design and deployment of OT systems.
+<br>a. An OT system typically comprises different products, each produced
 by different Original Equipment Manufacturers (OEMs). These different products
-are subsequently assembled and maintained by yet another different entity!</p>
-<p>b. It is therefore important that OT systems come with security features
+are subsequently assembled and maintained by yet another different entity!
+<br>b. It is therefore important that OT systems come with security features
 and controls. They must also be designed, implemented and subsequently
 maintained in a systematic and holistic manner which reduces vulnerabilities
 and risks throughout their lifecycles. In other words, OT systems need
 to be “Secure by Design” and “Secure by Deployment”.</p>
-<ol start="22" data-tight="true" class="tight">
+</li>
 <li>
 <p>To be “Secure by Deployment”, the different parts of the supply chain
-must come together.</p>
+must come together.
+<br>a. I am heartened that 14 OEMs and cybersecurity solution providers have
+committed to adopt “Secure by Deployment” principles.
+<br>b. They are international players, so we hope that this initiative will
+not just benefit Singapore but will have a wider impact subsequently as
+the best practices become more widely adopted.
+<br>c. You will be introduced to these 14 OEMs later, and I look forward to
+even more industry players stepping forward to join this endeavour.</p>
 </li>
 </ol>
-<p>a. I am heartened that 14 OEMs and cybersecurity solution providers have
-committed to adopt “Secure by Deployment” principles.</p>
-<p>b. They are international players, so we hope that this initiative will
-not just benefit Singapore but will have a wider impact subsequently as
-the best practices become more widely adopted.</p>
-<p>c. You will be introduced to these 14 OEMs later, and I look forward to
-even more industry players stepping forward to join this endeavour.</p>
 <p><strong><u>Conclusion</u></strong>
 </p>
 <ol start="23" data-tight="true" class="tight">
