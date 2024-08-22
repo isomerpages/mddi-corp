@@ -7,7 +7,7 @@ description: ""
 image: ""
 variant: tiptap
 ---
-<p><strong>SPEECH BY MINISTER JOSEPHINE TEO AT SINGAPORE COMPUTER SOCIETY (SCS) TECH3 FORUM ON 22 AUGUST 2024</strong>
+<p><strong>SPEECH BY MINISTER JOSEPHINE TEO AT THE SINGAPORE COMPUTER SOCIETY (SCS) TECH3 FORUM ON 22 AUGUST 2024</strong>
 </p>
 <p>Mr Sam Liew, President of the Singapore Computer Society,
 <br>Distinguished Guests,
