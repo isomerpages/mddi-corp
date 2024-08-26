@@ -10,7 +10,7 @@ third_nav_title: Digital Development
 The Ministry of Digital Development and Information (MDDI) plays a pivotal role in driving Singapore's digital mandate in four key domains:
 
 *  [Digital Economy](/what-we-do/digital-singapore/digital-economy)
-*  [Digital Government](what-we-do/digital-singapore/digital-government)
+*  [Digital Government](/what-we-do/digital-singapore/digital-government)
 *  [Digital Security](/what-we-do/digital-singapore/digital-security)
 *  [Digital Society](/what-we-do/digital-singapore/digital-society)
 
