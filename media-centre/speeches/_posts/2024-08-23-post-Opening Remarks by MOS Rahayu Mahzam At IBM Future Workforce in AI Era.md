@@ -7,8 +7,8 @@ description: ""
 image: ""
 variant: tiptap
 ---
-<p>Opening Remarks by Ms Rahayu Mahzam, Minister of State for Digital Development
-and Information, At IBM Future Workforce in AI Era (23 August 2024)</p>
+<p><strong>Opening Remarks by Ms Rahayu Mahzam, Minister of State for Digital Development and Information, At IBM Future Workforce in AI Era (23 August 2024)</strong>
+</p>
 <p>Justina Nixon - Saintil, Vice President for Corporate Social Responsibility
 and Chief Impact Officer, IBM Global</p>
 <p>Yean Feng Yue, Corporate Social Responsibility Leader, IBM APAC</p>
