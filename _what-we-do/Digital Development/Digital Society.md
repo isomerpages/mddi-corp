@@ -133,7 +133,7 @@ of Information and Communication Technologies (ICT) for positive purposes,
 maintain a positive presence in cyberspace and be safe and responsible
 users of ICT.</p>
 <h4>Code For Fun&nbsp;</h4>
-<p>The <a href="https://codesg.imda.gov.sg/code-for-fun/" rel="noopener noreferrer nofollow" target="_blank">Code for Fun</a> Enrichment
+<p>The <a href="https://www.imda.gov.sg/how-we-can-help/code-for-fun" rel="noopener noreferrer nofollow" target="_blank">Code for Fun</a> Enrichment
 Programme (offered jointly by MOE and IMDA) aims to increase primary and
 secondary school students’&nbsp;exposure to coding and computational thinking.
 Students learn computational thinking, coding concepts and emerging technology
