@@ -2,19 +2,19 @@ title: Ministry of Digital Development and Information
 url: https://www.mddi.gov.sg
 favicon: /images/MDDI Logos/M.png
 colors:
-  primary-color: "#00b085"
+  primary-color: "#00b08b"
   secondary-color: "#005dac"
   media-colors:
     - title: media-color-one
-      color: "#853494"
+      color: "#5f259f"
     - title: media-color-two
-      color: "#ef413d"
+      color: "#ef3340"
     - title: media-color-three
       color: "#005dac"
     - title: media-color-four
-      color: "#00b085"
+      color: "#00b08b"
     - title: media-color-five
-      color: "#f4cc13"
+      color: "#ffb81c"
 description: The Ministry of Digital Development and Information (MDDI) drives
   Singapore’s digital development in four key domains — the economy, government,
   security, and society. MDDI oversees the development of the infocomm
