@@ -5,6 +5,7 @@ date: 2023-02-28
 layout: post
 description: ""
 image: ""
+variant: markdown
 ---
 1. Digitalisation has transformed the way businesses operate and how we as individuals live and work. Even as the global macroeconomic downturn has presented new uncertainties, the digital economy remains a bright spot, driving growth for businesses and opportunities for our workforce. This is why the Ministry of Communications and Information (MCI) has committed to:   
   
@@ -52,10 +53,7 @@ image: ""
 
 10. MCI and MOE will work closely with Institutes of Higher Learning (IHLs) to strengthen the many existing linkages with industry by having stronger industry representation in all IHL committees. We will partner Singapore Computer Society (SCS), the leading I&C professional society, and SGTech, the trade association for Singapore’s tech industry, to identify key industry leaders and areas for improvement to our tech workforce and graduates.
 
-[Annex C-1: CSA to Launch Scheme to Develop Cybersecurity Health Plans with Funding Support for Small-Medium Enterprises](/files/annex%20c-1%20(1).pdf)
-
 ------------------------------------------------------------------------------------
 [^1]: First $50 will be disbursed upon completion of the first e-invoice transaction, and next $150 will be disbursed if the remaining 9 e-invoice transactions are completed within a year from the first e-invoice transaction.
 
 [^2]: Currently, there are 9 participating banks for PayNow Corporate.
-
