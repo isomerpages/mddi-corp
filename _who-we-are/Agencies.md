@@ -16,7 +16,7 @@ our Digital Way of Life. CSA achieves these objectives through building
 resilient infrastructure, enabling a safer cyberspace, enhancing international
 cyber cooperation, developing a vibrant cybersecurity ecosystem and growing
 a robust cyber talent pipeline.</p>
-<p><a href="http://www.csa.gov.sg/" rel="noopener noreferrer nofollow" target="_blank">GO TO WEBSITE</a>
+<p><a href="http://www.csa.gov.sg/" rel="noopener noreferrer nofollow" target="_blank">GO TO CSA'S WEBSITE</a>
 </p>
 <h3>GovTech</h3>
 <div class="isomer-image-wrapper">
@@ -28,7 +28,7 @@ our Smart Nation possibilities.</p>
 to ensure that Singapore’s digital government services are held to the
 highest standards. Their work in building a Smart Nation and Digital Government
 broadly covers three areas: Products, Services, Cybersecurity &amp; Governance.</p>
-<p><a href="https://www.tech.gov.sg/who-we-are/our-role/" rel="noopener noreferrer nofollow" target="_blank">GO TO WEBSITE</a>
+<p><a href="https://www.tech.gov.sg/who-we-are/our-role/" rel="noopener noreferrer nofollow" target="_blank">GO TO GOVTECH'S WEBSITE</a>
 </p>
 <h3>Infocomm Media Development Authority</h3>
 <div class="isomer-image-wrapper">
@@ -40,7 +40,7 @@ on 1 October 2016, with the restructuring of the Infocomm Development Authority
 <p>IMDA develops and regulates the converging infocomm and media sectors
 in a holistic way, creating a dynamic and exciting sector filled with opportunities
 for growth, through an emphasis on talent, research, innovation and enterprise.</p>
-<p><a href="https://www.imda.gov.sg/" rel="noopener noreferrer nofollow" target="_blank">GO TO WEBSITE</a>
+<p><a href="https://www.imda.gov.sg/" rel="noopener noreferrer nofollow" target="_blank">GO TO IMDA'S WEBSITE</a>
 </p>
 <h3>National Library Board</h3>
 <div class="isomer-image-wrapper">
@@ -52,7 +52,7 @@ history and heritage.</p>
 <p>NLB’s libraries and archives aim to provide everyone a more personalised
 and omnichannel learning experience in person and online to make knowledge
 come alive, spark imagination and create possibilities.</p>
-<p><a href="http://www.nlb.gov.sg/" rel="noopener noreferrer nofollow" target="_blank">GO TO WEBSITE</a>
+<p><a href="http://www.nlb.gov.sg/" rel="noopener noreferrer nofollow" target="_blank">GO TO NLB'S WEBSITE</a>
 </p>
 <h3>Personal Data Protection Commission</h3>
 <div class="isomer-image-wrapper">
@@ -63,6 +63,6 @@ to administer and enforce the Personal Data Protection Act 2012 (PDPA).</p>
 <p>The mission of PDPC is to promote and enforce personal data protection
 so as to foster an environment of trust among businesses and consumers,
 contributing to a vibrant Singapore economy.</p>
-<p><a href="https://www.pdpc.gov.sg/" rel="noopener noreferrer nofollow" target="_blank">GO TO WEBSITE</a>
+<p><a href="https://www.pdpc.gov.sg/" rel="noopener noreferrer nofollow" target="_blank">GO TO PDPC'S WEBSITE</a>
 </p>
 <p></p>
