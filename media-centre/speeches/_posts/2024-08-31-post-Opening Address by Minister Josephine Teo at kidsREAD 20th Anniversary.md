@@ -7,7 +7,7 @@ description: ""
 image: ""
 variant: tiptap
 ---
-<p><strong>OPENING ADDRESS BY MINISTER JOSEPHINE TEO AT KIDSREAD 20TH ANNIVERSARY (31 AUG 2024)</strong>
+<p><strong>OPENING ADDRESS BY MINISTER JOSEPHINE TEO AT KIDSREAD 20TH ANNIVERSARY ON 31 AUGUST 2024</strong>
 </p>
 <p>President Tharman Shanmugaratnam,</p>
 <p>Ms Jane Ittogi,</p>
