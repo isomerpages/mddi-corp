@@ -7,7 +7,7 @@ description: ""
 image: ""
 variant: tiptap
 ---
-<p><strong>OPENING ADDRESS BY MINISTER JOSEPHINE TEO AT KIDSREAD 20TH ANNIVERSARY ON 31 AUGUST 2024</strong>
+<p><strong>Opening Address by Mrs Josephine Teo, Minister of Digital Development and Information, at kidsREAD 20th Anniversary on 31 August 2024</strong>
 </p>
 <p>President Tharman Shanmugaratnam,</p>
 <p>Ms Jane Ittogi,</p>
