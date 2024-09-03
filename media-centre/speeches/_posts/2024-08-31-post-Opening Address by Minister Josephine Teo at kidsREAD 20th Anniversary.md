@@ -126,5 +126,44 @@ ago. Like many other volunteers, Karen has her own work and family. Yet,
 she has consistently found time and commitment to provide the children
 enrolled in kidsREAD with additional support, to cultivate a love for reading.</p>
 </li>
+<li>
+<p>Over the years, we have been so fortunate to have had more than 29,000
+volunteers in kidsREAD. If you do the math, it’s quite clear what a labour
+of love this has been – nearly four volunteers needed for every 10 children
+in the programme. That is a labour of love worth celebrating.</p>
+</li>
+<li>
+<p>As you heard in the video, it is not all that we are doing. The programme
+is being expanded further.</p>
+</li>
+<li>
+<p>Through all these years of operating kidsREAD, we have observed that despite
+best efforts, the family circumstances of some have made it difficult for
+the parents to bring the children to the premises where the programme is
+being conducted.</p>
+</li>
+<li>
+<p>As such, we’re happy to introduce kidsREAD@Home which will help children
+in such circumstances, to also participate in this programme – to grow
+a love for books, to grow a love for reading.</p>
+</li>
+<li>
+<p>Keep in mind that this means that the job of our volunteers has become
+even more demanding, and I salute them in advance. Thank you so much, for
+being willing to help us in this outreach. Because we believe that together,
+we can make a meaningful difference to the children and their families,
+which is why we must persist despite what we know to be of tremendous challenge.</p>
+</li>
+</ol>
+<ol start="21" data-tight="true" class="tight">
+<li>
+<p>It’s also very important in keeping with the spirit of Forward SG, where
+as a society, we continuously look out for each other, support each other
+in the things that matter most, in the things that could make the biggest
+difference in our lives.</p>
+</li>
+<li>
+<p>Once again, thank you to all our partners and volunteers.</p>
+</li>
 </ol>
 <p></p>
