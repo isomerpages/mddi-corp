@@ -12,8 +12,7 @@ description: The Ministry of Digital Development and Information (MDDI) drives
   digital future for all.
 image: /images/MDDI Logos/MDDI_LOGO_RGB_resize.png
 permalink: /
-notification: Click <a href="https://www.youtube.com/@SingaporeMDDI">here</a>
-  for Parliament livestream.
+notification: ""
 sections:
   - hero:
       background: /images/MDDI Logos/hero_banner.png
