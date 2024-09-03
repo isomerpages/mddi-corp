@@ -3,7 +3,7 @@ title: Life at MDDI
 permalink: /join-us/careers/life-at-mddi/
 description: ""
 third_nav_title: Careers
-variant: markdown
+variant: tiptap
 ---
 <h2>How We Work</h2>
 <p>At MDDI, we care for our people and have adopted hybrid work arrangements
@@ -12,18 +12,19 @@ while synergising the benefits of remote and onsite work.</p>
 <p>We value teamwork and collaboration, and our office spaces are designed
 to help us connect and collaborate together to achieve work outcomes.</p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CDD/mci%20office%2001.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="A vibrant environment at MDDI's office" src="/images/CDD/mci%20office%2001.jpg">
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CDD/mci%20office%2002.jpg">
-</div>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CDD/mci%20office%2003.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="Ample co-working spaces can be found around the office" src="/images/CDD/mci%20office%2002.jpg">
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CDD/mci%20office%2004.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="Open concept seating so staff can work anywhere" src="/images/CDD/mci%20office%2003.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Quiet areas for focus or private discussions" src="/images/CDD/mci%20office%2004.jpg">
 </div>
 <h2>How We Have Fun</h2>
 <p>We believe in creating a positive environment for all through shared experiences,
@@ -49,7 +50,7 @@ to formal qualifications</p>
 <h2>Employee Benefits</h2>
 <p>Look forward to receiving other employee benefits including:</p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CDD/our-people.png">
+<img style="width: 100%" height="auto" width="100%" alt="Illustration of employees" src="/images/CDD/our-people.png">
 </div>
 <p><strong>Flexi Work benefits</strong>
 </p>
@@ -59,7 +60,7 @@ to formal qualifications</p>
 </li>
 </ul>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CDD/health%20%20medical%20benefits.png">
+<img style="width: 100%" height="auto" width="100%" alt="Illustration of medical benefits" src="/images/CDD/health%20%20medical%20benefits.png">
 </div>
 <p><strong>Health and medical benefits</strong>
 </p>
@@ -75,7 +76,7 @@ to formal qualifications</p>
 </li>
 </ul>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CDD/parental%20support%20benefits.png">
+<img style="width: 100%" height="auto" width="100%" alt="Illustration of family" src="/images/CDD/parental%20support%20benefits.png">
 </div>
 <p><strong>Parental support benefits</strong>
 </p>
@@ -91,7 +92,7 @@ to formal qualifications</p>
 </li>
 </ul>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CDD/employee-benefits.png">
+<img style="width: 100%" height="auto" width="100%" alt="Illustration of wellness benefits" src="/images/CDD/employee-benefits.png">
 </div>
 <p><strong>Wellness and work-life harmony</strong>
 </p>
@@ -107,7 +108,7 @@ to formal qualifications</p>
 </li>
 </ul>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CDD/our-culture.png">
+<img style="width: 100%" height="auto" width="100%" alt="Illustration of staff winning trophy" src="/images/CDD/our-culture.png">
 </div>
 <p><strong>Others</strong>
 </p>
