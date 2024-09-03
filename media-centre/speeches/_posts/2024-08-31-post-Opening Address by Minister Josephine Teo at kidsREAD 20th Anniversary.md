@@ -165,5 +165,9 @@ difference in our lives.</p>
 <li>
 <p>Once again, thank you to all our partners and volunteers.</p>
 </li>
+<li>
+<p>And also, our deepest appreciation to President and Ms Ittogi for making
+time to be with us this afternoon.</p>
+</li>
 </ol>
 <p></p>
