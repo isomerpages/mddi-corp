@@ -82,9 +82,8 @@ engagement.</p>
 </li>
 <li>
 <p>Announcement: Emerging Stronger Together Alliance for Action on Supply
-Chain Digitalisation - Plans for a Common Data Infrastructure (CDI). For
-more information, please click <a href="https://www.imda.gov.sg/news-and-events/Media-Room/Media-Releases/2020/Alliance-for-Action-Pilots-New-Data-Infrastructure-to-Interconnect-Supply-Chain-Ecosystem" rel="noopener noreferrer nofollow" target="_blank">here.</a>
-</p>
+Chain Digitalisation - Plans for a Common Data Infrastructure (CDI). More
+information is available on IMDA's website <a href="https://www.imda.gov.sg/news-and-events/Media-Room/Media-Releases/2020/Alliance-for-Action-Pilots-New-Data-Infrastructure-to-Interconnect-Supply-Chain-Ecosystem" rel="noopener nofollow" target="_blank">here</a>.</p>
 </li>
 <li>
 <p><a href="/media-centre/press-releases/mci-deepens-partnerships-with-industry-and-community/" rel="noopener noreferrer nofollow" target="_blank">Press Release: MCI Insights Conference</a>
