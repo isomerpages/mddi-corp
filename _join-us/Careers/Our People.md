@@ -10,7 +10,7 @@ variant: tiptap
 </p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CDD/jasmine%20leng_banner.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="Jasmine Leng, Assistant Director (Tech Strategy &amp; Plans) at the Technology Office" src="/images/CDD/jasmine%20leng_banner.jpg">
 </div>
 <p><strong>Meet Jasmine Leng, Assistant Director (Tech Strategy &amp; Plans) at the Technology Office, MDDI</strong>
 </p>
@@ -20,7 +20,7 @@ next bound for smart cities, general communications, and other areas.</p>
 at the Technology Office&nbsp;with her past experience working in the start-ups
 space.</p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CDD/jasmine%20leng_photo%201.JPG">
+<img style="width: 100%" height="auto" width="100%" alt="Jasmine Leng, Assistant Director (Tech Strategy &amp; Plans) at the Technology Office" src="/images/CDD/jasmine%20leng_photo%201.JPG">
 </div>
 <p>If you are interested on how technology impacts our lives, read on to
 find out what it is like to be making sense of this fast-moving area at
@@ -47,7 +47,7 @@ through collaborative work, such that the sum of its parts can impact how
 we support a resilient and vibrant digital tech ecosystem, including having
 more successful local tech companies from Singapore.</p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CDD/jasmine%20leng_photo%202.JPG">
+<img style="width: 100%" height="auto" width="100%" alt="Jasmine Leng, Assistant Director (Tech Strategy &amp; Plans) at the Technology Office" src="/images/CDD/jasmine%20leng_photo%202.JPG">
 </div>
 <p><strong>What do you think it takes to succeed in TO?</strong>
 </p>
@@ -67,7 +67,7 @@ tech start-up investments and talent acquisition, I’m glad to be with MDDI,
 building tech strategies and plans to support upcoming technology investments
 in Singapore.</p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CDD/jasmine%20leng_photo%203.jpeg">
+<img style="width: 100%" height="auto" width="100%" alt="Jasmine Leng, Assistant Director (Tech Strategy &amp; Plans) at the Technology Office" src="/images/CDD/jasmine%20leng_photo%203.jpeg">
 </div>
 <p><strong>What would you say new hires can look forward to when they join the team?</strong>
 </p>
@@ -80,14 +80,14 @@ We have senior representatives on our team including our Director, Chief
 Technical Advisor and Senior Advisor, who come with a wealth of experience
 and interesting backgrounds. I’ve gained so much knowledge from them.</p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CDD/jasmine%20leng_photo%204.png">
+<img style="width: 100%" height="auto" width="100%" alt="Jasmine Leng, Assistant Director (Tech Strategy &amp; Plans) at the Technology Office" src="/images/CDD/jasmine%20leng_photo%204.png">
 </div>
 <p><strong>Lastly, tell us one little-known fact about you that you wish more people knew.</strong>
 </p>
 <p>In my leisure time, I love listening to podcasts. I prefer podcasts over
 social media, so that I can actively choose content that interests me.</p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CDD/darren%20wong_photo%201.JPG">
+<img style="width: 100%" height="auto" width="100%" alt="Darren Wong, Intern at the Futures Unit" src="/images/CDD/darren%20wong_photo%201.JPG">
 </div>
 <p><strong>Meet Darren Wong, Intern at the Futures Unit, MCI (now-MDDI)</strong>
 </p>
@@ -113,7 +113,7 @@ the other on identity politics. The latter involved studying the varied
 viewpoints of different demographics, their info consumption and dissemination
 habits.</p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CDD/darren%20wong_photo%202.JPG">
+<img style="width: 100%" height="auto" width="100%" alt="Darren Wong, Intern at the Futures Unit" src="/images/CDD/darren%20wong_photo%202.JPG">
 </div>
 <p><strong>That sounds like interesting work! What were the key highlights of your internship?</strong>
 </p>
@@ -124,7 +124,7 @@ to conduct in-person presentations and appreciated that those I presented
 to, including Ministers, MCI’s Permanent Secretary and Directors saw value
 in the work that I was doing.</p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CDD/darren%20wong_photo%203.JPG">
+<img style="width: 100%" height="auto" width="100%" alt="Darren Wong, Intern at the Futures Unit" src="/images/CDD/darren%20wong_photo%203.JPG">
 </div>
 <p><strong>What were your biggest takeaways from your internship?</strong>
 </p>
@@ -151,7 +151,7 @@ It was a fantastic experience. Families living along the route in the university
 town came out of their houses&nbsp;and lined the roads to cheer us on and
 gave us the much-needed support and motivation to keep going.</p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CDD/darren%20wong_photo%204.jpeg">
+<img style="width: 100%" height="auto" width="100%" alt="Darren Wong, Intern at the Futures Unit" src="/images/CDD/darren%20wong_photo%204.jpeg">
 </div>
 <p>Secondly, I hope to be working in the Civil Service after I complete my
 studies. But first, I’ll be pursuing my Master’s in the super tech-driven
