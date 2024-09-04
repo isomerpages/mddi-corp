@@ -8,7 +8,7 @@ variant: tiptap
 <p><strong>1. I would like to find out more about the Personal Data Protection Act/Do-Not-Call Registry</strong>
 </p>
 <p>Please visit&nbsp;<a href="https://www.pdpc.gov.sg/" rel="noopener noreferrer nofollow" target="_blank">www.pdpc.gov.sg</a>&nbsp;for information
-and updates. You may also email your queries via feedback form <a href="https://form.gov.sg/#!/5dfae076c00ae200190b39c5" rel="noopener noreferrer nofollow" target="_blank">here</a>&nbsp;or
+and updates. You may also email your queries via <a href="https://form.gov.sg/#!/5dfae076c00ae200190b39c5" rel="noopener nofollow" target="_blank">feedback form</a>&nbsp;or
 call (+65) 6377 3131.</p>
 <h3>Media</h3>
 <p><strong>1. My production company would like to film a video/movie in Singapore. Is a permit required?</strong>
@@ -17,7 +17,7 @@ call (+65) 6377 3131.</p>
 without a work pass. However, please note that foreigners can only perform
 these activities for the duration of their Short Term Visit Passes (STVPs)
 subject to a maximum of 60 days. For further queries, please contact Ministry
-of Manpower via feedback form&nbsp;<a href="https://service2.mom.gov.sg/efeedback/Forms/efeedback.aspx" rel="noopener noreferrer nofollow" target="_blank">here</a>&nbsp;or
+of Manpower via <a href="https://service2.mom.gov.sg/efeedback/Forms/efeedback.aspx" rel="noopener nofollow" target="_blank">feedback form</a>&nbsp;or
 (+65) 6438 5122.</p>
 <p>If you need to film at public areas and is unsure if you require approval
 or permit, you may approach Infocomm Media Development Authority at&nbsp;
@@ -26,7 +26,7 @@ you would require permission from their owners.</p>
 <p>If you need to film at commuter facilities (e.g. bus stops, footpaths,
 linkways, underpasses, bridges and pedestrian overhead bridges), or find
 out about road maintenance, traffic conditions and road closures, please
-contact Land Transport Authority (LTA) via feedback form&nbsp;<a href="https://www.lta.gov.sg/content/ltagov/en/contact_us.html#contact_form" rel="noopener noreferrer nofollow" target="_blank">here</a>&nbsp;or
+contact Land Transport Authority (LTA) via <a href="https://www.lta.gov.sg/content/ltagov/en/contact_us.html#contact_form" rel="noopener nofollow" target="_blank">feedback form</a>&nbsp;or
 (+65) 6225 5582.</p>
 <p><strong>2. How do I know if I require a permit for my publication? How do I apply for the permit or check my application status?</strong>
 </p>
