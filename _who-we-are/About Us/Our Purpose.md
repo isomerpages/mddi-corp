@@ -11,9 +11,7 @@ and society. MDDI oversees the development of the infocomm technology,
 cybersecurity, and media sectors; the Government’s digitalisation initiatives;
 and the national library, national archives, and public libraries. The
 Ministry is also responsible for effective public communications, and the
-Government’s information and public communication policies. MDDI’s mission
-is to engage hearts and minds to achieve a thriving digital future for
-all.</p>
+Government’s information and public communication policies.</p>
 <h3>MISSION</h3>
 <p>Engaging hearts and minds, a thriving digital future for all.</p>
 <h3>CORE VALUES</h3>
