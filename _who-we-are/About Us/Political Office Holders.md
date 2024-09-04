@@ -7,14 +7,14 @@ variant: markdown
 ---
 <div align="center">
 
-<img style="height:300px; width:225px;" src="/images/POHes/min%20josephine%20teo%20495x660.jpeg"><b>Minister</b><br>Josephine Teo 
+<img style="height:300px; width:225px;" alt="Minister Mrs Josephine Teo" src="/images/POHes/min%20josephine%20teo%20495x660.jpeg"><b>Minister</b><br>Josephine Teo 
 <br>
 <br>	
-<img style="height:300px; width:225px;" src="/images/POHes/sms%20janil%20495x660.jpeg"><b>Senior Minister of State</b><br>Dr Janil Puthucheary
+<img style="height:300px; width:225px;" alt="Senior Minister of State Dr Janil Puthucheary" src="/images/POHes/sms%20janil%20495x660.jpeg"><b>Senior Minister of State</b><br>Dr Janil Puthucheary
 <br>
 <br>	
-<img style="height:300px; width:225px;" src="/images/POHes/tan%20kiat%20how%20495x660.jpeg"><b>Senior Minister of State</b><br>Tan Kiat How
+<img style="height:300px; width:225px;" alt="Senior Minister of State Mr Tan Kiat How" src="/images/POHes/tan%20kiat%20how%20495x660.jpeg"><b>Senior Minister of State</b><br>Tan Kiat How
 <br>
 <br>	
-<img style="height:300px; width:225px;" src="/images/POHes/mos_rahayu_495x660.jpg"><b>Minister of State</b><br>Rahayu Mahzam
+<img style="height:300px; width:225px;" alt="Minister of State Mdm Rahayu Mahzam" src="/images/POHes/mos_rahayu_495x660.jpg"><b>Minister of State</b><br>Rahayu Mahzam
 </div>
