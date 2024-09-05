@@ -8,8 +8,7 @@ description: The Ministry of Digital Development and Information (MDDI) drives
   initiatives; and the national library, national archives, and public
   libraries. The Ministry is also responsible for effective public
   communications, and the Government’s information and public communication
-  policies. MDDI’s mission is to engage hearts and minds to achieve a thriving
-  digital future for all.
+  policies.
 image: /images/MDDI Logos/MDDI_LOGO_RGB_resize.png
 permalink: /
 notification: ""
