@@ -11,9 +11,10 @@ variant: tiptap
 </p>
 <p><em>Measures aim to safeguard the integrity and truthfulness of representation during elections</em>
 </p>
-<p>Singapore, 9 September 2024 – The Ministry of Digital Development and
-Information (MDDI) introduced the Elections (Integrity of Online Advertising)
-(Amendment) Bill (the “Bill”) in Parliament on 9 September 2024.</p>
+<p><strong>Singapore, 9 September 2024 </strong>– The Ministry of Digital
+Development and Information (MDDI) introduced the Elections (Integrity
+of Online Advertising) (Amendment) Bill (the “Bill”) in Parliament on 9
+September 2024.</p>
 <p>2. The Bill seeks to introduce new measures to protect Singaporeans from
 digitally manipulated content during elections, including artificial intelligence
 (AI)-generated misinformation, commonly known as deepfakes<sup>1</sup>.</p>
