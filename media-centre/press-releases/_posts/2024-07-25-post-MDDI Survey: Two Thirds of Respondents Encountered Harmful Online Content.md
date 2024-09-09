@@ -52,7 +52,7 @@ these platforms bear<sup>4</sup>.</p>
 </li>
 </ol>
 <p></p>
-<p><strong>Table 1: Encounters with harmful online content across social media services </strong>
+<p><strong>Table 1: Encounters with harmful online content across social media services</strong>
 </p>
 <table style="minWidth: 75px">
 <colgroup>
@@ -304,18 +304,18 @@ available on <a href="https://www.digitalforlife.gov.sg" rel="noopener noreferre
 </li>
 </ol>
 <hr>
-<p>1 Six social media services with significant reach or impact have been
-designated under the Code of Practice for Online Safety which came into
-effect on 18 July 2023. These platforms are Facebook, HardwareZone, Instagram,
-TikTok, X (formerly known as Twitter) and YouTube. More details can be
-found on IMDA’s website.</p>
-<p>2 Where the sample was not representative of the resident population by
-gender, age, or race, it was weighted accordingly to ensure representativeness.</p>
-<p>3 These platforms are messaging websites/apps, search engines, email,
-news websites/apps, gaming platforms/apps and app stores.</p>
-<p>4 The top three most used social media services in Singapore are Facebook,
-Instagram and TikTok, according to the “Digital 2024 Singapore” report
-by We Are Social and Meltwater, retrieved from <a href="https://wearesocial.com/sg/blog/2024/02/digital-2024-top-digital-and-social-media-trends-in-singapore/" rel="noopener noreferrer nofollow" target="_blank">https://wearesocial.com/sg/blog/2024/02/digital-2024-top-digital-and-social-media-trends-in-singapore/</a> on
+<p><sup>1</sup> Six social media services with significant reach or impact
+have been designated under the Code of Practice for Online Safety which
+came into effect on 18 July 2023. These platforms are Facebook, HardwareZone,
+Instagram, TikTok, X (formerly known as Twitter) and YouTube. More details
+can be found on IMDA’s website.</p>
+<p><sup>2</sup> Where the sample was not representative of the resident population
+by gender, age, or race, it was weighted accordingly to ensure representativeness.</p>
+<p><sup>3</sup> These platforms are messaging websites/apps, search engines,
+email, news websites/apps, gaming platforms/apps and app stores.</p>
+<p><sup>4</sup> The top three most used social media services in Singapore
+are Facebook, Instagram and TikTok, according to the “Digital 2024 Singapore”
+report by We Are Social and Meltwater, retrieved from <a href="https://wearesocial.com/sg/blog/2024/02/digital-2024-top-digital-and-social-media-trends-in-singapore/" rel="noopener noreferrer nofollow" target="_blank">https://wearesocial.com/sg/blog/2024/02/digital-2024-top-digital-and-social-media-trends-in-singapore/</a> on
 12 July 2024.</p>
-<p>5 78% to 86% for Facebook, Instagram, TikTok, X (formerly known as Twitter)
-and YouTube. Insufficient sample size for HardwareZone.</p>
+<p><sup>5</sup> 78% to 86% for Facebook, Instagram, TikTok, X (formerly known
+as Twitter) and YouTube. Insufficient sample size for HardwareZone.</p>
