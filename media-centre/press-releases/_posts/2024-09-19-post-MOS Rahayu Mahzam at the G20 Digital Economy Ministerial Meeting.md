@@ -50,7 +50,7 @@ and to learn from others in this G20 Digital Economy track.</p>
 <p></p>
 <p><strong><u>Progressing Bilateral Relations</u></strong>
 </p>
-<p>4. MOS Rahayu met her counterparts from other countries including Brazil,
+<p>3. MOS Rahayu met her counterparts from other countries including Brazil,
 South Africa, the United Kingdom, the United States, Spain, Portugal, and
 Japan at the sidelines of the G20 DEMM. During these discussions, MOS Rahayu
 reaffirmed Singapore’s commitment to digital cooperation. She also discussed
@@ -58,7 +58,7 @@ new areas of collaboration and knowledge sharing including AI governance,
 online safety, and digital government.</p>
 <p><strong><u>Working Visit to United Kingdom</u></strong>
 </p>
-<p>5. MOS Rahayu visited the United Kingdom from 15 to 18 September 2024,
+<p>4. MOS Rahayu visited the United Kingdom from 15 to 18 September 2024,
 where she met with her counterparts to discuss how to further bilateral
 cooperation in the digital and health domains. She also engaged industry
 and academic experts on online safety and digital inclusion. At these engagements,
