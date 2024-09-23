@@ -20,9 +20,9 @@ Singapore</p>
 <p>• <u>Nnenna Nwakanma</u>, Founding Board Member, HealthAI</p>
 <p>Moderator:</p>
 <p>• <u>Tumi Makgabo</u>, Africa Worldwide Media</p>
-<p><strong>1. Future of Work</strong>
+<p><strong><u>1. Future of Work</u></strong>
 </p>
-<p><strong><u>Moderator: ...The world of work, however, we all recognise is going to look quite different in five years’ time, let alone a decade or two down the road. In Singapore's case, how are you ensuring that there is better preparedness for a more digitised world in the context of work, and how can we learn from what Singapore has done so that we are not always having to go back to the beginning to ensure we are better prepared for a world of work that looks so different?</u></strong>
+<p><strong>Moderator: ...The world of work, however, we all recognise is going to look quite different in five years’ time, let alone a decade or two down the road. In Singapore's case, how are you ensuring that there is better preparedness for a more digitised world in the context of work, and how can we learn from what Singapore has done so that we are not always having to go back to the beginning to ensure we are better prepared for a world of work that looks so different?</strong>
 </p>
 <p><strong>Minister Teo:</strong> Well, thank you very much for this opportunity
 to participate in this great conversation.</p>
@@ -53,9 +53,9 @@ other how these can be achieved in each of our contexts, I think the better
 we are going to be. So, we are very grateful to the UN for putting together
 the Global Digital Compact to create the opportunities for us to do exactly
 that.</p>
-<p><strong>2. Role of public-private partnership; launch of AI Playbook for Small States</strong>
+<p><strong><u>2. Role of public-private partnership; launch of AI Playbook for Small States</u></strong>
 </p>
-<p><strong><u>Moderator: That brings me nicely to the question of public private partnerships. So, when we are looking at this process, everybody has to play their part. We need to make sure that the rules of engagement not only exist, but that they are followed and that they are implemented, and that there is consequence for transgression, right? We know about, broadly speaking, the challenges of international law when it comes to the implementation and enforcement of consequence. What role, however do you see - maybe you can give us an example in Singapore - the public-private partnership can better foster the implementation and the oversight of what this GDC process may look?</u></strong>
+<p><strong>Moderator: That brings me nicely to the question of public private partnerships. So, when we are looking at this process, everybody has to play their part. We need to make sure that the rules of engagement not only exist, but that they are followed and that they are implemented, and that there is consequence for transgression, right? We know about, broadly speaking, the challenges of international law when it comes to the implementation and enforcement of consequence. What role, however do you see - maybe you can give us an example in Singapore - the public-private partnership can better foster the implementation and the oversight of what this GDC process may look?</strong>
 </p>
 <p><strong>Minister Teo</strong>: Since Margrethe was talking about AI, that
 could be where the example arises.</p>
@@ -82,7 +82,7 @@ to meet in Singapore so that they could also engage with the Forum of Small
 States that was meeting there.</p>
 <p><strong>Now, the result of a process like this is that we now have the ability to adopt the principles articulated in the GDC, to help ourselves as nations. And equally importantly, help each other as small states. And in that regard, I am very pleased to note that this process created an opportunity for Singapore and another country that we admire greatly, which is Rwanda, to say: “How about the both of us come together to create an AI Playbook for Small States?” So that is something that we have done, and I hope that this will help all of us.</strong>
 </p>
-<p><strong><u>Moderator: I just love my panel, because everything they say, everybody wants to clap for them.</u></strong>
+<p><strong>Moderator: I just love my panel, because everything they say, everybody wants to clap for them.</strong>
 </p>
 <p><strong>Margrethe:</strong> Can I say something? I would encourage everybody
 to look at the AI apprenticeship model that is implemented in Singapore
@@ -91,9 +91,9 @@ of life can learn about how to do that. And you get experts who are embedded
 in the local community. So, this idea of AI apprenticeships, the Singaporean
 model, is really, really inspiring.</p>
 <p><strong>Minister:</strong> Thank you very much. We’re happy to share more.</p>
-<p><strong>3. Thriving with digital</strong>
+<p><strong><u>3. Thriving with digital</u></strong>
 </p>
-<p><strong><u>Moderator: I'm going to do a rapid-fire round. I'm going to ask you for two specific things that when we leave this stage and we leave this room as individuals, we need to consider implementing. We're not talking for policy strokes here. We're talking about things that you think we can do when we leave. Nnenna, you've given us a clue. But can you give us two different ones?</u></strong>
+<p><strong>Moderator: I'm going to do a rapid-fire round. I'm going to ask you for two specific things that when we leave this stage and we leave this room as individuals, we need to consider implementing. We're not talking for policy strokes here. We're talking about things that you think we can do when we leave. Nnenna, you've given us a clue. But can you give us two different ones?</strong>
 </p>
 <p><strong>Nnena:</strong> Connect the schools, connect the young people,
 connect my children.</p>
