@@ -22,8 +22,6 @@ Singapore</p>
 <p>• <u>Tumi Makgabo</u>, Africa Worldwide Media</p>
 <p><strong>1. Future of Work</strong>
 </p>
-<p>[click <a href="https://photos.onedrive.com/share/D2B0EBE61B8E82F8!13759?cid=D2B0EBE61B8E82F8&amp;resId=D2B0EBE61B8E82F8!13759&amp;authkey=!AAy7YEOBgJBYcH0&amp;ithint=video&amp;e=a0gUwL" rel="noopener nofollow" target="_blank">here</a> for
-video clipping]</p>
 <p><strong><u>Moderator: ...The world of work, however, we all recognise is going to look quite different in five years’ time, let alone a decade or two down the road. In Singapore's case, how are you ensuring that there is better preparedness for a more digitised world in the context of work, and how can we learn from what Singapore has done so that we are not always having to go back to the beginning to ensure we are better prepared for a world of work that looks so different?</u></strong>
 </p>
 <p><strong>Minister Teo:</strong> Well, thank you very much for this opportunity
@@ -57,8 +55,6 @@ the Global Digital Compact to create the opportunities for us to do exactly
 that.</p>
 <p><strong>2. Role of public-private partnership; launch of AI Playbook for Small States</strong>
 </p>
-<p>[click <a href="https://photos.onedrive.com/share/D2B0EBE61B8E82F8!13760?cid=D2B0EBE61B8E82F8&amp;resId=D2B0EBE61B8E82F8!13760&amp;authkey=!AK4ZWHl8vyXCHoA&amp;ithint=video&amp;e=9CnE79" rel="noopener nofollow" target="_blank">here</a> for
-video clipping]</p>
 <p><strong><u>Moderator: That brings me nicely to the question of public private partnerships. So, when we are looking at this process, everybody has to play their part. We need to make sure that the rules of engagement not only exist, but that they are followed and that they are implemented, and that there is consequence for transgression, right? We know about, broadly speaking, the challenges of international law when it comes to the implementation and enforcement of consequence. What role, however do you see - maybe you can give us an example in Singapore - the public-private partnership can better foster the implementation and the oversight of what this GDC process may look?</u></strong>
 </p>
 <p><strong>Minister Teo</strong>: Since Margrethe was talking about AI, that
@@ -97,8 +93,6 @@ model, is really, really inspiring.</p>
 <p><strong>Minister:</strong> Thank you very much. We’re happy to share more.</p>
 <p><strong>3. Thriving with digital</strong>
 </p>
-<p>[click <a href="https://photos.onedrive.com/share/D2B0EBE61B8E82F8!13763?cid=D2B0EBE61B8E82F8&amp;resId=D2B0EBE61B8E82F8!13763&amp;authkey=!AIQpXzY_QnSuc5E&amp;ithint=video&amp;e=bjj1NU" rel="noopener nofollow" target="_blank">here</a> for
-video clipping]</p>
 <p><strong><u>Moderator: I'm going to do a rapid-fire round. I'm going to ask you for two specific things that when we leave this stage and we leave this room as individuals, we need to consider implementing. We're not talking for policy strokes here. We're talking about things that you think we can do when we leave. Nnenna, you've given us a clue. But can you give us two different ones?</u></strong>
 </p>
 <p><strong>Nnena:</strong> Connect the schools, connect the young people,
