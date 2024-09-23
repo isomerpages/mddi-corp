@@ -132,9 +132,7 @@ Press Secretaries to Ministers.</p>
 <p>For Translation scholars, you will generally begin your career in the
 MDDI Translation Department and subsequently be posted to other divisions
 or public agencies where your language capabilities could be tapped on
-or for exposure to other areas of information work. Experienced Translation
-scholars could also be further groomed to assume the role of government
-translators / interpreters.</p>
+or for exposure to other areas of information work.</p>
 </li>
 </ol>
 <p></p>
