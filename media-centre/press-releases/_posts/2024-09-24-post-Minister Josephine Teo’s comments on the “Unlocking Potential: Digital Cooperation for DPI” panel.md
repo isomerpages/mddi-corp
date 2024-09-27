@@ -66,7 +66,7 @@ but also a very important for us to continue to learn from colleagues around
 the world the challenges they face. In learning together, we have a better
 chance of making progress together. One of the ways in which we have done
 so is through the <strong>Forum of Small States, of which we are the convener. On its 30th anniversary, we decided that we should introduce a digital pillar, and capacity programmes have now been introduced. </strong>These
-programs take place annually and exist at the executive- and fellowship
+programmes take place annually and exist at the executive- and fellowship
 levels. And through this process, we have been able to bring together colleagues
 from around the world to try and make progress together.</p>
 <p><strong>There is one other way that Singapore hopes to be able to contribute to joint progress.</strong> The
