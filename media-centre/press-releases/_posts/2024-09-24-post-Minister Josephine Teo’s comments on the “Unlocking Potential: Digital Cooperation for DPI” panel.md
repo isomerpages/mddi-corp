@@ -26,7 +26,7 @@ Secretariat</p>
 </p>
 <p><strong>Minister Teo:</strong> Thank you very much, and we feel very honoured
 to be part of this very important and meaningful initiative. Perhaps I'll
-organize my remarks along three lines.</p>
+organise my remarks along three lines.</p>
 <p>Firstly, I wanted to share our takeaways and lessons learned when it comes
 to digital inclusion. Singapore, as you know, is a very small island, so
 compared to some of the challenges that our colleagues face in terms of
