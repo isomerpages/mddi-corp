@@ -8,7 +8,7 @@ description: ""
 image: ""
 variant: tiptap
 ---
-<p><strong>OPENING REMARKS BY MINISTER JOSEPHINE TEO AT NLB’S DONORS’ APPRECIATION NIGHT 2024</strong>
+<p><strong>OPENING REMARKS BY MINISTER JOSEPHINE TEO AT NLB’S DONORS’ APPRECIATION NIGHT 2024 (26 SEP 2024)</strong>
 </p>
 <p>NLB’s Esteemed Donors</p>
 <p>Mr Lee Seow Hiang, Chairman, NLB</p>
