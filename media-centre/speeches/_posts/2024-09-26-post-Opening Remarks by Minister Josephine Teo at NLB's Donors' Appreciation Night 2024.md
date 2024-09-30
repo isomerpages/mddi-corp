@@ -86,6 +86,7 @@ art scene.</p>
 <p>a. This exhibition will use audiovisual materials, oral histories and
 personal documents to create a multi-sensorial, “phygital” experience –through
 both physical artefact displays and digital storytelling techniques.
+<br>
 <br>b. Do keep a lookout for this milestone showcase.</p>
 <p><strong><u>Key Message 3: All Singaporeans are co-authors of our Singapore Story, and NLB’s work enables more citizens to become Singapore Storytellers.</u></strong>
 </p>
