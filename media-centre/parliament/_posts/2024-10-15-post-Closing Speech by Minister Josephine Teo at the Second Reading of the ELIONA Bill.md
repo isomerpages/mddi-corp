@@ -8,7 +8,7 @@ description: ""
 image: ""
 variant: tiptap
 ---
-<p><strong>SECOND READING CLOSING SPEECH BY MINISTER JOSEPHINE TEO ON THE ELECTIONS (INTEGRITY OF ONLINE ADVERTISING) (AMENDMENT) BILL - 15 OCT 2024</strong>
+<p><strong>SECOND READING CLOSING SPEECH BY MINISTER JOSEPHINE TEO ON THE ELECTIONS (INTEGRITY OF ONLINE ADVERTISING) (AMENDMENT) BILL, 15 OCT 2024</strong>
 </p>
 <p>1. Mr Speaker, I thank Members for their unanimous support of the Bill.
 In fact, Members had expressed concerns about deepfakes even before the
