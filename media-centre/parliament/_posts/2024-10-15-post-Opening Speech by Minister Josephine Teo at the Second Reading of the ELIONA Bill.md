@@ -164,7 +164,7 @@ rally speech touching on current affairs looks more real when placed against
 the backdrop of an actual and familiar rally site.</p>
 <p>c. We must also recognise that audiences perceive and process the same
 content through different lenses shaped by their individual experiences,
-beliefs, and cognitive biases. For example, many of us find it inconceivable
+beliefs, and cognitive biases. For example, many of us find it incredible
 that the Prime Minister would be giving investment advice on social media.
 But as Members of Parliament, we have all met residents who have fallen
 prey to such AI-enabled scams. In this regard, the law will apply so long
