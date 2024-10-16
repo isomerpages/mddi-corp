@@ -426,4 +426,9 @@ what we hear through audio clips, even if it is a familiar voice.</p>
 <p>66. The ELIONA Bill will add an additional layer of safeguards to our
 elections, but everyone – candidates, citizens, tech platforms – have a
 part to play in protecting our democracy.</p>
-<p></p>
+<p>67. We must keep our elections fair and honest, conducted on the basis
+of fact, not fiction. By and large, Members of this House regardless of
+party allegiance have supported these ideals, and I appeal to Members to
+stand behind this Bill so that we can continue to uphold the integrity
+of our elections.</p>
+<p>68. With that Sir, I beg to move.</p>
