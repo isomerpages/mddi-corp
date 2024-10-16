@@ -10,7 +10,6 @@ variant: tiptap
 ---
 <p><strong><u>Introduction</u></strong>
 </p>
-<p></p>
 <ol data-tight="true" class="tight">
 <li>
 <p>Mr Speaker, on behalf of the Minister for Communications and Information,
@@ -29,6 +28,7 @@ to lead in the prevention and response to cybersecurity threats and incidents;
 and</p>
 <p>c. Third, to establish a licensing framework to regulate cybersecurity
 service providers.</p>
+<p></p>
 <p><strong><u>Lessons Learnt</u></strong>
 </p>
 <p></p>
@@ -126,7 +126,8 @@ need for stronger cybersecurity regulation and are supportive of the policy
 objectives of the Bill. Our stakeholders have also provided useful feedback
 that has helped CSA refine the Bill. I would like to thank all who participated
 for their feedback and for their suggestions.</p>
-<p><strong>Key Provisions of the Cybersecurity (Amendment) Bill</strong>
+<p></p>
+<p><strong><u>Key Provisions of the Cybersecurity (Amendment) Bill</u></strong>
 </p>
 <p></p>
 </li>
@@ -445,6 +446,7 @@ with the Public Prosecutor’s consent. In making a recommendation to the
 Public Prosecutor, CSA will consider a range of factors, including the
 risks created by the non- compliance, the egregiousness, and the facts
 of the case.</p>
+<p></p>
 <p><strong><u>Conclusion</u></strong>
 </p>
 <p></p>
