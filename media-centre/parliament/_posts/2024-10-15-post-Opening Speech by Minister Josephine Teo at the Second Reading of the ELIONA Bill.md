@@ -413,14 +413,11 @@ the Code for issuance in 2025.</p>
 <p><strong><u>Conclusion</u></strong>
 </p>
 <p>59. Mr Speaker, may I continue in Mandarin, please.</p>
-<p>60. 我相信许多人都有过这样的经历: 身边的亲友对网上的深伪内容深信不疑。无论我们怎么解释, 对方仍旧把假消息信以为真。有时, 甚至连我们自己也上当、受骗,
-假内容的散播, 让人防不胜防。</p>
-<p>61. 在人工智能的迅速发展下, 深伪内容只会变得更普及、更逼真, 让别有居心的人能够更轻易、更快速地在我们的社会散播怀疑的种子。如果这种假内容在大选期间广泛传播,
-其后果将不堪设想。</p>
-<p>62. 事实上, 这并非无稽之谈。近期, 不少国家的大选中, 已经看到了假内容的危害。这项新法令旨在禁止在网上发布和传播歪曲候选人言行、举止的假内容,
-让我们才可以更好地保障民主进程, 和选举的公平性。</p>
-<p>63. 然而, 法令并非灵丹妙药。增强公众辨别内容真伪的能力, 才是最有效的预防针。因此, 让我们同心协力, 对网上内容提高警惕, 必要时,
-向可靠来源求证。每个人从自身做起, 成为抵御假内容的第一道防线。</p>
+<p>60. 我相信许多人都有过这样的经历: 身边的亲友对网上的深伪内容深信不疑。无论我们怎么解释，对方仍旧把假消息信以为真。有时，甚至连我们自己也上当，受骗,
+假内容的散播，让人防不胜防。</p>
+<p>61. 在人工智能的迅速发展下，深伪内容只会变得更普及，更逼真，让别有居心的人能够更轻易，更快速地在我们的社会散播怀疑的种子。如果这种假内容在大选期间广泛传播，其后果将不堪设想。</p>
+<p>62. 事实上，这并非无稽之谈。近期，不少国家的大选中，已经看到了假内容的危害。这项新法令旨在禁止在网上发布和传播歪曲候选人言行，举止的假内容，让我们才可以更好地保障民主进程，和选举的公平性。</p>
+<p>63. 然而，法令并非灵丹妙药。增强公众辨别内容真伪的能力，才是最有效的预防针。因此，让我们同心协力，对网上内容提高警惕，必要时，向可靠来源求证。每个人从自身做起，成为抵御假内容的第一道防线。</p>
 <p>64. Mr Speaker, let me conclude.</p>
 <p>65. In the age of deepfakes, seeing is no longer believing. We have to
 question not only the authenticity of sources and statements, but the very
@@ -435,3 +432,10 @@ party allegiance have supported these ideals, and I appeal to Members to
 stand behind this Bill so that we can continue to uphold the integrity
 of our elections.</p>
 <p>68. With that Sir, I beg to move.</p>
+<hr>
+<p><sup>1 </sup>Sumsub. (2024) Deepfake cases surge in countries holding
+2024 elections, Sumsub research shows. <a href="https://sumsub.com/newsroom/deepfake-cases-surge-in-countries-holding-2024-elections-sumsub-research-shows/" rel="noopener noreferrer nofollow" target="_blank">https://sumsub.com/newsroom/deepfake-cases-surge-in-countries-holding-2024-elections-sumsub-research-shows/</a>
+</p>
+<p><sup>2 </sup>Verian. (2024) Three quarters of Singaporeans concerned about
+the use of deepfakes in scams. <a href="https://www.veriangroup.com/press-release/three-quarters-of-singaporeans-concerned-about-the-use-of-deepfakes-in-scams" rel="noopener noreferrer nofollow" target="_blank">https://www.veriangroup.com/press-release/three-quarters-of-singaporeans-concerned-about-the-use-of-deepfakes-in-scams</a>
+</p>

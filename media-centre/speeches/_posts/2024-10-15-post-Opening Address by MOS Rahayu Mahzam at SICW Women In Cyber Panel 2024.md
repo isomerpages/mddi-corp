@@ -7,7 +7,7 @@ description: ""
 image: ""
 variant: tiptap
 ---
-<p><strong>SPEECH FOR OPENING ADDRESS BY MOS RAHAYU AT SICW WOMEN IN CYBER PANEL ON 15 OCT 2024</strong>
+<p><strong>SPEECH FOR OPENING ADDRESS BY MOS RAHAYU MAHZAM AT THE SINGAPORE INTERNATIONAL CYBER WEEK (SICW) WOMEN IN CYBER PANEL ON 15 OCT 2024</strong>
 <br>
 </p>
 <p>1. Distinguished guests, speakers, colleagues and friends. Good afternoon.</p>
