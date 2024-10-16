@@ -128,4 +128,120 @@ of content that:</p>
 <p>b. Is digitally generated or manipulated; and</p>
 <p>c. depicts a candidate saying or doing something that he or she did not
 in fact say or do;</p>
-<p></p>
+<p>d. But is realistic enough that some members of the public who see or
+hear the content would reasonably believe that the candidate did in fact
+say or do that thing.</p>
+<p>15. I will go through each of these criteria in detail.</p>
+<p>16. First, online election advertising under our existing election laws
+refers to any information or material published online that can reasonably
+be regarded as intended to promote or procure, or prejudice the electoral
+success or prospects of a candidate or political party. The existing OEA
+provisions guide the transparent and responsible use of the Internet during
+elections, including for campaigning, and ensure that the elections are
+contested fairly. The ELIONA Bill strengthens the OEA regime by targeting
+the substantive content of the OEA.</p>
+<p>17. Second, the ELIONA Bill is scoped to address content that is digitally
+generated or manipulated. This includes content generated or manipulated
+using AI techniques such as generative AI. It also includes non-AI techniques
+such as Photoshop, dubbing, and splicing. These are now seen as more traditional
+editing methods. But they can still be used to manipulate content depicting
+candidates, making them as harmful and misleading as AI-generated deepfakes.</p>
+<p>18. Third, the ELIONA Bill is scoped to address the most harmful types
+of content in the context of elections, which is content that misleads
+or deceives the public about a candidate, through a false representation
+of his speech or actions, that is realistic enough to be reasonably believed
+by some members of the public.</p>
+<p>19. The condition of being realistic will be objectively assessed. There
+is no one-size-fits-all set of criteria but some general points can be
+made:</p>
+<p>a. First, such content should closely match the candidates’ known features,
+expressions, and mannerisms. Technically, we would expect a degree of sophistication
+resulting in minimal inconsistencies in aspects like lighting, body movements,
+or audio distortions.</p>
+<p>b. Second, content may make use of actual persons, events and places so
+that the false representation appears more believable. For example, a fake
+rally speech touching on current affairs looks more real when placed against
+the backdrop of an actual and familiar rally site.</p>
+<p>c. We must also recognise that audiences perceive and process the same
+content through different lenses shaped by their individual experiences,
+beliefs, and cognitive biases. For example, many of us find it inconceivable
+that the Prime Minister would be giving investment advice on social media.
+But as Members of Parliament, we have all met residents who have fallen
+prey to such AI-enabled scams. In this regard, the law will apply so long
+as there are some members of the public who would reasonably believe that
+the candidate did say or do what was depicted.</p>
+<p>20. Also, in assessing whether content matches a candidate’s speech or
+actions, we will be relying primarily on declarations by the candidate
+if he or she had said or done that thing. I will elaborate on this later
+in my speech.</p>
+<p>21. All four legal limbs have to be met for the content to be prohibited.
+That is, the content</p>
+<p>a. is or includes OEA;</p>
+<p>b. Is digitally generated or manipulated; and</p>
+<p>c. depicts a candidate saying or doing something that he or she did not
+in fact say or do;</p>
+<p>d. But is realistic enough that some members of the public who see or
+hear the content would reasonably believe that the candidate did in fact
+say or do that thing.</p>
+<p>22. Mr Speaker, with your permission, may I ask the Clerks to distribute
+a handout that will illustrate our thinking on what will be allowed or
+disallowed under the new provisions? Sir, Members can also access this
+handout through the MP@SGPARL App.</p>
+<p>23. Examples of content that would be prohibited include:</p>
+<p>a. Realistic audiofakes featuring a candidate saying things he did not
+say;</p>
+<p>b. Realistic AI-generated images of a candidate participating at events
+that did not happen, meeting people that he or she did not meet;</p>
+<p>c. Realistic manipulated images or videos taken out of context and misrepresenting
+a candidate’s actions.</p>
+<p>24. It does not matter if the content is favourable or unfavourable to
+any candidate. The publication of such prohibited content during the election
+period, including by boosting, sharing, and reposting existing content,
+will be an offence.</p>
+<p><em>Assurances on content that are unlikely to be caught</em>
+</p>
+<p>25. As we propose this new measure to tackle realistic misrepresentations
+of candidates online, we are mindful not to disallow reasonable use of
+AI or technology in electoral campaigning. While each case will be assessed
+on a case-by-case basis, there are several scenarios that the prohibition
+will not extend to.</p>
+<p>a. The first is AI-generated or animated characters and cartoons. Most
+of these animations are not photorealistic replicas of real persons; audiences
+will generally be able to tell that the speech or actions depicted are
+not real.</p>
+<p>b. The second is benign cosmetic alterations, such as the use of beauty
+filters, or colour and lighting adjustments of images and videos. Such
+alterations typically involve modifications that do not materially affect
+truthfulness, and do not result in a misrepresentation of a candidate’s
+speech or actions.</p>
+<p>c. The third is entertainment content, such as memes. We recognise that
+such content can arise as part of online discourse during the election
+period. Memes will not be caught under the law as long as they are assessed
+to be unrealistic and do not mislead audiences about a candidate’s speech
+or actions.</p>
+<p>26. Some Members may be concerned – will candidates’ regular campaign
+posters, showing individuals against the backdrop of a GRC or a SMC, be
+prohibited if they are put online? Such posters are usually obvious composite
+images, such as candidates disproportionately superimposed in front of
+a landmark or backdrop. Members of the public would not reasonably believe
+such content to be realistic depictions of a candidate’s action. Such campaign
+posters are unlikely to fall within the scope of prohibitions. Ban will
+not apply to certain communications and publications</p>
+<p>27. Mr Speaker, I would like to make clear that the ban will not apply
+to certain types of content.</p>
+<p>28. First, the Bill does not extend to private or domestic communications.
+This refers to content shared between individuals or within a closed group,
+like group chats with family or a small group of friends, in view of user
+privacy.</p>
+<p>a. That said, we know that false content can circulate rapidly on open
+WhatsApp or Telegram channels. If it is reported that prohibited content
+is being communicated in big group chats that involve many users who are
+strangers to one another, and are freely accessible by the public, such
+communications will be caught under the Bill and we will assess if action
+should be taken.</p>
+<p>b. The factors that determine whether communications are private or domestic
+are set out in the respective election Acts.</p>
+<p>29. Second, the prohibition does not apply to news published by authorised
+news agencies. This is to give space to fair reporting on prohibited content,
+such that the public can be alerted to the false content about candidates
+in a timely manner.</p>
