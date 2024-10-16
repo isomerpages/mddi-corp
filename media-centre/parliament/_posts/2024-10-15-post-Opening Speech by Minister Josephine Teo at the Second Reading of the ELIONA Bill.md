@@ -245,3 +245,172 @@ are set out in the respective election Acts.</p>
 news agencies. This is to give space to fair reporting on prohibited content,
 such that the public can be alerted to the false content about candidates
 in a timely manner.</p>
+<p>30. Third, we recognise that a layperson may carelessly reshare messages
+and links without realising that the content has been manipulated. The
+legislation provides for a defence if a person did not know and had no
+reason to believe that the candidate did not in fact say or do the thing
+and inadvertently commits the offence.</p>
+<p><strong><u>Duration of the ban, and who the ban applies to</u></strong>
+</p>
+<p>31. Sir, the enhanced safeguards will apply during the election period,
+from the issuance of the Writ of Election to the close of polling on Polling
+Day.</p>
+<p>32. From the issuance of the Writ to Nomination Day, we will introduce
+a two-part requirement for individuals who would like to identify themselves
+as prospective candidates and have the safeguards of the ELIONA Bill apply
+to them:</p>
+<p>a. First, pay the election deposit; and</p>
+<p>b. Second, consent for their names to be made public by the Elections
+Department (“ELD”). The consent form will be made available via the ELD
+website. The intention is for the website to be updated daily.</p>
+<p>33. Paying the election deposit is a pre-requisite for standing in an
+election and an indicator of an individual’s seriousness of intent to be
+a candidate.</p>
+<p>a. It is a step up from simply making a public declaration of one’s potential
+candidacy.</p>
+<p>b. Publishing the names of those who placed the deposit will also make
+clear to the public which individuals are covered by the law.</p>
+<p>c. It is the candidate’s choice entirely when to inform the public about
+his or her intention to stand for election before Nomination Day. Candidates
+can choose to put down the election deposit but withhold consent to make
+their names public until Nomination Day.</p>
+<p>34. After nomination proceedings are completed, and up to the close of
+polling on Polling Day, the safeguards of the ELIONA Bill will apply to
+content depicting all successfully nominated candidates.</p>
+<p>35. At the same time, individuals themselves should also readily come
+forward to clarify and debunk content that they believe misrepresents them.</p>
+<p><strong><u>Enforcement of the Bill</u></strong>
+</p>
+<p><em>Technical assessment</em>
+</p>
+<p>36. The Government will use a range of detection tools to assess if the
+content has been generated or manipulated using digital means. We have
+at our disposal commercial tools, and also those developed in-house, or
+in partnership with researchers, such as those at the Centre of Advanced
+Technologies in Online Safety, or CATOS.</p>
+<p>37. These tools are constantly updated to keep up with technology. Continuing
+strong investment in research is one way to ensure that we stay ahead.
+We have channelled $50 million in funding over five years to CATOS, which
+will develop new technological capabilities to detect online harms, including
+harmful digitally manipulated content.</p>
+<p><em>Declaration by candidates</em>
+</p>
+<p>38. In reviewing reports of false content flagged under this new prohibition,
+the Government will prioritise candidates’ reports to the Returning Officer
+(“RO”). Besides the technical assessment on whether content has been manipulated,
+the RO will also rely on candidates’ declarations on whether the content
+falsely depicts their speech and actions.</p>
+<p>39. We have placed significant weight on candidates’ declarations to the
+RO under this new prohibition, as a candidate is in the best position to
+speedily clarify if the content is a truthful and accurate representation
+of himself or herself. The Government is unlikely to have all the evidence
+of whether a candidate actually said or did something, especially if it
+was in a private setting.</p>
+<p>40. The declaration by candidates will be made to the RO, for candidates
+to attest to the veracity of his or her claim. This declaration form will
+be made available to candidates via the Candidate’s Portal on ELD’s website.</p>
+<p><em>Penalties for false declaration</em>
+</p>
+<p>41. To deter the abuse of the law, such as candidates requesting to take
+down unfavourable content that is in fact a factual representation of their
+speech or action, it will be made an illegal practice for candidates to
+knowingly make a false or misleading declaration in a request.</p>
+<p>42. The penalties for an illegal practice are set out in the election
+Acts. If convicted of an illegal practice, one may face a fine not exceeding
+$2,000, and become ineligible to be elected as a Member of Parliament or
+the President. Further, if already elected, the election of a candidate
+as a Member of Parliament or President may also be invalidated.</p>
+<p><em>Powers of the Returning Officer</em>
+</p>
+<p>43. Currently, the RO has powers to issue corrective directions to any
+relevant person, including social media services, to remove or disable
+access in Singapore to prohibited online election advertising, or to stop
+or reduce its electronic communication activity.</p>
+<p>44. The ELIONA Bill extends these powers for the RO to issue corrective
+directions against this new category of content, and corrective actions
+must be taken within the specified period of time.</p>
+<p>45. As mentioned earlier, the Government will prioritise candidates’ reports
+and declarations to the RO. If assessed to be a genuine case, the RO will
+issue corrective directions. Only in exceptional cases will directions
+be considered against false representations without a candidate’s declaration.
+This may arise when the objective facts are widely known or if the Government
+has access to data that reliably confirms the candidate’s actual speech
+or action.</p>
+<p>46. The public can also report potentially prohibited content of candidates
+to the authorities for review.</p>
+<p>47. To better equip the public to make informed choices during the elections,
+the public will be notified about corrective directions that have been
+issued against offending content.</p>
+<p><em>Non-compliance with corrective direction</em>
+</p>
+<p>48. Non-compliance with a corrective direction issued by the RO is an
+offence. Recognising the extensive reach and responsibility that social
+media services must uphold, we have raised the fine of up to $1 million
+for a provider of a social media service that fails to comply with a corrective
+direction.</p>
+<p>49. This is a reasonable adjustment – the revised penalty is on par with
+similar offences under other content regulation tools like the Protection
+from Online Falsehoods and Manipulation Act (“POFMA”), the Broadcasting
+Act (“BA”), and the Online Criminal Harms Act (“OCHA”).</p>
+<p>50. For all others, including individuals, there is no change to the financial
+and custodial penalties for non-compliance with a corrective direction,
+and remains at a fine not exceeding $1,000, or to imprisonment for a term
+not exceeding 12 months or to both.</p>
+<p>51. We have engaged major social media services on the requirements under
+the ELIONA Bill and shared our expectation that such directions are to
+be promptly complied with to uphold the integrity of our elections.</p>
+<p><strong><u>Adding ELIONA to our suite of measures</u></strong>
+</p>
+<p>52. Mr Speaker, as noted by Dr Carol Soon of the Institute of Policy Studies,
+the ELIONA Bill is carefully calibrated in its scope of the “what”, “when”,
+and “whom”, and is a continuation of our principled approach towards the
+conduct of elections in Singapore.</p>
+<p>53. First, the Bill addresses the most harmful digitally generated and
+manipulated content, including deepfakes, that can influence electoral
+outcomes, while recognising the value of novel content creation techniques
+and the desire of candidates to employ innovative methods to engage voters.</p>
+<p>54. Second, it applies only during the election period, from the issuance
+of Writ to the end of polling on Polling Day, to safeguard the integrity
+of the electoral process and preserve space for fair and legitimate political
+discourse during the elections.</p>
+<p>55. Third, the safeguards apply to all candidates regardless of political
+party and potential impact of the fake content. This recognises that fake
+content favourable to one candidate must be unfavourable to another, and
+vice versa. Our voters must be able to make informed choices based on factual
+and truthful representation of our prospective political leaders. Candidates
+too have a responsibility to conduct themselves with integrity during the
+elections.</p>
+<p>56. The ELIONA Bill updates our suite of measures introduced over the
+years to address various forms of harmful online content. During and outside
+the election periods, existing content regulation tools will continue to
+apply to certain types of AI-generated misinformation and deepfakes.</p>
+<p>a. For example, under POFMA, a Minister, or an appointed Alternate Authority
+during the election periods, may issue a direction for a recipient to communicate
+a correction notice. The Minister or Alternate Authority may also direct
+the removal or disabling of access to deepfakes on the grounds that they
+contain false statements of fact and it is in the public interest to issue
+the direction.</p>
+<p>b. Under OCHA, directions may be given to deal with online activities
+that are criminal in nature, such as deepfake-related scams.</p>
+<p>c. Under the Protection from Harassment Act, individuals may seek recourse
+for certain content that have caused personal harassment, alarm or distress
+to the individual.</p>
+<p><em>New POFMA Code of Practice</em>
+</p>
+<p>57. Beyond the expectations set out in the ELIONA Bill during the election
+period, social media services should also bear greater responsibility for
+digitally generated or manipulated content at all times. Most major social
+media services are also prescribed Internet intermediaries under POFMA,
+and will be required to prevent and counter the abuse of digitally generated
+or manipulated content at all times through an upcoming Code of Practice
+under POFMA (“Code”).</p>
+<p>58. This includes an obligation for PIIs to put in place adequate systems
+and processes to enhance the transparency about digitally generated or
+manipulated content, such as through labelling. Like the three other POFMA
+Codes in effect today, the new Code is being formulated in consultation
+with the prescribed Internet intermediaries, and we intend to finalise
+the Code for issuance in 2025.</p>
+<p><strong><u>Conclusion</u></strong>
+</p>
+<p>59. Mr Speaker, may I continue in Mandarin, please.</p>
+<p></p>
