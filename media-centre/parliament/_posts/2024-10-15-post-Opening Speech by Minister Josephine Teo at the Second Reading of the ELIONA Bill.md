@@ -432,3 +432,10 @@ party allegiance have supported these ideals, and I appeal to Members to
 stand behind this Bill so that we can continue to uphold the integrity
 of our elections.</p>
 <p>68. With that Sir, I beg to move.</p>
+<hr>
+<p><sup>1 </sup>Sumsub. (2024) Deepfake cases surge in countries holding
+2024 elections, Sumsub research shows. <a href="https://sumsub.com/newsroom/deepfake-cases-surge-in-countries-holding-2024-elections-sumsub-research-shows/" rel="noopener noreferrer nofollow" target="_blank">https://sumsub.com/newsroom/deepfake-cases-surge-in-countries-holding-2024-elections-sumsub-research-shows/</a>
+</p>
+<p><sup>2 </sup>Verian. (2024) Three quarters of Singaporeans concerned about
+the use of deepfakes in scams. <a href="https://www.veriangroup.com/press-release/three-quarters-of-singaporeans-concerned-about-the-use-of-deepfakes-in-scams" rel="noopener noreferrer nofollow" target="_blank">https://www.veriangroup.com/press-release/three-quarters-of-singaporeans-concerned-about-the-use-of-deepfakes-in-scams</a>
+</p>
