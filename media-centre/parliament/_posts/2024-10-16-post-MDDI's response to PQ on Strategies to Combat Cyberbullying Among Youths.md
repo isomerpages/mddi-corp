@@ -8,13 +8,20 @@ image: ""
 variant: tiptap
 ---
 <h3>Parliament Sitting on 16 October 2024</h3>
-<h3>QUESTION FOR WRITTEN ANSWER</h3>
+<h3>QUESTION FOR ORAL AND WRITTEN ANSWER</h3>
+<p><strong>*26. Mr Yip Hon Weng </strong>asked the Minister for Digital Development
+and Information (a) whether the Ministry can provide greater clarity on
+what constitutes cyberbullying and what can be reported for action to be
+taken; (b) what avenues do victims have to report such activities and how
+are they assured that their reports are taken seriously; (c) what action
+can be enforced on underaged cyberbullying perpetrators; and (d) what are
+the available tools that the Government has to uncover anonymous bullies.</p>
 <p><strong>22. Dr Wan Rizal </strong>asked the Minister for Digital Development
 and Information (a) what specific measures are being taken to address cyberbullying
 among youths given its strong association with mental health symptoms;
 and (b) how will the Ministry work with digital platforms to provide a
 safer online environment for youths.</p>
-<p><strong>Answer: </strong>
+<p><strong>Answer:</strong>
 </p>
 <p>The response will also address a similar Parliamentary Question for written
 answer raised by Dr Wan Rizal for this sitting.</p>
