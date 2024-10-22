@@ -7,8 +7,6 @@ description: ""
 image: ""
 variant: tiptap
 ---
-<p><strong><u>MEDIA FACTSHEET: 4 OF 5</u></strong>
-</p>
 <p><strong>New “AI for Fun” Modules for Students</strong>
 </p>
 <p>1. Jointly offered by Infocomm Media Development Authority (IMDA) and
@@ -47,7 +45,7 @@ Applied Learning Programmes, and enrichment programmes.
 <br>
 </p>
 <hr>
-<p>1 Since 2020, the Code for Fun Programme, or a comparable coding programme,
-has been mandatory for all upper primary students. While CFF remains an
-optional programme at the secondary school level, almost two thirds of
-secondary schools offered the programme in 2023.</p>
+<p><sup>1</sup>Since 2020, the Code for Fun Programme, or a comparable coding
+programme, has been mandatory for all upper primary students. While CFF
+remains an optional programme at the secondary school level, almost two
+thirds of secondary schools offered the programme in 2023.</p>
