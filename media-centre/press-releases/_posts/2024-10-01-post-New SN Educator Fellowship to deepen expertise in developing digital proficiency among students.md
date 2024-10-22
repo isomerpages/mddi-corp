@@ -40,13 +40,23 @@ dives on specific topics.</p>
 <p>5. Over the next five years, we will aim to provide Fellowship opportunities
 to build a core pool of about 250 educators with deep knowledge on ways
 to effectively develop students’ digital skills. The Fellowship is targeted
-primarily at Teacher Leaders and Senior Specialists2 who play an important
-role in shaping the national curriculum and championing professional development
-and pedagogical excellence among the teaching fraternity. These roles enable
-them to effectively share their insights from the Fellowship with other
-teachers and amplify the Fellowship’s benefits across the education system.</p>
+primarily at Teacher Leaders and Senior Specialists<sup>2</sup> who play
+an important role in shaping the national curriculum and championing professional
+development and pedagogical excellence among the teaching fraternity. These
+roles enable them to effectively share their insights from the Fellowship
+with other teachers and amplify the Fellowship’s benefits across the education
+system.</p>
 <p>6. This Fellowship complements existing professional learning support
 to upskill our teachers, such as opportunities offered by the National
 Institute of Education and the Academy of Singapore Teachers, including
 out-of-classroom learning opportunities such as the Teacher Work Attachment
-Plus programme and Learning Journeys.</p>
+Plus programme and Learning Journeys.
+<br>
+</p>
+<hr>
+<p>1 The programme duration, inclusive of optional modules, will be capped
+at 80 hours.
+<br>2 Senior Specialists help to shape the national curriculum. Teacher Leaders
+include Master Teachers, Lead Teachers, and Senior Teachers. They play
+an important role in championing professional development and pedagogical
+excellence among the teaching fraternity.</p>
