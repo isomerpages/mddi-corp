@@ -52,9 +52,10 @@ Plus programme and Learning Journeys.
 <br>
 </p>
 <hr>
-<p>1 The programme duration, inclusive of optional modules, will be capped
-at 80 hours.
-<br>2 Senior Specialists help to shape the national curriculum. Teacher Leaders
-include Master Teachers, Lead Teachers, and Senior Teachers. They play
-an important role in championing professional development and pedagogical
-excellence among the teaching fraternity.</p>
+<p><sup>1</sup>The programme duration, inclusive of optional modules, will
+be capped at 80 hours.
+<br>
+<br><sup>2</sup>Senior Specialists help to shape the national curriculum.
+Teacher Leaders include Master Teachers, Lead Teachers, and Senior Teachers.
+They play an important role in championing professional development and
+pedagogical excellence among the teaching fraternity.</p>
