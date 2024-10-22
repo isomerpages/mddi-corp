@@ -7,8 +7,6 @@ description: ""
 image: ""
 variant: tiptap
 ---
-<p><strong><u>MEDIA FACTSHEET: 1 OF 5</u></strong>
-</p>
 <p><strong>New Agency for Online Safety and Assurance</strong>
 </p>
 <p>1. The Ministry of Digital Development and Information (MDDI) and the
@@ -59,12 +57,13 @@ available to victims under the proposed legislation.</p>
 <br>
 </p>
 <hr>
-<p>1 Study on Online Harms in Singapore 2023, SHE Empowerment. <a href="https://api2.she.org.sg/uploads/SHE_Report_on_Online_Harms_Study_Final.pdf" rel="noopener noreferrer nofollow" target="_blank">https://api2.she.org.sg/uploads/SHE_Report_on_Online_Harms_Study_Final.pdf</a>
+<p><sup>1</sup>Study on Online Harms in Singapore 2023, SHE Empowerment.
+<a href="https://api2.she.org.sg/uploads/SHE_Report_on_Online_Harms_Study_Final.pdf" rel="noopener noreferrer nofollow" target="_blank">https://api2.she.org.sg/uploads/SHE_Report_on_Online_Harms_Study_Final.pdf</a>
 </p>
-<p>2 78% to 86% for Facebook, Instagram, TikTok, X and YouTube. Insufficient
-sample size for HardwareZone.</p>
-<p>3 Illegal and restricted online content ranges from seriously harmful
-material such as images and videos showing the sexual abuse of children
-or acts of terrorism, through to content which should not be accessed by
-children, such as simulated sexual activity, detailed nudity or high impact
-violence.</p>
+<p><sup>2</sup>78% to 86% for Facebook, Instagram, TikTok, X and YouTube.
+Insufficient sample size for HardwareZone.</p>
+<p><sup>3</sup>Illegal and restricted online content ranges from seriously
+harmful material such as images and videos showing the sexual abuse of
+children or acts of terrorism, through to content which should not be accessed
+by children, such as simulated sexual activity, detailed nudity or high
+impact violence.</p>
