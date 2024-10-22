@@ -7,8 +7,6 @@ description: ""
 image: ""
 variant: tiptap
 ---
-<p><strong><u>MEDIA FACTSHEET: 2 OF 5</u></strong>
-</p>
 <p><strong>Further S$120M investment in “AI for Science”</strong>
 </p>
 <p>1. A key part of Singapore’s refreshed National AI Strategy (NAIS 2.0)
