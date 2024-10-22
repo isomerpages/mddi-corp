@@ -8,8 +8,6 @@ description: ""
 image: ""
 variant: tiptap
 ---
-<p><strong><u>MEDIA FACTSHEET: 3 OF 5</u></strong>
-</p>
 <p><strong>New Smart Nation Educator Fellowship to deepen expertise in developing digital proficiency among students</strong>
 </p>
 <p>1. The Ministry of Digital Development and Information and the Ministry
