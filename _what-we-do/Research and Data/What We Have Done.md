@@ -39,8 +39,7 @@ well as their ability to manage their mental health (37% for youths vs.
 was more keenly felt by the young, especially teenagers.</p>
 </li>
 </ul>
-<p>Click <a href="/media-centre/press-releases/7-in-10-sg-residents-positive-overall-quality-of-life-post-pandemic/" rel="noopener noreferrer nofollow" target="_blank">here</a> to
-view the public release.</p>
+<p><a href="/media-centre/press-releases/7-in-10-sg-residents-positive-overall-quality-of-life-post-pandemic/" rel="noopener nofollow" target="_blank">Click here to view the public release</a>.</p>
 <p><strong>Understanding Singaporeans’ Digital Readiness</strong>
 </p>
 <p><strong>Most agreed that technology made their lives better, but fewer were keen to try out new technologies.</strong>
@@ -81,5 +80,5 @@ dropped from 80% in 2020, to about 54% of seniors in in 2022.</p>
 are encouraging signs of progress made in this area.</p>
 </li>
 </ul>
-<p>Click <a href="/media-centre/speeches/speech-min-jo-teo-forwardsg-engagement-digitalincl" rel="noopener noreferrer nofollow" target="_blank">here</a> to
-view the public release</p>
+<p><a href="/media-centre/speeches/speech-min-jo-teo-forwardsg-engagement-digitalincl" rel="noopener nofollow" target="_blank">Click here to view the public release</a>
+</p>
