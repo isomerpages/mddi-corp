@@ -30,7 +30,7 @@ contact Land Transport Authority (LTA) via the <a href="https://www.lta.gov.sg/c
 (+65) 6225 5582.</p>
 <p><strong>2. How do I know if I require a permit for my publication? How do I apply for the permit or check my application status?</strong>
 </p>
-<p>Visit IMDA's <a href="https://www.imda.gov.sg/regulations-and-licensing-listing/newspaper-permit" rel="noopener nofollow" target="_blank">website</a>&nbsp;for
+<p><a href="https://www.imda.gov.sg/regulations-and-licensing-listing/newspaper-permit" rel="noopener nofollow" target="_blank">Visit IMDA's website</a>&nbsp;for
 guidelines on the application of permit for your publications. For further
 assistance, please call the Infocomm Media Development Authority at 1800
 478 5478.</p>
