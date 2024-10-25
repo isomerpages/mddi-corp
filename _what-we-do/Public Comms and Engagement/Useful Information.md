@@ -48,7 +48,7 @@ office has to be set up. For this, please contact:</p>
 the various types of work pass, eligibility criteria, and application process.</p>
 <p>Foreign media personnel on short-term assignments (up to 60 days) which
 are not supported or sponsored by any Singapore government agency are required
-to apply for a Miscellaneous Work Pass (MWP) via MOM’s&nbsp;<a href="http://www.mom.gov.sg/passes-and-permits/miscellaneous-work-pass/apply-for-a-pass" rel="noopener noreferrer nofollow" target="_blank">website</a>.</p>
+to apply for a Miscellaneous Work Pass (MWP) via <a href="http://www.mom.gov.sg/passes-and-permits/miscellaneous-work-pass/apply-for-a-pass" rel="noopener nofollow" target="_blank">MOM's website</a>.</p>
 <p>For enquiries on work pass matters, please contact MOM’s Work Pass Division
 at&nbsp;<a href="mailto:mom_wpd@mom.gov.sg" rel="noopener noreferrer nofollow" target="_blank">mom_wpd@mom.gov.sg</a>.</p>
 <p>Tel: (65) 6438 5122 (Mon to Fri: 8.30am to 5.30pm; Sat: 8.30am to 1.00pm)</p>
