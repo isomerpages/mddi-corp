@@ -41,5 +41,5 @@ to be aware of defence in the digital domain. As part of Total Defence,
 Digital Defence requires Singaporeans to: (a) practice good cybersecurity
 habits; (b) guard against fake news and disinformation; and (c) consider
 the impact of our actions on the community.</p>
-<p>Click <a href="https://www.mindef.gov.sg/news-and-events/latest-releases/15feb19_nr" rel="noopener noreferrer nofollow" target="_blank">here</a> for
-more information on Digital Defence, as the sixth pillar of Total Defence.</p>
+<p><a href="https://www.mindef.gov.sg/news-and-events/latest-releases/15feb19_nr" rel="noopener nofollow" target="_blank">Learn more</a> about
+Digital Defence, as the sixth pillar of Total Defence.</p>
