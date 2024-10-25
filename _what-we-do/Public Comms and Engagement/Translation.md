@@ -52,7 +52,7 @@ variant: markdown
 <li>CTs receive updates on NTC key announcements and events, and are engaged - digitally and in-person - through the SGTT forum, quizzes, workshops and seminars. </li>
 <img style="height:380px; width:380px;" alt="Translation-related Events" src="/images/TD/ct_project_4_translation_events.png">
 <li>CTs who participate in translation-related events and activities get rewarded under the CT Recognition Framework. </li>
-<li>Interested parties may sign up as a CT by registering on the SGTT portal <a href="https://www.sgtranslatetogether.gov.sg/">here</a>.</li>
+<li>Interested parties may <a href="https://www.sgtranslatetogether.gov.sg/">sign up as a CT by registering on the SGTT portal here</a>.</li>
 
 </ul></section>
 <br>
@@ -65,7 +65,7 @@ variant: markdown
 	
 <p><strong>Government Terms Translated</strong></p>
 
-<p>MDDI’s Translation Department maintains the Government Terms Translated repository, which agencies, translation companies and the public can refer to for translations of Government policy-related terms in the four official languages. Click <a href="https://www.translatedterms.gov.sg/">here</a> to visit the repository.</p>
+<p>MDDI’s Translation Department maintains the Government Terms Translated repository, which agencies, translation companies and the public can refer to for translations of Government policy-related terms in the four official languages. <a href="https://www.translatedterms.gov.sg/">Click here to visit the repository</a>.</p>
 
 <img style="height:680px; width:511px;" alt="Government Terms Translated Image" src="/images/TD/updated%20ifg%203_gtt%20ifg_mci%20website%20revamp%202023.png">
 &nbsp;
@@ -77,7 +77,7 @@ variant: markdown
 
 <p><strong>Information Service (Translation) Scholarship</strong></p>
 
-<p>In 2015, MDDI introduced the Information Service (Translation) Scholarship, aimed at identifying and grooming young Singaporeans who have a strong interest in translation as well as a deep familiarity with Singapore’s translation landscape and context. Click <a href="https://www.mddi.gov.sg/join-us/scholarship/overview/">here</a> for more information on the Information Service (Translation) Scholarship. </p>
+<p>In 2015, MDDI introduced the Information Service (Translation) Scholarship, aimed at identifying and grooming young Singaporeans who have a strong interest in translation as well as a deep familiarity with Singapore’s translation landscape and context. <a href="https://www.mddi.gov.sg/join-us/scholarship/overview/">Click here for more information on the Information Service (Translation) Scholarship </a>. </p>
 </section>
 <br>
 <section id="translation-talent-development-scheme">
