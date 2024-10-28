@@ -37,7 +37,7 @@ The whistleblowing channels include:
 
 To facilitate an effective follow-up and investigation of your concerns, the following information should be provided, where possible:
 
-a. Name(s) of person(s) or organization(s) involved.  
+a. Name(s) of person(s) or organisation(s) involved.  
 b. Description of the incident, including date, time, and location of incident.  
 c. Frequency of occurrence.  
 d. Value of money or assets involved.  
