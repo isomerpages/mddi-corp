@@ -16,7 +16,7 @@ The channels are independently managed by MDDI Audit Unit.
 
 **Reportable Incidents**  
 
-Possible reportable incidents or concerns relating to grants administered by MDDI can include but not limited to the following:
+Reportable incidents or concerns relating to grants administered by MDDI can include but not limited to the following:
 
 * Fraud or deliberate error in preparation, evaluation or review of financial statements and records, of falsification or fraudulent alteration of documents and submission of fictitious documents.  
 * Violation of any law, rule, regulation or policy of the Ministry  
@@ -37,11 +37,11 @@ The whistleblowing channels include:
 
 To facilitate an effective follow-up and investigation of your concerns, the following information should be provided, where possible:
 
-a. Name(s) of person(s) or organization(s) involved.  
+a. Name(s) of person(s) or organisation(s) involved.  
 b. Description of the incident, including date, time, and location of incident.  
 c. Frequency of occurrence.  
 d. Value of money or assets involved.  
 e. Details of any evidence you have or know of.  
 f. Any other information that may substantiate the concern.
 
-By writing in to this Whistleblowing Channel, you consent to the Ministry sharing your information with agencies outside the Ministry where necessary to follow up on your concerns, unless you request confidentiality of your identity, which we will take efforts to protect.
+By writing in to this Whistleblowing Channel, you consent to the Ministry sharing your name and contact information, and details of your report/case, with agencies outside the Ministry where necessary to follow up on your concerns.
