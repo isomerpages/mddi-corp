@@ -94,6 +94,6 @@ developments and potential areas for bilateral cooperation.
 <br>
 </p>
 <hr>
-<p>1 The five MOUs include three MOUs signed on 29 November 2021 on Digital
-Trade Facilitation, Digital Identities, and Cyber Security; and two MOUs
-signed on 27 June 2023 on Data Cooperation and Emerging Technologies.</p>
+<p><sup>1</sup>The five MOUs include three MOUs signed on 29 November 2021
+on Digital Trade Facilitation, Digital Identities, and Cyber Security;
+and two MOUs signed on 27 June 2023 on Data Cooperation and Emerging Technologies.</p>
