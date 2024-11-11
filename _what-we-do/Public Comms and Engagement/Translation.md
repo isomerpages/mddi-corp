@@ -31,10 +31,10 @@ variant: markdown
 <table>
 <thead>
 <tr>
-<th><img style="max-height:100%; max-width:100%;" src="/images/TD/ntc10_engbook.png"></th>
-<th><img style="max-height:100%; max-width:100%;" src="/images/TD/ntc10_chibook.png"></th>
-<th><img style="max-height:100%; max-width:100%;" src="/images/TD/ntc10_malbook.png"></th>
-<th><img style="max-height:100%; max-width:100%;" src="/images/TD/ntc10_tambook.png"></th>
+<th><img alt="Download book in English" src="/images/TD/ntc10_engbook.png"></th>
+<th><img alt="Download book in Chinese" src="/images/TD/ntc10_chibook.png"></th>
+<th><img alt="Download book in Malay" src="/images/TD/ntc10_malbook.png"></th>
+<th><img alt="Download book in Tamil" src="/images/TD/ntc10_tambook.png"></th>
 </tr>
 </thead>
 <tbody>
