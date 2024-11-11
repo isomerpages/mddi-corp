@@ -26,15 +26,15 @@ variant: markdown
 <section id="ntc-10th-anniversary">
 	<h3>About the National Translation Committee 10th Anniversary Commemorative Book</h3>
 <p>Since its establishment in 2014, the National Translation Committee (NTC) has brought the public, private and people sectors together to raise the translation standards of our four official languages in multilingual Singapore.</p>	
-<p>The NTC 10 th Anniversary Commemorative Book <em>“Word by Word: Connecting Communities Through Translation”</em> recounts this decade-long journey of growing the translation community by leveraging new technologies, supporting professional development and nurturing the next generation of talents.</p>
+<p>The NTC 10th Anniversary Commemorative Book <em>“Word by Word: Connecting Communities Through Translation”</em> recounts this decade-long journey of growing the translation community by leveraging new technologies, supporting professional development and nurturing the next generation of talents.</p>
 <p>Meet our people, hear our stories:</p>
 <table>
 <thead>
 <tr>
-<th><img in="" style="width: 100%; height: auto; alt=" src="/images/TD/ntc10_engbook.png"></th>
-<th><img in="" style="width: 100%; height: auto; alt=" src="/images/TD/ntc10_chibook.png"></th>
-<th><img in="" style="width: 100%; height: auto; alt=" src="/images/TD/ntc10_malbook.png"></th>
-<th><img in="" style="width: 100%; height: auto; alt=" src="/images/TD/ntc10_tambook.png"></th>
+<th><img style="max-height:100%; max-width:100%;" src="/images/TD/ntc10_engbook.png"></th>
+<th><img style="max-height:100%; max-width:100%;" src="/images/TD/ntc10_chibook.png"></th>
+<th><img style="max-height:100%; max-width:100%;" src="/images/TD/ntc10_malbook.png"></th>
+<th><img style="max-height:100%; max-width:100%;" src="/images/TD/ntc10_tambook.png"></th>
 </tr>
 </thead>
 <tbody>
