@@ -58,4 +58,40 @@ and (b) what actions will be taken to prevent such disruptions from happening
 again.</p>
 <p><strong>Answer:</strong>
 </p>
-<p></p>
+<p>Mr Speaker, may I have your permission to answer PQs 11 through to 16
+on today’s Order Paper, as well as Written Question No 23 on today’s Order
+Paper, filed by MP Ms See Jinli, together as they relate to the same incident.</p>
+<p>&nbsp;</p>
+<p>2. &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Sir, on the 8<sup>th</sup> of
+October 2024, Singtel’s fixed line voice service faced intermittent service
+disruption. This affected some residential and corporate users, including
+Government emergency phone lines such as SCDF’s 995 and SPF’s 999 lines,
+and customer service lines for some government agencies, healthcare organisations,
+and companies. MHA and MOH will be responding to queries on the service
+impact on their respective sectors arising from the incident. During the
+disruption, it is estimated that half of the calls could still be connected.
+All services were progressively restored over a 4-hour time period from
+the start of the incident.</p>
+<p>&nbsp;</p>
+<p>3. &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; IMDA, the Infocomm Media
+Development Authority, takes a serious view of this incident and is investigating
+the cause of this disruption and whether Singtel’s incident response was
+adequate. Preliminary findings suggest that there was a technical issue
+which affected the proper functioning of a network component in one of
+the two systems supporting Singtel’s fixed line voice service. The two
+systems, located in separate telephone exchanges, are designed to immediately
+take over the full load of the other system when one system malfunctions.
+However, in this instance, the failover did not happen seamlessly, which
+caused the intermittent service disruption. There is no evidence to suggest
+that the incident was related to a sabotage or cyber-attack. IMDA is continuing
+its investigations.</p>
+<p>&nbsp;</p>
+<p>4. &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; The telecommunication network
+in Singapore is a key infrastructure that supports our nation’s connectivity
+needs and requirements. IMDA holds key service providers, like Singtel,
+to high service standards and requires them to conduct regular audits on
+their network and infrastructure. This includes ensuring the security of
+network design, redundancy measures, and business continuity plans. Service
+providers must also ensure that their networks are resilient against disruptions.
+IMDA will not hesitate to take strong action under the Telecommunication
+Act, including imposing financial penalties, should any lapses be</p>
