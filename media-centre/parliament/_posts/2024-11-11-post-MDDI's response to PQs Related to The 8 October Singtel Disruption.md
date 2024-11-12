@@ -8,7 +8,7 @@ image: ""
 variant: tiptap
 ---
 <h3>Parliament Sitting on 11 November 2024</h3>
-<h3>QUESTION FOR ORAL AND WRITTEN ANSWERS</h3>
+<h3>QUESTIONS FOR ORAL AND WRITTEN ANSWERS</h3>
 <p><strong>*11. Dr Tan Wu Meng </strong>asked the Minister for Digital Development
 and Information (a) what are the root causes of the 8 October 2024 disruption
 on Singtel’s telecommunications network; (b) whether existing business
