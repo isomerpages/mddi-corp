@@ -9,106 +9,101 @@ variant: tiptap
 ---
 <h3>Parliament Sitting on 11 November 2024</h3>
 <h3>QUESTION FOR ORAL ANSWER</h3>
-<p><strong>*5. Mr Ang Wei Neng</strong> asked the Minister for Digital Development
-and Information (a) how many websites or phone applications of Government
-and statutory boards were affected by the recent outage on 19 July 2024
-that was caused by a software update; (b) how long did the affected websites
-or phone applications took to restore it back to normalcy; and (c) what
-are the lessons learnt from the said outage.</p>
-<p><strong>*6. Mr Don Wee</strong> asked the Minister for Digital Development
-and Information (a) how many Government agencies were affected by the software
-update from cyber-security firm CrowdStrike which caused a major technological
-outage globally on 19 July 2024; and (b) whether the Singapore Government
-subscribes to CrowdStrike’s services.</p>
-<p><strong>*7. Mr Alex Yam Ziming</strong> asked the Minister for Digital
-Development and Information (a) what is the Ministry’s assessment of the
-impact to Singapore due to the tech outage caused by the cyber-security
-firm CrowdStrike’s software update on 19 July 2024; (b) whether any Government
-agencies or critical public services have been affected by the outage;
-and (c) what is the Ministry’s contingency plans for such global tech outages
-that may impact Singapore’s socio-economic security.</p>
-<p><strong>*8. Mr Gerald Giam Yean Song</strong> asked the Minister for Digital
-Development and Information with regard to the recent IT outage caused
-by CrowdStrike (a) whether the Cybersecurity Agency of Singapore (CSA)
-has updated its threat and risk assessment protocols to cover supply chain
-risks of this nature; (b) if so, whether these updated protocols will be
-implemented across all critical information infrastructure (CII); and (c)
-what new strategies are being considered to enhance the resilience of CIIs
-against systemic propagated shocks that are not directly linked to cybersecurity
-threats.</p>
-<p><strong>*9. Ms Hany Soh</strong> asked the Minister for Digital Development
-and Information with regard to the global IT outage that occurred on 19
-July 2024 (a) whether the Ministry has conducted an overall local impact
-assessment; and (b) if so, what are the Ministry’s findings and whether
-any measures have been implemented to prevent such a recurrence.</p>
-<p><strong>*10. Mr Yip Hon Weng</strong> asked the Minister for Digital Development
-and Information (a) whether the Government will conduct an After-Action
-Review (AAR) to assess Singapore's preparedness and response, and identify
-areas for improvement, in light of the recent global technology outage;
-(b) what key considerations will guide such AAR; and (c) whether the Government
-will (i) develop a local technology ecosystem or (ii) stipulate guidelines
-that will implement redundancy systems to insulate our essential services
-from global disruptions as part of digital resilience.</p>
-<p><strong>27. Dr Syed Harun Alhabsyi</strong> asked the Minister for Digital
-Development and Information with regard to the recent IT outage caused
-by CrowdStrike (a) what has been the extent of its impact and cost to local
-businesses and institutions; (b) what lessons have been learnt from this
-outage thus far; and (c) what steps are being taken to ensure that the
-IT systems used by these businesses and institutions remain resilient against
-similar outages.</p>
-<p><strong>28. Mr Saktiandi Supaat</strong> asked the Minister for Digital
-Development and Information (a) which areas of the public service sector
-were most severely affectedn by the CrowdStrike outage on 19 July 2024;
-(b) what are takeaways on the strengths and weaknesses of Singapore's public
-service systems to ensure a reliable, efficient, and accessible public
-service for Singaporeans; and (c) what steps have been taken to ensure
-that possible vulnerabilities from any of our current and future cyber
-security solutions are mitigated.</p>
-<p>From 6 Aug sitting</p>
-<p><strong>*60. Ms Jessica Tan Soon Neo</strong> asked the Minister for Digital
-Development and Information (a) whether there will be actions taken to
-strengthen the response and recovery of essential services dependent on
-digital platforms to minimise the impact of outages or disruptions of services
-in view of the outage caused by the cyber-security firm CrowdStrike’s software
-update on 19 July 2024; and (b) whether there will be further requirements
-for organisations and businesses that provide essential services to have
-robust business continuity plans and to test them regularly.</p>
-<p><strong>*64. Ms Ng Ling Ling</strong> asked the Minister for Digital Development
-and Information (a) what are the key learning points for Singapore’s cybersecurity
-strategy from the CrowdStrike outage on 19 July 2024; and (b) how are key
-public service systems protected from risks of outage from such single
-point of failure.</p>
-<p><strong>*65. Mr Melvin Yong Yik Chye</strong> asked the Minister for Digital
-Development and Information (a) what are the learning points from the global
-outage of IT systems related to Microsoft Azure and CrowdStrike on 19 July
-2024; (b) how does the Ministry support companies in Singapore whose services
-to the public are affected by the outage; and (c) whether guidelines or
-legislation will be considered to safeguard against hidden technological
-dependencies on a small handful of technology companies.</p>
-<p><strong>*66. Miss Cheryl Chan Wei Ling</strong> asked the Minister for
-Digital Development and Information (a) what is Singapore’s approach to
-ensure economic continuity to address the risk arising from integration
-of third-party software into our critical digital infrastructure; (b) how
-much coordination with the relevant Government agencies is required of
-third-party software suppliers when they make independent changes to their
-software which may affect the overall system; and (c) whether the Ministry
-will require key digital suppliers to conduct regular drills simulating
-different incident scenarios and test the joint response plans towards
-these incidents.</p>
-<p><strong>*68. Mr Desmond Choo</strong> asked the Minister for Digital Development
-and Information in light of the global disruption of systems related to
-CrowdStrike on 19 July 2024 (a) how does the Ministry ensure that critical
-infrastructure in Singapore is not overly dependent on a small group of
-providers; and (b) how has the Ministry strengthened resilience in the
-technology infrastructure in Singapore.</p>
-<p><strong>*69. Dr Wan Rizal</strong> asked the Minister for Digital Development
-and Information (a) what measures are in place to protect Singapore’s critical
-business and aviation infrastructure from cyber outages, such as the recent
-incidents affecting the banks and Changi Airport; (b) what contingency
-plans and support systems are available during such outages, and how are
-these made known to the affected stakeholders; and (c) how can the Ministry
-work with international partners and cybersecurity firms to mitigate the
-risks of such outages.</p>
+<p><strong>*6750. Dr Tan Wu Meng </strong>asked the Minister for Digital
+Development and Information (a) what are the root causes of the 8 October
+2024 disruption on Singtel’s telecommunications network; (b) whether existing
+business continuity and redundancy requirements for key telcos are adequate
+for instances where the telco supports hotlines and landline networks for
+essential services including SCDF, SPF, public healthcare institutions
+and major banks; and (c) what will be done to ensure key telcos provide
+adequate redundancy and backups amidst increasing cyber threats.</p>
+<p><strong>*6753. Mr Yip Hon Weng </strong>asked the Minister for Digital
+Development and Information (a) what are the lessons learned from the disruption
+of Singtel’s telecommunications network on 8 October 2024 to ensure that
+robust redundancies and backup systems are in place to minimise the impact
+on critical essential services from such disruptions; (b) what caused the
+fault and whether penalties will be imposed on Singtel; and (c) whether
+there will be an independent inquiry to identify vulnerabilities and prevent
+future incidents.&nbsp;</p>
+<p>&nbsp;</p>
+<p><strong><u>NOTICE PAPER NO. 3172</u></strong>
+</p>
+<p><strong><u>NOTICE FOR A SITTING ON OR AFTER 22 OCTOBER 2024</u></strong>
+</p>
+<p><strong><u>QUESTION FOR ORAL ANSWER</u></strong>
+</p>
+<p><strong><u>&nbsp;</u></strong>
+</p>
+<p><strong>*6754. Ms Tin Pei Ling:</strong> To ask the Minister for Digital
+Development and Information (a) what were the causes of the 8 October 2024
+disruption on Singtel’s telecommunications network; (b) whether Singtel
+is required to have operational continuity plans in place to address disruptions
+and, if so, why did it not work; and (c) how will the Ministry ensure that
+all telecommunications service providers achieve operational continuity
+and resilience so that essential services are unaffected at all times.</p>
+<p>&nbsp;</p>
+<p><strong><u>NOTICE PAPER NO. 3195</u></strong>
+</p>
+<p><strong><u>NOTICE FOR THE NEXT AVAILABLE SITTING</u></strong>
+</p>
+<p><strong><u>QUESTION FOR WRITTEN ANSWER</u></strong>
+</p>
+<p><strong><u>&nbsp;</u></strong>
+</p>
+<p><strong>*6229. Ms See Jinli Jean:</strong> To ask the Minister for Digital
+Development and Information in light of Singtel's outage on 8 October 2024
+which affected calls to the police and SCDF (a) whether the Government
+has data on the number of users who were not able to access (i) emergency
+hotlines and (ii) essential services; (b) how did the Ministry and Singtel
+assist the impacted Ministries and providers to attend to affected users;
+(c) how quickly was this assistance rendered; and (d) what measures are
+being introduced to address such vulnerabilities and their impact on seniors
+and less digitally connected persons.</p>
+<p><strong><u>&nbsp;</u></strong>
+</p>
+<p><strong><u>NOTICE PAPER NO. 3205</u></strong>
+</p>
+<p><strong><u>NOTICE FOR THE SITTING ON 11 NOV 2024</u></strong>
+</p>
+<p><strong><u>QUESTION FOR ORAL ANSWER</u></strong>
+</p>
+<p><strong><u>&nbsp;</u></strong>
+</p>
+<p><strong>*6806. Mr Liang Eng Hwa: </strong>To ask the Minister for Digital
+Development and Information with regard to the disruptions to essential
+services caused by SingTel’s outage on 8 October 2024 (a) how has businesses
+and the public been impacted; and (b) whether the contingency plans have
+been effective in mitigating the impact.</p>
+<p><strong><u>&nbsp;</u></strong>
+</p>
+<p><strong><u>NOTICE PAPER NO. 3218</u></strong>
+</p>
+<p><strong><u>NOTICE FOR THE SITTING ON 11 NOV 2024</u></strong>
+</p>
+<p><strong><u>QUESTION FOR ORAL ANSWER</u></strong>
+</p>
+<p><strong><u>&nbsp;</u></strong>
+</p>
+<p><strong>*6847. Ms Hazel Poa: </strong>To ask the Minister for Digital
+Development and Information (a) what is the estimated number of calls to
+995 and 999 that have been impacted by the Singtel landline outage on 8
+October 2024; and (b) what penalties, if any, have been imposed by IMDA
+on Singtel for this outage.</p>
+<p><strong><u>&nbsp;</u></strong>
+</p>
+<p><strong><u>NOTICE PAPER NO. 3219</u></strong>
+</p>
+<p><strong><u>NOTICE FOR THE SITTING ON 11 NOV 2024</u></strong>
+</p>
+<p><strong><u>QUESTION FOR ORAL ANSWER</u></strong>
+</p>
+<p><strong><u>&nbsp;</u></strong>
+</p>
+<p><strong>*6858. Ms Hazel Poa</strong>: To ask the Minister for Digital
+Development and Information (a) what is the outcome of the investigation
+into the disruption of calls to emergency services hotlines that occurred
+on 8 October 2024; and (b) what actions will be taken to prevent such disruptions
+from happening again.</p>
 <p><strong>Answer:</strong>
 </p>
 <p>On 19 July 2024, a faulty software update by a cybersecurity service provider
