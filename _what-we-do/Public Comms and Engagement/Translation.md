@@ -28,7 +28,26 @@ variant: markdown
 <p>Since its establishment in 2014, the National Translation Committee (NTC) has brought the public, private and people sectors together to raise the translation standards of our four official languages in multilingual Singapore.</p>	
 <p>The NTC 10th Anniversary Commemorative Book <em>“Word by Word: Connecting Communities Through Translation”</em> recounts this decade-long journey of growing the translation community by leveraging new technologies, supporting professional development and nurturing the next generation of talents.</p>
 <p>Meet our people, hear our stories:</p>
-	
+	<table>
+  <thead>
+    <tr>
+      <th><img alt="Download book in English" style="width: 180px; height: 180px; object-fit: cover;" src="/images/TD/ntc10_engbook.png"></th>
+      <th><img alt="Download book in Chinese" style="width: 180px; height: 180px; object-fit: cover;" src="/images/TD/ntc10_chibook.png"></th>
+      <th><img alt="Download book in Malay" style="width: 180px; height: 180px; object-fit: cover;" src="/images/TD/ntc10_malbook.png"></th>
+      <th><img alt="Download book in Tamil" style="width: 180px; height: 180px; object-fit: cover;" src="/images/TD/ntc10_tambook.png"></th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href="https://go.gov.sg/ntc10-engbook">English</a></td>
+      <td><a href="https://go.gov.sg/ntc10-chibook">Chinese</a></td>
+      <td><a href="https://go.gov.sg/ntc10-malbook">Malay</a></td>
+      <td><a href="https://go.gov.sg/ntc10-tambook">Tamil</a></td>
+    </tr>
+  </tbody>
+</table>
+<br>
+
 </section>
 <br>
 <section id="sgtt-web-portal">
