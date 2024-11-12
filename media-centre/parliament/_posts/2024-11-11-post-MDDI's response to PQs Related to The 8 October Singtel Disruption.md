@@ -25,32 +25,14 @@ on critical essential services from such disruptions; (b) what caused the
 fault and whether penalties will be imposed on Singtel; and (c) whether
 there will be an independent inquiry to identify vulnerabilities and prevent
 future incidents.&nbsp;</p>
-<p>&nbsp;</p>
-<p><strong><u>NOTICE PAPER NO. 3172</u></strong>
-</p>
-<p><strong><u>NOTICE FOR A SITTING ON OR AFTER 22 OCTOBER 2024</u></strong>
-</p>
-<p><strong><u>QUESTION FOR ORAL ANSWER</u></strong>
-</p>
-<p><strong><u>&nbsp;</u></strong>
-</p>
-<p><strong>*6754. Ms Tin Pei Ling:</strong> To ask the Minister for Digital
+<p><strong>*6754. Ms Tin Pei Ling </strong>asked the Minister for Digital
 Development and Information (a) what were the causes of the 8 October 2024
 disruption on Singtel’s telecommunications network; (b) whether Singtel
 is required to have operational continuity plans in place to address disruptions
 and, if so, why did it not work; and (c) how will the Ministry ensure that
 all telecommunications service providers achieve operational continuity
 and resilience so that essential services are unaffected at all times.</p>
-<p>&nbsp;</p>
-<p><strong><u>NOTICE PAPER NO. 3195</u></strong>
-</p>
-<p><strong><u>NOTICE FOR THE NEXT AVAILABLE SITTING</u></strong>
-</p>
-<p><strong><u>QUESTION FOR WRITTEN ANSWER</u></strong>
-</p>
-<p><strong><u>&nbsp;</u></strong>
-</p>
-<p><strong>*6229. Ms See Jinli Jean:</strong> To ask the Minister for Digital
+<p><strong>*6229. Ms See Jinli Jean </strong>asked the Minister for Digital
 Development and Information in light of Singtel's outage on 8 October 2024
 which affected calls to the police and SCDF (a) whether the Government
 has data on the number of users who were not able to access (i) emergency
@@ -59,51 +41,21 @@ assist the impacted Ministries and providers to attend to affected users;
 (c) how quickly was this assistance rendered; and (d) what measures are
 being introduced to address such vulnerabilities and their impact on seniors
 and less digitally connected persons.</p>
-<p><strong><u>&nbsp;</u></strong>
-</p>
-<p><strong><u>NOTICE PAPER NO. 3205</u></strong>
-</p>
-<p><strong><u>NOTICE FOR THE SITTING ON 11 NOV 2024</u></strong>
-</p>
-<p><strong><u>QUESTION FOR ORAL ANSWER</u></strong>
-</p>
-<p><strong><u>&nbsp;</u></strong>
-</p>
-<p><strong>*6806. Mr Liang Eng Hwa: </strong>To ask the Minister for Digital
+<p><strong>*6806. Mr Liang Eng Hwa </strong>asked the Minister for Digital
 Development and Information with regard to the disruptions to essential
 services caused by SingTel’s outage on 8 October 2024 (a) how has businesses
 and the public been impacted; and (b) whether the contingency plans have
 been effective in mitigating the impact.</p>
-<p><strong><u>&nbsp;</u></strong>
-</p>
-<p><strong><u>NOTICE PAPER NO. 3218</u></strong>
-</p>
-<p><strong><u>NOTICE FOR THE SITTING ON 11 NOV 2024</u></strong>
-</p>
-<p><strong><u>QUESTION FOR ORAL ANSWER</u></strong>
-</p>
-<p><strong><u>&nbsp;</u></strong>
-</p>
-<p><strong>*6847. Ms Hazel Poa: </strong>To ask the Minister for Digital
-Development and Information (a) what is the estimated number of calls to
-995 and 999 that have been impacted by the Singtel landline outage on 8
-October 2024; and (b) what penalties, if any, have been imposed by IMDA
-on Singtel for this outage.</p>
-<p><strong><u>&nbsp;</u></strong>
-</p>
-<p><strong><u>NOTICE PAPER NO. 3219</u></strong>
-</p>
-<p><strong><u>NOTICE FOR THE SITTING ON 11 NOV 2024</u></strong>
-</p>
-<p><strong><u>QUESTION FOR ORAL ANSWER</u></strong>
-</p>
-<p><strong><u>&nbsp;</u></strong>
-</p>
-<p><strong>*6858. Ms Hazel Poa</strong>: To ask the Minister for Digital
-Development and Information (a) what is the outcome of the investigation
-into the disruption of calls to emergency services hotlines that occurred
-on 8 October 2024; and (b) what actions will be taken to prevent such disruptions
-from happening again.</p>
+<p><strong>*6847. Ms Hazel Poa </strong>asked the Minister for Digital Development
+and Information (a) what is the estimated number of calls to 995 and 999
+that have been impacted by the Singtel landline outage on 8 October 2024;
+and (b) what penalties, if any, have been imposed by IMDA on Singtel for
+this outage.</p>
+<p><strong>*6858. Ms Hazel Poa</strong> asked the Minister for Digital Development
+and Information (a) what is the outcome of the investigation into the disruption
+of calls to emergency services hotlines that occurred on 8 October 2024;
+and (b) what actions will be taken to prevent such disruptions from happening
+again.</p>
 <p><strong>Answer:</strong>
 </p>
 <p>On 19 July 2024, a faulty software update by a cybersecurity service provider
