@@ -9,7 +9,7 @@ variant: tiptap
 ---
 <h3>Parliament Sitting on 12 November 2024</h3>
 <h3>QUESTION FOR WRITTEN ANSWER</h3>
-<p><strong>*23. Mr Leong Mun Wai</strong> asked the Minister for Digital Development
+<p><strong>23. Mr Leong Mun Wai</strong> asked the Minister for Digital Development
 and Information whether the National Library Board has plans for a public
 library in Tengah New Town and, if so, where is the planned location and
 when will it be completed.</p>
