@@ -96,4 +96,7 @@ Union’s Partner2Connect Digital Coalition and have pledged $10 million
 Singapore dollars to help the international community harness the potential
 of digital technologies in line with the United Nations’ Sustainable Development
 Goals. We partner countries like Japan and the US to deliver relevant training
-programmes for colleagues in Southeast Asia.</p>
+programmes for colleagues in Southeast Asia.
+<br>
+<br>
+</p>
