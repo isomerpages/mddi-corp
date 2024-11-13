@@ -48,5 +48,4 @@ to all Singaporeans.</p>
 <hr>
 <p><sup>1 </sup>With one million visits per year
 <br>
-<br>
 </p>
