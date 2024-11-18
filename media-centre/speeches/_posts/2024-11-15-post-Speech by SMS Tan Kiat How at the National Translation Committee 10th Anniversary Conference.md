@@ -136,7 +136,6 @@ three language communities - provide ground-up support for the government’s
 efforts to preserve and promote Singapore’s linguistic diversity.</p>
 <p>23. I am also heartened to see our CTs bringing their friends and families
 along to our events. It is always a wonderful experience speaking to them.
-I recall seeing a three-generation family coming along for a CT event.
 We have CTs such as:</p>
 <p>a. M. Govindaraju, or better known as Captain Mago, is one of our most
 senior CTs who actively alerts the NTC on errant Tamil translations in
