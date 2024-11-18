@@ -131,10 +131,7 @@ in government communication materials and in public spaces.</p>
 <p>21. I am proud to share that we now have over 2,500 Citizen Translators
 and many of them joined us this morning at the conference. One interesting
 fact that I shared this morning was that the oldest citizen translator
-is 88-years-old and youngest, 15-years-old. When Citizen Translators come
-for events, some of them come as a family of three generations. There were
-grandparents, parents and children participating our events and having
-an active interest in translation and language standards. It is inspiring.</p>
+is 88-years-old and youngest, 15-years-old.</p>
 <p>22. One of them, Mr Sundar, has made it his mission to check Tamil translations
 on public signs and posters. During the COVID-19 pandemic, he spotted typos
 and translation errors in the Tamil language posters of a clinic in his
