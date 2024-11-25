@@ -97,28 +97,20 @@ rather than just push for digitalisation. Technology is a force for good.
 The audience here knows this.</p>
 <p><strong>Smart Nation 2.0 – Creating a thriving digital future for all</strong>
 </p>
-<ol start="8" data-tight="true" class="tight">
-<li>
-<p>Over the course of this conference, you would have heard some of the panelists
-speak about using technology to improve citizens’ quality of life. Some
-are using AI to strengthen our healthcare system. Others have built products,
-such as schemes.sg, to help vulnerable Singaporeans find public assistance
-more easily. There are many more examples.</p>
-</li>
-</ol>
+<p>8. Over the course of this conference, you would have heard some of the
+panelists speak about using technology to improve citizens’ quality of
+life. Some are using AI to strengthen our healthcare system. Others have
+built products, such as schemes.sg, to help vulnerable Singaporeans find
+public assistance more easily. There are many more examples.</p>
 <p>9. Technology for good is not just a tagline. It is about taking action
 for people, and for causes in the community that you care about. It is
 about serving society and supporting our fellow Singaporeans. It is putting
 in the work and collaborating with others to bring ideas to reality. This
 is at the heart of our Smart Nation 2.0 vision.</p>
-<ol start="10" data-tight="true" class="tight">
-<li>
-<p>This idea of collaboration, bringing together people – this is at the
-heart of the work we do, whether in government, in any business, or in
-your volunteer community. It is at the heart of our Smart Nation 2.0 vision;
-bringing people together to deliver on this idea of technology.</p>
-</li>
-</ol>
+<p>10. This idea of collaboration, bringing together people – this is at
+the heart of the work we do, whether in government, in any business, or
+in your volunteer community. It is at the heart of our Smart Nation 2.0
+vision; bringing people together to deliver on this idea of technology.</p>
 <p>11. You would have heard about the refreshed Smart Nation 2.0 vision,
 which was launched by Prime Minister Lawrence Wong on 1 Oct.</p>
 <p>a. This year marks the tenth anniversary of Smart Nation. In the past
@@ -129,12 +121,8 @@ The next few decades must focus on helping people thrive with technology.</p>
 We should ask, what is the kind of society and nation that we want to be,
 and what is the qualitative shift that we need to think about? How do we
 shape digital developments in the kind of society that we want to be.</p>
-<ol start="12" data-tight="true" class="tight">
-<li>
-<p>Our vision has three goals. These will guide our efforts in the next bound
-of our Smart Nation journey:</p>
-</li>
-</ol>
+<p>12. Our vision has three goals. These will guide our efforts in the next
+bound of our Smart Nation journey:</p>
 <p>a. The first is Trust, because Singaporeans must be able to go online
 and use technology with confidence.</p>
 <p>b. The second is Growth. Growth can mean different things to different
@@ -247,13 +235,9 @@ such as sustainability-related issues. Among many examples is a platform
 to better coordinate coastal cleanups.</p>
 <p><strong>Conclusion</strong>
 </p>
-<ol start="23" data-tight="true" class="tight">
-<li>
-<p>Thank you very much for your commitment to this journey. I am excited
+<p>23. Thank you very much for your commitment to this journey. I am excited
 to see many creative solutions and innovative ideas that will emerge. Some
 may scale up, and even become household names. All of this will (help us)
 build a future where technology serves as a force for good, to drive positive
 change and enrich the lives of fellow Singaporeans. Thank you.</p>
-</li>
-</ol>
 <p></p>
