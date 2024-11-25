@@ -7,8 +7,8 @@ description: ""
 image: ""
 variant: tiptap
 ---
-<p>Keynote Speech by SMS Janil Puthucheary BEACON 2024 Conference 23 November
-2024</p>
+<p><strong>Keynote Speech by SMS Janil Puthucheary BEACON 2024 Conference 23 November 2024</strong>
+</p>
 <p>Good afternoon,</p>
 <p>1. Glad to see everyone gathered here today for the second iteration of
 the BEACON conference.</p>
