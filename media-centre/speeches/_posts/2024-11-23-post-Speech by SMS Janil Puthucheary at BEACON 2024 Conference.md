@@ -12,9 +12,10 @@ variant: tiptap
 <p>Good afternoon,</p>
 <p>1. Glad to see everyone gathered here today for the second iteration of
 the BEACON conference.</p>
-<p>2. I’ve had the pleasure of interacting with <a href="http://better.sg" rel="noopener noreferrer nofollow" target="_blank">better.sg</a> for some time, and the first product
-that I was familiar with was a tool called ToBeYou. I run a charity called
-<a href="http://OnePeople.sg" rel="noopener noreferrer nofollow" target="_blank">OnePeople.sg</a>, and ToBeYou was something that <a href="http://better.sg" rel="noopener noreferrer nofollow" target="_blank">better.sg</a> worked with <a href="http://OnePeople.sg" rel="noopener noreferrer nofollow" target="_blank">OnePeople.sg</a> on – to develop a gamified approach
+<p>2. I’ve had the pleasure of interacting with better.sg for some time,
+and the first product that I was familiar with was a tool called ToBeYou.
+I run a charity called OnePeople.sg <a href="http://OnePeople.sg" rel="noopener noreferrer nofollow" target="_blank">OnePeople.sg</a>, and ToBeYou was something
+that better.sg worked with <a href="http://OnePeople.sg" rel="noopener noreferrer nofollow" target="_blank">OnePeople.sg</a> on – to develop a gamified approach
 towards understanding how people from different backgrounds and life trajectories
 are feeling about certain issues. We used it as a teaching tool, and today,
 about three years later, we continue to use it.</p>
