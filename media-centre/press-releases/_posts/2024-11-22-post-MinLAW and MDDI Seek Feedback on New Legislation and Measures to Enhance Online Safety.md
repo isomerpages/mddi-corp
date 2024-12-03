@@ -40,8 +40,8 @@ for online harms.</p>
 <p><strong>Public Consultation</strong>
 </p>
 <p>6. MinLaw and MDDI are seeking feedback on these proposed reforms. The
-full public consultation paper may be viewed at</p>
-<p><a href="https://go.gov.sg/feedbackonlineharms" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/feedbackonlineharms</a>.</p>
+full public consultation paper may be viewed at <a href="https://go.gov.sg/feedbackonlineharms" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/feedbackonlineharms</a>.</p>
 <p>7. Members of the public are invited to submit their views by 22 December
-2024</p>
-<p>via <a href="https://go.gov.sg/onlineharmsconsult" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/onlineharmsconsult</a>.</p>
+2024 via <a href="https://go.gov.sg/onlineharmsconsult" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/onlineharmsconsult</a>.
+<br>
+</p>
