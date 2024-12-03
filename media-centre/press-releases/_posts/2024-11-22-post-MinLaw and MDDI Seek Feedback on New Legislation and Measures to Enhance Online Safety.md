@@ -8,7 +8,7 @@ description: ""
 image: ""
 variant: tiptap
 ---
-<p><strong>MINLAW AND MDDI SEEK FEEDBACK ON NEW LEGISLATION AND MEASURES TO ENHANCE ONLINE SAFETY AND BETTER PROTECT SINGAPOREANS FROM HARMFUL ONLINE CONTENT</strong>
+<p><strong>MinLaw and MDDI Seek Feedback on New Legislation and Measures to Enhance Online Safety and Better Protect Singaporeans from Harmful Online Content</strong>
 </p>
 <p>1. The Ministry of Law (MinLaw) and the Ministry of Digital Development
 and Information (MDDI) launched a public consultation today to seek feedback
