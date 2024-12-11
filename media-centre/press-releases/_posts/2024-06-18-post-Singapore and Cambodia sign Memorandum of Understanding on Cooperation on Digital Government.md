@@ -106,7 +106,7 @@ their workflows and automate processes.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.open.gov.sg/products/postman/" rel="noopener noreferrer nofollow" target="_blank">Postman</a>
+<p><a href="https://products.open.gov.sg/postman" rel="noopener noreferrer nofollow" target="_blank">Postman</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
