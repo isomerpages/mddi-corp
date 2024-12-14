@@ -1,0 +1,10 @@
+logo: /images/MDDI Logos/MDDI_LOGO_HORIZONTAL.png
+links:
+  - title: Who We Are
+    collection: who-we-are
+  - title: What We Do
+    collection: what-we-do
+  - title: Media Centre
+    resource_room: true
+  - title: Join Us
+    collection: join-us

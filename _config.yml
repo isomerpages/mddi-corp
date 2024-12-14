@@ -1,0 +1,67 @@
+title: Ministry of Digital Development and Information
+url: https://www.mddi.gov.sg
+favicon: /images/MDDI Logos/M.png
+colors:
+  primary-color: "#005dac"
+  secondary-color: "#007054"
+  media-colors:
+    - title: media-color-one
+      color: "#5f259f"
+    - title: media-color-two
+      color: "#c61310"
+    - title: media-color-three
+      color: "#007054"
+    - title: media-color-four
+      color: "#005dac"
+    - title: media-color-five
+      color: "#4a4a4a"
+description: The Ministry of Digital Development and Information (MDDI) drives
+  Singapore’s digital development in four key domains — the economy, government,
+  security, and society. MDDI oversees the development of the infocomm
+  technology, cybersecurity, and media sectors; the Government’s digitalisation
+  initiatives; and the national library, national archives, and public
+  libraries. The Ministry is also responsible for effective public
+  communications, and the Government’s information and public communication
+  policies.
+permalink: none
+baseurl: ""
+exclude:
+  - travis-script.js
+  - .travis.yml
+  - README.md
+  - package.json
+  - package-lock.json
+  - node_modules
+  - vendor/bundle/
+  - vendor/cache/
+  - vendor/gems/
+  - vendor/ruby/
+  - Gemfile
+  - Gemfile.lock
+include:
+  - _redirects
+defaults:
+  - scope:
+      path: ""
+    values:
+      layout: page
+custom_css_path: /misc/custom.css
+custom_print_css_path: /assets/css/print.css
+paginate: 12
+remote_theme: isomerpages/isomerpages-template@next-gen
+safe: false
+plugins:
+  - jekyll-feed
+  - jekyll-assets
+  - jekyll-paginate
+  - jekyll-sitemap
+  - jekyll-remote-theme
+staging: https://staging-lite.d1smzutswyav9j.amplifyapp.com
+prod: https://master.d3gycxy3tjxrco.amplifyapp.com
+shareicon: /images/MDDI Logos/MDDI_LOGO_RGB_resize.png
+is_government: true
+facebook-pixel: ""
+google_analytics: ""
+google_analytics_ga4: G-5PP6LQ80HY
+linkedin-insights: ""
+resources_name: media-centre

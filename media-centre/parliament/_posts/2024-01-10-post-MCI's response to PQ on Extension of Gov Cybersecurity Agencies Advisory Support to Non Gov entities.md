@@ -1,0 +1,11 @@
+---
+title: MCI's response to PQ on Extension of Gov Cybersecurity Agencies Advisory
+  Support to Non Gov entities
+permalink: /media-centre/parliamentary-questions/gov-cybersecurity-advisory-support/
+date: 2024-01-10
+layout: post
+description: ""
+image: ""
+variant: tiptap
+---
+<h3>Parliament Sitting on 10 January 2024</h3><h3>QUESTION FOR WRITTEN ANSWER</h3><p><strong>36. Dr Tan Wu Meng: </strong>To ask the Minister for Communications and Information (a) whether the Cyber Security Agency and other related agencies provide advice, support, and assistance to entities outside the .gov.sg internet domain such as (i) banks (ii) NETS (iii) public healthcare institutions' intranet and internet-facing facilities (iv) utilities providers and (v) telcos to attain adequate cyber resilience against cyberattacks including distributed denial-of-service attacks; and (b) if so, what is the nature of the support.</p><p></p><p><strong>Answer:</strong></p><ol data-tight="true" class="tight"><li><p>In today’s cyber threat environment, a strong cybersecurity posture is essential. Even with best efforts, not all attacks will be prevented. There must therefore be resilience built into our systems. They must be robust and have the ability to resume normal operations without prolonged disruption.</p><p></p></li><li><p>For Critical Information Infrastructure (CII), all entities, government and non-government, are regulated in the same way under the Cybersecurity Act. CSA provides cybersecurity support in the design of networks and systems, and issues advisories on the latest threats and the precautionary measures to be taken.</p><p></p></li><li><p>Sector regulators, such as for financial services, water and healthcare, may also have additional specific cybersecurity requirements for organisations operating within their sectors.</p><p></p></li><li><p>All companies and organisations, and not just those owning CIIs, should practise strong cybersecurity hygiene. They should make use of the resources available, to put in place the necessary cyber defences, and be prepared to respond to cyberattacks swiftly and effectively.</p></li></ol><p></p>
