@@ -28,16 +28,8 @@ lives.&nbsp;</p>
 <p>MDDI also recognises that a “digital-first", but not "digital-only” approach
 is important to ensure that no one is left behind and everyone can participate
 in the increasingly digital society, regardless of their digital ability.</p>
-<h4>Digital Readiness Blueprint</h4>
-<p>The <a href="/files/dr%20blueprint.pdf" rel="noopener noreferrer nofollow" target="_blank">Digital Readiness Blueprint</a>,
-published in 2018, sets out recommendations for building Digital Readiness
-in Singaporeans, guided by four strategic thrusts:</p>
-<p>1: Expand and Enhance Digital Access for Inclusivity</p>
-<p>2: Infuse Digital Literacy into National Consciousness</p>
-<p>3: Empower Community and Businesses to Drive Widespread Adoption of Technology</p>
-<p>4: Promote Digital Inclusion by Design</p>
 <h4>Singapore Digital Society Report</h4>
-<p>The inaugural Singapore Digital Society (SGDS) report was published on
+<p>The inaugural <a href="https://www.imda.gov.sg/-/media/imda/files/infocomm-media-landscape/research-and-statistics/singapore-digital-society-report/singapore-digital-society-report-2023.pdf" rel="noopener noreferrer nofollow" target="_blank"> Singapore Digital Society (SGDS) report</a> was published on
 4 November 2023, and assesses the state of Singapore’s digital society
 across three dimensions – digital access, digital skills for daily life,
 and attitudes towards adopting digital technologies. The report found that
