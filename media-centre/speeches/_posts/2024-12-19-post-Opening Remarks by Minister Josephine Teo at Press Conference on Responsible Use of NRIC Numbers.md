@@ -88,19 +88,19 @@ numbers in the new Bizfile.</p>
 <p></p>
 </li>
 <li>
-<p>Let me now ask Chief Executive of ACRA, Huey Min, to explain what happened,
-and Min Indranee will then set out the next steps from MOF’s perspective.</p>
+<p>Let me now ask Chief Executive of ACRA, Huey Min, to explain what happened<sup>1</sup>,
+and Min Indranee will then set out the next steps from MOF’s perspective<sup>2</sup>.</p>
 <p></p>
 </li>
 <li>
 <p>Thereafter I will provide a further explanation on our larger plans regarding
-NRIC practices.</p>
+NRIC practices<sup>3</sup>.</p>
 <p></p>
 </li>
 </ol>
-<p><a href="https://www.mddi.gov.sg/closing-remarks-by-minister-josephine-teo-at-press-conference-on-responsible-use-of-nric-numbers/" rel="noopener nofollow" target="_blank">Closing Remarks by Minister Josephine Teo at Press Conference on Responsible Use of NRIC Numbers</a>
+<p><a href="https://www.acra.gov.sg/news-events/news-details/id/842" rel="noopener nofollow" target="_blank"><sup>1 </sup>Remarks by Chief Executive of ACRA, Mrs Chia-Tern Huey Min</a>
 </p>
-<p><a href="https://www.mof.gov.sg/news-publications/speeches/opening-remarks-by-ms-indranee-rajah-minister-in-the-prime-minister's-office-second-minister-for-finance-and-national-development-at-mddi-acra-press-conference-on-responsible-use-of-nric-numbers-on-19-december-2024" rel="noopener nofollow" target="_blank">Remarks by Ms Indranee Rajah, Minister in the Prime Minister's Office, Second Minister for Finance and National Development</a>
+<p><a href="https://www.mof.gov.sg/news-publications/speeches/opening-remarks-by-ms-indranee-rajah-minister-in-the-prime-minister's-office-second-minister-for-finance-and-national-development-at-mddi-acra-press-conference-on-responsible-use-of-nric-numbers-on-19-december-2024" rel="noopener nofollow" target="_blank"><sup>2 </sup>Remarks by Ms Indranee Rajah, Minister in the Prime Minister's Office, Second Minister for Finance and National Development</a>
 </p>
-<p><a href="https://www.acra.gov.sg/news-events/news-details/id/842" rel="noopener nofollow" target="_blank">Remarks by Chief Executive of ACRA, Mrs Chia-Tern Huey Min</a>
+<p><a href="https://www.mddi.gov.sg/closing-remarks-by-minister-josephine-teo-at-press-conference-on-responsible-use-of-nric-numbers/" rel="noopener nofollow" target="_blank"><sup>3 </sup>Closing Remarks by Minister Josephine Teo at Press Conference on Responsible Use of NRIC Numbers</a>
 </p>

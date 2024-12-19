@@ -10,17 +10,17 @@ variant: tiptap
 ---
 <ol data-tight="true" class="tight">
 <li>
-<p>You have heard from CE ACRA and Min Indranee on the actions that they
-have set out to take with regard to Bizfile. My ministry shares the responsibility
-for how events unfolded, and we too apologise to the public for the anxiety
-caused.</p>
+<p>You have heard from CE ACRA<sup>1</sup> and Min Indranee<sup>2</sup> on
+the actions that they have set out to take with regard to Bizfile. My ministry
+shares the responsibility for how events unfolded, and we too apologise
+to the public for the anxiety caused.</p>
 <p></p>
 </li>
 <li>
-<p>As I explained in my opening remarks, we had planned to discontinue the
-use of masked NRIC numbers within the government, starting with new services,
-and progressively changing out other services as they are updated. For
-the private sector, we had intended to consult before making any change;
+<p>As I explained in my opening remarks<sup>3</sup>, we had planned to discontinue
+the use of masked NRIC numbers within the government, starting with new
+services, and progressively changing out other services as they are updated.
+For the private sector, we had intended to consult before making any change;
 we should have made that clear.</p>
 <p></p>
 </li>
@@ -144,4 +144,9 @@ the better.</p>
 identifier. Thank you very much.</p>
 </li>
 </ol>
-<p></p>
+<p><a href="https://www.acra.gov.sg/news-events/news-details/id/842" rel="noopener nofollow" target="_blank"><sup>1 </sup>Remarks by Chief Executive of ACRA, Mrs Chia-Tern Huey Min</a>
+</p>
+<p><a href="https://www.mof.gov.sg/news-publications/speeches/opening-remarks-by-ms-indranee-rajah-minister-in-the-prime-minister's-office-second-minister-for-finance-and-national-development-at-mddi-acra-press-conference-on-responsible-use-of-nric-numbers-on-19-december-2024" rel="noopener nofollow" target="_blank"><sup>2 </sup>Remarks by Ms Indranee Rajah, Minister in the Prime Minister's Office, Second Minister for Finance and National Development</a>
+</p>
+<p><a href="https://www.mddi.gov.sg/opening-remarks-by-minister-josephine-teo-at-press-conference-on-responsible-use-of-nric-numbers/" rel="noopener nofollow" target="_blank"><sup>3 </sup>Opening Remarks by Minister Josephine Teo at Press Conference on Responsible Use of NRIC Numbers</a>
+</p>
