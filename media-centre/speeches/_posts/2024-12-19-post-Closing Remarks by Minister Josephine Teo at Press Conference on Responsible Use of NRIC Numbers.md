@@ -10,17 +10,17 @@ variant: tiptap
 ---
 <ol data-tight="true" class="tight">
 <li>
-<p>You have heard from CE ACRA and Min Indranee on the actions that they
-have set out to take with regard to Bizfile. My ministry shares the responsibility
-for how events unfolded, and we too apologise to the public for the anxiety
-caused.</p>
+<p>You have heard from CE ACRA<sup>1</sup> and Min Indranee<sup>2</sup> on
+the actions that they have set out to take with regard to Bizfile. My ministry
+shares the responsibility for how events unfolded, and we too apologise
+to the public for the anxiety caused.</p>
 <p></p>
 </li>
 <li>
-<p>As I explained in my opening remarks, we had planned to discontinue the
-use of masked NRIC numbers within the government, starting with new services,
-and progressively changing out other services as they are updated. For
-the private sector, we had intended to consult before making any change;
+<p>As I explained in my opening remarks<sup>3</sup>, we had planned to discontinue
+the use of masked NRIC numbers within the government, starting with new
+services, and progressively changing out other services as they are updated.
+For the private sector, we had intended to consult before making any change;
 we should have made that clear.</p>
 <p></p>
 </li>
@@ -145,3 +145,5 @@ identifier. Thank you very much.</p>
 </li>
 </ol>
 <p></p>
+<p><a href="https://www.mddi.gov.sg/opening-remarks-by-minister-josephine-teo-at-press-conference-on-responsible-use-of-nric-numbers/" rel="noopener nofollow" target="_blank"><sup>3 </sup>Opening Remarks by Minister Josephine Teo at Press Conference on Responsible Use of NRIC Numbers</a>
+</p>
