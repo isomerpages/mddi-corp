@@ -54,8 +54,8 @@ If you require further assistance, please email to&nbsp;<a href="mailto:ISTANA_F
 <a href="https://form.gov.sg/66695a32cf3daf735178a6f1" rel="noopener noreferrer nofollow" target="_blank">Feedback</a>&nbsp;to let us know how we can help you.</p>
 <p><strong>4. How do I submit an appeal against Section 35(1), (2), (3), and (4) of the Cybersecurity Act?</strong>
 </p>
-<p>You may submit an appeal form together with the relevant supporting documents
-to <a href="mailto:contact@csro.gov.sg" rel="noopener noreferrer nofollow" target="_blank">contact@csro.gov.sg</a>.
-For further assistance, please contact the Cybersecurity Services Regulation
-Office at <a href="mailto:contact@csro.gov.sg" rel="noopener noreferrer nofollow" target="_blank">contact@csro.gov.sg</a> or
+<p>You may submit an <a href="/files/FORM_FOR_APPEAL_UNDER_SECTION_35_OF_THE_CYBERSECURITY_ACT.pdf" rel="noopener noreferrer nofollow" target="_blank">appeal form</a> together
+with the relevant supporting documents to <a href="mailto:contact@csro.gov.sg" rel="noopener noreferrer nofollow" target="_blank">contact@csro.gov.sg</a>. For further
+assistance, please contact the Cybersecurity Services Regulation Office
+at <a href="mailto:contact@csro.gov.sg" rel="noopener noreferrer nofollow" target="_blank">contact@csro.gov.sg</a> or
 visit <a href="https://www.csro.gov.sg/" rel="noopener noreferrer nofollow" target="_blank">CSRO’s website</a>.</p>
