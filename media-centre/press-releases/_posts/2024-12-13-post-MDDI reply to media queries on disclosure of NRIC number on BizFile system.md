@@ -57,5 +57,7 @@ and passwords.</p>
 </li>
 </ul>
 <p>
-<br>
+<br><a href="https://www.acra.gov.sg/news-events/news-details/id/840" rel="noopener nofollow" target="_blank">ACRA's Reply to Media Queries on Disclosure of NRIC Numbers on Bizfile System</a>
+</p>
+<p><a href="https://www.pdpc.gov.sg/news-and-events/press-room/2024/12/pdpcs-reply-to-media-queries-on-the-use-of-nric-numbers" rel="noopener nofollow" target="_blank">PDPC’s reply to media queries on the use of NRIC numbers</a>
 </p>
