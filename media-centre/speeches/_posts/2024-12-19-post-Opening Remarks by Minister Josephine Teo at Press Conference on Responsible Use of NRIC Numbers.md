@@ -95,6 +95,8 @@ and Min Indranee will then set out the next steps from MOF’s perspective.</p>
 <li>
 <p>Thereafter I will provide a further explanation on our larger plans regarding
 NRIC practices.</p>
+<p></p>
 </li>
 </ol>
-<p></p>
+<p><a href="https://www.mddi.gov.sg/closing-remarks-by-minister-josephine-teo-at-press-conference-on-responsible-use-of-nric-numbers/" rel="noopener nofollow" target="_blank">Closing Remarks by Minister Josephine Teo at Press Conference on Responsible Use of NRIC Numbers</a>
+</p>
