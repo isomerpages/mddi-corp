@@ -1,16 +1,17 @@
 ---
-title: Operators of Transformative Justice Collective Prohibited from Receiving
-  Financial Benefit
-permalink: /operators-of-transformative-justice-collective-prohibited-from-receiving-financial-benefit/
+title: Transformative Justice Collective's Online Platforms Made Declared Online
+  Locations Under POFMA
+permalink: /transformative-justice-collective-online-platforms-made-declared-online-locations-under-pofma/
 date: 2024-12-20
 layout: post
 description: ""
 image: ""
 variant: tiptap
 ---
+<p><strong>Operators of Transformative Justice Collective's Online Platforms Prohibited from Receiving Financial Benefit Due to History of Communicating Multiple Falsehoods</strong>
+</p>
 <p><em>Two-year restriction against Transformative Justice Collective from receiving financial or other material benefits from operating the website and social media pages</em>
 </p>
-<p></p>
 <ol data-tight="true" class="tight">
 <li>
 <p>The Minister for Digital Development and Information has declared Transformative
