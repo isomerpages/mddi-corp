@@ -259,7 +259,7 @@ opportunity to submit his clemency petition to the President.</p>
 <p>TOCA’s LinkedIn page</p>
 </li>
 <li>
-<p>TOCA’s Twitter account page</p>
+<p>TOCA’s X account page</p>
 </li>
 </ul>
 </td>
