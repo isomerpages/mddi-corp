@@ -8,9 +8,10 @@ description: ""
 image: ""
 variant: tiptap
 ---
+<p><strong>Operators of Transformative Justice Collective's Online Platforms Prohibited from Receiving Financial Benefit Due to History of Communicating Multiple Falsehoods</strong>
+</p>
 <p><em>Two-year restriction against Transformative Justice Collective from receiving financial or other material benefits from operating the website and social media pages</em>
 </p>
-<p></p>
 <ol data-tight="true" class="tight">
 <li>
 <p>The Minister for Digital Development and Information has declared Transformative
