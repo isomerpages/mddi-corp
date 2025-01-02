@@ -117,9 +117,10 @@ skills and perspectives, showing us how collaboration leads to meaningful,
 impactful solutions.</p>
 <p>19. To all the finalists, you are innovators and problem solvers. The
 ideas you bring forward today have the potential to address some of the
-most pressing challenges our society faces. Do<a href="http://faces.Do" rel="noopener noreferrer nofollow" target="_blank"> </a>not be afraid to take risks or embrace failure,
-as every challenge brings valuable lessons for developing impactful solutions.
-If you fail, don’t worry. You are just one step closer to success.</p>
+most pressing challenges our society faces. Do not be afraid to take risks
+or embrace failure, as every challenge brings valuable lessons for developing
+impactful solutions. If you fail, don’t worry. You are just one step closer
+to success.</p>
 <p>20. I wish each of you the very best in the competition.</p>
 <p>21. And of course, a big thank you to Huawei Singapore for your commitment
 to nurturing the next generation of innovators.</p>
