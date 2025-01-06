@@ -27,31 +27,28 @@ high brand equity, not just locally, but internationally.</p>
 can change very quickly. Companies must therefore, remain nimble and sensitive
 to consumer needs.</p>
 <p>5. Technology has made it much easier for companies to do so.</p>
-<p>a. With AI and data analytics, brands can now tailor their offerings and
-marketing messages to individual customer preferences. This personalisation
-is a way to connect more deeply with consumers, address their specific
-needs, and enhance their overall buying experience.</p>
-<p>b. Brands can also use technology to create more meaningful engagement
-with customers. For example, companies have used gamification, quizzes
-and polls to create interactive experiences that challenge, educate, or
-entertain.</p>
+<p>a. With AI and data analytics, brands can now <strong>tailor their offerings and marketing messages to individual customer preferences</strong>.
+This personalisation is a way to connect more deeply with consumers, address
+their specific needs, and enhance their overall buying experience.</p>
+<p>b. Brands can also use technology to <strong>create more meaningful engagement with customers</strong>.
+For example, companies have used gamification, quizzes and polls to create
+interactive experiences that challenge, educate, or entertain.</p>
 <p>6. Indeed, successful brands in the digital age are able to integrate
-technology safely and seamlessly into their customer operations. The organisers
-of today’s Awards recognised this, and thus the theme of this year’s Awards
-is, “Branding in the Smart Future, 智启未来”. This year’s awardees have demonstrated
-their ability to do just that; using technologies, such as AI, to enhance
-their business proposition.</p>
-<p>a. One example is Coliwoo. Coliwoo is a winner under the Promising Brands
-category. Coliwoo is a co-living accommodation operator, which utilises
-digital technologies such as 3D tours and a mobile app to enhance its operations
-and user experience.</p>
+technology <strong>safely </strong>and <strong>seamlessly</strong> into their
+customer operations. The organisers of today’s Awards recognised this,
+and thus the theme of this year’s Awards is, “Branding in the Smart Future,
+智启未来”. This year’s awardees have demonstrated their ability to do just
+that; using technologies, such as AI, to enhance their business proposition.</p>
+<p>a. One example is Coliwoo. Coliwoo is a winner under the <strong>Promising Brands</strong> category.
+Coliwoo is a co-living accommodation operator, which utilises digital technologies
+such as 3D tours and a mobile app to enhance its operations and user experience.</p>
 <p>b. To ensure that their co-living spaces are energy-efficient, Coliwoo
 also implemented smart sustainable technology in their operations, such
 as solar panels, smart sensors, and EV chargers. Such investments have
 enhanced operational efficiency and customer satisfaction.</p>
-<p>c. Another example is How’s Catering, A winner under the Established Brands
-category, How’s Catering has been around since 1991, meaning around three
-decades, the company has shown continuous commitment to quality and innovation.
+<p>c. Another example is How’s Catering, A winner under the <strong>Established Brands</strong> category,
+How’s Catering has been around since 1991, meaning around three decades,
+the company has shown continuous commitment to quality and innovation.
 Their website is integrated with an AI system, which analyses customers’
 behaviours and predicts their buying patterns to curate personalised rewards
 for them.</p>
