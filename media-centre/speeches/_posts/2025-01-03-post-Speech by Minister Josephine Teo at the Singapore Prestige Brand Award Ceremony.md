@@ -1,13 +1,13 @@
 ---
-title: Speech by Minister Josephine Teo at the Singapore Brand Award Ceremony
-permalink: /speech-by-minister-josephine-teo-at-the-singapore-brand-award-ceremony/
+title: Speech by Minister Josephine Teo at the Singapore Prestige Brand Award Ceremony
+permalink: /speech-by-minister-josephine-teo-at-the-singapore-prestige-brand-award-ceremony/
 date: 2025-01-03
 layout: post
 description: ""
 image: ""
 variant: tiptap
 ---
-<p><strong>Speech by Mrs Josephine Teo, Minister for Digital Development and Information, at The Singapore Brand Award Ceremony (3 January 2025)</strong>
+<p><strong>Speech by Mrs Josephine Teo, Minister for Digital Development and Information, at The Singapore Prestige Brand Award Ceremony (3 January 2025)</strong>
 </p>
 <p>Mr Ang Yuit, President, Association of Small &amp; Medium Enterprises,</p>
 <p>Mr Chan Yeng Kit, CEO SPH Media</p>
