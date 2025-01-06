@@ -7,8 +7,8 @@ description: ""
 image: ""
 variant: tiptap
 ---
-<p>Speech by Mrs Josephine Teo, Minister for Digital Development and Information,
-at The Singapore Brand Award Ceremony (3 January 2025)</p>
+<p><strong>Speech by Mrs Josephine Teo, Minister for Digital Development and Information, at The Singapore Brand Award Ceremony (3 January 2025)</strong>
+</p>
 <p>Mr Ang Yuit, President, Association of Small &amp; Medium Enterprises,</p>
 <p>Mr Chan Yeng Kit, CEO SPH Media</p>
 <p>Mr Goh Sin Teck, Editor, Lianhe Zaobao,</p>
