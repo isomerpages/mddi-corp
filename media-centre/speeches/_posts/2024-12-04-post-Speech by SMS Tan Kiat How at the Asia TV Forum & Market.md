@@ -7,7 +7,7 @@ description: ""
 image: ""
 variant: tiptap
 ---
-<p><strong><u>Opening Address by Mr Tan Kiat How, Senior Minister of State, Ministry of Digital Development and Information, at the Asia TV Forum &amp; Market (4 December 2024)</u></strong>
+<p><strong>Opening Address by Mr Tan Kiat How, Senior Minister of State, Ministry of Digital Development and Information, at the Asia TV Forum &amp; Market (4 December 2024)</strong>
 </p>
 <p>Distinguished guests,</p>
 <p>Your Excellencies,</p>
