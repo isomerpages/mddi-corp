@@ -92,11 +92,11 @@ via other means, such as the issuance of an appointment letter.</p>
 Hence, clause 4 will generally impose requirements for these statutory
 appointments to be published in the Gazette. The new requirements are directory
 in nature, and are not meant to affect the validity of the appointments.</p>
-<p>12. Clause 5 makes amendments to various Acts where references are made
-to materials printed by the Government Printer. As these materials could
-be published electronically in the electronic Gazette as well, the references
-are amended accordingly. Other consequential and related amendments are
-also made.</p>
+<p>12. <strong>Clause 5</strong> makes amendments to various Acts where references
+are made to materials printed by the Government Printer. As these materials
+could be published electronically in the electronic Gazette as well, the
+references are amended accordingly. Other consequential and related amendments
+are also made.</p>
 <p>13. In conclusion, the Bill will bring the law in line with the digital
 age, and enable the public to rely on the electronic Gazette and electronic
 legislation with greater confidence. Sir, I beg to move.</p>
