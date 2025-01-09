@@ -66,7 +66,7 @@ in risk of social isolation and use of digital&nbsp; technology by older
 adults: Insights from Singapore. Chapter In Irudaya Rajan (Ed.), Handbook
 of Aging, Health,&nbsp; and Public Policy. Singapore: Springer. DOI:
 <a href="https://doi.org/10.1007/978-981-16-1914-4_178-1" rel="noopener noreferrer nofollow" target="_blank">https://doi.org/10.1007/978-981-16-1914-4_178-1</a>&nbsp;</p>
-<p><sup>2 </sup>Data accurate as of August 2024&nbsp;</p>
-<p><sup>3 </sup>Data accurate as of August 2024
+<p><sup>2 </sup>Data accurate as of August 2024.</p>
+<p><sup>3 </sup>Data accurate as of August 2024.
 <br>
 </p>
