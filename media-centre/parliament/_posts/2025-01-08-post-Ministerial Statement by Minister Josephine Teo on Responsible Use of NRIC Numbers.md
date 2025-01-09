@@ -78,7 +78,7 @@ became more common.&nbsp;</p>
 <p>14. Besides organisations, some individuals also started to use their
 NRIC numbers as their passwords. They did so under the impression that
 the full NRIC number is secret.&nbsp;</p>
-<p>15. However, as shown by Dr Tan Wu Meng<sup>ii</sup> in his question, there
+<p>15. However, as shown by Dr Tan Wu Meng<sup> </sup>in his question, there
 are now algorithms that can be found online, that have made it easier to
 work out the full NRIC number from the partial or masked NRIC number. The
 easy availability of such algorithms means that the continued use of partial
