@@ -1,6 +1,6 @@
 ---
 title: Update on Lamppost as a Platform Project (PQ Reply by Minister Josephine Teo)
-permalink: /media-centre/parliament/07112023a/
+permalink: /media-centre/parliament/pq-on-update-on-lamppost-as-a-platform-project/
 date: 2023-11-07
 layout: post
 description: ""

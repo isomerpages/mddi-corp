@@ -1,7 +1,7 @@
 ---
-title: Developing indigenous capabilities for AI Foundation Models (PQ Reply by
+title: Developing Indigenous Capabilities for AI Foundation Models (PQ Reply by
   SMS Janil Puthucheary)
-permalink: /media-centre/parliament/07112023/
+permalink: /media-centre/parliament/pq-on-developing-indigenous-capabilities-for-ai-foundation-models/
 date: 2023-11-09
 layout: post
 description: ""

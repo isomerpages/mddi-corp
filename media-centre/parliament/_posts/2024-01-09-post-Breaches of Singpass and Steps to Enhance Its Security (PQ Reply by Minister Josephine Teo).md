@@ -1,7 +1,7 @@
 ---
 title: Breaches of Singpass and Steps to Enhance Its Security (PQ Reply by
   Minister Josephine Teo)
-permalink: /media-centre/parliament/09012024a/
+permalink: /media-centre/parliament/pq-on-breaches-of-singpass-and-steps-to-enhance-its-security/
 date: 2024-01-09
 layout: post
 description: ""

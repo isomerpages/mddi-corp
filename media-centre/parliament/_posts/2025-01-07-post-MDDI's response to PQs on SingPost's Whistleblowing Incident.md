@@ -1,6 +1,6 @@
 ---
 title: MDDI's response to PQs on SingPost's Whistleblowing Incident
-permalink: /mddi-response-to-pqs-on-singpost-whistleblowing-incident/
+permalink: /pqs-on-singpost-whistleblowing-incident/
 date: 2025-01-07
 layout: post
 description: ""
