@@ -8,7 +8,7 @@ description: ""
 image: ""
 variant: tiptap
 ---
-<h3>Parliament Sitting on 7 January 2025</h3>
+<h3>Parliament Sitting on 8 January 2025</h3>
 <h3>QUESTION FOR ORAL ANSWER</h3>
 <p><strong>*39. Mr Pritam Singh</strong> asked the Minister for Digital Development
 and Information with regard to the termination of key management personnel
@@ -18,7 +18,7 @@ and standards as set by the Government; and (b) what impact does this developmen
 have on the Government's ongoing review of (i) SingPost’s postal obligations
 in future and (ii) the safeguard of the interests of the public and postal
 workers.</p>
-<p><strong>Answer: </strong>
+<p><strong>Answer:</strong>
 </p>
 <p>The issues concerning the whistleblowing report and subsequent dismissals
 by SingPost was addressed in the Ministry of Digital Development and Information's
