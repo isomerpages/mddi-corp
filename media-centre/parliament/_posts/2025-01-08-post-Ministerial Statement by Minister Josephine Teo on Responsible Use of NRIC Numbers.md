@@ -8,7 +8,7 @@ description: ""
 image: ""
 variant: tiptap
 ---
-<p><strong><u>MINISTERIAL STATEMENT BY MINISTER JOSEPHINE TEO ON “RESPONSIBLE USE OF NRIC NUMBERS” ON 8 JANUARY 2025</u></strong>
+<p><strong>MINISTERIAL STATEMENT BY MINISTER JOSEPHINE TEO ON RESPONSIBLE USE OF NRIC NUMBERS, ON 8 JANUARY 2025</strong>
 </p>
 <p>Mr Speaker,&nbsp;</p>
 <p>1. Members have filed a total of 51 Parliamentary Questions on NRIC policy
@@ -22,7 +22,7 @@ for subsequent sittings.&nbsp;</p>
 <p>2. Let me start by acknowledging concerns raised by the public over NRIC
 policy. The Bizfile incident is unfortunate. Without intending to, it led
 the public to believe that the Government is changing its policy to allow
-full NRIC numbers to be exposed on a wide scale. This is <u>not</u> the case.&nbsp;</p>
+full NRIC numbers to be exposed on a wide scale. This is not the case.&nbsp;</p>
 <p>3. We take the public’s concerns seriously and are very sorry for the
 mistake that caused them much anxiety.&nbsp;</p>
 <p>4. I want to reassure the public that NRIC numbers remain personal data.
