@@ -5,6 +5,7 @@ date: 2023-02-01
 layout: post
 description: ""
 image: ""
+variant: markdown
 ---
 **Data Protection Appeal Panel**
   
@@ -41,4 +42,4 @@ For more information, you can refer to:
 1. [Personal Data Protection Act](https://sso.agc.gov.sg/Act/PDPA2012)  
 2. [www.pdpc.gov.sg](http://www.pdpc.gov.sg/)  
   
-Queries on the appeal process and information on past appeal decisions may be sent to [MCI_DPAP-Sec@mci.gov.sg](mailto:MCI_DPAP-Sec@mci.gov.sg)
+Queries on the appeal process and information on past appeal decisions may be sent to [MDDI_DPAP-Sec@mddi.gov.sg](mailto:MDDI_DPAP-Sec@mddi.gov.sg)
