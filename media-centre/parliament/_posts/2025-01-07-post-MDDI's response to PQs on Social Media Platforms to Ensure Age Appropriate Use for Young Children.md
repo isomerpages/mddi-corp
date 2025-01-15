@@ -8,7 +8,7 @@ description: ""
 image: ""
 variant: tiptap
 ---
-<h3>Parliament Sitting on 8 January 2025</h3>
+<h3>Parliament Sitting on 7 January 2025</h3>
 <h3>QUESTIONS FOR ORAL ANSWERS</h3>
 <p><strong>*54. Ms Foo Mee Har</strong> asked the Minister for Digital Development
 and Information in light of the Australian Government’s recent move to
