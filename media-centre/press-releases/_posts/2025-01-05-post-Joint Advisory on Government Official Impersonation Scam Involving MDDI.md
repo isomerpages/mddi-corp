@@ -69,7 +69,7 @@ victim.</p>
 <li>
 <p>If you have any information relating to such crimes or if you are in doubt,
 please call the Police Hotline at 1800-255-0000, or submit it online at
-<a href="www.police.gov.sg/i-witness" rel="noopener nofollow" target="_blank">www.police.gov.sg/i-witness</a>. All information will be kept strictly
+<a href="https://www.police.gov.sg/i-witness" rel="noopener nofollow" target="_blank">www.police.gov.sg/i-witness</a>. All information will be kept strictly
 confidential.&nbsp;If you require urgent Police assistance, please dial
 ‘999’.</p>
 <p></p>
