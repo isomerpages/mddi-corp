@@ -1,7 +1,7 @@
 ---
 title: MDDI's response to PQ on Recent Telecommunication Disruptions and Steps
   to Address Root Causes
-permalink: /pq-on-recent-telecommunication-disruptions-and-steps-to-address-root-causes/
+permalink: /media-centre/parliament/pq-on-recent-telecommunication-disruptions-steps-to-address-root-causes/
 date: 2025-01-08
 layout: post
 description: ""

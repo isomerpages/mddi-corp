@@ -1,7 +1,7 @@
 ---
 title: MDDI's response to PQ on Requirements on Social Media Platforms to Ensure
   Age Appropriate Use
-permalink: /pq-on-requirements-on-social-media-platforms-to-ensure-age-appropriate-use/
+permalink: /media-centre/parliament/pq-on-requirements-on-social-media-platforms-to-ensure-age-appropriate-use/
 date: 2025-01-08
 layout: post
 description: ""

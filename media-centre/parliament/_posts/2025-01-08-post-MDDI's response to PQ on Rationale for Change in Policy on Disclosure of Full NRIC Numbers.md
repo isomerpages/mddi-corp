@@ -1,7 +1,7 @@
 ---
 title: MDDI's response to PQ on Rationale for Change in Policy on Disclosure of
   Full NRIC Numbers
-permalink: /pq-on-rationale-for-change-in-policy-on-disclosure-of-full-nric-numbers/
+permalink: /media-centre/parliament/pq-on-rationale-for-change-in-policy-on-disclosure-of-full-nric-numbers/
 date: 2025-01-08
 layout: post
 description: ""
