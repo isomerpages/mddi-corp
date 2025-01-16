@@ -1,6 +1,6 @@
 ---
 title: Opening Remarks by Minister Josephine Teo at the SICW AMCC
-permalink: /opening-remarks-by-minister-josephine-teo-at-the-sicw-amcc/
+permalink: /media-centre/speeches/opening-remarks-by-minister-josephine-teo-at-the-sicw-amcc/
 date: 2024-10-16
 layout: post
 description: ""

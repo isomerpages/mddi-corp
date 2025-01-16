@@ -1,7 +1,7 @@
 ---
 title: Opening Address by SMS Janil Puthucheary at the International IoT
   Security Roundtable Event
-permalink: /opening-address-by-sms-janil-puthucheary-at-the-international-iot-security-roundtable-event/
+permalink: /media-centre/speeches/speech-by-sms-janil-puthucheary-at-international-iot-security-roundtable/
 date: 2024-10-16
 layout: post
 description: ""

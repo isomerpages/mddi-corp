@@ -1,7 +1,7 @@
 ---
 title: Speech by Minister Josephine Teo at Launch of Prudential’s Global AI Lab
   in Singapore
-permalink: /speech-by-minister-josephine-teo-at-launch-of-prudential-s-global-ai-lab-in-singapore/
+permalink: /media-centre/speeches/speech-by-minister-josephine-teo-at-launch-of-prudential-global-ai-lab/
 date: 2024-11-19
 layout: post
 description: ""

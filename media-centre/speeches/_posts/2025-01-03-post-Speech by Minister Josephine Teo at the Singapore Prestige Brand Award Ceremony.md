@@ -1,6 +1,6 @@
 ---
 title: Speech by Minister Josephine Teo at the Singapore Prestige Brand Award Ceremony
-permalink: /speech-by-minister-josephine-teo-at-the-singapore-prestige-brand-award-ceremony/
+permalink: /media-centre/speeches/speech-by-minister-josephine-teo-at-singapore-prestige-brand-award-ceremony/
 date: 2025-01-03
 layout: post
 description: ""
