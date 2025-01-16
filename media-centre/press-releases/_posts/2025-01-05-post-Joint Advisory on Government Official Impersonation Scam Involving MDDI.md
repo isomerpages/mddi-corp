@@ -1,6 +1,6 @@
 ---
 title: Joint Advisory on Government Official Impersonation Scam Involving MDDI
-permalink: /joint-advisory-on-government-official-impersonation-scam-involving-mddi/
+permalink: /media-centre/press-releases/joint-advisory-on-government-official-impersonation-scam/
 date: 2025-01-05
 layout: post
 description: ""
