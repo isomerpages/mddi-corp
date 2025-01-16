@@ -1,6 +1,6 @@
 ---
 title: First Reading of the Cybersecurity (Amendment) Bill
-permalink: /first-reading-of-the-cybersecurity-amendment-bill/
+permalink: /media-centre/press-releases/first-reading-of-the-cybersecurity-amendment-bill/
 date: 2024-04-04
 layout: post
 description: ""

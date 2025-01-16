@@ -1,6 +1,6 @@
 ---
 title: MDDI’s Latest Statement on Global Outage Affecting IT Systems Around the World
-permalink: /mddi-s-latest-statement-on-global-outage-affecting-it-systems-around-the-world/
+permalink: /media-centre/press-releases/mddi-latest-statement-global-outage-affecting-it-systems/
 date: 2024-07-20
 layout: post
 description: ""

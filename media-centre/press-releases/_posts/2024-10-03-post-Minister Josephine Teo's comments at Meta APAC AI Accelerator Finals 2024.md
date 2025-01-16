@@ -1,6 +1,6 @@
 ---
 title: Minister Josephine Teo's comments at Meta APAC AI Accelerator Finals 2024
-permalink: /minister-josephine-teo-comments-at-meta-apac-ai-accelerator-finals-2024/
+permalink: /media-centre/press-releases/minister-josephine-teo-comments-at-meta-apac-ai-accelerator-finals/
 date: 2024-10-03
 layout: post
 description: ""

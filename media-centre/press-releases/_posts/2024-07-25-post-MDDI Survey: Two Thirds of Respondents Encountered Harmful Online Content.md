@@ -1,6 +1,6 @@
 ---
 title: "MDDI Survey: Two Thirds of Respondents Encountered Harmful Online Content"
-permalink: /mddi-survey-two-thirds-of-respondents-encountered-harmful-online-content/
+permalink: /media-centre/press-releases/mddi-survey-two-thirds-respondents-encountered-harmful-online-content/
 date: 2024-07-25
 layout: post
 description: ""

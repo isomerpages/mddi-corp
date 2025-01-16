@@ -1,7 +1,7 @@
 ---
 title: MDDI Family Awards 84 Scholarships to Nurture Talents for Tech, Media and
   Information Sectors
-permalink: /mddi-family-awards-84-scholarships-to-nurture-talents-for-tech-media-and-information-sectors/
+permalink: /media-centre/press-releases/mddi-family-awards-scholarships-talents-tech-media-information-sectors/
 date: 2024-08-14
 layout: post
 description: ""

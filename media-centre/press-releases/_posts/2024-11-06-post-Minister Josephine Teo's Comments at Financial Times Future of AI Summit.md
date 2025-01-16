@@ -1,6 +1,6 @@
 ---
 title: Minister Josephine Teo's Comments at Financial Times Future of AI Summit
-permalink: /minister-josephine-teo-comments-at-financial-times-future-of-ai-summit/
+permalink: /media-centre/press-releases/minister-josephine-teo-comments-at-financial-times-future-of-ai-summit/
 date: 2024-11-06
 layout: post
 description: ""

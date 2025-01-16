@@ -1,7 +1,7 @@
 ---
 title: MDDI Poll finds High Trust Level Among Singaporeans towards Government
   Handling of Foreign Policy
-permalink: /mddi-poll-finds-high-trust-level-among-singaporeans-towards-government-handling-of-foreign-policy/
+permalink: /media-centre/press-releases/mddi-poll-high-trust-level-towards-gov-handling-of-foreign-policy/
 date: 2024-09-27
 layout: post
 description: ""

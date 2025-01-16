@@ -1,6 +1,6 @@
 ---
 title: Launch of Smart Nation 2
-permalink: /smart-nation-2-press-release/
+permalink: /media-centre/press-releases/smart-nation-2-press-release/
 date: 2024-10-01
 layout: post
 description: ""
