@@ -1,7 +1,7 @@
 ---
 title: Transformative Justice Collective's Online Platforms Made Declared Online
   Locations Under POFMA
-permalink: /transformative-justice-collective-online-platforms-made-declared-online-locations-under-pofma/
+permalink: /media-centre/press-releases/transformative-justice-collective-platforms-declared-online-locations/
 date: 2024-12-20
 layout: post
 description: ""

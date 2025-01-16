@@ -1,6 +1,6 @@
 ---
 title: MDDI’s reply to media queries on disclosure of NRIC number on BizFile system
-permalink: /mddi-reply-to-media-queries-on-disclosure-of-nric-number-on-bizfile-system/
+permalink: /media-centre/press-releases/mddi-reply-disclosure-of-nric-number-on-bizfile-system/
 date: 2024-12-13
 layout: post
 description: ""
