@@ -1,7 +1,7 @@
 ---
 title: Steps taken to make digital services in public and private sectors easier
   to access
-permalink: /steps-taken-to-make-digital-services-in-public-and-private-sectors-easier-to-access/
+permalink: /media-centre/forum-replies/digital-services-in-public-private-sectors-easier-to-access/
 date: 2024-12-05
 layout: post
 description: ""

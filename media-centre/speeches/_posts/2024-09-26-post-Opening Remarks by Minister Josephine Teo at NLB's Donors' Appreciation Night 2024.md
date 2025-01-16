@@ -1,7 +1,7 @@
 ---
 title: Opening Remarks by Minister Josephine Teo at NLB's Donors' Appreciation
   Night 2024
-permalink: /opening-remarks-by-minister-josephine-teo-at-nlb-s-donors-appreciation-night-2024/
+permalink: /media-centre/speeches/opening-remarks-by-minister-josephine-teo-at-nlb-donors-appreciation-night/
 date: 2024-09-26
 layout: post
 description: ""

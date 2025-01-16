@@ -7,9 +7,13 @@ description: ""
 image: ""
 variant: tiptap
 ---
+<ol data-tight="true" class="tight">
+<li>
 <p>The Singapore Police Force (SPF) and the Ministry of Digital Development
 and Information (MDDI) would like to alert the public on a Government Official
 Impersonation Scam involving agencies such as MDDI.</p>
+</li>
+</ol>
 <ol start="2" data-tight="true" class="tight">
 <li>
 <p>In this variant, victims receive a call from scammers purporting to be

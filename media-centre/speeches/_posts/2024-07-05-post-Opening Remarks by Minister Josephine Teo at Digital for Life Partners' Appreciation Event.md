@@ -1,7 +1,7 @@
 ---
 title: Opening Remarks by Minister Josephine Teo at Digital for Life Partners'
   Appreciation Event
-permalink: /opening-remarks-by-minister-josephine-teo-at-digital-for-life-partners-appreciation-event/
+permalink: /media-centre/speeches/opening-by-minister-josephine-teo-at-digital-for-life-partners-appreciation/
 date: 2024-07-05
 layout: post
 description: ""
