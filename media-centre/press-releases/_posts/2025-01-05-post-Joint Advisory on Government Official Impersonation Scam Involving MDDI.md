@@ -57,7 +57,7 @@ One-Time Passwords (OTPs) to anyone.</p>
 <p>b) <strong>CHECK</strong> – Check for scam signs with official sources such
 as the ScamShield Helpline (1799). You can also check the legitimacy of
 suspicious messages, phone numbers and website links via the ScamShield
-app or visit the ScamShield website at <a href="https://www.scamshield.gov.sg" rel="noopener noreferrer nofollow" target="_blank">www.scamshield.gov.sg</a>. Note that
+app or visit the ScamShield website at <a href="http://www.scamshield.gov.sg" rel="noopener noreferrer nofollow" target="_blank">www.scamshield.gov.sg</a>. Note that
 from 1 July 2024, government SMSes will be sent from a single Sender ID
 gov.sg.</p>
 <p>c) <strong>TELL</strong> – Tell the authorities, family, and friends about
@@ -69,7 +69,7 @@ victim.</p>
 <li>
 <p>If you have any information relating to such crimes or if you are in doubt,
 please call the Police Hotline at 1800-255-0000, or submit it online at
-<a href="https://www.police.gov.sg/i-witness" rel="noopener noreferrer nofollow" target="_blank">www.police.gov.sg/i-witness</a>. All information will be kept strictly
+<a href="www.police.gov.sg/i-witness" rel="noopener nofollow" target="_blank">www.police.gov.sg/i-witness</a>. All information will be kept strictly
 confidential.&nbsp;If you require urgent Police assistance, please dial
 ‘999’.</p>
 <p></p>
