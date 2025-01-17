@@ -84,124 +84,86 @@ Solutions Grant (or PSG).</p>
 <p>19. This is very useful for many SMEs, because as all of you would agree,
 SMEs in different sectors have different needs. The SME in the manufacturing
 sector versus SME in retail, F&amp;B sector, your needs are very different.
-Your customers,</p>
-<p>business processes and digital maturity are very different.20. For example,
-a SME just starting up and on the first step of adopting digital</p>
-<p>technology has a very different set up of solutions that they can use
-compared</p>
-<p>to a SME that has been doing digital technologies and maybe with a larger</p>
-<p>company.</p>
+Your customers, business processes and digital maturity are very different.</p>
+<p>20. For example, a SME just starting up and on the first step of adopting
+digital technology has a very different set up of solutions that they can
+use compared to a SME that has been doing digital technologies and maybe
+with a larger company.</p>
 <p>21. The SME initiatives like CTO-as-a-Service and other various initiatives
-have tried</p>
-<p>to tailor some of the advisory and support to different types of SMEs.
-So, I</p>
-<p>encourage all our SMEs to just check it out and find something that may
-be</p>
-<p>useful for you.</p>
+have tried to tailor some of the advisory and support to different types
+of SMEs. So, I encourage all our SMEs to just check it out and find something
+that may be useful for you.</p>
 <p><strong>Workforce Preparation and Inclusive Digital Transformation</strong>
 </p>
 <p>22. At the same time, one of the most important ingredients is not technology.
-At</p>
-<p>the end of the day it is about people. It is our investment in our people
-and skills</p>
-<p>which is critical for long-term growth and to use the technology.</p>
+At the end of the day it is about people. It is our investment in our people
+and skills which is critical for long-term growth and to use the technology.</p>
 <p>23. I always share with colleagues that our competition is not between
-the workers</p>
-<p>or the professional with the robot or AI. Our competition is not with
-the</p>
-<p>technology. Technology is not taking over a job. Who is taking over a
-job, who is</p>
-<p>competing with us, is someone else who can use technology better than
-us.</p>
+the workers or the professional with the robot or AI. Our competition is
+not with the technology. Technology is not taking over a job. Who is taking
+over a job, who is competing with us, is someone else who can use technology
+better than us.</p>
 <p>24. For example, a lawyer who can use Gen AI and AI capabilities to do
-things</p>
-<p>productively and to serve a client better is more competitive than a lawyer
-that</p>
-<p>does not. Likewise, you can think of different job roles across the industry
-or</p>
-<p>economy. Similarly, our competition is not with the technology. It is
-someone</p>
-<p>else who can use the technology better and more productively.</p>
+things productively and to serve a client better is more competitive than
+a lawyer that does not. Likewise, you can think of different job roles
+across the industry or economy. Similarly, our competition is not with
+the technology. It is someone else who can use the technology better and
+more productively.</p>
 <p>25. Increasingly, this competition is not just local, but we are competing
-somewhere</p>
-<p>else overseas. I bring back the earlier point that we are a small economy.
-We</p>
-<p>cannot pretend disruption of competition does not happen. But how do we</p>
-<p>equip ourselves to be more competitive so that we can continue to be relevant</p>
-<p>and do well as an economy, as an industry sector and our businesses and</p>
-<p>workers.</p>
+somewhere else overseas. I bring back the earlier point that we are a small
+economy. We cannot pretend disruption of competition does not happen. But
+how do we equip ourselves to be more competitive so that we can continue
+to be relevant and do well as an economy, as an industry sector and our
+businesses and workers.</p>
 <p>26. This is why the government has been working closely with the industry
-in many</p>
-<p>ways.</p>
+in many ways.</p>
 <p>27. Initiatives such as Women in Tech, which is into its 6th year, have
-helped to</p>
-<p>increase the representation of women in the tech sector.</p>
+helped to increase the representation of women in the tech sector.</p>
 <p>28. Diversity is important, as it brings about different perspectives
-and ideas to</p>
-<p>the table, sparking more innovation and creativity. We are also going
-further</p>
-<p>upstream with the Girls in Tech initiative to give more exposure to younger</p>
-<p>female students to know what the possibilities are and pursue their interests</p>
-<p>in tech.</p>
+and ideas to the table, sparking more innovation and creativity. We are
+also going further upstream with the Girls in Tech initiative to give more
+exposure to younger female students to know what the possibilities are
+and pursue their interests in tech.</p>
 <p>29. For Poly and ITE students, we have formed the TechSkills Accelerator
-for ITE</p>
-<p>and Polytechnics Programme (TIP Alliance), an initiative where IMDA works
-very</p>
-<p>closely with industry partners, including our leadership in schools, to
-equip ourgraduates from our polytechnics and ITE with skills to take up
-tech job</p>
-<p>opportunities.</p>
+for ITE and Polytechnics Programme (TIP Alliance), an initiative where
+IMDA works very closely with industry partners, including our leadership
+in schools, to equip our graduates from our polytechnics and ITE with skills
+to take up tech job opportunities.</p>
 <p>30. For mid-careerists, we will continue to invest in significant support
-to help</p>
-<p>mature workers re-skill and upskill.</p>
+to help mature workers re-skill and upskill.</p>
 <p>31. National initiatives such as the TechSkills Accelerator has helped
-to upskill</p>
-<p>about 18,000 locals to secure tech employment opportunities. This is done
-in</p>
-<p>close partnership with companies, through TeSA place-and-train programmes</p>
-<p>such as company-led training.</p>
-<p>32. Budget 2024 has topped-up to SkillsFuture Credits and the Level-Up</p>
-<p>Programme for mid-career Singaporeans looking to re-skill through full-time</p>
-<p>diploma programmes.</p>
+to upskill about 18,000 locals to secure tech employment opportunities.
+This is done in close partnership with companies, through TeSA place-and-train
+programmes such as company-led training.</p>
+<p>32. Budget 2024 has topped-up to SkillsFuture Credits and the Level-Up
+Programme for mid-career Singaporeans looking to re-skill through full-time
+diploma programmes.</p>
 <p>33. So we are putting in place significant effort, working closely with
-our partners,</p>
-<p>industry partners, IHLs and schools, to equip our people, not just those
-coming</p>
-<p>out from school graduating, but also virtual workers, mid-careerists,
-to be able</p>
-<p>to continue to be relevant and competitive and use technology to enhance
-their</p>
-<p>skills and productivity in the workplace.</p>
+our partners, industry partners, IHLs and schools, to equip our people,
+not just those coming out from school graduating, but also virtual workers,
+mid-careerists, to be able to continue to be relevant and competitive and
+use technology to enhance their skills and productivity in the workplace.</p>
 <p><strong>Public-Private partnership</strong>
 </p>
 <p>34. But the government cannot do this alone. The synergy between industry,
-our</p>
-<p>education institutes and workforce development agencies is a powerful
-one. It</p>
-<p>is our secret sauce. Not many countries can do it. And I will say that
-we can do</p>
-<p>this because of the significant relationship we have invested into this</p>
-<p>relationship over a period of time, working very closely together. It
-is something</p>
-<p>that is unique in Singapore, it is a strong identity advantage for us,
-the ability to</p>
-<p>bring different parties together, work on problems, come up with practical
-steps</p>
-<p>to address the issue and move forward together as a community and as a</p>
-<p>people.</p>
+our education institutes and workforce development agencies is a powerful
+one. It is our secret sauce. Not many countries can do it. And I will say
+that we can do this because of the significant relationship we have invested
+into this relationship over a period of time, working very closely together.
+It is something that is unique in Singapore, it is a strong identity advantage
+for us, the ability to bring different parties together, work on problems,
+come up with practical steps to address the issue and move forward together
+as a community and as a people.</p>
 <p>35. I am very happy that the Association of Small and Medium Enterprises
-(ASME)</p>
-<p>has been key in bridging public and private sectors to promote a more</p>
-<p>conducive business environment which facilitates growth and development
-of</p>
-<p>a vibrant economy.</p>
-<p>36. I am pleased that ASME will be furthering their commitment</p>
-<p>to uplift the workforce.</p>
+(ASME) has been key in bridging public and private sectors to promote a
+more conducive business environment which facilitates growth and development
+of a vibrant economy.</p>
+<p>36. I am pleased that ASME will be furthering their commitment to uplift
+the workforce.</p>
 <p>37. ASME will be partnering the Institute of Technical Education (ITE),
-Singapore</p>
-<p>Polytechnic (SP), and Nanyang Polytechnic (NYP), to provide practical</p>
-<p>experience and industry relevant training to the students from these institutions,</p>
-<p>and connect them with potential future employers.</p>
+Singapore Polytechnic (SP), and Nanyang Polytechnic (NYP), to provide practical
+experience and industry relevant training to the students from these institutions,
+and connect them with potential future employers.</p>
 <p>38. These initiatives will empower our workforce to embrace AI, digitalisation,
 and cybersecurity, as we stride into the digital future.</p>
 <p>39. This is an encouraging step, because if you look at the profile of
