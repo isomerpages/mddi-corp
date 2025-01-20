@@ -1,7 +1,7 @@
 ---
 title: MDDI's response to PQ on Separate Unique Identifier for Singapore
   Residents for Digital Systems
-permalink: /pq-on-separate-unique-identifier-for-singapore-residents-for-digital-systems/
+permalink: /media-centre/parliament/pq-on-separate-unique-identifier-singapore-residents-digital-systems/
 date: 2025-01-07
 layout: post
 description: ""

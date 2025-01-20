@@ -1,7 +1,7 @@
 ---
 title: MDDI's response to PQ on Current and Projected AI Specific Compute
   Available and National Cloud
-permalink: /pq-on-current-and-projected-ai-specific-compute-available-and-national-cloud/
+permalink: /media-centre/parliament/pq-on-current-projected-ai-specific-compute-available-national-cloud/
 date: 2024-11-13
 layout: post
 description: ""

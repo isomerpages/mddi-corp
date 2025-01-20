@@ -1,7 +1,7 @@
 ---
 title: MDDI's response to PQs on Social Media Platforms to Ensure Age
   Appropriate Use for Young Children
-permalink: /pqs-on-social-media-platforms-to-ensure-age-appropriate-use-for-young-children/
+permalink: /media-centre/parliament/pqs-on-social-media-platforms-ensure-age-appropriate-use-young-children/
 date: 2025-01-07
 layout: post
 description: ""

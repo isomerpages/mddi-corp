@@ -1,7 +1,7 @@
 ---
 title: MDDI's response to PQ on Ensuring High Traffic Government Websites
   Conform To WCAG
-permalink: /pq-on-ensuring-high-traffic-government-websites-conform-to-wcag/
+permalink: /media-centre/parliament/pq-on-ensuring-high-traffic-government-websites-conform-to-wcag/
 date: 2024-11-12
 layout: post
 description: ""

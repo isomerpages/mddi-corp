@@ -1,6 +1,6 @@
 ---
 title: MDDI's response to PQs on SingPost's Whistleblowing Incident
-permalink: /pqs-on-singpost-whistleblowing-incident/
+permalink: /media-centre/parliament/pqs-on-singpost-whistleblowing-incident/
 date: 2025-01-07
 layout: post
 description: ""

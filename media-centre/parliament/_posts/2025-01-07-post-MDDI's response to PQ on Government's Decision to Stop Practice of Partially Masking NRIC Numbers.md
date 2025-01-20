@@ -1,7 +1,7 @@
 ---
 title: MDDI's response to PQ on Government's Decision to Stop Practice of
   Partially Masking NRIC Numbers
-permalink: /pq-on-government-decision-to-stop-practice-of-partially-masking-nric-numbers/
+permalink: /media-centre/parliament/pq-on-government-decision-stop-practice-partially-masking-nric-numbers/
 date: 2025-01-07
 layout: post
 description: ""

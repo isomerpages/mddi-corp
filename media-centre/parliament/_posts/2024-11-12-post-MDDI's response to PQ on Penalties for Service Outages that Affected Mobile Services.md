@@ -1,7 +1,7 @@
 ---
 title: MDDI's response to PQ on Penalties for Service Outages that Affected
   Mobile Services
-permalink: /pq-on-penalties-for-service-outages-that-affected-mobile-services/
+permalink: /media-centre/parliament/pq-on-penalties-for-service-outages-that-affected-mobile-services/
 date: 2024-11-12
 layout: post
 description: ""

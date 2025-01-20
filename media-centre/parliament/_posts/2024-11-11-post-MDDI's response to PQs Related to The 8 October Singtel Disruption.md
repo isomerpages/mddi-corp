@@ -1,6 +1,6 @@
 ---
 title: MDDI's response to PQs Related to The 8 October Singtel Disruption
-permalink: /pqs-related-to-the-8-october-singtel-disruption/
+permalink: /media-centre/parliament/pqs-related-to-the-8-october-singtel-disruption/
 date: 2024-11-11
 layout: post
 description: ""

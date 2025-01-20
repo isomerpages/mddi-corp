@@ -1,7 +1,7 @@
 ---
 title: MDDI's response to PQ on Privacy Risks of Current NRIC Number Structure
   and Other Safeguards
-permalink: /pq-on-privacy-risks-of-current-nric-number-structure-and-other-safeguards/
+permalink: /media-centre/parliament/pq-on-privacy-risks-of-current-nric-number-structure-and-other-safeguards/
 date: 2025-01-07
 layout: post
 description: ""

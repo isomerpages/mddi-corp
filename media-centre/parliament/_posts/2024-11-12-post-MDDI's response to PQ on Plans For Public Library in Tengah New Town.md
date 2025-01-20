@@ -1,6 +1,6 @@
 ---
 title: MDDI's response to PQ on Plans For Public Library in Tengah New Town
-permalink: /pq-on-plans-for-public-library-in-tengah-new-town/
+permalink: /media-centre/parliament/pq-on-plans-for-public-library-in-tengah-new-town/
 date: 2024-11-12
 layout: post
 description: ""

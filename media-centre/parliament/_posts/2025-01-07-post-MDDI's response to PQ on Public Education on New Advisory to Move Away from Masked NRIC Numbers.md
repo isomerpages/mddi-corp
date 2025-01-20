@@ -1,7 +1,7 @@
 ---
 title: MDDI's response to PQ on Public Education on New Advisory to Move Away
   from Masked NRIC Numbers
-permalink: /pq-on-public-education-on-new-advisory-to-move-away-from-masked-nric-numbers/
+permalink: /media-centre/parliament/pq-on-public-education-new-advisory-move-away-from-masked-nric-numbers/
 date: 2025-01-07
 layout: post
 description: ""
