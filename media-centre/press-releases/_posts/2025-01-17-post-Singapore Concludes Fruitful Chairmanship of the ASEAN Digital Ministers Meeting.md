@@ -251,4 +251,6 @@ company, Grab’s office in Bangkok to understand the challenges and opportuniti
 for tech companies operating in the region.</p>
 </li>
 </ol>
-<p></p>
+<hr>
+<p>Jointly issued by the Ministry of Digital Development and Information
+and Infocomm Media Development Authority</p>
