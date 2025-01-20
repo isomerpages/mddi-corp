@@ -119,9 +119,9 @@ the region’s cyber-response capabilities to address common threats.</p>
 will allow all ASEAN Member States to more actively participate in the
 timely sharing of information on cyber-related threats through CERT-CERT
 cooperation. The facility also provides dedicated space for activities
-(e.g. cyber exercises,</p>
-<p>workshops, and CERT-CERT cyber capacity building programmes) that will
-foster a cohesive collaboration of efforts under the initiative.</p>
+(e.g. cyber exercises, workshops, and CERT-CERT cyber capacity building
+programmes) that will foster a cohesive collaboration of efforts under
+the initiative.</p>
 <p></p>
 </li>
 <li>
@@ -174,8 +174,8 @@ recommended anti-scam policies and best practices for combating scam calls
 and text messages. The Guide will also explore a region-wide information-sharing
 arrangement, which can help facilitate cross-border tracing of scams in
 telco channels. Singapore will also share some of the best practices from
-governments in the region, including our multi</p>
-<p>-layered approach to disrupt the scammers’ kill-chain.</p>
+governments in the region, including our multi-layered approach to disrupt
+the scammers’ kill-chain.</p>
 <p></p>
 </li>
 <li>
@@ -230,9 +230,9 @@ with high-quality, SEO-optimised digital content that enhances brand identity.
 Their consistent excellence in digital content creation has earned them
 this recognition for the second consecutive year. AI Seer, making its first
 appearance as a finalist at the awards, has made significant strides in
-truth verification with their pioneering platform, <a href="http://Facticity.AI" rel="noopener noreferrer nofollow" target="_blank">Facticity.AI</a>. This achievement highlights</p>
-<p>their commitment to combating misinformation and enhancing the transparency
-and accuracy of information.</p>
+truth verification with their pioneering platform, Facticity.AI. This achievement
+highlights their commitment to combating misinformation and enhancing the
+transparency and accuracy of information.</p>
 <p></p>
 </li>
 <li>
