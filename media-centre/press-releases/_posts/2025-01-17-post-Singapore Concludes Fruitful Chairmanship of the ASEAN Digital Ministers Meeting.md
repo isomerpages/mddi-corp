@@ -122,9 +122,130 @@ cooperation. The facility also provides dedicated space for activities
 (e.g. cyber exercises,</p>
 <p>workshops, and CERT-CERT cyber capacity building programmes) that will
 foster a cohesive collaboration of efforts under the initiative.</p>
+<p></p>
 </li>
 <li>
+<p>As cybersecurity threats are transboundary in nature, the establishment
+of the ASEAN Regional CERT is expected to be beneficial to fortifying Singapore’s
+own defences against cyber threats.</p>
+</li>
+</ol>
 <p></p>
+<p><u>ASEAN Checklist for the Implementation of the Norms of Responsible State Behaviour in Cyberspace</u>
+</p>
+<ol start="14" data-tight="true" class="tight">
+<li>
+<p>Singapore and Malaysia, as co-leads, worked closely with all AMS to drive
+the development of the ASEAN Checklist for the Implementation of the Norms
+of Responsible State Behaviour in Cyberspace, making ASEAN the first region
+to develop such a resource. The Checklist serves as a reference for States
+to take practical steps towards building capacity to implement the voluntary,
+non-binding norms of responsible State behaviour in cyberspace, as contained
+in the 2015 UN Report of the Group of Governmental Experts on developments
+in the field of information and telecommunications in the context of international
+security, in line with our national priorities and capacities.</p>
+<p></p>
+</li>
+<li>
+<p>Taken together, the efforts of the ASEAN Regional CERT and Checklist contribute
+towards an open, safe, secure, stable, accessible, interoperable, and peaceful
+cyberspace, which underpins ASEAN’s growing digital economy. The Checklist
+is not only useful for AMS, but also for countries beyond the region to
+support the collective efforts to build a safer and more secure cyberspace.</p>
+<p></p>
+</li>
+</ol>
+<p><strong>Combatting Scams</strong>
+</p>
+<ol start="16" data-tight="true" class="tight">
+<li>
+<p>A Working Group on Anti-Online Scams was established and convened to strengthen
+the ways ASEAN can combat scams across digital and telecommunication channels
+during Singapore’s chairmanship. As Chair of the 4th ADGMIN, Singapore
+strongly supported Thailand in securing the endorsement of AMS on two key
+outcome documents, namely: Report of the Online Scams Activities in ASEAN,
+and ASEAN Recommendations on Anti-Online Scams.</p>
+<p></p>
+</li>
+<li>
+<p>To maintain the momentum, Singapore will be developing the ASEAN Guide
+for Anti-Scams Policies and Best Practices in 2025. This Guide will establish
+recommended anti-scam policies and best practices for combating scam calls
+and text messages. The Guide will also explore a region-wide information-sharing
+arrangement, which can help facilitate cross-border tracing of scams in
+telco channels. Singapore will also share some of the best practices from
+governments in the region, including our multi</p>
+<p>-layered approach to disrupt the scammers’ kill-chain.</p>
+<p></p>
+</li>
+<li>
+<p>Recognising the transboundary nature of scams, these guidelines and combined
+efforts between government and industry within the region will raise the
+barriers for scammers attempting to establish operations in ASEAN, creating
+stronger protection for AMS citizens against scams.</p>
+</li>
+</ol>
+<p></p>
+<p><strong>Cross-border data flows to facilitate business operations</strong>
+</p>
+<ol start="19" data-tight="true" class="tight">
+<li>
+<p>In recognition of the challenges that businesses face in navigating different
+data protection regimes within ASEAN and globally, Singapore initiated
+several initiatives to promote trusted flow of data across borders. These
+initiatives include the ASEAN Guide on Data Anonymisation, Operational
+Framework for Global Cross-border Privacy Rules, and Joint Guide to ASEAN
+Model Contractual Clauses (MCCs) and Ibero-American Data Protection Network
+(RIPD) MCCs. We welcome cooperation with external partners on such efforts
+and will be working with China to develop a Joint Guide on Mapping of the
+ASEAN MCCs and China’s Standard Contractual Clauses for Cross-border Data
+Flows this year.</p>
+<p></p>
+</li>
+<li>
+<p>These initiatives help bring clarity to businesses on the cross-border
+mechanisms and processes and lower operational costs for businesses, which
+may face challenges in navigating different data protection regimes in
+ASEAN and globally. This is especially important for a regional business
+hub such as Singapore.</p>
+</li>
+</ol>
+<p><strong>Singapore’s Winners at the ASEAN Digital Awards</strong>
+</p>
+<ol start="21" data-tight="true" class="tight">
+<li>
+<p>The annual award ceremony for the ASEAN Digital Awards (ADA) was held
+in conjunction with the 5th ADGMIN Gala Dinner on 16 January 2025. At the
+ceremony, 18 organisations, businesses and individuals across ASEAN countries
+were recognised for their cutting-edge digital innovations in six categories:
+(i) Public Sector, (ii) Private Sector, (iii) Digital Inclusivity, (iv)
+Digital Content, (v) Digital Start-up, and (vi) Digital Innovation.</p>
+<p></p>
+</li>
+<li>
+<p>Two Singapore companies, Addlly AI and AI Seer, clinched the finalist
+awards in the category of Digital Content. Addlly AI, known for its cutting-edge
+Generative AI platform, Addlly AI playground, continues to empower businesses
+with high-quality, SEO-optimised digital content that enhances brand identity.
+Their consistent excellence in digital content creation has earned them
+this recognition for the second consecutive year. AI Seer, making its first
+appearance as a finalist at the awards, has made significant strides in
+truth verification with their pioneering platform, <a href="http://Facticity.AI" rel="noopener noreferrer nofollow" target="_blank">Facticity.AI</a>. This achievement highlights</p>
+<p>their commitment to combating misinformation and enhancing the transparency
+and accuracy of information.</p>
+<p></p>
+</li>
+<li>
+<p>Minister Teo, together with other ASEAN Digital Ministers, Senior Officials,
+and Dialogue &amp; Development Partners, also attended the Awards ceremony,
+in support of the Awards participants.</p>
+<p></p>
+<p>Conclusion</p>
+</li>
+<li>
+<p>During her two-day working visit, Minister Teo also visited Singapore
+company, Grab’s office in Bangkok to understand the challenges and opportunities
+for tech companies operating in the region.</p>
 </li>
 </ol>
 <p></p>
