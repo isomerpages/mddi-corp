@@ -240,8 +240,11 @@ transparency and accuracy of information.</p>
 and Dialogue &amp; Development Partners, also attended the Awards ceremony,
 in support of the Awards participants.</p>
 <p></p>
-<p>Conclusion</p>
 </li>
+</ol>
+<p><strong>Conclusion</strong>
+</p>
+<ol start="24" data-tight="true" class="tight">
 <li>
 <p>During her two-day working visit, Minister Teo also visited Singapore
 company, Grab’s office in Bangkok to understand the challenges and opportunities
