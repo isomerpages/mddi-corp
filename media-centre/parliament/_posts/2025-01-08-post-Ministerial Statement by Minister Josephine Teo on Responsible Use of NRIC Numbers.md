@@ -294,12 +294,15 @@ all of us. This will allow us to more confidently use the full NRIC number
 as a unique identifier whenever we need to do so.</p>
 <p>63. Mr Speaker, please allow me to summarise a few key points in Mandarin,
 please.</p>
-<p>64. 议长先生，政府了解国人对于正确使用身份证号码的议题十分关注。我想在这里重申，政府并不打算让身份证号码成为广泛公开的信息。</p>
-<p>65. 身份证号码是属于你我的个人资料，在有必要的时候才使用或透露给他人。</p>
+<p>64.<strong>&nbsp; </strong>议长先生，政府了解国人对于正确使用身份证号码的议题十分关注。我想在这里重申，政府并不打算让身份证号码成为广泛公开的信息。</p>
+<p>65.&nbsp; 身份证号码是属于你我的个人资料，在有必要的时候才使用或透露给他人。</p>
 <p>66. 除非法律规定， 任何机构想索取并保留我们的身份证号码，都得事先说明用途并征求我们的同意，以及确保身份证号码受到妥善的保护。这些现有的指导原则没有改变。</p>
+<p></p>
 <p>67. 但我们必须改变的，是一些错误使用身份证号码的做法。例如，我们不应该使用身份证号码来验证一个人的身份，更不应该把身份证号码设置为密码。</p>
-<p>68. 我们应该趁问题还不太严重之前及时纠正。无论是机构或个别人士都可以尽一份力，不再把身份证号码当成是身份的证明或是密码。</p>
-<p>69. 只要我们尽早采取行动，就可以加强我们的保护网。这样一来，我们才能在有必要时，更有信心地应用身份证号码，作为识别身份的工具。</p>
+<p></p>
+<p>68. 我们应该趁问题还不太严重之前及时纠正。无论是机构或个别人士都可以尽一份力，不再把身份证号码当成是身份的证据或是密码。</p>
+<p></p>
+<p>69. 只要我们尽早采取行动，就可以加强我们的保护网。这样一来，我们才能在有必要的时候，更有信心地应用身份证号码，作为识别身份的工具。</p>
 <p>70. Mr Speaker, with your permission, I will respond to any clarifications
 which Members may have, after Minister Indranee Rajah has also made her
 Statement.</p>
