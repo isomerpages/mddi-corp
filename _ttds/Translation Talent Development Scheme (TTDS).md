@@ -122,4 +122,23 @@ check your eligibility for applying for TTDS.</p>
 <p>Choose your capability development programme(s)</p>
 </li>
 </ol>
+<div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
+<summary>Find out more about capability development programmes supported by the
+TTDS</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p>The TTDS supports the following types of capability development programmes
+related to translation, interpretation and/or languages in Singapore and
+overseas:</p>
+<p></p>
+<p></p>
+</div>
+</details>
+<details class="isomer-details">
+<summary></summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p></p>
+</div>
+</details>
+</div>
 <p></p>
