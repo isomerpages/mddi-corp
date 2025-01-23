@@ -171,14 +171,50 @@ stated capability development plans.</p>
 </div>
 </details>
 </div>
-<p>2. Prepare for application</p>
-<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
+<ol start="2" data-tight="true" class="tight">
+<li>
+<p>Prepare for application</p>
+</li>
+</ol>
+<div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
 <summary>Find out when applications open and how many capability development programmes
 you can apply for</summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p></p>
+<p>Applications open from <strong>1 April to 30 June (both dates inclusive)</strong> each
+year.</p>
+<p>&nbsp;</p>
+<p>Each application may include multiple capability development programmes,
+as long as they are within the period of eligibility and are related to
+translation, interpretation and/or languages.</p>
+<p>&nbsp;</p>
+<p>Applicants are required to <strong>declare other sources of funding</strong> for
+the proposed capability development programme(s), including funding that
+has been received and funding that the applicant is applying for, or intends
+to apply for.</p>
 </div>
 </details>
 </div>
+<p><strong>During application</strong>
+</p>
+<ol data-tight="true" class="tight">
+<li>
+<p>How to apply</p>
+</li>
+<li>
+<p>Understand the evaluation criteria</p>
+</li>
+</ol>
+<p><strong>After application</strong>
+</p>
+<ol data-tight="true" class="tight">
+<li>
+<p>What to expect after you have applied for the TTDS</p>
+</li>
+<li>
+<p>Understand the funding award and recipients’ obligations</p>
+</li>
+</ol>
+<p><strong>Frequently asked questions</strong>
+</p>
 <p></p>
