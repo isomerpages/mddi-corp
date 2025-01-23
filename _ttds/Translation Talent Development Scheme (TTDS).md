@@ -289,10 +289,10 @@ August/September</p>
 <ol start="2" data-tight="true" class="tight">
 <li>
 <p>Understand the funding award and recipients’ obligations</p>
-<p>If you are offered the TTDS,</p>
-<p>TTDS recipients can receive up to S$10,000 on a reimbursement basis, to
-offset 90 per cent of the expenses incurred in their participation of capability
-development programmes. The expenses eligible for reimbursement include:</p>
+<p>If you are offered the TTDS, TTDS recipients can receive up to S$10,000
+on a reimbursement basis, to offset 90 per cent of the expenses incurred
+in their participation of capability development programmes. The expenses
+eligible for reimbursement include:</p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -338,8 +338,14 @@ venue (if physical attendance overseas is required)</p>
 </tr>
 </tbody>
 </table>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Infographics explaining how much funding a recipient is eligible for" src="/images/TTDS_How_much_funding_am_I_eligible_for.png">
+</div>
+<p>TTDS recipients will be appointed as NTC Ambassadors for a duration of
+up to two years and are required to contribute their expertise to <a href="https://www.mddi.gov.sg/what-we-do/public-comms-and-engagement/translation" rel="noopener nofollow" target="_blank">NTC initiatives</a>.</p>
 </li>
 </ol>
+<p></p>
 <p><strong>Frequently asked questions</strong>
 </p>
 <p></p>
