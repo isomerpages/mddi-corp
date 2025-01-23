@@ -289,6 +289,55 @@ August/September</p>
 <ol start="2" data-tight="true" class="tight">
 <li>
 <p>Understand the funding award and recipients’ obligations</p>
+<p>If you are offered the TTDS,</p>
+<p>TTDS recipients can receive up to S$10,000 on a reimbursement basis, to
+offset 90 per cent of the expenses incurred in their participation of capability
+development programmes. The expenses eligible for reimbursement include:</p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p><strong>Programme conducted in Singapore</strong>
+</p>
+</th>
+<th rowspan="1" colspan="1">
+<p><strong>Programme conducted overseas</strong>
+</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<ul data-tight="true" class="tight">
+<li>
+<p>Course / workshop / conference / seminar / webinar / examination fees</p>
+</li>
+<li>
+<p>Cost of compulsory training materials</p>
+</li>
+</ul>
+</td>
+<td rowspan="1" colspan="1">
+<ul data-tight="true" class="tight">
+<li>
+<p>Course / workshop / conference / seminar / webinar / examination fees</p>
+<p>Cost of compulsory training materials</p>
+</li>
+<li>
+<p>Economy-class airfare for one return flight from Singapore to programme
+venue (if physical attendance overseas is required)</p>
+</li>
+<li>
+<p>Visa fees (if applicable)</p>
+</li>
+</ul>
+</td>
+</tr>
+</tbody>
+</table>
 </li>
 </ol>
 <p><strong>Frequently asked questions</strong>
