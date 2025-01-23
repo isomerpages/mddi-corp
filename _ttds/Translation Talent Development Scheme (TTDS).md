@@ -273,7 +273,19 @@ during the application period&gt;</p>
 <p>What to expect after you have applied for the TTDS</p>
 </li>
 </ol>
-<p></p>
+<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
+<summary>Learn about the evaluation process</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p>The evaluation process works as such:</p>
+<p>(1) All applications are rigorously assessed by a panel of assessors,
+who will shortlist applicants for an interview</p>
+<p>(2) Shortlisted applicants are invited to attend a panel interview in
+August/September</p>
+<p>(3) Successful applicants will be notified of the outcome by October</p>
+</div>
+</details>
+</div>
 <ol start="2" data-tight="true" class="tight">
 <li>
 <p>Understand the funding award and recipients’ obligations</p>
