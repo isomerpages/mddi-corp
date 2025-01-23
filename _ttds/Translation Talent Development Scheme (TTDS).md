@@ -247,16 +247,34 @@ and fulfil the eligibility criteria will be considered.</p>
 </details>
 </div>
 </li>
+</ol>
+<ol start="2" data-tight="true" class="tight">
 <li>
 <p>Understand the evaluation criteria</p>
+<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
+<summary>Learn about the evaluation criteria</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p>Each application will be assessed based on the quality and relevance of
+applicants’ capability development programme(s) against their capability
+development objectives, their track record, and their commitment to the
+development of translation and interpretation in Singapore.</p>
+</div>
+</details>
+</div>
 </li>
 </ol>
+<p><strong>APPLY NOW </strong>&lt;hyperlink to application form, only available
+during the application period&gt;</p>
 <p><strong>After application</strong>
 </p>
 <ol data-tight="true" class="tight">
 <li>
 <p>What to expect after you have applied for the TTDS</p>
 </li>
+</ol>
+<p></p>
+<ol start="2" data-tight="true" class="tight">
 <li>
 <p>Understand the funding award and recipients’ obligations</p>
 </li>
