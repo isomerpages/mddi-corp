@@ -170,8 +170,12 @@ business and financial translation)</p>
 stated capability development plans.</p>
 </div>
 </details>
+</div>
+<p>2. Prepare for application</p>
+<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
-<summary></summary>
+<summary>Find out when applications open and how many capability development programmes
+you can apply for</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p></p>
 </div>
