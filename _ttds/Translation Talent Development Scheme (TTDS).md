@@ -221,7 +221,7 @@ to commence application, for each capability development programme</p>
 period)</p>
 </li>
 </ul>
-<p>&nbsp;</p>
+<p></p>
 <p>The TTDS application form consists of the following sections:</p>
 <ul data-tight="true" class="tight">
 <li>
@@ -240,7 +240,7 @@ period)</p>
 <p>Declaration</p>
 </li>
 </ul>
-<p>&nbsp;</p>
+<p></p>
 <p>Only applications that are submitted within the application period, complete
 and fulfil the eligibility criteria will be considered.</p>
 </div>
