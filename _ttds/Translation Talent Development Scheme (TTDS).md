@@ -163,9 +163,9 @@ business and financial translation)</p>
 </li>
 <li>
 <p>Applied linguistics</p>
+<p></p>
 </li>
 </ul>
-<p>&nbsp;</p>
 <p>All programmes will be evaluated on a case-by-case basis against the applicant’s
 stated capability development plans.</p>
 </div>
