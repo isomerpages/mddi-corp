@@ -2,6 +2,8 @@ collections:
   translation:
     output: true
     order:
+      - Translation Talent Dev Scheme/Translation Talent Development Scheme
+        (TTDS).md
       - Translation Talent Dev Scheme/.keep
       - Key Steps.md
       - Frequently Asked Questions.md
