@@ -1,0 +1,5 @@
+collections:
+  ttds:
+    output: true
+    order:
+      - Translation Talent Development Scheme (TTDS).md
