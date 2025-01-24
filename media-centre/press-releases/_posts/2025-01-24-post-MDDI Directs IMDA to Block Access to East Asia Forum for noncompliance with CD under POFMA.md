@@ -12,24 +12,24 @@ variant: tiptap
 </p>
 <ol data-tight="true" class="tight">
 <li>
-<p>The Minister for Digital Development and Information has today, directed
-the Infocomm Media Development Authority (IMDA) to issue Access Blocking
-Orders in response to East Asia Forum’s non-compliance with the Correction
-Direction issued on 22 January 2025 for falsehoods in its article “Singapore’s
+<p>The East Asia Forum has failed to comply with the Correction Direction
+issued on 22 January 2025 to point out falsehoods in its article “Singapore’s
 new prime minister entangled in old politics” (“<strong>the article</strong>”).
-The Access Blocking Orders require internet access service providers to
-disable access for end-users in Singapore to East Asia Forum’s website,
-where the falsehoods are communicated.</p>
+Consequently, the Minister for Digital Development and Information has
+directed the Infocomm Media Development Authority (IMDA) to issue Access
+Blocking Orders to require internet access service providers to disable
+access for end-users in Singapore to East Asia Forum’s website, where the
+falsehoods are communicated.</p>
 <p></p>
 </li>
 <li>
 <p>The Correction Direction issued to East Asia Forum on 22 January 2025
-had required the facts to be juxtaposed against the falsehoods, enabling
+had required the facts to be displayed along with the falsehoods, enabling
 end-users in Singapore to read both versions and make their own judgements.
-Despite multiple reminders sent to East Asia Forum to comply with the Correction
-Direction, East Asia Forum has not complied. Should East Asia Forum subsequently
-comply with the full requirements of the Correction Direction, the Minister
-will cancel the Access Blocking Orders.</p>
+Despite three reminders sent to East Asia Forum to comply with the Correction
+Direction, East Asia Forum has not complied (See Annex for details). Should
+East Asia Forum subsequently comply with the full requirements of the Correction
+Direction, the Minister will cancel the Access Blocking Orders.</p>
 <p></p>
 </li>
 <li>
