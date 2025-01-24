@@ -2,4 +2,5 @@ collections:
   translation:
     output: true
     order:
+      - Key Steps.md
       - Translation Talent Development Scheme (TTDS).md
