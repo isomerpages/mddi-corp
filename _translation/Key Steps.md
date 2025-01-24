@@ -161,8 +161,6 @@ during the application period&gt;</p>
 <ol data-tight="true" class="tight">
 <li>
 <p>What to expect after you have applied for the TTDS</p>
-</li>
-</ol>
 <div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
 <summary>Learn about the evaluation process</summary>
@@ -176,6 +174,8 @@ August/September</p>
 </div>
 </details>
 </div>
+</li>
+</ol>
 <ol start="2" data-tight="true" class="tight">
 <li>
 <p>Understand the funding award and recipients’ obligations</p>
@@ -235,5 +235,4 @@ venue (if physical attendance overseas is required)</p>
 up to two years and are required to contribute their expertise to <a href="https://www.mddi.gov.sg/what-we-do/public-comms-and-engagement/translation" rel="noopener nofollow" target="_blank">NTC initiatives</a>.</p>
 </li>
 </ol>
-<p></p>
 <p></p>
