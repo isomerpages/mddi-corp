@@ -346,6 +346,4 @@ up to two years and are required to contribute their expertise to <a href="https
 </li>
 </ol>
 <p></p>
-<p><strong>Frequently asked questions</strong>
-</p>
 <p></p>
