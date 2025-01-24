@@ -10,8 +10,6 @@ description: ""
 <ol data-tight="true" class="tight">
 <li>
 <p>Choose your capability development programme(s)</p>
-</li>
-</ol>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
 <summary>Find out more about capability development programmes supported by the
@@ -61,11 +59,11 @@ stated capability development plans.</p>
 </div>
 </details>
 </div>
+</li>
+</ol>
 <ol start="2" data-tight="true" class="tight">
 <li>
 <p>Prepare for application</p>
-</li>
-</ol>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
 <summary>Find out when applications open and how many capability development programmes
@@ -85,6 +83,8 @@ to apply for.</p>
 </div>
 </details>
 </div>
+</li>
+</ol>
 <p><strong>During application</strong>
 </p>
 <ol data-tight="true" class="tight">
