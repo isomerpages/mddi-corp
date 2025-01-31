@@ -191,7 +191,7 @@ For more information, please refer to:
 <tbody>
 <tr>
 <td><a href="https://file.go.gov.sg/citeg-applicationguide.pdf">Application Guide</a></td>
-<td><a href="https://go.gov.sg/citeg-submit">Application Form</a></td>
+<td><a href="https://file.go.gov.sg/citeg-application-form.docx">Application Form</a></td>
 <td><a href="https://go.gov.sg/citeg-enquiry">Enquiry Form</a></td>
 </tr>
 </tbody>
