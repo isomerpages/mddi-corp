@@ -99,9 +99,7 @@ parent company, that caused Instagram to geo-block the post in question.</p>
 </li>
 <li>
 <p>As required by the Correction Directions, Jom must publish correction
-notices on the said posts on its website and social media pages. The correction
-notices will provide a link to the Factually article, which lays out the
-facts and clarifications on the matter, at the following link: <a href="https://www.gov.sg/article/factually160723-b" rel="noopener noreferrer nofollow" target="_blank">https://www.gov.sg/article/factually160723-b</a>.</p>
+notices on the said posts on its website and social media pages.</p>
 </li>
 </ol>
 <hr>
