@@ -102,5 +102,5 @@ NRIC practices<sup>3</sup>.</p>
 </p>
 <p><a href="https://www.mof.gov.sg/news-publications/speeches/opening-remarks-by-ms-indranee-rajah-minister-in-the-prime-minister's-office-second-minister-for-finance-and-national-development-at-mddi-acra-press-conference-on-responsible-use-of-nric-numbers-on-19-december-2024" rel="noopener nofollow" target="_blank"><sup>2 </sup>Remarks by Ms Indranee Rajah, Minister in the Prime Minister's Office, Second Minister for Finance and National Development</a>
 </p>
-<p><a href="https://www.mddi.gov.sg/closing-remarks-by-minister-josephine-teo-at-press-conference-on-responsible-use-of-nric-numbers/" rel="noopener nofollow" target="_blank"><sup>3 </sup>Closing Remarks by Minister Josephine Teo at Press Conference on Responsible Use of NRIC Numbers</a>
+<p><a href="https://www.mddi.gov.sg/media-centre/speeches/closing-remarks-by-minister-josephine-teo-on-responsible-use-of-nric-numbers/" rel="noopener nofollow" target="_blank"><sup>3 </sup>Closing Remarks by Minister Josephine Teo at Press Conference on Responsible Use of NRIC Numbers</a>
 </p>
