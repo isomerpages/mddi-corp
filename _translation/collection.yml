@@ -2,7 +2,7 @@ collections:
   translation:
     output: true
     order:
-      - Key Steps/Key Steps.md
+      - Key Steps/Before Application.md
       - Key Steps/.keep
       - Check Your Eligibility.md
       - Translation Talent Development Scheme.md
