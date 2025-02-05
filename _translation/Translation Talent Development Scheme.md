@@ -15,24 +15,37 @@ in their participation of capability development programme(s) related to
 translation, interpretation and/or languages in Singapore and overseas.</p>
 <h4><strong>TTDS funding</strong></h4>
 <p>The expenses eligible for reimbursement include:</p>
-<div class="isomer-card-grid">
-<div class="isomer-card">
-<div class="isomer-card-body">
-<div class="isomer-card-title">Programme conducted in Singapore</div>
-<div class="isomer-card-description">- Course / workshop / conference / seminar / webinar / examination fees
-- Cost of compulsory training materials</div>
-</div>
-</div>
-<div class="isomer-card">
-<div class="isomer-card-body">
-<div class="isomer-card-title">Programme conducted overseas</div>
-<div class="isomer-card-description">• Course / workshop / conference / seminar / webinar / examination fees
-• Cost of compulsory training materials • Economy-class airfare for one
-return flight from Singapore to programme venue (if physical attendance
-overseas is required) • Visa fees (if applicable)</div>
-</div>
-</div>
-</div>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p><strong>Programme conducted in Singapore</strong>
+</p>
+</th>
+<th rowspan="1" colspan="1">
+<p><strong>Programme conducted overseas</strong>
+</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>• Course / workshop / conference / seminar / webinar / examination fees</p>
+<p>• Cost of compulsory training materials</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>• Course / workshop / conference / seminar / webinar / examination fees</p>
+<p>• Cost of compulsory training materials</p>
+<p>• Economy-class airfare for one return flight from Singapore to programme
+venue (if physical attendance overseas is required)</p>
+<p>• Visa fees (if applicable)</p>
+</td>
+</tr>
+</tbody>
+</table>
 <p>The following image illustrates how the amount of funding is derived:</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Infographics showing examples of funding eligibility" src="/images/TTDS_How_much_funding_am_I_eligible_for.png">
