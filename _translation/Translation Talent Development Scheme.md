@@ -15,7 +15,6 @@ in their participation of capability development programme(s) related to
 translation, interpretation and/or languages in Singapore and overseas.</p>
 <h4><strong>TTDS Funding</strong></h4>
 <p>The expenses eligible for reimbursement include:</p>
-<p></p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
