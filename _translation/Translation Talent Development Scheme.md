@@ -16,8 +16,52 @@ translation, interpretation and/or languages in Singapore and overseas.</p>
 <h4><strong>TTDS Funding</strong></h4>
 <p>The expenses eligible for reimbursement include:</p>
 <p></p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p><strong>Programme conducted in Singapore</strong>
+</p>
+</th>
+<th rowspan="1" colspan="1">
+<p><strong>Programme conducted overseas</strong>
+</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<ul data-tight="true" class="tight">
+<li>
+<p>Course / workshop / conference / seminar / webinar / examination fees</p>
+</li>
+<li>
+<p>Cost of compulsory training materials</p>
+</li>
+</ul>
+</td>
+<td rowspan="1" colspan="1">
+<ul data-tight="true" class="tight">
+<li>
+<p>Course / workshop / conference / seminar / webinar / examination fees</p>
+<p>Cost of compulsory training materials</p>
+</li>
+<li>
+<p>Economy-class airfare for one return flight from Singapore to programme
+venue (if physical attendance overseas is required)</p>
+</li>
+<li>
+<p>Visa fees (if applicable)</p>
+</li>
+</ul>
+</td>
+</tr>
+</tbody>
+</table>
 <p>The following image illustrates how the amount of funding is derived:</p>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Infographics showing examples of funding eligibility" src="/images/TTDS_How_much_funding_am_I_eligible_for.png">
 </div>
