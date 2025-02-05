@@ -4,7 +4,7 @@ permalink: /check-your-eligibility/
 variant: tiptap
 description: ""
 ---
-<h4>Check Your Eligibility</h4>
+<h4><strong>Check Your Eligibility</strong></h4>
 <p>Use this <a href="https://go.gov.sg/ttds-checklist" rel="noopener nofollow" target="_blank">applicant checklist</a> to
 check your eligibility for applying for TTDS.</p>
 <div class="isomer-image-wrapper">
