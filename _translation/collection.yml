@@ -2,12 +2,12 @@ collections:
   translation:
     output: true
     order:
+      - Translation Talent Development Scheme.md
+      - Check Your Eligibility.md
       - Key Steps for Application/.keep
       - Key Steps for Application/Before Application.md
       - Key Steps for Application/During Application.md
       - Key Steps for Application/After Application.md
-      - Check Your Eligibility.md
-      - Translation Talent Development Scheme.md
       - Translation Talent Dev Scheme/.keep
       - Translation Talent Dev Scheme/Frequently Asked Questions.md
       - Translation Talent Dev Scheme/Testimonials.md
