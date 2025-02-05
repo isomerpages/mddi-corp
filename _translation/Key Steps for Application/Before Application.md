@@ -6,41 +6,24 @@ description: ""
 third_nav_title: Key Steps for Application
 ---
 <h4><strong>1. Choose your capability development programme(s)</strong></h4>
-<table style="minWidth: 25px">
-<colgroup>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<th rowspan="1" colspan="1">
 <p>The TTDS supports the following types of capability development programmes
 related to translation, interpretation and/or languages in Singapore and
 overseas:</p>
-</th>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
+<ul data-tight="true" class="tight">
+<li>
 <p>Short courses, workshops and intensive summer courses</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
+</li>
+<li>
 <p>Courses that lead to a full qualification (e.g. Diploma, Bachelor’s degree,
 Postgraduate diploma, Master’s degree)</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
+</li>
+<li>
 <p>Conferences, seminars and webinars</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
+</li>
+<li>
 <p>Certification examinations</p>
-</td>
-</tr>
-</tbody>
-</table>
+</li>
+</ul>
 <p>Examples of capability development programmes include those related to:</p>
 <ul data-tight="true" class="tight">
 <li>
