@@ -2,6 +2,7 @@ collections:
   translation:
     output: true
     order:
+      - Key Steps/After Application.md
       - Key Steps/During Application.md
       - Key Steps/Before Application.md
       - Key Steps/.keep
