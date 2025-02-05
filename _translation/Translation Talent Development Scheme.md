@@ -19,8 +19,8 @@ translation, interpretation and/or languages in Singapore and overseas.</p>
 <div class="isomer-card">
 <div class="isomer-card-body">
 <div class="isomer-card-title">Programme conducted in Singapore</div>
-<div class="isomer-card-description">• Course / workshop / conference / seminar / webinar / examination fees
-• Cost of compulsory training materials</div>
+<div class="isomer-card-description">- Course / workshop / conference / seminar / webinar / examination fees
+- Cost of compulsory training materials</div>
 </div>
 </div>
 <div class="isomer-card">
