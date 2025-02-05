@@ -3,7 +3,10 @@ collections:
     output: true
     order:
       - Translation Talent Development Scheme.md
-      - Key Steps.md
-      - Translation Talent Dev Scheme/.keep
-      - Translation Talent Dev Scheme/Frequently Asked Questions.md
-      - Translation Talent Dev Scheme/Testimonials.md
+      - Eligibility Criteria.md
+      - Key Steps for Application/.keep
+      - Key Steps for Application/Before Application.md
+      - Key Steps for Application/During Application.md
+      - Key Steps for Application/After Application.md
+      - Frequently Asked Questions.md
+      - Testimonials.md

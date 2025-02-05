@@ -3,7 +3,6 @@ title: Frequently Asked Questions
 permalink: /frequently-asked-questions/
 variant: tiptap
 description: ""
-third_nav_title: Translation Talent Dev Scheme
 ---
 <div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
