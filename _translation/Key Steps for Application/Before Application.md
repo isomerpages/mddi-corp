@@ -6,32 +6,41 @@ description: ""
 third_nav_title: Key Steps for Application
 ---
 <h4><strong>1. Choose your capability development programme(s)</strong></h4>
+<table style="minWidth: 25px">
+<colgroup>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
 <p>The TTDS supports the following types of capability development programmes
 related to translation, interpretation and/or languages in Singapore and
 overseas:</p>
-<div class="isomer-card-grid">
-<div class="isomer-card">
-<div class="isomer-card-body">
-<div class="isomer-card-title">Short courses, workshops and intensive summer courses</div>
-</div>
-</div>
-<div class="isomer-card">
-<div class="isomer-card-body">
-<div class="isomer-card-title">Courses that lead to a full qualification (e.g. Diploma, Bachelor’s degree,
-Postgraduate diploma, Master’s degree)</div>
-</div>
-</div>
-<div class="isomer-card">
-<div class="isomer-card-body">
-<div class="isomer-card-title">Conferences, seminars and webinars</div>
-</div>
-</div>
-<div class="isomer-card">
-<div class="isomer-card-body">
-<div class="isomer-card-title">Certification examinations</div>
-</div>
-</div>
-</div>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Short courses, workshops and intensive summer courses</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Courses that lead to a full qualification (e.g. Diploma, Bachelor’s degree,
+Postgraduate diploma, Master’s degree)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Conferences, seminars and webinars</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Certification examinations</p>
+</td>
+</tr>
+</tbody>
+</table>
 <p>Examples of capability development programmes include those related to:</p>
 <ul data-tight="true" class="tight">
 <li>
