@@ -21,7 +21,7 @@ with Japan; and (iii) Publication of the Singapore AI Safety Red Teaming
 Challenge Evaluation Report. The announcement was made by Minister for
 Digital Development and Information, Josephine Teo, at the AI Action Summit
 (AIAS) held in Paris, France from 10 to 11 February.</p>
-<p>2 The AIAS built on the advances made at the Bletchley Park Summit in
+<p>2. The AIAS built on the advances made at the Bletchley Park Summit in
 November 2023 and the Seoul Summit in May 2024, and brought together political,
 business and civil society leaders — including Heads of State, international
 organisations, and academics — to foster international cooperation in areas
@@ -30,7 +30,7 @@ Statement on Inclusive and Sustainable Artificial Intelligence for People
 and the Planet at the conclusion of the AIAS on 11 February 2025.</p>
 <p><strong>New Initiatives in AI Safety</strong>
 </p>
-<p>3 Speaking at the AIAS panel on “Fuelling Trustworthy AI Innovation Through
+<p>3. Speaking at the AIAS panel on “Fuelling Trustworthy AI Innovation Through
 Collaboration Between Industry &amp; Government” on 10 February, Minister
 Teo announced the following three new initiatives that reflect Singapore’s
 commitment in rallying industry and international partners towards concrete
@@ -68,7 +68,7 @@ LLMs (Aya, Claude, Llama, SEA-LION) for cultural bias stereotypes in non-English
 languages, compared to English. The Challenge aimed to advance the sciences
 in AI testing, a nascent space globally. The data collected will be used
 to develop benchmarks and automate testing for regional safety concerns.</p>
-<p>4 Minister Teo also participated in a Tony Blair Institute (TBI) panel
+<p>4. Minister Teo also participated in a Tony Blair Institute (TBI) panel
 on “Global Leadership in an Age of AI Opportunities” at the sidelines of
 the AIAS, and other closed-door roundtables on 9 February and at the AIAS
 on 10 February. She spoke about the need to balance AI’s transformative
@@ -79,7 +79,7 @@ partners to ensure that AI development remains inclusive, transparent,
 and accountable.</p>
 <p><strong>Strengthening Global AI Partnerships Through Bilateral Engagements</strong>
 </p>
-<p>5 Beyond her speaking engagements, Minister Teo also met with policymakers,
+<p>5. Beyond her speaking engagements, Minister Teo also met with policymakers,
 industry leaders, and academics at the sidelines of AIAS, exchanging insights
 on AI safety, regulatory frameworks, and emerging AI trends. These engagements
 reinforce Singapore’s role in shaping international AI standards and ensuring
