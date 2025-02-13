@@ -10,9 +10,9 @@ variant: tiptap
 ---
 <p><strong>Opening Address by Dr Janil Puthucheary, Senior Minister of State, Ministry of Digital Development and Information, At the Amazon Web Services Asia Pacific Hub Opening (12 February 2025)</strong>
 </p>
-<p>Mr Jaime Valles, Vice President, APAC, Amazon Web Services,</p>
-<p>Mr Jeff Johnson, Managing Director, ASEAN, AWS,</p>
-<p>Ladies and Gentlemen,</p>
+<p>Mr Jaime Valles, Vice President, APAC, Amazon Web Services,
+<br>Mr Jeff Johnson, Managing Director, ASEAN, AWS,
+<br>Ladies and Gentlemen,</p>
 <p><strong>Introduction</strong>
 </p>
 <p>1. Good morning everybody, and thank you very much for inviting me to
