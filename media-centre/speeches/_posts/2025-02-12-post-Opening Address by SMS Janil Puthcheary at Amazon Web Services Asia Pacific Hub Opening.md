@@ -13,7 +13,7 @@ variant: tiptap
 <p>Mr Jaime Valles, Vice President, APAC, Amazon Web Services,</p>
 <p>Mr Jeff Johnson, Managing Director, ASEAN, AWS,</p>
 <p>Ladies and Gentlemen,</p>
-<p><strong><em>Introduction</em></strong>
+<p><strong>Introduction</strong>
 </p>
 <p>1. Good morning everybody, and thank you very much for inviting me to
 join you today. It is my pleasure to be here to celebrate the official
@@ -131,7 +131,7 @@ Bedrock, Amazon SageMaker, and Amazon Q to local enterprises, allowing
 us to more easily develop AI solutions for business problems.</p>
 <p>22. We welcome other partners to work with us in supporting our enterprises
 in this next bound of their digitalisation journey.</p>
-<p><strong><em>Conclusion</em></strong>
+<p><strong>Conclusion</strong>
 </p>
 <p>23. The opening of AWS’ Asia Pacific Hub is a significant milestone, not
 just for AWS, but for Singapore as well. It represents the next stage of
