@@ -10,12 +10,12 @@ variant: tiptap
 ---
 <h3>Parliament Sitting on 18 February 2025</h3>
 <h3>QUESTION FOR ORAL ANSWER</h3>
-<p><strong>*20. Mr Saktiandi Supaat </strong>asked the Minister for Digital
-Development and Information (a) how does the Ministry plan to ensure the
-effective implementation of age verification and restriction measures by
-app stores so that only age-appropriate apps are accessible to children
-given that children may download apps through their parents' user accounts;
-and (b) whether the Ministry will consider mandating more robust age verification
+<p><strong>*20. Mr Yip Hon Weng </strong>asked the Minister for Digital Development
+and Information (a) how does the Ministry plan to ensure the effective
+implementation of age verification and restriction measures by app stores
+so that only age-appropriate apps are accessible to children given that
+children may download apps through their parents' user accounts; and (b)
+whether the Ministry will consider mandating more robust age verification
 methods such as facial recognition technology, to prevent children from
 bypassing age restrictions using their parents' passwords or biometric
 data.</p>
