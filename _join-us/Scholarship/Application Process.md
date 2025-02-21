@@ -39,3 +39,5 @@ least a Honours (Distinction) degree or equivalent</p>
 <p>All applications are to be submitted via the PSC Gateway (please indicate
 ‘Information Service’ as your first choice of service). For more information
 on application deadlines and process, please visit the <a href="https://www.psc.gov.sg/scholarships/undergraduate-scholarships/psc-scholarships?q=apply" rel="noopener noreferrer nofollow" target="_blank">PSC Gateway</a> website.</p>
+<p>To find out more about our scholarship and what our scholars are saying
+about their scholarship journey, please visit the <a href="https://brightsparks.com.sg/profile/mddi/scholarship.php" rel="noopener nofollow" target="_blank">BrightSparks</a> website.</p>
