@@ -2,6 +2,7 @@ collections:
   ttds:
     output: true
     order:
+      - After Application.md
       - During Application.md
       - Before Application.md
       - Translation Talent Development Scheme.md
