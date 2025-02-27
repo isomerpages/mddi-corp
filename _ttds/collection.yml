@@ -2,5 +2,6 @@ collections:
   ttds:
     output: true
     order:
+      - Before Application.md
       - Translation Talent Development Scheme.md
       - Eligibility Criteria.md
