@@ -2,6 +2,7 @@ collections:
   ttds:
     output: true
     order:
+      - Testimonials.md
       - Frequently Asked Questions.md
       - After Application.md
       - During Application.md
