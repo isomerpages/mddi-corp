@@ -14,8 +14,10 @@ and Information to date, what is the total funding provided by the Government
 to SPH Media Trust in FY2024.</p>
 <p><strong>Answer:</strong>
 </p>
-<p>The Ministry of Digital Development and Information has provided $260.6
-million to SPH Media Trust in FY2024, in line with the current funding
-agreement. In addition, we have budgeted for $28.9 million of Performance
-Linked Incentives which can be disbursed to SPH Media Trust, subject to
-them meeting the Key Performance Indicators under the current funding agreement.</p>
+<p>Since the Protection from Online Falsehoods and Manipulation Act (POFMA)
+Office's online form for reporting potential falsehoods was introduced
+in 2021, the POFMA Office has received a total of 1,276 pieces of public
+feedback about potential online falsehoods (as of 31 January 2025).</p>
+<p>In the same period, there were nine POFMA Directions issued regarding
+falsehoods that had been reported by a total of 37 pieces of public feedback
+to the POFMA Office.</p>
