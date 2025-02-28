@@ -7,7 +7,7 @@ description: ""
 image: ""
 variant: tiptap
 ---
-<h3>Parliament Sitting on 27 February 2025</h3>
+<h3>Parliament Sitting on 28 February 2025</h3>
 <h3>QUESTION FOR WRITTEN ANSWER</h3>
 <p><strong>7. Ms Hazel Poa </strong>asked the Minister for Digital Development
 and Information to date, what is the total funding provided by the Government
