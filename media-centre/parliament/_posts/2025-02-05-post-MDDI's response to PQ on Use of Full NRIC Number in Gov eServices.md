@@ -1,6 +1,6 @@
 ---
-title: MDDI's response to PQ on Use of Full NRIC Number in Gov e services
-permalink: /parliament/pq-on-use-of-full-nric-number-in-gov-e-services/
+title: MDDI's response to PQ on Use of Full NRIC Number in Gov eServices
+permalink: /parliament/pq-on-use-of-full-nric-number-in-gov-eservices/
 date: 2025-02-05
 layout: post
 description: ""
