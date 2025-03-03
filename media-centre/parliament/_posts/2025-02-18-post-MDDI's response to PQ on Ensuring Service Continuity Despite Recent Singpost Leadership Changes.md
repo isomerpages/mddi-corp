@@ -1,7 +1,7 @@
 ---
 title: MDDI's response to PQ on Ensuring Service Continuity Despite Recent
   Singpost Leadership Changes
-permalink: /parliament/pq-on-ensuring-service-continuity-despite-recent-singpost-leadership-changes/
+permalink: /media-centre/parliament/pq-on-ensuring-service-continuity-despite-recent-singpost-changes/
 date: 2025-02-18
 layout: post
 description: ""

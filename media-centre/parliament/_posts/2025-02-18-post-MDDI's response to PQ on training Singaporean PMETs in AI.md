@@ -1,6 +1,6 @@
 ---
 title: MDDI's response to PQ on training Singaporean PMETs in AI
-permalink: /parliament/pq-on-training-singaporean-pmets-in-ai/
+permalink: /media-centre/parliament/pq-on-training-singaporean-pmets-in-ai/
 date: 2025-02-18
 layout: post
 description: ""

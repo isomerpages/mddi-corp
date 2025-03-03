@@ -1,7 +1,7 @@
 ---
 title: MDDI's response to PQ on Powers to Review Content Algorithms of Social
   Media Companies
-permalink: /parliament/pq-on-powers-to-review-content-algorithms-of-social-media-companies/
+permalink: /media-centre/parliament/pq-on-powers-to-review-content-algorithms-of-social-media-companies/
 date: 2025-02-05
 layout: post
 description: ""

@@ -1,7 +1,7 @@
 ---
 title: MDDI's response to PQ on Age Verification and Restriction Measures on App
   Stores
-permalink: /parliament/pq-on-age-verification-and-restriction-measures-on-app-stores/
+permalink: /media-centre/parliament/pq-on-age-verification-and-restriction-measures-on-app-stores/
 date: 2025-02-18
 layout: post
 description: ""

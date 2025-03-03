@@ -1,7 +1,7 @@
 ---
 title: MDDI's response to PQ on Motivating Productivity Solution Grant Vendors
   to Update Pricings
-permalink: /parliament/pq-on-motivating-productivity-solution-grant-vendors-to-update-pricings/
+permalink: /media-centre/parliament/pq-on-motivating-productivity-solution-grant-vendors-to-update-pricings/
 date: 2025-02-05
 layout: post
 description: ""

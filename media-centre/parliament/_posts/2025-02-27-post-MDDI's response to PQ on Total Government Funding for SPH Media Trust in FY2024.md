@@ -1,6 +1,6 @@
 ---
 title: MDDI's response to PQ on Total Government Funding for SPH Media Trust in FY2024
-permalink: /parliament/pq-on-total-government-funding-for-sph-media-trust-in-fy2024/
+permalink: /media-centre/parliament/pq-on-total-government-funding-for-sph-media-trust-in-fy2024/
 date: 2025-02-27
 layout: post
 description: ""
