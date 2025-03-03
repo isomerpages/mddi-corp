@@ -60,7 +60,7 @@ uses of NRIC numbers, and will provide more details in due course.</p>
 </li>
 </ol>
 <hr>
-<p><a href="https://www.pmo.gov.sg/Newsroom/Review-into-the-Public-Disclosure-of-Full-NRIC-Numbers-on-Bizfile-People-Search" rel="noopener nofollow" target="_blank">PMO’s Press Release on the Review into the Public Disclosure of Full NRIC Numbers on Bizfile People Search</a>
+<p><a href="http://go.gov.sg/nric-people-search-review-report" rel="noopener nofollow" target="_blank">PMO’s Press Release on the Review into the Public Disclosure of Full NRIC Numbers on Bizfile People Search</a>
 </p>
 <p><a href="https://www.mof.gov.sg/news-publications/press-releases/mof-s-and-acra-s-joint-response-to-the-report-of-the-review-into-the-public-disclosure-of-full-nric-numbers-on-bizfile-people-search" rel="noopener nofollow" target="_blank">MOF’s and ACRA’s Joint Response to the Report of the Review into the Public Disclosure of Full NRIC Numbers on Bizfile People Search</a>
 </p>
