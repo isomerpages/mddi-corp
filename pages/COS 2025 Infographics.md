@@ -14,6 +14,25 @@ description: ""
 featured in the infographics.</p>
 <ul data-tight="true" class="tight">
 <li>
+<p><a href="https://www.digitalforlife.gov.sg/learn/resources/all-resources/raising-children-in-the-digital-age" rel="noopener nofollow" target="_blank">Digital for Life Portal</a>&nbsp;</p>
+</li>
+<li>
+<p><a href="https://www.moe.gov.sg/education-in-sg/our-programmes/cyber-wellness" rel="noopener nofollow" target="_blank">Cyber Wellness Education</a>
+</p>
+</li>
+<li>
+<p><a href="https://www.moh.gov.sg/resources-statistics/educational-resources/guidance-on-screen-use-in-children" rel="noopener nofollow" target="_blank">Guidance on Screen Use in Children</a>
+</p>
+</li>
+<li>
+<p><a href="https://www.digitalforlife.gov.sg/home/learn/resources/all-resources/tools-and-resources-for-managing-your-own-safety-online" rel="noopener nofollow" target="_blank">Online Safety Digital Toolkit</a>
+</p>
+</li>
+<li>
+<p><a href="https://parentingforwellness.hpb.gov.sg/" rel="noopener nofollow" target="_blank">Parenting for Wellness Initiative</a>
+</p>
+</li>
+<li>
 <p><a href="https://www.sms.gov.sg/" rel="noopener nofollow" target="_blank">gov.sg SMS Sender ID</a>
 </p>
 </li>
@@ -31,25 +50,6 @@ featured in the infographics.</p>
 </li>
 <li>
 <p><a href="https://www.imda.gov.sg/how-we-can-help/anti-scam-measures" rel="noopener nofollow" target="_blank">Telco Blocking Options</a>
-</p>
-</li>
-<li>
-<p><a href="https://www.digitalforlife.gov.sg/learn/resources/all-resources/raising-children-in-the-digital-age" rel="noopener nofollow" target="_blank">Digital for Life Portal</a>&nbsp;</p>
-</li>
-<li>
-<p><a href="https://www.moe.gov.sg/education-in-sg/our-programmes/cyber-wellness" rel="noopener nofollow" target="_blank">Cyber Wellness Education</a>
-</p>
-</li>
-<li>
-<p><a href="https://www.moh.gov.sg/resources-statistics/educational-resources/guidance-on-screen-use-in-children" rel="noopener nofollow" target="_blank">Guidance on Screen Use in Children</a>
-</p>
-</li>
-<li>
-<p><a href="https://www.digitalforlife.gov.sg/home/learn/resources/all-resources/tools-and-resources-for-managing-your-own-safety-online" rel="noopener nofollow" target="_blank">Online Safety Digital Toolkit</a>
-</p>
-</li>
-<li>
-<p><a href="https://parentingforwellness.hpb.gov.sg/" rel="noopener nofollow" target="_blank">Parenting for Wellness Initiative</a>
 </p>
 </li>
 </ul>
