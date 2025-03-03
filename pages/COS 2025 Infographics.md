@@ -6,8 +6,9 @@ description: ""
 ---
 <h1><strong>Empowering Singaporeans to Navigate the Digital World Safely</strong></h1>
 <p></p>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Empowering Singaporeans to Navigate the Digital World Safely" src="/images/COS 2025/MDDI_COS_infographics_2025_2.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/COS 2025/COS_infographics_2025.jpg">
 </div>
 <p>Click the links below to visit the webpages of the programmes and initiatives
 featured in the infographics.</p>
