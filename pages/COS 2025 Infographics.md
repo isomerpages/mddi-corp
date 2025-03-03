@@ -6,8 +6,11 @@ description: ""
 ---
 <p>Click the links below to visit the webpages of the programmes and initiatives
 featured in MDDI’s COS Infographics.</p>
-<h3><strong>Empowering SMEs to Digitalise and Be Cyber Safe</strong></h3>
+<h4><strong>Empowering SMEs to Digitalise and Be Cyber Safe</strong></h4>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Empowering SMEs to Digitalise and Be Cyber Safe" src="/images/COS 2025/MDDI_COS_infographics_2025_1.jpg">
+</div>
 <p></p>
 <ul data-tight="true" class="tight">
 <li>
@@ -61,7 +64,12 @@ featured in MDDI’s COS Infographics.</p>
 </p>
 </li>
 </ul>
-<h3><strong>Empowering Singaporeans to Navigate the Digital World Safely</strong></h3>
+<h4><strong>Empowering Singaporeans to Navigate the Digital World Safely</strong></h4>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Empowering Singaporeans to Navigate the Digital World Safely" src="/images/COS 2025/MDDI_COS_infographics_2025_2.jpg">
+</div>
+<p></p>
 <ul data-tight="true" class="tight">
 <li>
 <p><a href="https://www.sms.gov.sg/" rel="noopener nofollow" target="_blank">gov.sg SMS Sender ID</a>
