@@ -59,4 +59,8 @@ in guidelines. We will also step up public education efforts on the incorrect
 uses of NRIC numbers, and will provide more details in due course.</p>
 </li>
 </ol>
-<p></p>
+<hr>
+<p>PMO’s Press Release on the Review into the Public Disclosure of Full NRIC
+Numbers on Bizfile People Search</p>
+<p>MOF’s and ACRA’s Joint Response to the Report of the Review into the Public
+Disclosure of Full NRIC Numbers on Bizfile People Search</p>
