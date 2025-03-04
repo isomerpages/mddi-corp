@@ -4,14 +4,14 @@ permalink: /cos-2025-infographics/
 variant: tiptap
 description: ""
 ---
-<h1><strong>Empowering Singaporeans to Navigate the Digital World Safely</strong></h1>
+<h2><strong>Empowering Singaporeans to Navigate the Digital World Safely</strong></h2>
 <p></p>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/COS 2025/COS_infographics_2025.jpg">
 </div>
 <p>Click the links below to visit the webpages of the programmes and initiatives
-featured in the infographics.</p>
+featured in the above infographics.</p>
 <ul data-tight="true" class="tight">
 <li>
 <p><a href="https://www.digitalforlife.gov.sg/learn/resources/all-resources/raising-children-in-the-digital-age" rel="noopener nofollow" target="_blank">Digital for Life Portal</a>&nbsp;</p>
@@ -50,6 +50,59 @@ featured in the infographics.</p>
 </li>
 <li>
 <p><a href="https://www.imda.gov.sg/how-we-can-help/anti-scam-measures" rel="noopener nofollow" target="_blank">Telco Blocking Options</a>
+</p>
+</li>
+</ul>
+<h2><br><strong>Empowering SMEs to Digitalise and Be Cyber Safe</strong></h2>
+<p>Click the links below to visit the webpages of the programmes and initiatives
+featured in the above infographics.</p>
+<ul data-tight="true" class="tight">
+<li>
+<p><a href="https://go.gov.sg/ctoaas-digital-health-check" rel="noopener nofollow" target="_blank">Digital Health Check</a>
+</p>
+</li>
+<li>
+<p><a href="https://go.gov.sg/ctoaas-industry-digital-plans" rel="noopener nofollow" target="_blank">Industry Digital Plans</a>
+</p>
+</li>
+<li>
+<p><a href="https://go.gov.sg/ctoaas-digital-consultancy" rel="noopener nofollow" target="_blank">Digital Consultancy</a>
+</p>
+</li>
+<li>
+<p><a href="https://go.gov.sg/ctoaas-pre-approved-digital-solutions" rel="noopener nofollow" target="_blank">Pre-approved Digital Solutions</a>
+</p>
+</li>
+<li>
+<p><a href="https://go.gov.sg/ctoaas-genai-playbook" rel="noopener nofollow" target="_blank">GenAI Playbook for Enterprises</a>
+</p>
+</li>
+<li>
+<p><a href="https://go.gov.sg/ctoaas-genai-navigator" rel="noopener nofollow" target="_blank">GenAI Navigator</a>
+</p>
+</li>
+<li>
+<p><a href="https://go.gov.sg/ctoaas-genai-sandbox2" rel="noopener nofollow" target="_blank">GenAI Sandbox 2.0</a>
+</p>
+</li>
+<li>
+<p><a href="https://go.gov.sg/ctoaas-digital-leaders-programme" rel="noopener nofollow" target="_blank">Digital Leaders Programme</a>
+</p>
+</li>
+<li>
+<p><a href="https://go.gov.sg/ctoaas-genai-digital-leaders" rel="noopener nofollow" target="_blank">GenAI x Digital Leaders</a>
+</p>
+</li>
+<li>
+<p><a href="https://www.csa.gov.sg/our-programmes/support-for-enterprises/sg-cyber-safe-programme/cybersecurity-resources-for-organisations/toolkits-for-enterprise-leaders-and-sme-owners" rel="noopener nofollow" target="_blank">Cybersecurity toolkits</a>
+</p>
+</li>
+<li>
+<p><a href="https://www.csa.gov.sg/our-programmes/support-for-enterprises/sg-cyber-safe-programme/cybersecurity-certification-for-organisations/ciso-as-a-service-to-develop-cybersecurity-health-plan" rel="noopener nofollow" target="_blank">Chief Information Security Officer (CISO) as-a-Service</a>
+</p>
+</li>
+<li>
+<p><a href="https://www.csa.gov.sg/our-programmes/support-for-enterprises/sg-cyber-safe-programme/cybersecurity-certification-for-organisations" rel="noopener nofollow" target="_blank">Cyber Essentials and Cyber Trust certifications</a>
 </p>
 </li>
 </ul>
