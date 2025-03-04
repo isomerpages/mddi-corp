@@ -30,12 +30,22 @@ description: ""
 </div>
 <div class="isomer-card-grid">
 <div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Suspicious apps" src="/images/Scams Page/scam_app.jpg">
+</div>
+</div>
 <div class="isomer-card-body">
 <div class="isomer-card-title">1.6 million</div>
 <div class="isomer-card-description">attempts to install suspicious apps blocked</div>
 </div>
 </div>
 <div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Scam websites" src="/images/Scams Page/scam_website.jpg">
+</div>
+</div>
 <div class="isomer-card-body">
 <div class="isomer-card-title">Over 44,900</div>
 <div class="isomer-card-description">scam-related websites disrupted</div>
