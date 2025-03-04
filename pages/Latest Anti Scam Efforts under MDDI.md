@@ -52,8 +52,6 @@ description: ""
 </div>
 </div>
 </div>
-<p><em>Figures for 1 Jan – 31 Dec 2024</em>
-</p>
 <h3>Initiatives by the Infocomm Media Development Authority (IMDA)</h3>
 <h4>Blocking of commonly spoofed local numbers, robocalls, scam SMSes and scam-related links via SMS</h4>
 <p>IMDA has partnered with telcos to implement a suite of anti-scam measures
@@ -156,3 +154,6 @@ easily identify genuine government SMS communications and protect against
 government officials impersonation scams.</p>
 <p>Visit <a href="https://www.open.gov.sg/" rel="noopener nofollow" target="_blank">OGP's website</a> for
 details on their anti-scam measures.</p>
+<p></p>
+<p><em><sub>Information accurate as of 31 December 2024</sub></em>
+</p>
