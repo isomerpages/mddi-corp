@@ -6,9 +6,8 @@ description: ""
 ---
 <h2><strong>Empowering Singaporeans to Navigate the Digital World Safely</strong></h2>
 <p></p>
-<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/COS 2025/COS_infographics_2025.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="COS 2025 Infographics" src="/images/COS 2025/COS2025_ParlHandoutA.jpg">
 </div>
 <p>Click the links below to visit the webpages of the programmes and initiatives
 featured in the above infographics.</p>
@@ -53,7 +52,13 @@ featured in the above infographics.</p>
 </p>
 </li>
 </ul>
-<h2><br><strong>Empowering SMEs to Digitalise and Be Cyber Safe</strong></h2>
+<p></p>
+<hr>
+<h2><strong>Empowering SMEs to Digitalise and Be Cyber Safe</strong></h2>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="COS 2025 Infographics" src="/images/COS 2025/COS2025_ParlHandoutB.jpg">
+</div>
 <p>Click the links below to visit the webpages of the programmes and initiatives
 featured in the above infographics.</p>
 <ul data-tight="true" class="tight">
@@ -106,4 +111,5 @@ featured in the above infographics.</p>
 </p>
 </li>
 </ul>
+<p></p>
 <p></p>
