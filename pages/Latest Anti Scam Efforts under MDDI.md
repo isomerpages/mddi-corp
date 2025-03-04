@@ -6,12 +6,22 @@ description: ""
 ---
 <div class="isomer-card-grid">
 <div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Suspected scam call" src="/images/Scams Page/scam_calls.jpg">
+</div>
+</div>
 <div class="isomer-card-body">
 <div class="isomer-card-title">117 million</div>
 <div class="isomer-card-description">potential scam calls blocked</div>
 </div>
 </div>
 <div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Scam messages" src="/images/Scams Page/scam_message.jpg">
+</div>
+</div>
 <div class="isomer-card-body">
 <div class="isomer-card-title">50 million</div>
 <div class="isomer-card-description">potential scam SMSes blocked</div>
@@ -34,11 +44,7 @@ description: ""
 </div>
 <p><em>Figures for 1 Jan – 31 Dec 2024</em>
 </p>
-<h2>Initiatives under MDDI agencies</h2>
-<h3>Infocomm Media Development Authority (IMDA)</h3>
-<div class="isomer-image-wrapper">
-<img style="width: 40%;" height="auto" width="100%" alt="IMDA logo" src="/images/Other Logos/imda_logo_colour.png">
-</div>
+<h3>Initiatives by the Infocomm Media Development Authority (IMDA)</h3>
 <h4>Blocking of commonly spoofed local numbers, robocalls, scam SMSes and scam-related links via SMS</h4>
 <p>IMDA has partnered with telcos to implement a suite of anti-scam measures
 that strengthen safeguards for the public against scams coming through
@@ -82,10 +88,7 @@ declined by almost 80% from 1484 in Q4 2021 to 307 in Q4 2024. As of January
 over 97% of all commercial SMS traffic in Singapore.&nbsp;</p>
 <p>Visit the <a href="https://www.imda.gov.sg/how-we-can-help/anti-scam-measures" rel="noopener nofollow" target="_blank">IMDA website</a> for
 more details on their anti-scam measures.</p>
-<h3>Cybersecurity Agency of Singapore (CSA)</h3>
-<div class="isomer-image-wrapper">
-<img style="width: 30%;" height="auto" width="100%" alt="CSA logo" src="/images/Other Logos/csa logo - color (june2015).jpg">
-</div>
+<h3>Initiatives by the Cybersecurity Agency of Singapore (CSA)</h3>
 <h4>Enhanced Fraud Protection with Google</h4>
 <p>In February 2024, CSA partnered Google on a pilot for Enhanced Fraud Protection
 (EFP) within Google Play Protect in Singapore. This feature automatically
@@ -105,10 +108,7 @@ met, to mitigate against the risk of financial frauds and foster trust
 within Singapore's mobile system.</p>
 <p>Visit <a href="https://www.csa.gov.sg/" rel="noopener nofollow" target="_blank">CSA's website</a> for
 details on their anti-scam measures.</p>
-<h3>Government Technology Agency of Singapore (GovTech)</h3>
-<div class="isomer-image-wrapper">
-<img style="width: 40%;" height="auto" width="100%" alt="GovTech logo" src="/images/Other Logos/GovTechSg_True_Inline_Logo_2_Cyan_CMYK.jpg">
-</div>
+<h3>Initiatives by the Government Technology Agency of Singapore (GovTech)</h3>
 <h4>Scam Analytics and Tactical Intervention System (SATIS)</h4>
 <p>GovTech, in partnership with the Singapore Police Force and the Home Team
 Science and Technology Agency, jointly developed the Scam Analytics and
@@ -124,10 +124,7 @@ This is a significant increase in disruptions as compared to 2023, and
 was made possible through collaborations with online platforms.</p>
 <p>Visit <a href="https://www.tech.gov.sg/products-and-services/for-citizens/scam-prevention/" rel="noopener nofollow" target="_blank">GovTech's website</a> for
 details on their anti-scam measures.</p>
-<h3>Open Government Products (OGP)</h3>
-<div class="isomer-image-wrapper">
-<img style="width: 40%;" height="auto" width="100%" alt="OGP logo" src="/images/Other Logos/OGP_Logo_Hori_1.png">
-</div>
+<h3>Initiatives by Open Government Products (OGP)</h3>
 <h4>Enhanced ScamShield App</h4>
 <p>OGP enhanced the ScamShield App in August 2024 to expand ScamShield’s
 protection from passive to active to combat emerging scam variants, so
