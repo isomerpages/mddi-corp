@@ -78,5 +78,54 @@ declined by almost 80% from 1484 in Q4 2021 to 307 in Q4 2024. As of January
 2025, over 4,000 organisations had registered with SSIR; they account for
 over 97% of all commercial SMS traffic in Singapore.&nbsp;</p>
 <p>Visit the <a href="https://www.imda.gov.sg/how-we-can-help/anti-scam-measures" rel="noopener nofollow" target="_blank">IMDA website</a> for
-more details on IMDA’s anti-scam measures.</p>
-<p></p>
+more details on their anti-scam measures.</p>
+<h3>Cybersecurity Agency of Singapore (CSA)</h3>
+<h4>Enhanced Fraud Protection with Google</h4>
+<p>In February 2024, CSA partnered Google on a pilot for Enhanced Fraud Protection
+(EFP) within Google Play Protect in Singapore. This feature automatically
+blocks the installation of potentially malicious apps that use sensitive
+runtime permissions. As of December 2024, the EFP feature has successfully
+blocked 1.6 million installation attempts of potentially malicious applications
+across nearly 400,000 devices. This prevented 25,000 unique apps from potentially
+being misused for financial fraud and scams. This feature is now being
+rolled out in other countries by Google, protecting citizens beyond Singapore.</p>
+<p>Visit <a href="https://www.csa.gov.sg/" rel="noopener nofollow" target="_blank">CSA's website</a> for
+details on their anti-scam measures.</p>
+<h3>Government Technology Agency of Singapore (GovTech)</h3>
+<h4>Scam Analytics and Tactical Intervention System (SATIS)</h4>
+<p>GovTech, in partnership with the Singapore Police Force and the Home Team
+Science and Technology Agency, jointly developed the Scam Analytics and
+Tactical Intervention System (SATIS), which leverages artificial intelligence
+and machine learning to triage, assess and disrupt scam-related websites
+swiftly. Additional capabilities were added to the SATIS suite of products
+to disrupt online monikers, with planned improvements to disrupt other
+scam enablers such as payment channels and mobile numbers.</p>
+<p>In 2024, the Singapore Government was able to disrupt more than 57,700
+mobile lines, more than 40,500 WhatsApp lines, more than 33,600 online
+monikers and advertisements, and more than 44,900 websites that were scam-related.
+This is a significant increase in disruptions as compared to 2023, and
+was made possible through collaborations with online platforms.</p>
+<p>Visit <a href="https://www.tech.gov.sg/products-and-services/for-citizens/scam-prevention/" rel="noopener nofollow" target="_blank">GovTech's website</a> for
+details on their anti-scam measures.</p>
+<h3>Open Government Products (OGP)</h3>
+<h4>Enhanced ScamShield App</h4>
+<p>OGP enhanced the ScamShield App in August 2024 to expand ScamShield’s
+protection from passive to active to combat emerging scam variants, so
+as to enable users to protect themselves by actively checking suspicious
+messages, calls and websites occurring on third-party platforms such as
+WhatsApp and Telegram. The enhanced app simplifies reporting, for more
+crowdsourced data to improve scam protection and scam intelligence, which
+in turn improve our classifier performance to make sure scam calls and
+SMSes are detected accurately.</p>
+<p>Since the enhanced app was launched, there has been a 32% growth in the
+app user base from 900,000 to 1.19 million users currently. More than 194,000
+activated users have used the “Check for Scams” or “Report a Scam” feature
+at least once and have rated the app an average of 4.67/5 for in-app satisfaction.</p>
+<h4>Single SMS Sender ID <strong>gov.sg</strong> for all government agencies</h4>
+<p>Since 1 July 2024, the Singapore Government has implemented a single SMS
+Sender ID, <strong>gov.sg</strong> for all government agencies. This replaces
+individual government agency Sender IDs. The change aims to help the public
+easily identify genuine government SMS communications and protect against
+government officials impersonation scams.</p>
+<p>Visit <a href="https://www.open.gov.sg/" rel="noopener nofollow" target="_blank">OGP's website</a> for
+details on their anti-scam measures.</p>
