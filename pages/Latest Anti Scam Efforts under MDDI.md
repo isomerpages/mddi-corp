@@ -36,6 +36,9 @@ description: ""
 </p>
 <h2>Initiatives under MDDI agencies</h2>
 <h3>Infocomm Media Development Authority (IMDA)</h3>
+<div class="isomer-image-wrapper">
+<img style="width: 40%;" height="auto" width="100%" alt="IMDA logo" src="/images/Other Logos/imda_logo_colour.png">
+</div>
 <h4>Blocking of commonly spoofed local numbers, robocalls, scam SMSes and scam-related links via SMS</h4>
 <p>IMDA has partnered with telcos to implement a suite of anti-scam measures
 that strengthen safeguards for the public against scams coming through
@@ -80,6 +83,9 @@ over 97% of all commercial SMS traffic in Singapore.&nbsp;</p>
 <p>Visit the <a href="https://www.imda.gov.sg/how-we-can-help/anti-scam-measures" rel="noopener nofollow" target="_blank">IMDA website</a> for
 more details on their anti-scam measures.</p>
 <h3>Cybersecurity Agency of Singapore (CSA)</h3>
+<div class="isomer-image-wrapper">
+<img style="width: 30%;" height="auto" width="100%" alt="CSA logo" src="/images/Other Logos/csa logo - color (june2015).jpg">
+</div>
 <h4>Enhanced Fraud Protection with Google</h4>
 <p>In February 2024, CSA partnered Google on a pilot for Enhanced Fraud Protection
 (EFP) within Google Play Protect in Singapore. This feature automatically
@@ -89,9 +95,20 @@ blocked 1.6 million installation attempts of potentially malicious applications
 across nearly 400,000 devices. This prevented 25,000 unique apps from potentially
 being misused for financial fraud and scams. This feature is now being
 rolled out in other countries by Google, protecting citizens beyond Singapore.</p>
+<h4>Safe App Standard 2.0</h4>
+<p>Developed in consultation with industry stakeholders, CSA published its
+second version of the Safe App Standard (SAS) in October 2024. SAS 2.0
+is a comprehensive guide for mobile app developers in Singapore, to enhance
+security measures for apps which carry a financial transaction feature.
+Its primary objective is to ensure that baseline security standards are
+met, to mitigate against the risk of financial frauds and foster trust
+within Singapore's mobile system.</p>
 <p>Visit <a href="https://www.csa.gov.sg/" rel="noopener nofollow" target="_blank">CSA's website</a> for
 details on their anti-scam measures.</p>
 <h3>Government Technology Agency of Singapore (GovTech)</h3>
+<div class="isomer-image-wrapper">
+<img style="width: 40%;" height="auto" width="100%" alt="GovTech logo" src="/images/Other Logos/GovTechSg_True_Inline_Logo_2_Cyan_CMYK.jpg">
+</div>
 <h4>Scam Analytics and Tactical Intervention System (SATIS)</h4>
 <p>GovTech, in partnership with the Singapore Police Force and the Home Team
 Science and Technology Agency, jointly developed the Scam Analytics and
@@ -108,6 +125,9 @@ was made possible through collaborations with online platforms.</p>
 <p>Visit <a href="https://www.tech.gov.sg/products-and-services/for-citizens/scam-prevention/" rel="noopener nofollow" target="_blank">GovTech's website</a> for
 details on their anti-scam measures.</p>
 <h3>Open Government Products (OGP)</h3>
+<div class="isomer-image-wrapper">
+<img style="width: 40%;" height="auto" width="100%" alt="OGP logo" src="/images/Other Logos/OGP_Logo_Hori_1.png">
+</div>
 <h4>Enhanced ScamShield App</h4>
 <p>OGP enhanced the ScamShield App in August 2024 to expand ScamShield’s
 protection from passive to active to combat emerging scam variants, so
