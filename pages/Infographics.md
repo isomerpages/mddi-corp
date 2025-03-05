@@ -1,6 +1,6 @@
 ---
-title: COS 2025 Infographics
-permalink: /cos-2025-infographics/
+title: Infographics
+permalink: /infographics/
 variant: tiptap
 description: ""
 ---
