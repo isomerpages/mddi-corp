@@ -4,6 +4,8 @@ permalink: /latest-anti-scam-efforts-under-mddi/
 variant: tiptap
 description: ""
 ---
+<p><em><sub>Figures for the period of 1 January to 31 December 2024</sub></em>
+</p>
 <div class="isomer-card-grid">
 <div class="isomer-card">
 <div class="isomer-card-image">
@@ -155,5 +157,3 @@ government officials impersonation scams.</p>
 <p>Visit <a href="https://www.open.gov.sg/" rel="noopener nofollow" target="_blank">OGP's website</a> for
 details on their anti-scam measures.</p>
 <p></p>
-<p><em><sub>Information accurate as of 31 December 2024</sub></em>
-</p>
