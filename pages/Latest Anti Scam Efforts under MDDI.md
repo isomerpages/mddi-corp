@@ -6,41 +6,21 @@ description: ""
 ---
 <p><em><sub>Figures for the period of 1 January to 31 December 2024</sub></em>
 </p>
-<div style="display: flex; gap: 20px; justify-content: center; align-items: flex-start;">
-  <div style="width: 500px; border: 1px solid #ccc; border-radius: 10px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); overflow: hidden; text-align: center;">
-    <img style="width: 100%; height: auto;" alt="Scam Calls Blocked" src="https://www.mddi.gov.sg/images/Scams%20Page/scam_calls.jpg">
-    <div style="padding: 20px;">
-      <p style="font-size: 24px; font-weight: bold; color: #1a5632; margin: 0;">117 million</p>
-      <p style="font-size: 16px; margin: 10px 0 0;">potential scam calls blocked</p>
-    </div>
-  </div>
+<div class="row" style="padding: 20px 0px 0px 0px;">
 
-  <div style="width: 500px; border: 1px solid #ccc; border-radius: 10px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); overflow: hidden; text-align: center;">
-    <img style="width: 100%; height: auto;" alt="Scam SMSes Blocked" src="https://www.mddi.gov.sg/images/Scams%20Page/scam_message.jpg">
-    <div style="padding: 20px;">
-      <p style="font-size: 24px; font-weight: bold; color: #1a5632; margin: 0;">50 million</p>
-      <p style="font-size: 16px; margin: 10px 0 0;">potential scam SMSes blocked</p>
-    </div>
-  </div>
+<div class="col" style="padding: 15px 15px 25px 15px;"><img style="border:1px solid black;" src="/images/Scams%20Page/scam_calls.jpg" alt="Image Alt Text"><br><span style="font-size: 28px; font-weight: bold; line-height: 40px;">117 Million</span><br><b>potential scam calls blocked</b><br></div>  
+  
+<div class="col" style="padding: 15px 15px 25px 15px;"><img style="border:1px solid black;" src="/images/Scams%20Page/scam_message.jpg" alt="Image Alt Text"><br><span style="font-size: 28px; font-weight: bold; line-height: 40px;">50 Million</span><br><b>potential scam SMSes blocked</b><br></div>
 </div>
-<p>
-</p><div style="display: flex; gap: 20px; justify-content: center; align-items: flex-start;">
-  <div style="width: 500px; border: 1px solid #ccc; border-radius: 10px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); overflow: hidden; text-align: center;">
-    <img style="width: 100%; height: auto;" alt="Scam Apps Blocked" src="https://www.mddi.gov.sg/images/Scams%20Page/scam_app.jpg">
-    <div style="padding: 20px;">
-      <p style="font-size: 24px; font-weight: bold; color: #1a5632; margin: 0;">1.6 million</p>
-      <p style="font-size: 16px; margin: 10px 0 0;">attempts to install suspicious apps blocked</p>
-    </div>
-  </div>
 
-  <div style="width: 500px; border: 1px solid #ccc; border-radius: 10px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); overflow: hidden; text-align: center;">
-    <img style="width: 100%; height: auto;" alt="Scam Websites Blocked" src="https://www.mddi.gov.sg/images/Scams%20Page/scam_website.jpg">
-    <div style="padding: 20px;">
-      <p style="font-size: 24px; font-weight: bold; color: #1a5632; margin: 0;">Over 44,900</p>
-      <p style="font-size: 16px; margin: 10px 0 0;">scam-related websites disrupted</p>
-    </div>
-  </div>
+<div class="row" style="padding: 20px 0px 0px 0px;">
+
+<div class="col" style="padding: 15px 15px 25px 15px;"><img style="border:1px solid black;" src="/images/Scams%20Page/scam_app.jpg" alt="Image Alt Text"><br><span style="font-size: 28px; font-weight: bold; line-height: 40px;">1.6 Million</span><br><b>attempt to install suspicious apps blocked</b><br></div>  
+  
+<div class="col" style="padding: 15px 15px 25px 15px;"><img style="border:1px solid black;" src="/images/Scams%20Page/scam_website.jpg" alt="Image Alt Text"><br><span style="font-size: 28px; font-weight: bold; line-height: 40px;">Over 44,900</span><br><b>scam-related websites disrupted</b><br></div>
 </div>
+
+
 <h3>Initiatives by the Infocomm Media Development Authority (IMDA)</h3>
 <h4>Blocking of commonly spoofed local numbers, robocalls, scam SMSes and scam-related links via SMS</h4>
 <p>IMDA partnered with telcos to implement a suite of anti-scam measures
