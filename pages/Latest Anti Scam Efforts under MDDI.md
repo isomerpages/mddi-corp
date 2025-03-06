@@ -6,6 +6,7 @@ description: ""
 ---
 <p><em><sub>Figures for the period of 1 January to 31 December 2024</sub></em>
 </p>
+<p></p>
 <div class="isomer-card-grid">
 <div class="isomer-card">
 <div class="isomer-card-image">
