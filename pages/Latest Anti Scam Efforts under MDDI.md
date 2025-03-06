@@ -98,7 +98,7 @@ over 4,000 organisations had registered with SSIR, which account for over
 97% of all commercial SMS traffic in Singapore.</p>
 <p>Visit the <a href="https://www.imda.gov.sg/how-we-can-help/anti-scam-measures" rel="noopener nofollow" target="_blank">IMDA website</a> for
 more details on their anti-scam measures.</p>
-<h3>Initiatives by the Cybersecurity Agency of Singapore (CSA)</h3>
+<h3>Initiatives by the Cyber Security Agency of Singapore (CSA)</h3>
 <h4>Enhanced Fraud Protection with Google</h4>
 <p>In February 2024, CSA partnered Google on a pilot for the Enhanced Fraud
 Protection (EFP) feature within Google Play Protect. This feature automatically
