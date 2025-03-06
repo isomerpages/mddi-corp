@@ -15,7 +15,7 @@ description: ""
 
 <div class="row" style="padding: 20px 0px 0px 0px;">
 
-<div class="col" style="padding: 15px 15px 25px 15px;"><img style="border:1px gray;" src="/images/Scams%20Page/scam_app.jpg" alt="Image Alt Text"><br><span style="font-size: 28px; font-weight: bold; color: #1a5632; line-height: 40px;">1.6 Million</span><br><b>attempt to install suspicious apps blocked</b><br></div>  
+<div class="col" style="padding: 15px 15px 25px 15px;"><img style="border:1px gray;" src="/images/Scams%20Page/scam_app.jpg" alt="Image Alt Text"><br><span style="font-size: 28px; font-weight: bold; color: #1a5632; line-height: 40px;">1.6 Million</span><br><b>attempts to install suspicious apps blocked</b><br></div>  
   
 <div class="col" style="padding: 15px 15px 25px 15px;"><img style="border:1px gray;" src="/images/Scams%20Page/scam_website.jpg" alt="Image Alt Text"><br><span style="font-size: 28px; font-weight: bold; color: #1a5632; line-height: 40px;">Over 44,900</span><br><b>scam-related websites disrupted</b><br></div>
 </div>
