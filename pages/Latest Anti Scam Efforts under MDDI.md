@@ -20,7 +20,6 @@ description: ""
 <div class="col" style="padding: 15px 15px 25px 15px;"><img style="border:1px gray;" src="/images/Scams%20Page/scam_website.jpg" alt="Image Alt Text"><br><span style="font-size: 28px; font-weight: bold; color: #1a5632; line-height: 40px;">Over 44,900</span><br><b>scam-related websites disrupted</b><br></div>
 </div>
 
-
 <h3>Initiatives by the Infocomm Media Development Authority (IMDA)</h3>
 <h4>Blocking of commonly spoofed local numbers, robocalls, scam SMSes and scam-related links via SMS</h4>
 <p>IMDA partnered with telcos to implement a suite of anti-scam measures
