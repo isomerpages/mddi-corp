@@ -26,7 +26,7 @@ description: ""
 <p>
 </p><div style="display: flex; gap: 20px; justify-content: center; align-items: flex-start;">
   <div style="width: 500px; border: 1px solid #ccc; border-radius: 10px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); overflow: hidden; text-align: center;">
-    <img style="width: 100%; height: auto;" alt="Scam Calls Blocked" src="https://www.mddi.gov.sg/images/Scams%20Page/scam_calls.jpg">
+    <img style="width: 100%; height: auto;" alt="Scam Apps Blocked" src="https://www.mddi.gov.sg/images/Scams%20Page/scam_app.jpg">
     <div style="padding: 20px;">
       <p style="font-size: 24px; font-weight: bold; color: #1a5632; margin: 0;">1.6 million</p>
       <p style="font-size: 16px; margin: 10px 0 0;">attempts to install suspicious apps blocked</p>
@@ -34,7 +34,7 @@ description: ""
   </div>
 
   <div style="width: 500px; border: 1px solid #ccc; border-radius: 10px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); overflow: hidden; text-align: center;">
-    <img style="width: 100%; height: auto;" alt="Scam SMSes Blocked" src="https://www.mddi.gov.sg/images/Scams%20Page/scam_message.jpg">
+    <img style="width: 100%; height: auto;" alt="Scam Websites Blocked" src="https://www.mddi.gov.sg/images/Scams%20Page/scam_website.jpg">
     <div style="padding: 20px;">
       <p style="font-size: 24px; font-weight: bold; color: #1a5632; margin: 0;">Over 44,900</p>
       <p style="font-size: 16px; margin: 10px 0 0;">scam-related websites disrupted</p>
