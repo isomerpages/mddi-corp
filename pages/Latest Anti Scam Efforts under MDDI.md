@@ -6,56 +6,24 @@ description: ""
 ---
 <p><em><sub>Figures for the period of 1 January to 31 December 2024</sub></em>
 </p>
-&nbsp;&nbsp;&nbsp;This is the text for the first box.&nbsp;&nbsp;&nbsp;&nbsp;This is the text for the second box.&nbsp;&nbsp;
-<p></p>
-<div class="isomer-card-grid">
-<div class="isomer-card">
-<div class="isomer-card-image">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Suspected scam call" src="/images/Scams Page/scam_calls.jpg">
+<div style="display: flex; gap: 20px; justify-content: center; align-items: flex-start;">
+  <div style="width: 500px; border: 1px solid #ccc; border-radius: 10px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); overflow: hidden; text-align: center;">
+    <img style="width: 100%; height: auto;" alt="Scam Calls Blocked" src="https://www.mddi.gov.sg/images/Scams%20Page/scam_calls.jpg">
+    <div style="padding: 20px;">
+      <p style="font-size: 24px; font-weight: bold; color: #1a5632; margin: 0;">117 million</p>
+      <p style="font-size: 16px; margin: 10px 0 0;">potential scam calls blocked</p>
+    </div>
+  </div>
+
+  <div style="width: 500px; border: 1px solid #ccc; border-radius: 10px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); overflow: hidden; text-align: center;">
+    <img style="width: 100%; height: auto;" alt="Scam SMSes Blocked" src="https://www.mddi.gov.sg/images/Scams%20Page/scam_message.jpg">
+    <div style="padding: 20px;">
+      <p style="font-size: 24px; font-weight: bold; color: #1a5632; margin: 0;">50 million</p>
+      <p style="font-size: 16px; margin: 10px 0 0;">potential scam SMSes blocked</p>
+    </div>
+  </div>
 </div>
-</div>
-<div class="isomer-card-body">
-<div class="isomer-card-title">117 million</div>
-<div class="isomer-card-description">potential scam calls blocked</div>
-</div>
-</div>
-<div class="isomer-card">
-<div class="isomer-card-image">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Scam messages" src="/images/Scams Page/scam_message.jpg">
-</div>
-</div>
-<div class="isomer-card-body">
-<div class="isomer-card-title">50 million</div>
-<div class="isomer-card-description">potential scam SMSes blocked</div>
-</div>
-</div>
-</div>
-<div class="isomer-card-grid">
-<div class="isomer-card">
-<div class="isomer-card-image">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Suspicious apps" src="/images/Scams Page/scam_app.jpg">
-</div>
-</div>
-<div class="isomer-card-body">
-<div class="isomer-card-title">1.6 million</div>
-<div class="isomer-card-description">attempts to install suspicious apps blocked</div>
-</div>
-</div>
-<div class="isomer-card">
-<div class="isomer-card-image">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Scam websites" src="/images/Scams Page/scam_website.jpg">
-</div>
-</div>
-<div class="isomer-card-body">
-<div class="isomer-card-title">Over 44,900</div>
-<div class="isomer-card-description">scam-related websites disrupted</div>
-</div>
-</div>
-</div>
+
 <h3>Initiatives by the Infocomm Media Development Authority (IMDA)</h3>
 <h4>Blocking of commonly spoofed local numbers, robocalls, scam SMSes and scam-related links via SMS</h4>
 <p>IMDA partnered with telcos to implement a suite of anti-scam measures
