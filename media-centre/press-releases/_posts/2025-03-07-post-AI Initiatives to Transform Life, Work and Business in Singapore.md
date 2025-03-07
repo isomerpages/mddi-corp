@@ -75,5 +75,6 @@ come with grant support. Refer to Annex D for more details.</p>
 barriers to AI adoption, helping Singapore’s enterprises to remain competitive
 in an AI-driven economy. Both the GenAI Playbook and the GenAI Navigator
 will be accessible from the CTO-as-a-Service platform.</p>
-<p></p>
+<p><a href="/files/Press Releases 2025/Annexes___AI_Initiatives_to_Transform_Life_Work_and_Business_in_Singapore.pdf" rel="noopener nofollow" target="_blank">Annex A to D</a>
+</p>
 <p></p>
