@@ -47,7 +47,7 @@ sections:
   - infobar:
       title: Latest Anti-Scam Efforts
       id: infobar
-      description: Initiatives to combat scams from the agencies under MDDI
+      description: Initiatives to combat scams from the agencies under MDDI.
       button: Find out more
       url: https://www.mddi.gov.sg/latest-anti-scam-efforts-under-mddi/
 ---
