@@ -37,4 +37,17 @@ sections:
       title: Latest News
       id: resources
       button: More news
+  - infobar:
+      title: Committee of Supply 2025
+      id: infobar
+      description: MDDI outlined our priorities for 2025 at the latest Committee of
+        Supply debate.
+      button: Read more
+      url: https://www.mddi.gov.sg/what-we-do/committee-of-supply/2025/
+  - infobar:
+      title: Latest Anti-Scam Efforts
+      id: infobar
+      description: Initiatives to combat scams from the agencies under MDDI.
+      button: Find out more
+      url: https://www.mddi.gov.sg/latest-anti-scam-efforts-under-mddi/
 ---
