@@ -32,7 +32,7 @@ sections:
           url: /join-us/careers/life-at-mddi/
         - title: Committee of Supply
           description: Budget Debate
-          url: /what-we-do/committee-of-supply/2024/
+          url: /what-we-do/committee-of-supply/2025/
   - resources:
       title: Latest News
       id: resources
