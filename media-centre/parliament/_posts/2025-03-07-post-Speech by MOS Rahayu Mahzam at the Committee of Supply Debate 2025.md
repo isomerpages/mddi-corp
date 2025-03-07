@@ -20,7 +20,7 @@ where citizens enjoy:</p>
 <p>c. Safe, healthy and positive digital experiences through a whole-of-society
 effort.</p>
 <p>3. I thank Mr Keith Chua for his interest in these efforts.</p>
-<p><strong>Enhancing digital accessibility</strong>
+<p><strong><u>Enhancing digital accessibility</u></strong>
 </p>
 <p>4. Let me start with access to digital technologies. Singapore is a highly
 connected nation. 98 per cent of our resident households are connected
@@ -96,7 +96,7 @@ confident individuals with their transactions.</p>
 frequently used government services and schemes.</p>
 <p>14. The Government will continue to be citizen-centric in our approach,
 and make non-digital options available so that no one is left out.</p>
-<p><strong>Uplifting digital proficiency for all</strong>
+<p><strong><u>Uplifting digital proficiency for all</u></strong>
 </p>
 <p>15. Let me move on to digital skills. Two in three Singaporeans have basic
 digital skills, and are able to carry out day-to-day tasks online, such
@@ -188,7 +188,7 @@ will introduce AI for Fun this year.</p>
 <p>23. It is our endeavour to ensure that every Singaporean, regardless of
 age, is encouraged to learn, use and have fun with new technologies in
 an informed and responsible way.</p>
-<p><strong>Fostering digital well-being, citizenry and safety for our community</strong>
+<p><strong><u>Fostering digital well-being, citizenry and safety for our community</u></strong>
 </p>
 <p>24. This brings me to the topic of online safety. Incidents that take
 place online, like the generation and dissemination of deepfake nude photos,
@@ -259,7 +259,7 @@ to shape public policy, not all findings are suitable for public release.</p>
 be used for non-public policy purposes, funding for such surveys are subject
 to the same governance requirements as other forms of public expenditure
 undertaken by government agencies.</p>
-<p><strong>Conclusion</strong>
+<p><strong><u>Conclusion</u></strong>
 </p>
 <p>31. To conclude, Mr Chairman, we invite everyone — individuals, companies
 and community organisations — to become a partner of the Digital for Life
