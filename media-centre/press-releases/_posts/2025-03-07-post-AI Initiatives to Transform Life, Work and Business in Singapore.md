@@ -7,8 +7,7 @@ description: ""
 image: ""
 variant: tiptap
 ---
-<p><strong>AI Initiatives to Transform Life, Work and Business in Singapore</strong>
-</p>
+<h4><strong>AI Initiatives to Transform Life, Work and Business in Singapore</strong></h4>
 <p>1. At its Committee of Supply (COS) Debate 2025, the Ministry of Digital
 Development and Information (MDDI) announced new Artificial Intelligence
 (AI) initiatives to enhance the quality of life for Singaporeans, equip
