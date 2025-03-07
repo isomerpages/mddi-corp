@@ -62,6 +62,16 @@ Partner Network for technical expertise and support for their entire journey
 from tech discovery, development and deployment of GenAI solutions. entire
 journey from tech discovery, development and deployment of GenAI solutions.</p>
 </li>
+<li>
+<p><em>[Recently launched in Nov 2024] </em>The Spark GenAI Programme, a
+collaboration between DBS, IMDA, and EnterpriseSG, aims to help SMEs leverage
+GenAI solutions for business challenges. The programme offers a structured
+approach through four pillars: Discover (awareness building), Identify
+(solution recommendations), Adopt (grant support), and Secure (digital
+resilience). Over the next two years, DBS plans to reach 50,000 local SMEs,
+providing actionable insights and guidance for integrating GenAI into areas
+such as customer engagement and marketing.</p>
+</li>
 </ul>
 </div>
 </details>
