@@ -7,6 +7,8 @@ description: ""
 image: ""
 variant: tiptap
 ---
+<p><strong>Designing for Digital Accessibility and Inclusion</strong>
+</p>
 <p>1. The Singapore Government is committed to inclusive design, ensuring
 that digital services are accessible to all, including people with disabilities.
 To reinforce this commitment, the Ministry of Digital Development and Information
