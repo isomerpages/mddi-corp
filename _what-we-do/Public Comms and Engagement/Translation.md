@@ -5,7 +5,7 @@ description: ""
 third_nav_title: Public Comms and Engagement
 variant: markdown
 ---
-![National Translation Committee Image](/images/TD/updated%20ifg%201_ntc%20banner_mci%20website%20revamp%202023.png)
+![National Translation Committee Image](/images/TD/ntc_banner_updated_logo.jpg)
 &nbsp;
 
 <section id="raising-translation-standards">
