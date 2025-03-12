@@ -1,5 +1,6 @@
 ---
-title: Opening Address by SMS Tan at the Artificial Intelligence Festival Asia
+title: Opening Address by SMS Tan Kiat How at the Artificial Intelligence
+  Festival Asia
 permalink: /media-centre/speeches/opening-address-by-sms-tan-at-the-artificial-intelligence-festival-asia/
 date: 2025-01-17
 layout: post
