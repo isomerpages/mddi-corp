@@ -212,204 +212,112 @@ already been implemented. <strong>But at this stage, we are prioritising the spe
 <p><strong>Question: </strong>You mentioned that the sort of three AI summits
 that have happened and how the conversation slightly moved on. But the
 whole point of them was to try to bring together countries to discuss frameworks
-and legislations in a global manner. There was</p>
-<p>a letter that was signed by many attendees, except for the US, apart from
-the UK as well.</p>
-<p>And it felt to me that as this conversation towards global frameworks
-continue, there are</p>
-<p>so many divisions yet. So how do you go about this? How important is a
-global framework</p>
-<p>around AI safety. And secondly, how do you go about getting back when
-there feels to be</p>
-<p>a lot of competition intention right now between nations?</p>
-<p>Minister: You know, the way with these meetings, I wouldn't be overly
-perturbed a</p>
-<p>declaration didn't have all the signatures of everyone who attended. The
-reason is quite</p>
-<p>straightforward. In your organisations, if there is a commitment you have
-to make publicly,</p>
-<p>then there will need to be an internal process to see whether you are
-able to live up to</p>
-<p>those commitments. And there will be countries who look at it and say
-that that's too little</p>
-<p>Page 8 of 11</p>
-<p>time—we need to talk to our capital, we need to talk to all the different
-agencies. So from</p>
-<p>that perspective, I completely understand why there are occasions where
-declaration did</p>
-<p>not get signed. It partially depends on when this draft was surfaced,
-so I wouldn’t be too</p>
-<p>concerned about that. Having said that, I think at some point, global
-frameworks are</p>
-<p>going to be critical. If you talk to businesses operating in multiple
-jurisdictions and</p>
-<p>in the digital domain, the porosity means that you are in many markets
-and to have</p>
-<p>to deal with a different set of rules each market that you go to, the
-lack of</p>
-<p>interoperability is a great impediment to business expansion. It is also
-difficult to</p>
-<p>ensure that the citizens of each of these jurisdictions are protected
-to a comparable</p>
-<p>degree. And I think over time, these frameworks are going to be increasingly</p>
-<p>important. The difficulty is that the more you want people to sign it,
-the tendency is that</p>
-<p>it becomes more bland. It becomes, where perhaps, it is not at the right
-level of ambition,</p>
-<p>because it has to satisfy everyone's sense of what's right and what's
-wrong. I think this is</p>
-<p>an ongoing conversation and I don't expect that it will come to any conclusion
-anytime</p>
-<p>soon. However, I am very hopeful and I am optimistic that there are like-minded
-countries</p>
-<p>that are very keen to continue to move forward together, particularly
-in the area of AI</p>
-<p>safety. Just because we want to advance AI adoption and the build-up of
-AI ecosystem in</p>
-<p>all of our countries doesn't mean that we throw caution to the wind. If
-you want this to</p>
-<p>be truly transformative, we have to give our citizens assurance that is
-being</p>
-<p>implemented with great sense of responsibility and also safety.</p>
-<p>Question: Minister, it's hard to talk about technology without talking
-about the rapidly</p>
-<p>changing global political and regulatory landscape. I was at Mobile World
-Congress very</p>
-<p>recently, on stage with the CEO of Mistral AI, one of Europe’s leaders
-in large language</p>
-<p>model. And he vocalised something that's kind of bubbling under the surface
-for a long</p>
-<p>time in Europe. And he said, we think that it's time for European companies
-to look to</p>
-<p>reduce their reliance on American technology, which is a discussion that's
-been being had</p>
-<p>in the background. But the first time I heard it publicly vocalised by
-a European tech</p>
-<p>company. And it comes at a time where it looks like the US is going “US
-First” when it</p>
-<p>comes to technology and many other areas as well. How do you navigate
-that landscape,</p>
-<p>Page 9 of 11</p>
-<p>particularly as it relates to what you were talking about at the start
-of the conversation</p>
-<p>around resiliency?</p>
-<p>Minister: You know this idea of over reliance is not new at all. Even
-as an economy that</p>
-<p>was developing through the 70s, 80s and 90s, we looked at Singapore to
-ask if we are</p>
-<p>relying too much on a particular sector? And how do we diversify the economy?
-I believe,</p>
-<p>the first recession that we had post-independence was in 1985 or 1986.
-It was very</p>
-<p>prominent in our minds that if you are only depending on the few engines,
-then when the</p>
-<p>chips are down, you may not have enough to keep going. So the idea is
-that we would</p>
-<p>diversify our economy, the kind of activities that people were engaged
-in. Within each of</p>
-<p>those activities and industries, you would want to have a diversity of
-players in those</p>
-<p>domains. I think that is quite embedded in our way of thinking. So that's
-not new in any</p>
-<p>way. Having said that, I think you also have to recognise that some countries
-are very</p>
-<p>advanced in the areas of excellence that they have. AI is one of them.
-Quantum will be</p>
-<p>another one. We will certainly try to build up our own capabilities, but
-it is not at all</p>
-<p>realistic for Singapore to say that we want complete independence and
-to be self-</p>
-<p>sufficient. We decided a long time ago that that was not an idea that
-was going to work</p>
-<p>for us. We continue to try and engage with all of our partners. It doesn't
-matter</p>
-<p>where they come from at the enterprise level, and in many different ways,
-we look</p>
-<p>primarily for a combination of performance and also security as well as
-resilience.</p>
-<p>And that remains the fundamentals that will drive decision-making.</p>
-<p>Question: Minister, I just wanted to talk about the future. In this age
-of AI, how you are</p>
-<p>thinking about fostering the next generation of tech leaders and things
-like reskilling as</p>
-<p>well, which are becoming increasingly important? I think I saw a story
-in the last couple</p>
-<p>of days that schools in Beijing will introduce AI courses in primary and
-secondary schools.</p>
-<p>As countries around the world think about education and reskilling, what
-are you doing at</p>
-<p>this point when you think about the younger generation here and how to
-build them up</p>
-<p>into a nation of tech forward and forward-thinking people?</p>
-<p>Minister: We continue to try and engage with all of our partners. It doesn't
-matter</p>
-<p>where they come from at the enterprise level, and in many different ways,
-we look</p>
-<p>Page 10 of 11</p>
-<p>primarily for a combination of performance and also security as well as
-resilience.</p>
-<p>And that remains the fundamentals that will drive decision-making.</p>
+and legislations in a global manner. There was a letter that was signed
+by many attendees, except for the US, apart from the UK as well. And it
+felt to me that as this conversation towards global frameworks continue,
+there are so many divisions yet. So how do you go about this? How important
+is a global framework around AI safety. And secondly, how do you go about
+getting back when there feels to be a lot of competition intention right
+now between nations?</p>
+<p><strong>Minister:</strong> You know, the way with these meetings, I wouldn't
+be overly perturbed a declaration didn't have all the signatures of everyone
+who attended. The reason is quite straightforward. In your organisations,
+if there is a commitment you have to make publicly, then there will need
+to be an internal process to see whether you are able to live up to those
+commitments. And there will be countries who look at it and say that that's
+too little time—we need to talk to our capital, we need to talk to all
+the different agencies. So from that perspective, I completely understand
+why there are occasions where declaration did not get signed. It partially
+depends on when this draft was surfaced, so I wouldn’t be too concerned
+about that. <strong>Having said that, I think at some point, global frameworks are going to be critical. If you talk to businesses operating in multiple jurisdictions and in the digital domain, the porosity means that you are in many markets and to have to deal with a different set of rules each market that you go to, the lack of interoperability is a great impediment to business expansion. It is also difficult to ensure that the citizens of each of these jurisdictions are protected to a comparable degree. And I think over time, these frameworks are going to be increasingly important.</strong> The
+difficulty is that the more you want people to sign it, the tendency is
+that it becomes more bland. It becomes, where perhaps, it is not at the
+right level of ambition, because it has to satisfy everyone's sense of
+what's right and what's wrong. I think this is an ongoing conversation
+and I don't expect that it will come to any conclusion anytime soon. However,
+I am very hopeful and I am optimistic that there are like-minded countries
+that are very keen to continue to move forward together, particularly in
+the area of AI safety. Just because we want to advance AI adoption and
+the build-up of AI ecosystem in all of our countries doesn't mean that
+we throw caution to the wind. <strong>If you want this to be truly transformative, we have to give our citizens assurance that is being implemented with great sense of responsibility and also safety.</strong>
+</p>
+<p><strong>Question: </strong>Minister, it's hard to talk about technology
+without talking about the rapidly changing global political and regulatory
+landscape. I was at Mobile World Congress very recently, on stage with
+the CEO of Mistral AI, one of Europe’s leaders in large language model.
+And he vocalised something that's kind of bubbling under the surface for
+a long time in Europe. And he said, we think that it's time for European
+companies to look to reduce their reliance on American technology, which
+is a discussion that's been being had in the background. But the first
+time I heard it publicly vocalised by a European tech company. And it comes
+at a time where it looks like the US is going “US First” when it comes
+to technology and many other areas as well. How do you navigate that landscape,
+particularly as it relates to what you were talking about at the start
+of the conversation around resiliency?</p>
+<p><strong>Minister: </strong>You know this idea of over reliance is not
+new at all. Even as an economy that was developing through the 70s, 80s
+and 90s, we looked at Singapore to ask if we are relying too much on a
+particular sector? And how do we diversify the economy? I believe, the
+first recession that we had post-independence was in 1985 or 1986. It was
+very prominent in our minds that if you are only depending on the few engines,
+then when the chips are down, you may not have enough to keep going. So
+the idea is that we would diversify our economy, the kind of activities
+that people were engaged in. Within each of those activities and industries,
+you would want to have a diversity of players in those domains. I think
+that is quite embedded in our way of thinking. So that's not new in any
+way. Having said that, I think you also have to recognise that some countries
+are very advanced in the areas of excellence that they have. AI is one
+of them. Quantum will be another one. <strong>We will certainly try to build up our own capabilities, but it is not at all realistic for Singapore to say that we want complete independence and to be self-sufficient.</strong> We
+decided a long time ago that that was not an idea that was going to work
+for us. <strong>We continue to try and engage with all of our partners. It doesn't matter where they come from at the enterprise level, and in many different ways, we look primarily for a combination of performance and also security as well as resilience. And that remains the fundamentals that will drive decision-making.</strong>
+</p>
+<p><strong>Question:</strong> Minister, I just wanted to talk about the future.
+In this age of AI, how you are thinking about fostering the next generation
+of tech leaders and things like reskilling as well, which are becoming
+increasingly important? I think I saw a story in the last couple of days
+that schools in Beijing will introduce AI courses in primary and secondary
+schools. As countries around the world think about education and reskilling,
+what are you doing at this point when you think about the younger generation
+here and how to build them up into a nation of tech forward and forward-thinking
+people?</p>
+<p><strong>Minister:</strong>  <strong>We continue to try and engage with all of our partners. It doesn't matter where they come from at the enterprise level, and in many different ways, we look primarily for a combination of performance and also security as well as resilience. And that remains the fundamentals that will drive decision-making.</strong>
+</p>
 <p>So, we paid attention to what we call pre-employment training - universities,
-polytechnics,</p>
-<p>Institutes of Technical Education, those are very important to us. But
-continuing education</p>
-<p>training is probably going to be even more important. The ability of a
-young mind to absorb</p>
-<p>what is of current relevance is very strong, so we don't need to do a
-lot to encourage</p>
-<p>young people to be savvy in the digital sense. We don't need to do a lot
-to persuade them</p>
-<p>that it is kind of useful to learn coding. Even if you are not able to
-do the most sophisticated</p>
-<p>kind of coding, simple stuff like block coding is not that difficult,
-and they pick it up. So I</p>
-<p>don't have a great big worry there.</p>
+polytechnics, Institutes of Technical Education, those are very important
+to us. But continuing education training is probably going to be even more
+important. The ability of a young mind to absorb what is of current relevance
+is very strong, so we don't need to do a lot to encourage young people
+to be savvy in the digital sense. We don't need to do a lot to persuade
+them that it is kind of useful to learn coding. Even if you are not able
+to do the most sophisticated kind of coding, simple stuff like block coding
+is not that difficult, and they pick it up. So I don't have a great big
+worry there.</p>
 <p>I also think that our educational system has been tried and tested over
-many years. We've</p>
-<p>got teachers who are very invested in helping their students prepare for
-what we call “21st</p>
-<p>century competencies”. What we did interest interestingly decided was
-that instead of us</p>
-<p>trying to impress upon these educators what is relevant in this new era,
-it is easier for us</p>
-<p>to invite them to a setting like this and listen to people talk about
-how technology is</p>
-<p>changing the world. The educators themselves bring it back and redesign
-the curriculum</p>
-<p>accordingly. So we have a programme that we call the Smart Nation Fellows
-to do just</p>
-<p>that. In other words, don't attempt to, as a non-expert in curriculum
-design, change</p>
-<p>curriculum. You need the curriculum designers to embrace it and change
-it for</p>
-<p>themselves.</p>
+many years. We've got teachers who are very invested in helping their students
+prepare for what we call “21st century competencies”. What we did interest
+interestingly decided was that instead of us trying to impress upon these
+educators what is relevant in this new era, it is easier for us to invite
+them to a setting like this and listen to people talk about how technology
+is changing the world. The educators themselves bring it back and redesign
+the curriculum accordingly. So we have a programme that we call the Smart
+Nation Fellows to do just that. In other words, don't attempt to, as a
+non-expert in curriculum design, change curriculum. You need the curriculum
+designers to embrace it and change it for themselves.</p>
 <p>But I wanted to shift a little bit of attention onto continuing education
-and training. People</p>
-<p>after they leave their workforce, if we think that what they left school
-with is going to last</p>
-<p>them their entire working lives, I think that's not realistic. I think
-in their 40 or 50 years</p>
-<p>active in the workforce, they might well probably have to pivot three,
-four, five, six times,</p>
-<p>maybe even more, who's to tell? But the idea is to give them the support
-and infrastructure</p>
-<p>that makes it possible for them to make this pivot. One programme that
-I'm particularly</p>
-<p>happy about is that, once you reach the age of 40 in Singapore, and you
-decide that you</p>
-<p>have to go all the way back to school and acquire formal qualifications
-all over again, we</p>
-<p>now a scheme that can support you going back to school for up to two years,
-you can do</p>
-<p>it on a full-time or part-time basis. What the country, what the state,
-decides to do is that</p>
-<p>Page 11 of 11</p>
-<p>your financial commitments, we will help you fulfill it. Meaning that
-not only when you go</p>
-<p>back to school, there are subsidies for course fees, there's actually
-a training allowance</p>
-<p>that goes to you. In Singapore Dollars, it is $3,000 a month. So, if you
-take two years for</p>
-<p>this programme, that's $72,000 for you to reskill, retool and be ready
-for the future. That's</p>
-<p>how we're looking at it.</p>
+and training. People after they leave their workforce, if we think that
+what they left school with is going to last them their entire working lives,
+I think that's not realistic. I think in their 40 or 50 years active in
+the workforce, they might well probably have to pivot three, four, five,
+six times, maybe even more, who's to tell? But the idea is to give them
+the support and infrastructure that makes it possible for them to make
+this pivot. One programme that I'm particularly happy about is that, once
+you reach the age of 40 in Singapore, and you decide that you have to go
+all the way back to school and acquire formal qualifications all over again,
+we now a scheme that can support you going back to school for up to two
+years, you can do it on a full-time or part-time basis. What the country,
+what the state, decides to do is that your financial commitments, we will
+help you fulfill it. Meaning that not only when you go back to school,
+there are subsidies for course fees, there's actually a training allowance
+that goes to you. In Singapore Dollars, it is $3,000 a month. So, if you
+take two years for this programme, that's $72,000 for you to reskill, retool
+and be ready for the future. That's how we're looking at it.</p>
