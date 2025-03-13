@@ -18,22 +18,24 @@ Programme; and (b) what is the Ministry’s plan in further developing this
 in the next three to five years.</p>
 <p><strong>Answer:</strong>
 </p>
-<p>Mr Speaker, may I have your permission to address PQ 6959 and PQ 7047
-scheduled for today’s sitting and PQ 7078 scheduled for tomorrow’s sitting
-together.</p>
-<p>The stated objective of legislating age limits for social media access
-is to protect children and youths from its harms. We share the same objective
-and will continue to study the effectiveness of mandating age limits. For
-example, how will the authorities assess the extent of violation? Where
-will the line be drawn if younger users turn to accessing unregulated platforms
-or services? We are engaging our Australian counterparts and social media
-platforms to understand their views. This will help inform our thinking
-on the next steps.</p>
-<p>In the meantime, we have taken several steps to protect our children on
-social media. In 2023, we introduced the Code of Practice for Online Safety.
-It requires designated social media services to put in place measures to
-enhance the safety of Singapore users, including more stringent measures
-for children. Among other obligations, they must ensure children are not
-targeted to receive content that is detrimental to their physical or mental
-well-being. They must also have more restrictive account settings for children
-and provide tools for parents to manage their safety.</p>
+<p>There are multiple pathways for Singaporeans to acquire relevant skills
+for technology-related jobs.&nbsp;</p>
+<p>These include the more than 1,300 AI-related courses offered by SkillsFuture
+Singapore, as well as career conversion programmes supported by Workforce
+Singapore, which may also help Singaporeans take up jobs requiring AI-related
+skills.</p>
+<p>Over the past three years, the Career Conversion Programme (CCP) and the
+TechSkills Accelerator (TeSA) have helped more than 1,000 and 8,000 mid-career
+workers respectively to transition into technology roles such as software
+and cloud professionals, and Artificial Intelligence (AI) engineers.</p>
+<p>To strengthen our pipeline from mid-career workers, we are: (i) expanding
+the Company-Led Training programme under TeSA to organisations that are
+building AI Centres of Excellence; and (ii) topping up SkillsFuture Credits
+for Singaporeans aged 40 and above, under the SkillsFuture Level-Up Programme
+(SFLP) to support substantive upskilling and reskilling programmes.</p>
+<p>These initiatives complement our broader efforts to expand the pipeline
+of AI practitioners, including enhancing the AI-readiness of Information
+and Digital Technology (IDT) graduates from our Institutes of Higher Learning.
+Our industry partners have also initiated programmes to train and hire
+AI practitioners, such as AI Singapore’s AI Apprenticeship Programme, SingTel’s
+Catalyst Programme and Temus’ Step IT Up Programme.</p>
