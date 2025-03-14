@@ -12,20 +12,20 @@ variant: tiptap
 <p><strong>Question:</strong> Can we just talk about AI, and from the perspective
 of yourself as a Minister, what are the biggest opportunities right now
 in AI, for Singapore and for the rest of the world?</p>
-<p>Minister: The fundamental duty of any government is to its citizens. And
-in our case, it's a question of how we create more opportunities for our
-people and for our businesses. So that is very much top of our list of
-priorities. When you have a technology like AI that is potentially so transformative,
-the key question is, how can you take full advantage of it? And the starting
-point has to be, what your people are doing in terms of jobs, careers,
-and what kinds of businesses are already here. Can AI help them to, individually,
-as well as at the enterprise level, achieve new peaks of excellence? That's
-really how we're thinking about it. So the idea that AI serves the public
-good for Singapore and the world starts from this point. You want people
-to have skills so that they can contribute even more to their own businesses,
-as well as to their employers. You want businesses that certainly have
-to compete very intensely in the global market to find that Singapore gives
-them an edge. <strong>That's really where all of our efforts are directed towards—building up the skills and enterprise capabilities so that at the individual, workforce, as well as economy level, we can be more competitive together.</strong>
+<p><strong>Minister:</strong> The fundamental duty of any government is to
+its citizens. And in our case, it's a question of how we create more opportunities
+for our people and for our businesses. So that is very much top of our
+list of priorities. When you have a technology like AI that is potentially
+so transformative, the key question is, how can you take full advantage
+of it? And the starting point has to be, what your people are doing in
+terms of jobs, careers, and what kinds of businesses are already here.
+Can AI help them to, individually, as well as at the enterprise level,
+achieve new peaks of excellence? That's really how we're thinking about
+it. So the idea that AI serves the public good for Singapore and the world
+starts from this point. You want people to have skills so that they can
+contribute even more to their own businesses, as well as to their employers.
+You want businesses that certainly have to compete very intensely in the
+global market to find that Singapore gives them an edge. <strong>That's really where all of our efforts are directed towards—building up the skills and enterprise capabilities so that at the individual, workforce, as well as economy level, we can be more competitive together.</strong>
 </p>
 <p><strong>Question:</strong> We'll dig into skills and safety as part of
 this discussion, but let's start with Singapore first. Because when we
@@ -35,21 +35,21 @@ have. A lot of smaller nations are left out of that conversation. Even
 big regions like Europe are left out of that conversation. So when you
 think about Singapore, how would you assess Singapore's position here in
 some of these key technologies?</p>
-<p>Minister: It’s a very interesting question, and one that we grappled with
-around 2022, 2023 when we were trying to have a rethink of our AI strategy.
-The analogy I’d like to draw is if you think about our Changi Air Hub,
-where you are right now, and you think about the fact that we serve close
-to 40 million passengers a year now, out of the population of not more
-than 6 million—how is it possible that we don’t even own aircraft technology?
-There are commercial aircraft manufacturers like Boeing and Airbus—they
-are not Singapore companies, but it doesn't prevent us from conceiving
-of an air hub. You would want to have your own champions. And I think over
-the years, we were very fortunate that there were some really excellent
-people and outstanding efforts to build up a world-class airline like Singapore
-Airlines. We've got very good maintenance, repair and overhaul companies
-based here. We've also got aircraft manufacturing. The aerospace industry
-is very significant. None of these were built up on the basis of Singapore
-owning aircraft technology. <strong>They were built up on the basis of identifying areas where the value-add could be contributed out of Singapore that makes sense commercially to these companies. I think if you adopted that sort of mindset, the same could apply to AI too—the most sophisticated, the highest-end large language model may not be developed here, but it doesn't prevent us from working in partnership with these kinds of inventions and tools to create a value proposition that is relevant in our context and also useful to commercial entities.</strong>
+<p><strong>Minister:</strong> It’s a very interesting question, and one that
+we grappled with around 2022, 2023 when we were trying to have a rethink
+of our AI strategy. The analogy I’d like to draw is if you think about
+our Changi Air Hub, where you are right now, and you think about the fact
+that we serve close to 40 million passengers a year now, out of the population
+of not more than 6 million—how is it possible that we don’t even own aircraft
+technology? There are commercial aircraft manufacturers like Boeing and
+Airbus—they are not Singapore companies, but it doesn't prevent us from
+conceiving of an air hub. You would want to have your own champions. And
+I think over the years, we were very fortunate that there were some really
+excellent people and outstanding efforts to build up a world-class airline
+like Singapore Airlines. We've got very good maintenance, repair and overhaul
+companies based here. We've also got aircraft manufacturing. The aerospace
+industry is very significant. None of these were built up on the basis
+of Singapore owning aircraft technology. <strong>They were built up on the basis of identifying areas where the value-add could be contributed out of Singapore that makes sense commercially to these companies. I think if you adopted that sort of mindset, the same could apply to AI too—the most sophisticated, the highest-end large language model may not be developed here, but it doesn't prevent us from working in partnership with these kinds of inventions and tools to create a value proposition that is relevant in our context and also useful to commercial entities.</strong>
 </p>
 <p><strong>Question:</strong> So many people are looking at AI and how foundational
 it is. Resiliency is a keyword that is bandied about when you talk about
