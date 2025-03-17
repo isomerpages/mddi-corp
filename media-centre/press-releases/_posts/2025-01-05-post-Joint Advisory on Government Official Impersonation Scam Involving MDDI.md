@@ -36,7 +36,7 @@ by the scammers.&nbsp;</p>
 <p>Government officials will never ask members of the public over the phone
 to:</p>
 <p>a) transfer monies to them.</p>
-<p>b) provide their personal particulars or banking credentials.</p>
+<p>b) provide their banking credentials.</p>
 <p>c) install non-Government mobile apps from unofficial app stores.</p>
 <p>d) transfer the call directly to SPF, except when you call 995 for life-threatening
 emergencies.</p>
