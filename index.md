@@ -50,4 +50,23 @@ sections:
       description: Initiatives to combat scams from the agencies under MDDI.
       button: Find out more
       url: https://www.mddi.gov.sg/latest-anti-scam-efforts-under-mddi/
+  - infopic:
+      title: Latest Anti-Scam Efforts
+      id: infopic
+      description: Discover how MDDI agencies are working to combat scams through
+        various initiatives.
+      button: Find out more
+      url: /latest-anti-scam-efforts-under-mddi
+      image: /images/Scams Page/govsgsmssenderid.jpg
+      alt: Gov.sg SMS SenderID
+  - infopic:
+      title: Beware of scammers pretending to be government officials
+      subtitle: Scam prevention message
+      id: infopic
+      description: Government Officials Impersonation Scams led to losses of over $150
+        million in 2014. Learn how to avoid them.
+      button: Learn More
+      url: https://www.scamshield.gov.sg/i-want-protection-from-scams/learn-to-recognise-scams/government-officials-impersonation-scams/
+      image: /images/Scams Page/governmentofficialimpersonationscams.jpg
+      alt: Impersonation Scam
 ---
