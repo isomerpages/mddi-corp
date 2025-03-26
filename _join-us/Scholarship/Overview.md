@@ -9,7 +9,10 @@ variant: tiptap
 individuals who are interested in pursuing a career in government communications
 and the <strong>MDDI Information Service (Translation) Scholarship</strong> for
 individuals with an interest in both government communications and translation
-work.</p>
+work.
+<br>
+<br><a href="https://file.go.gov.sg/icoflyer2024.pdf" rel="noopener nofollow" target="_blank">Find out more on what becoming an Information Officer entails.</a>
+</p>
 <p>As an MDDI Scholar, you will be the voice connecting the Government and
 our people. You will shape public communications and translation capabilities
 in the public service and engage Singaporeans on national issues.</p>
@@ -126,4 +129,6 @@ career filled with diverse opportunities and developments.</p>
 </tr>
 </tbody>
 </table>
-<p></p>
+<p>
+<br><a href="https://file.go.gov.sg/mddischolarshipbrochure2024.pdf" rel="noopener nofollow" target="_blank">For more information, refer to the MDDI Scholarship Brochure here</a>
+</p>
