@@ -11,7 +11,7 @@ and the <strong>MDDI Information Service (Translation) Scholarship</strong> for
 individuals with an interest in both government communications and translation
 work.
 <br>
-<br><a href="https://file.go.gov.sg/icoflyer2024.pdf" rel="noopener nofollow" target="_blank">Find out more on what becoming an Information Officer entails</a>
+<br><a href="https://file.go.gov.sg/icoflyer2024.pdf" rel="noopener nofollow" target="_blank">Find out more on what becoming an Information Officer entails.</a>
 </p>
 <p>As an MDDI Scholar, you will be the voice connecting the Government and
 our people. You will shape public communications and translation capabilities
