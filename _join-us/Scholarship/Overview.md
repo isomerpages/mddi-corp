@@ -14,7 +14,10 @@ work.</p>
 our people. You will shape public communications and translation capabilities
 in the public service and engage Singaporeans on national issues.</p>
 <p>Upon graduation, you can look forward to a challenging and purposeful
-career filled with diverse opportunities and developments.</p>
+career filled with diverse opportunities and developments.
+<br>
+<br><a href="https://file.go.gov.sg/mddischolarshipbrochure2024.pdf" rel="noopener nofollow" target="_blank">For more information, refer to the MDDI Scholarship Brochure here</a>
+</p>
 <h4>Scholarship Terms</h4>
 <table style="minWidth: 100px">
 <colgroup>
