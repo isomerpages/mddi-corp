@@ -7,7 +7,10 @@ variant: tiptap
 ---
 <p>MDDI provides you with diverse opportunities to develop your capabilities
 and contribute to our mission of Engaging Hearts and Minds, A Thriving
-Digital Future for All.</p>
+Digital Future for All.
+<br>
+<br><a href="file.go.gov.sg/mddicareerbrochure2024.pdf" rel="noopener nofollow" target="_blank">Read the MDDI Careers Brochure here</a>
+</p>
 <h2>Schemes of Service</h2>
 <p>Officers may be appointed on one of the following schemes of service:</p>
 <h4>1.&nbsp;&nbsp;&nbsp;&nbsp; Management Executive</h4>
