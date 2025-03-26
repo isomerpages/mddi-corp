@@ -55,7 +55,6 @@ sections:
       alt: Gov.sg SMS SenderID
   - infopic:
       title: Beware of scammers pretending to be government officials
-      subtitle: Scam prevention message
       id: infopic
       description: Government Officials Impersonation Scams led to losses of over $150
         million in 2014. Learn how to avoid them.
