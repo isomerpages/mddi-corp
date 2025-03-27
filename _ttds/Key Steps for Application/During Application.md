@@ -48,4 +48,7 @@ and fulfil the eligibility criteria will be considered.</p>
 applicants’ capability development programme(s) against their capability
 development objectives, their track record, and their commitment to the
 development of translation and interpretation in Singapore.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 40%;" height="auto" width="100%" alt="Apply now" src="/images/TD/TTDS_APPLY_NOW.png">
+</div>
 <p></p>
