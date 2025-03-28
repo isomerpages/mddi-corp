@@ -1,5 +1,5 @@
 collections:
-  translation:
+  test:
     output: true
     order:
       - Translation Talent Development Scheme.md
