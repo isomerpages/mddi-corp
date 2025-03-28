@@ -1,5 +1,5 @@
 collections:
-  ttds:
+  translation:
     output: true
     order:
       - Translation Talent Development Scheme.md
