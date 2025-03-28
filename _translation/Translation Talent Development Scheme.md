@@ -13,6 +13,9 @@ practitioners from the private sector in deepening their skills.</p>
 to upskill. This can be used to offset 90 per cent of the expenses incurred
 in their participation of capability development programme(s) related to
 translation, interpretation and/or languages in Singapore and overseas.</p>
+<div class="iframe-wrapper">
+<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/qOhv2JOqnl4?si=VdZRduuXxwjm_Fkw"></iframe>
+</div>
 <h4><strong>TTDS funding</strong></h4>
 <p>The expenses eligible for reimbursement include:</p>
 <table style="minWidth: 50px">
