@@ -1,6 +1,6 @@
 ---
 title: Frequently Asked Questions
-permalink: /frequently-asked-questions/
+permalink: /ttds/frequently-asked-questions/
 variant: tiptap
 description: ""
 ---

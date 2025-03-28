@@ -1,6 +1,6 @@
 ---
 title: Translation Talent Development Scheme
-permalink: /translation-talent-development-scheme-test/
+permalink: /translation-talent-development-scheme-ttds/
 variant: tiptap
 description: ""
 ---

@@ -1,6 +1,6 @@
 ---
 title: After Application
-permalink: /after-application/
+permalink: /ttds/after-application/
 variant: tiptap
 description: ""
 third_nav_title: Key Steps for Application

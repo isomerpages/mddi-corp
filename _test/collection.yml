@@ -1,0 +1,7 @@
+collections:
+  test:
+    output: true
+    order:
+      - Translation Talent Development Scheme.md
+      - Eligibility Criteria.md
+      - Key Steps for Application/.keep

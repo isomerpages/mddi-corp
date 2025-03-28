@@ -1,6 +1,6 @@
 ---
 title: Before Application
-permalink: /before-application/
+permalink: /ttds/before-application/
 variant: tiptap
 description: ""
 third_nav_title: Key Steps for Application

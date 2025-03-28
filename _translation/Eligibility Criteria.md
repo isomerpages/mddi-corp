@@ -1,6 +1,6 @@
 ---
 title: Eligibility Criteria
-permalink: /eligibility-criteria/
+permalink: /ttds/eligibility-criteria/
 variant: tiptap
 description: ""
 ---
