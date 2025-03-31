@@ -105,31 +105,16 @@ variant: markdown
 <p><strong>Information Service (Translation) Scholarship</strong></p>
 
 <p>In 2015, MDDI introduced the Information Service (Translation) Scholarship, aimed at identifying and grooming young Singaporeans who have a strong interest in translation as well as a deep familiarity with Singapore’s translation landscape and context. <a href="https://www.mddi.gov.sg/join-us/scholarship/overview/">Click here for more information on the Information Service (Translation) Scholarship </a>. </p>
-</section>
-<br>
+
 <p><strong>Translation Talent Development Scheme (TTDS)</strong></p>
 
 <ul>
 <li>Launched in 2018, the TTDS is an initiative to support Singaporean translation and interpretation (T&amp;I) practitioners from the private sector in deepening their skills.</li>
 <li>Awarded recipients can receive up to S$10,000, to offset 90 per cent of the expenses incurred in their participation of capability development programme(s) related to translation, interpretation and/or languages in Singapore and overseas.</li>
-
-<style>  
-  details { 
-    border: 1px solid #ccc;  
-    background-color: #f9f9f9;  
-    border-radius: 4px;  
-    padding: 10px;  
-    margin-bottom: 10px;  
-  }  
-
-  summary {  
-    font-weight: bold;  
-    cursor: pointer;  
-  }  
-</style> &nbsp;
-
-
-
+<li><a href="https://www.mddi.gov.sg/ttds">Click here for more information on the TTDS and how to apply.</a></li>
+	
+</ul></section>
+<br>
 <section id="community-in-translation-events-grant">
 	<h3>Community-in-Translation Events Grant</h3>
 
@@ -181,4 +166,4 @@ For more information, please refer to:
 </tbody>
 </table><br><br>
 </details>
-</section></ul>
+</section>
