@@ -37,7 +37,7 @@ assistance, please call the Infocomm Media Development Authority at 1800
 <h3>General</h3>
 <p><strong>1. How do I book the state lectern?</strong>
 </p>
-<p>You may submit a <a href="https://go.gov.sg/mcistatelectern" rel="noopener nofollow" target="_blank">booking form</a> for
+<p>You may submit a <a href="https://go.gov.sg/statelectern" rel="noopener nofollow" target="_blank">booking form</a> for
 the state lectern. You may also submit your queries to <a href="MDDI_state_lectern@mddi.gov.sg" rel="noopener noreferrer nofollow" target="_blank">MDDI_state_lectern@mddi.gov.sg</a>.</p>
 <p><strong>2. How can I get a copy of the Singapore Government Directory?</strong>
 </p>
