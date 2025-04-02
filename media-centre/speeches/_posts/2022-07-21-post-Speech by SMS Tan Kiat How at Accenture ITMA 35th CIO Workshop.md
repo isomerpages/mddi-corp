@@ -326,7 +326,7 @@ so.</p>
 </ol>
 <p>----------------------------------------------------------</p>
 <p><sup>1</sup>&nbsp;&nbsp;KPMG report on the outlook of CEOs during COVID-19
-(link removed).</p>
+(page removed).</p>
 <p><sup>2</sup>&nbsp;Singapore’s DEAs (and partners) include the: Digital
 Economy Partnership Agreement (with Chile, New Zealand) (signed), Singapore-Australia
 Digital Economy Agreement (signed), UK-Singapore Digital Economy Agreement
