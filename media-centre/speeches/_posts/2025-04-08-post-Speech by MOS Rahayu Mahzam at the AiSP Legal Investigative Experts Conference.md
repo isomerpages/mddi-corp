@@ -7,7 +7,9 @@ description: ""
 image: ""
 variant: tiptap
 ---
-<p><strong><u>Addressing the Cybersecurity Talent Gap through Public-Private Partnerships</u></strong>
+<p><strong>OPENING SPEECH BY MINISTER OF STATE, MINISTRY OF DIGITAL DEVELOPMENT AND INFORMATION, MDM RAHAYU MAHZAM AT THE AISP LEGAL INVESTIGATIVE EXPERTS CONFERENCE ON 8 APR 2025</strong>
+<br>
+<br><strong><u>Addressing the Cybersecurity Talent Gap through Public-Private Partnerships</u></strong>
 </p>
 <p>Distinguished guests</p>
 <p>Ladies and Gentlemen</p>
