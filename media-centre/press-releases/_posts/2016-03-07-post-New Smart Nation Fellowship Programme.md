@@ -1,8 +1,11 @@
 ---
 title: New Smart Nation Fellowship Programme
 date: 2016-03-07
-permalink: /media-centre/press-releases/new-smart-nation-fellowship-programme-to-foster-a-network-of-top-data-science-and-tech-talents-for-singapore/
+permalink: /media-centre/press-releases/new-smart-nation-fellowship-programme-foster-network/
 layout: post
+description: ""
+image: ""
+variant: tiptap
 ---
 ## New Smart Nation Fellowship Programme to Foster a Network of Top Data Scientists, Technologists and Engineers
 
