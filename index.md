@@ -11,9 +11,9 @@ description: The Ministry of Digital Development and Information (MDDI) drives
   policies.
 image: /images/MDDI Logos/MDDI_LOGO_RGB_resize.png
 permalink: /
-notification: Government officials will NEVER ask you to transfer money or
-  disclose banking details over a phone call. Call the 24/7 ScamShield Helpline
-  at 1799 if you are unsure if something is a scam.
+notification: Government officials will never ask you to transfer money or
+  disclose bank log-in details over a phone call. Call the 24/7 ScamShield
+  Helpline at 1799 if you are unsure if something is a scam.
 sections:
   - hero:
       background: /images/MDDI Logos/hero_banner.png
