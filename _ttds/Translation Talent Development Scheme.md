@@ -53,4 +53,4 @@ venue (if physical attendance overseas is required)</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Infographics showing examples of funding eligibility" src="/images/TTDS_How_much_funding_am_I_eligible_for.png">
 </div>
-<p></p>
+<p>Please refer to our frequently asked questions (FAQ) on <a href="https://ask.gov.sg/mddi-ntc?topic=Translation%20Talent%20Development%20Scheme%20(TTDS)" rel="noopener nofollow" target="_blank">AskGov</a>.</p>
