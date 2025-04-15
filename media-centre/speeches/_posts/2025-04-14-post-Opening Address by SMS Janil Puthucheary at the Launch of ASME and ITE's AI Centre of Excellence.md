@@ -8,7 +8,7 @@ description: ""
 image: ""
 variant: tiptap
 ---
-<h4>Opening Address by Dr JanilPuthucheary, Senior Minister Of State of Digital Development and Information, at the Launch of ASME and ITE's AI Centre of Excellence (SME@AITE) on 14 April 2025</h4>
+<h4>Opening Address by Dr Janil Puthucheary, Senior Minister Of State of Digital Development and Information, at the Launch of ASME and ITE's AI Centre of Excellence (SME@AITE) on 14 April 2025</h4>
 <ol data-tight="true" class="tight">
 <li>
 <p>Good morning, everybody. Thank you for inviting me to join you here at
