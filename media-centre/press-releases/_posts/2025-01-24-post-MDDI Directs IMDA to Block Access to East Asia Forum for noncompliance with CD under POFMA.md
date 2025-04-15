@@ -27,9 +27,10 @@ falsehoods are communicated.</p>
 had required the facts to be displayed along with the falsehoods, enabling
 end-users in Singapore to read both versions and make their own judgements.
 Despite three reminders sent to East Asia Forum to comply with the Correction
-Direction, East Asia Forum has not complied (See Annex for details). Should
-East Asia Forum subsequently comply with the full requirements of the Correction
-Direction, the Minister will cancel the Access Blocking Orders.</p>
+Direction, East Asia Forum has not complied (See <a href="/files/Press Releases 2025/Annex_Timeline.pdf" rel="noopener noreferrer nofollow" target="_blank">Annex</a> for details).
+Should East Asia Forum subsequently comply with the full requirements of
+the Correction Direction, the Minister will cancel the Access Blocking
+Orders.</p>
 <p></p>
 </li>
 <li>
