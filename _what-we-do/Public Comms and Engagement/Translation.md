@@ -154,14 +154,14 @@ For more information, please refer to:
 <tr>
 <th>CiTEG Application Guide</th>
 <th>CiTEG Application Form</th>
-<th>CiTEG Enquiry Form</th>
+<th>CiTEG FAQs</th>
 </tr>
 </thead>
 <tbody>
 <tr>
 <td><a href="https://file.go.gov.sg/citeg-applicationguide.pdf">Application Guide</a></td>
 <td><a href="https://file.go.gov.sg/citeg-application-form.docx">Application Form</a></td>
-<td><a href="https://go.gov.sg/citeg-enquiry">Enquiry Form</a></td>
+<td><a href="https://ask.gov.sg/mddi-ntc?topic=Community-in-Translation%20Event%20Grant%20(CiTEG)">Ask.Gov</a></td>
 </tr>
 </tbody>
 </table><br><br>
