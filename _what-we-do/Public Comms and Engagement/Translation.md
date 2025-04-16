@@ -161,7 +161,7 @@ For more information, please refer to:
 <tr>
 <td><a href="https://file.go.gov.sg/citeg-applicationguide.pdf">Application Guide</a></td>
 <td><a href="https://file.go.gov.sg/citeg-application-form.docx">Application Form</a></td>
-<td><a href="https://ask.gov.sg/mddi-ntc?topic=Community-in-Translation%20Event%20Grant%20(CiTEG)">Ask.Gov</a></td>
+<td><a href="https://ask.gov.sg/mddi-ntc?topic=Community-in-Translation%20Events%20Grant%20(CiTEG)#content">AskGov</a></td>
 </tr>
 </tbody>
 </table><br><br>
