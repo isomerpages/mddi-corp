@@ -13,10 +13,16 @@ locations:
     title: MDDI
 contacts:
   - content:
-      - phone: 1 800 837 9655
+      - phone: +65 6837 9655
       - email: MDDI_Connects@mddi.gov.sg
-      - other: "Opening hours: 8.30 am to 6.00 pm (Mondays to Fridays)"
+      - other: "Operating hours: 8.30 am to 6.00 pm (Mondays to Fridays, closed on
+          public holidays)"
     title: General Enquiries & Feedback
+  - content:
+      - phone: 1800 837 9655
+      - email: ""
+      - other: ""
+    title: Toll-free Number
   - content:
       - phone: ""
       - email: mddi_human_resource@mddi.gov.sg
