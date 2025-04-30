@@ -7,8 +7,7 @@ description: ""
 image: ""
 variant: tiptap
 ---
-<p>Speech by SMS Tan Kiat How at the National Chinese Challenge 2025 Finals
-on 26 April 2025</p>
+<h4>Speech by SMS Tan Kiat How at the National Chinese Challenge 2025 Finals on 26 April 2025</h4>
 <p>各位嘉宾、评委</p>
 <p>老师和同学们</p>
 <p>1. 大家中午好！我很荣幸出席全国华文大比拼的总决赛。首先，让我们以掌声鼓励今天参赛的学生们。他们的表现非常突出。</p>
