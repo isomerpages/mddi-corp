@@ -8,7 +8,7 @@ description: ""
 image: ""
 variant: tiptap
 ---
-<h4><strong>Opening Remarks by Senior Minister of State for Digital Development and Information Tan Kiat How at the Launch Event for the Expanded Cyber Essentials and Cyber Trust Marks on 15 April 2025</strong></h4>
+<h4>Opening Remarks by Senior Minister of State for Digital Development and Information Tan Kiat How at the Launch Event for the Expanded Cyber Essentials and Cyber Trust Marks on 15 April 2025</h4>
 <p><strong><u>Securing the Future: Adapting Cybersecurity for a Shifting Digital Era</u></strong>
 </p>
 <p>Distinguished guests</p>
