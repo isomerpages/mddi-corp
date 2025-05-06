@@ -528,7 +528,7 @@ online safety. I beg to move.</p>
 residents aged 15 and above.</p>
 <p>[2]&nbsp;From the 2020 Gallup Global Law and Order Report.</p>
 <p>[3] The Straits Times, 30 Oct 22, “Record number of protection orders
-against harassment filed and granted in&nbsp;2021" (<a href="https://www.straitstimes.com/singapore/record-number-of-protection-orders-against-harassment-filed-and-granted-in-2021" rel="noopener nofollow" target="_blank">https://www.straitstimes.com/singapore/record-number-of-protection-orders-against-harassment-filed-and-granted-in-2021</a>)</p>
+against harassment filed and granted in&nbsp;2021"</p>
 <p>[4] “Conversation on Online Harms” held on 9 Jul 2021 involving 72 youths
 from various IHLs, hosted by SMS Sim Ann and SPS Rahayu Mahzam.(https://youthopia.sg/converse/onlineharms/)</p>
 <p>[5] Transcript of Meta’s 3Q 2022 Results Conference Call, 26 Oct 22. (&nbsp;https://investor.fb.com/investor-events/event-details/2022/Q3-2022-Earnings/default.aspx)</p>
